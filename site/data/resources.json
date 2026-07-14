@@ -1,0 +1,728 @@
+{
+ "categories": [
+  {
+   "category": "communications",
+   "entries": [
+    {
+     "name": "Matrix (Synapse + Element)",
+     "url": "https://matrix.org",
+     "what": "Federated chat you host yourself — the UK-governed open standard behind Element, used by governments and public bodies across Europe.",
+     "origin": "UK",
+     "license": "AGPL-3.0 (Apache-2.0 client SDKs)",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Synapse/Element are AGPL with a CLA enabling Element's commercial dual-licensing — open-core at the edges. A busy homeserver needs real admin attention."
+    },
+    {
+     "name": "Signal",
+     "url": "https://signal.org",
+     "what": "The benchmark for encrypted messaging — but a centralised service run from the US, so it is context here, not sovereign infrastructure.",
+     "origin": "US",
+     "license": "AGPL-3.0 (server) / GPL-3.0 (apps)",
+     "maturity": "production",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "Code is open but there is no federation; self-hosting is impractical, so you depend on the Signal Foundation's US-run infrastructure."
+    },
+    {
+     "name": "SimpleX Chat",
+     "url": "https://simplex.chat",
+     "what": "Encrypted messaging with no user IDs at all, built by a London company; communities can run their own relay servers.",
+     "origin": "UK",
+     "license": "AGPL-3.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Active (v6.5 stable, v7.0 beta, mid-2026) and independently audited, but a small team; groups and desktop are rougher than Signal."
+    },
+    {
+     "name": "Briar",
+     "url": "https://briarproject.org",
+     "what": "Peer-to-peer messaging over Tor, Wi-Fi or Bluetooth — no servers to seize, and it keeps working when the internet goes down.",
+     "origin": "global community",
+     "license": "GPL-3.0-or-later",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Android-first (desktop still limited); serverless by design — an optional Mailbox app on a spare phone handles offline delivery. Slow, deliberate release pace (1.5.17, March 2026)."
+    },
+    {
+     "name": "Delta Chat",
+     "url": "https://delta.chat",
+     "what": "Chat that rides on ordinary email — any mailbox works, or run a chatmail relay for your community on a small server.",
+     "origin": "Germany",
+     "license": "GPL-3.0 apps / MPL-2.0 core",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Publicly funded (EU/NLnet); 2026 releases cut server-visible metadata to near zero and added native calls. Niche user base compared with Signal or Matrix."
+    },
+    {
+     "name": "XMPP (Prosody / ejabberd)",
+     "url": "https://prosody.im",
+     "what": "The veteran open messaging standard; Prosody runs a community chat server on the smallest of machines.",
+     "origin": "UK (Prosody) / France (ejabberd)",
+     "license": "MIT (Prosody) / GPL-2.0 (ejabberd)",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Both servers actively maintained through 2026. Client quality varies — for a polished out-of-box experience pair with a curated distribution such as Snikket."
+    },
+    {
+     "name": "Meshtastic",
+     "url": "https://meshtastic.org",
+     "what": "Off-grid text messaging over cheap LoRa radios — neighbourhood mesh networks with no SIM, no internet and no radio licence.",
+     "origin": "US / global community",
+     "license": "GPL-3.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Runs licence-free on 868 MHz in the UK. Delivery is best-effort and text-only — brilliant for resilience and events, not a Slack replacement."
+    },
+    {
+     "name": "Jitsi Meet",
+     "url": "https://jitsi.org",
+     "what": "Video calls in the browser with no accounts needed; self-host the whole stack on your own server.",
+     "origin": "US (steward 8x8); global project",
+     "license": "Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Stewarded by US firm 8x8, but fully open and self-hostable so there is no service dependency. End-to-end encryption only works reliably in smaller calls."
+    },
+    {
+     "name": "BigBlueButton",
+     "url": "https://bigbluebutton.org",
+     "what": "A virtual classroom you run yourself — whiteboard, breakout rooms, polls and recordings, widely used in education.",
+     "origin": "Canada",
+     "license": "LGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Built for teaching rather than quick meetings; wants a dedicated Ubuntu server with decent specs. Steward Blindside Networks; 3.0.x actively maintained (July 2026)."
+    },
+    {
+     "name": "Logos p2p messaging",
+     "url": "https://docs.waku.org",
+     "what": "Peer-to-peer messaging protocol for apps that want no servers at all; the transport underneath the Status app.",
+     "origin": "Switzerland (IFT), distributed team",
+     "license": "MIT / Apache-2.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": true,
+     "note": "Rebranded Logos Messaging in 2026; nwaku still 0.x (v0.38, May 2026). Status runs on it, but the incentivised public network remains research/testnet-stage — not production for third parties.",
+     "tags": [
+      "testnet"
+     ]
+    },
+    {
+     "name": "Radar Chat",
+     "url": "https://radar.chat",
+     "what": "Encrypted messaging with Bitcoin built in — send sats inside the conversation, keys stay yours.",
+     "origin": "US",
+     "license": "Unverified (built on the Signal protocol)",
+     "maturity": "early",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "Launched July 2026 by the Cake Wallet team, which financially supports Signal. The app's own source was not verifiably published at listing time — FOSS status unverified."
+    }
+   ]
+  },
+  {
+   "category": "p2p-foundations",
+   "entries": [
+    {
+     "name": "Tor",
+     "url": "https://www.torproject.org",
+     "what": "The anonymity network. Publish onion services from hardware you control and reach users no platform can block.",
+     "origin": "US (non-profit, globally operated network)",
+     "license": "BSD-3-Clause",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Steward is a US non-profit but relays and onion services run anywhere; actively released (Browser 15.0.17, June 2026) and the Rust rewrite Arti is maturing fast."
+    },
+    {
+     "name": "libp2p",
+     "url": "https://libp2p.io",
+     "what": "The networking library under Ethereum, IPFS and Polkadot — peer discovery, transports and encryption for building your own p2p apps.",
+     "origin": "US origin (Protocol Labs), now global community",
+     "license": "MIT / Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Battle-tested across major blockchain and IPFS deployments, with Go, Rust, JS and other implementations all releasing in 2026; US-rooted stewardship is the main caveat."
+    },
+    {
+     "name": "I2P",
+     "url": "https://geti2p.net",
+     "what": "Anonymous overlay network built for hosting services inside the network itself; smaller than Tor but fully self-contained.",
+     "origin": "global community",
+     "license": "Public domain / mixed; i2pd is BSD-3-Clause",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Alive and active in 2026 (Java I2P 2.12, C++ i2pd 2.60) with post-quantum crypto landing; much smaller anonymity set than Tor and slower to join."
+    },
+    {
+     "name": "Yggdrasil",
+     "url": "https://yggdrasil-network.github.io",
+     "what": "Self-arranging encrypted IPv6 mesh: gives every machine a stable address that works across NATs, VPSes and ad-hoc links.",
+     "origin": "global community",
+     "license": "LGPL-3.0 (with linking exception)",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Reliable in daily use and released as recently as February 2026 (0.5.13), but self-describes as an experimental hobbyist project; routing protocol still evolves between versions."
+    },
+    {
+     "name": "Reticulum",
+     "url": "https://reticulum.network",
+     "what": "Networking stack for off-grid and unreliable links — LoRa, packet radio, serial, WiFi — with ready-made encrypted messaging apps on top.",
+     "origin": "Denmark",
+     "license": "Reticulum License (non-OSI, was MIT); MIT community fork available",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Not strictly FOSS since April 2025: custom licence bans AI-training and weapons use. MIT-licensed community fork (Reticulum_CE) exists; founder is stepping back."
+    },
+    {
+     "name": "Nym",
+     "url": "https://nym.com",
+     "what": "A live mixnet that hides traffic patterns, not just content. Use it via NymVPN today or as a transport for your own apps.",
+     "origin": "Switzerland",
+     "license": "Apache-2.0 / MIT libraries; GPL-3.0 apps",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "All code is FOSS and actively shipped (binaries v2026.13, July 2026), but running mixnet nodes requires bonding NYM tokens and NymVPN is a paid service."
+    },
+    {
+     "name": "GNUnet",
+     "url": "https://www.gnunet.org",
+     "what": "GNU's peer-to-peer framework, home of the GNS name system — a censorship-resistant DNS replacement — and plumbing shared with GNU Taler.",
+     "origin": "Germany/Switzerland (GNU project, GNUnet e.V.)",
+     "license": "AGPL-3.0",
+     "maturity": "early",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Actively released (0.27, March 2026) and GNS is standardised as RFC 9498, but the project itself says it suits early adopters with 'reasonable pain tolerance'."
+    },
+    {
+     "name": "Veilid",
+     "url": "https://veilid.com",
+     "what": "Framework for building private p2p apps — DHT, encrypted routing, mobile and browser support — from the Cult of the Dead Cow.",
+     "origin": "US (Veilid Foundation)",
+     "license": "MPL-2.0",
+     "maturity": "early",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Actively developed (veilid-core 0.5.3, March 2026) but almost nothing ships on it in production yet; a promising research bet, not a dependency."
+    }
+   ]
+  },
+  {
+   "category": "storage-local-first",
+   "entries": [
+    {
+     "name": "Syncthing",
+     "url": "https://syncthing.net",
+     "what": "Keeps folders in sync directly between your own devices, peer to peer — no cloud account, no central server, nothing to rent.",
+     "origin": "Sweden (Syncthing Foundation)",
+     "license": "MPL-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Community foundation, donation-funded, over a decade old; v2 line shipped 2025 and releases are steady. The quiet workhorse of this list."
+    },
+    {
+     "name": "Nextcloud",
+     "url": "https://nextcloud.com",
+     "what": "Self-hosted files, calendars, contacts, documents and video calls — the standard replacement for Google Workspace or Microsoft 365.",
+     "origin": "Germany (Nextcloud GmbH)",
+     "license": "AGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "All code AGPL; the paid tier is support, not withheld features. Widely deployed by European governments. Large installs need real admin effort."
+    },
+    {
+     "name": "IPFS (Kubo)",
+     "url": "https://ipfs.tech",
+     "what": "Content-addressed peer-to-peer file network: files are fetched by what they are, not where they live, from whoever holds a copy.",
+     "origin": "US (Interplanetary Shipyard / Protocol Labs)",
+     "license": "MIT/Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Mature and actively released (v0.42, 2026), but files persist only while someone pins them — plan your own pinning. US-stewarded."
+    },
+    {
+     "name": "Yjs",
+     "url": "https://yjs.dev",
+     "what": "The building block behind most collaborative editors — adds Google-Docs-style live editing and offline merging to your own app.",
+     "origin": "Germany (independent maintainer and community)",
+     "license": "MIT",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "The most deployed CRDT library in the world; huge ecosystem of editor bindings. A developer library, not an end-user product."
+    },
+    {
+     "name": "Automerge",
+     "url": "https://automerge.org",
+     "what": "A toolkit for apps that work offline on each device and merge everyone's changes automatically when they reconnect.",
+     "origin": "US (Ink & Switch) with Cambridge (UK) research roots",
+     "license": "MIT",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Version 3.0 (Aug 2025) fixed the old memory and speed problems; production footprint still younger and smaller than Yjs."
+    },
+    {
+     "name": "ElectricSQL",
+     "url": "https://electric-sql.com",
+     "what": "Syncs your Postgres data down into local apps so they load instantly, work offline and update live — you keep the database.",
+     "origin": "UK-founded, distributed UK/EU team",
+     "license": "Apache-2.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "1.0 GA March 2025 with named production users; sync engine fully open. Company is rebranding towards AI-agent sync — watch the direction."
+    },
+    {
+     "name": "Garage",
+     "url": "https://garagehq.deuxfleurs.fr",
+     "what": "S3-compatible object storage you can run across a few second-hand servers in different buildings and still survive an outage.",
+     "origin": "France (Deuxfleurs non-profit)",
+     "license": "AGPL-3.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Run in production by its non-profit steward since 2020; stable release April 2026. Built for small clusters, not petabytes."
+    },
+    {
+     "name": "Tahoe-LAFS",
+     "url": "https://tahoe-lafs.org",
+     "what": "Encrypted, erasure-coded storage spread across servers that never see your data — a grandparent of the decentralised storage field.",
+     "origin": "US-born, global community",
+     "license": "GPL-2.0-or-later (dual with TGPPL)",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Cryptographically solid and stable, but slow-moving: last release December 2024, small community. Expect to invest in operating it yourself."
+    },
+    {
+     "name": "Logos storage",
+     "url": "https://codex.storage",
+     "what": "Decentralised storage network with durability guarantees — aims to keep files provably alive without trusting any single provider.",
+     "origin": "Switzerland-registered IFT, global team",
+     "license": "MIT/Apache-2.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": true,
+     "note": "Public testnet paused Sept 2025 for a redesign, mainnet targeted 2027; code active (v0.4.1, July 2026). Protocol: Codex.",
+     "tags": [
+      "testnet"
+     ]
+    },
+    {
+     "name": "Logos Basecamp",
+     "url": "https://logos.co/basecamp",
+     "what": "Desktop app bundling the Logos stack — wallet, node, storage, chat — running entirely on your own machine, no hosted backend.",
+     "origin": "Switzerland-registered IFT, global team",
+     "license": "MIT/Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": true,
+     "note": "v0.2.1 with Linux and macOS installers; open source. The app runs entirely on your device — the bundled modules currently participate in the Logos testnet (mainnet targeted 2027).",
+     "tags": [
+      "testnet"
+     ]
+    }
+   ]
+  },
+  {
+   "category": "collaboration-governance",
+   "entries": [
+    {
+     "name": "CryptPad",
+     "url": "https://cryptpad.org",
+     "what": "Encrypted collaborative docs, sheets, kanban and diagrams — even the server cannot read them. Runs happily on a small VPS.",
+     "origin": "France",
+     "license": "AGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Built by XWiki SAS, partly EU-grant funded; ships in Germany's openDesk public-sector suite. End-to-end encryption means no server-side search or content recovery. Active: 2026.5.1 released May 2026."
+    },
+    {
+     "name": "Collabora Online",
+     "url": "https://www.collaboraonline.com",
+     "what": "LibreOffice in the browser: shared editing of documents and spreadsheets on your own server. Built in Cambridge.",
+     "origin": "UK",
+     "license": "MPL-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Fully MPL-2.0 — free CODE builds for self-hosters; the company sells support, not features. One of the few genuinely UK-stewarded options in this category. Powers Nextcloud Office."
+    },
+    {
+     "name": "OnlyOffice (and the Euro-Office fork)",
+     "url": "https://www.onlyoffice.com",
+     "what": "Web office suite with the best Microsoft-format fidelity going; plugs into Nextcloud and self-hosts cleanly.",
+     "origin": "Latvia",
+     "license": "AGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Development reportedly Russia-based; a European consortium (Nextcloud, IONOS, Proton, XWiki) forked it as Euro-Office in 2026 after a licence dispute — mature code, very young fork."
+    },
+    {
+     "name": "Forgejo",
+     "url": "https://forgejo.org",
+     "what": "Code hosting without GitHub — repos, issues, pull requests and CI on a server you control. Powers Codeberg.",
+     "origin": "Germany",
+     "license": "GPL-3.0-or-later",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Copyleft since v9 so it cannot go proprietary; v15.0.3 shipped June 2026. Nonprofit Codeberg e.V. offers hosted repos free if you would rather not run your own."
+    },
+    {
+     "name": "Penpot",
+     "url": "https://penpot.app",
+     "what": "Design and prototyping tool teams actually switch to from Figma — self-hosted with one Docker Compose file.",
+     "origin": "Spain",
+     "license": "MPL-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Built by Kaleidos (Madrid); 2.16.2 released July 2026. New WebGL renderer is still beta for very large files, but the switch from Figma is realistic today."
+    },
+    {
+     "name": "Discourse",
+     "url": "https://www.discourse.org",
+     "what": "The default choice for community forums — runs your discussion space on your own box with mature moderation tools.",
+     "origin": "US",
+     "license": "GPL-2.0-or-later",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "US-company steward, but the GPL code is fully self-hostable and the firm publicly recommitted to open source in April 2026. Official plugins are also open."
+    },
+    {
+     "name": "Mastodon (and the Fediverse)",
+     "url": "https://joinmastodon.org",
+     "what": "Run your own social network that talks to millions across the Fediverse — your instance, your rules, your data.",
+     "origin": "Germany",
+     "license": "AGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Steward restructuring under a Belgian nonprofit parent in 2026. UK instances exist and EU managed hosts (e.g. masto.host, Portugal) will run one for a small community cheaply."
+    },
+    {
+     "name": "Decidim",
+     "url": "https://decidim.org",
+     "what": "Participatory democracy platform for consultations, budgets and assemblies — built by cities, proven at city scale.",
+     "origin": "Spain",
+     "license": "AGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Runs Barcelona's and EU institutions' participation; steward is the Barcelona-based Decidim Free Software Association. A heavyweight Rails app — budget real sysadmin time or hire a Decidim provider."
+    },
+    {
+     "name": "Loomio",
+     "url": "https://www.loomio.com",
+     "what": "Discussion and decision-making for groups: proposals, votes and a clear record of what was agreed, without meetings.",
+     "origin": "New Zealand",
+     "license": "AGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Fourteen years old, run by a small worker co-op. Official Docker setup makes self-hosting practical, but expect to be your own support; hosted service exists."
+    },
+    {
+     "name": "Open Collective",
+     "url": "https://opencollective.com",
+     "what": "Transparent money management for communities — raise funds and pay expenses in the open under a fiscal host.",
+     "origin": "US / global community",
+     "license": "MIT",
+     "maturity": "production",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "The hosted platform is the product: the code is MIT but not practically self-hostable. Community-governed (OFiCo) since its exit-to-community; Brussels-based Open Collective Europe hosts EU groups."
+    },
+    {
+     "name": "PeerTube",
+     "url": "https://joinpeertube.org",
+     "what": "Your own video platform, federated so viewers find you across instances — no YouTube dependence required.",
+     "origin": "France",
+     "license": "AGPL-3.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Stewarded by nonprofit Framasoft; v8.2.2 shipped July 2026. Peer-to-peer streaming keeps bandwidth bills sane for small hosts; video transcoding still wants a beefy server."
+    }
+   ]
+  },
+  {
+   "category": "compute-ai",
+   "entries": [
+    {
+     "name": "Hetzner",
+     "url": "https://www.hetzner.com/",
+     "what": "German dedicated servers and cloud VMs at famously low prices; the default budget choice for EU-hosted startups.",
+     "origin": "Germany",
+     "license": "n/a (commercial service)",
+     "maturity": "production",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "Not FOSS — a provider. GPU range is single-card boxes (up to RTX Pro 6000, 96GB): fine for inference, not cluster training."
+    },
+    {
+     "name": "OVHcloud",
+     "url": "https://www.ovhcloud.com/",
+     "what": "France's biggest cloud: bare metal, managed Kubernetes and H100/H200 GPU instances, all under EU jurisdiction.",
+     "origin": "France",
+     "license": "n/a (commercial service)",
+     "maturity": "production",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "Not FOSS. Widest EU GPU catalogue and outside CLOUD Act reach, but a fraction of AWS/Azure scale; frontier-scale training still means US clouds."
+    },
+    {
+     "name": "Scaleway",
+     "url": "https://www.scaleway.com/",
+     "what": "Developer-friendly French cloud with H100 GPU instances and EU data residency; the closest European feel to a US hyperscaler.",
+     "origin": "France",
+     "license": "n/a (commercial service)",
+     "maturity": "production",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "Not FOSS. H100s rentable today, typically 5-6x cheaper than hyperscaler EU regions — but capacity and product breadth remain far smaller."
+    },
+    {
+     "name": "Mythic Beasts",
+     "url": "https://www.mythic-beasts.com/",
+     "what": "Small Cambridge ISP loved by UK developers: VPS, dedicated servers and a Raspberry Pi cloud, run by engineers who answer email.",
+     "origin": "UK",
+     "license": "n/a (commercial service)",
+     "maturity": "production",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "Not FOSS. No GPUs — this is where you host your app in the UK, not where you train models."
+    },
+    {
+     "name": "Webarchitects",
+     "url": "https://www.webarchitects.coop/",
+     "what": "Sheffield hosting co-operative: managed Nextcloud, WordPress, email and VPS on green power — and you can join as a member-owner.",
+     "origin": "UK",
+     "license": "n/a (co-operative service)",
+     "maturity": "production",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "A service, not software, but everything they run is open source. Small by design — suits communities and NGOs more than high-growth startups."
+    },
+    {
+     "name": "Co-op Cloud",
+     "url": "https://coopcloud.tech/",
+     "what": "Recipe-based deployment for community software — Nextcloud, Outline, Matrix — on any cheap VPS, built and used by tech co-ops.",
+     "origin": "UK / EU co-op network",
+     "license": "GPL-3.0-or-later",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Still self-describes as beta (abra 0.13.0-beta, Feb 2026) but actively maintained and used by co-ops hosting paying clients."
+    },
+    {
+     "name": "Mistral open-weight models",
+     "url": "https://mistral.ai/models/",
+     "what": "French lab whose Mistral 3 family — 3B up to a 675B mixture-of-experts — ships under Apache 2.0 and runs on your own hardware.",
+     "origin": "France",
+     "license": "Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Current generation genuinely Apache 2.0; some earlier releases used a restrictive research licence, so check per model. Company monetises via hosted API."
+    },
+    {
+     "name": "Qwen",
+     "url": "https://github.com/QwenLM/Qwen3",
+     "what": "Alibaba's open-weight family, 0.6B to 235B+; arguably the strongest Apache 2.0 models you can download and run offline today.",
+     "origin": "China (Alibaba)",
+     "license": "Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Chinese steward, so not European in origin — but the weights are Apache 2.0 and run entirely on your own hardware, no phone-home."
+    },
+    {
+     "name": "EuroLLM",
+     "url": "https://eurollm.io/",
+     "what": "EU-funded multilingual models (9B and 22B, Apache 2.0) trained in Europe to cover every official EU language.",
+     "origin": "EU (Lisbon-led consortium, incl. Edinburgh)",
+     "license": "Apache-2.0",
+     "maturity": "early",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Downloadable today but well behind Mistral and Qwen on capability; sibling project OpenEuroLLM expects first models summer 2026. Watch, don't depend."
+    },
+    {
+     "name": "llama.cpp",
+     "url": "https://github.com/ggml-org/llama.cpp",
+     "what": "The C++ engine that runs open-weight models on laptops, Macs and Raspberry Pis; most local AI tools are built on top of it.",
+     "origin": "Bulgaria / global community",
+     "license": "MIT",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Extremely active, near-daily releases. Also runs Meta's Llama weights — though Meta's own model licence is not OSI-approved."
+    },
+    {
+     "name": "Ollama",
+     "url": "https://github.com/ollama/ollama",
+     "what": "One-command local model runner: type 'ollama run mistral' and you are chatting offline on your own machine.",
+     "origin": "US",
+     "license": "MIT (core)",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Open-core drift: CLI and server are MIT, but the 2025 desktop app is closed-source and a cloud upsell has appeared. Fine locally; watch the trajectory."
+    },
+    {
+     "name": "vLLM",
+     "url": "https://github.com/vllm-project/vllm",
+     "what": "The standard open server for GPU inference at scale: OpenAI-compatible API and high throughput on hardware you control.",
+     "origin": "US (UC Berkeley) / PyTorch Foundation",
+     "license": "Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "US-origin but vendor-neutral under the PyTorch Foundation; what you run on rented EU GPUs when you outgrow a laptop."
+    }
+   ]
+  },
+  {
+   "category": "identity-money-coordination",
+   "entries": [
+    {
+     "name": "Sparrow Wallet",
+     "url": "https://sparrowwallet.com",
+     "what": "Desktop Bitcoin wallet for holding your own keys — multisig, hardware-wallet support, and it connects to your own node.",
+     "origin": "South Africa (solo developer)",
+     "license": "Apache-2.0",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Self-custody itself isn't an FCA-regulated activity; promoting or dealing cryptoassets to UK customers is. Solo-maintained but six years of steady releases (v2.5, May 2026)."
+    },
+    {
+     "name": "Safe",
+     "url": "https://safe.global",
+     "what": "Multisig accounts on Ethereum: a shared team treasury where moving funds needs several signatures, not one person's laptop.",
+     "origin": "Germany",
+     "license": "LGPL-3.0 (contracts), GPL-3.0 (wallet app)",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Heavily audited contracts securing tens of billions on-chain. Most teams use the hosted interface; self-hosting the full open-source stack is real work."
+    },
+    {
+     "name": "Bitcoin (Bitcoin Core)",
+     "url": "https://bitcoincore.org",
+     "what": "The original settlement layer — slow and costly per transaction, but extraordinarily hard to censor, seize or quietly change.",
+     "origin": "global community",
+     "license": "MIT",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Best treated as an anchoring and final-settlement layer; ten-minute blocks and price volatility make it a poor everyday retail rail."
+    },
+    {
+     "name": "GNU Taler",
+     "url": "https://taler.net",
+     "what": "Digital cash with payer privacy: customers spend anonymously, merchants stay visible and taxable. Ordinary servers, no blockchain.",
+     "origin": "Switzerland",
+     "license": "AGPL-3.0/GPL-3.0/LGPL (by component)",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "v1.0 shipped May 2025; Swiss-franc operator live but merchant acceptance still tiny. No UK operator — realistic today for self-run closed systems (vouchers, local schemes)."
+    },
+    {
+     "name": "Komunitin",
+     "url": "https://komunitin.org",
+     "what": "Wallet and marketplace software for mutual-credit community currencies — LETS, time banks — including trade between communities.",
+     "origin": "Spain",
+     "license": "AGPL-3.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Successor to IntegralCES, used daily by Spanish exchange networks; tiny team but active (commits July 2026). Cyclos, the household name here, went proprietary in 2012."
+    },
+    {
+     "name": "walt.id",
+     "url": "https://walt.id",
+     "what": "Toolkit for issuing and verifying digital credentials to eIDAS 2.0/EUDI wallet standards — identity rails without a US vendor.",
+     "origin": "Austria",
+     "license": "Apache-2.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Open-core: the Apache-2.0 community stack works but is still 0.x (v0.22, July 2026); persistence, multi-tenancy and support sit in the paid enterprise tier."
+    },
+    {
+     "name": "ZKPassport",
+     "url": "https://zkpassport.id",
+     "what": "Prove you are over 18, a given nationality or a real human from your passport's chip — without showing the passport itself.",
+     "origin": "UK",
+     "license": "Apache-2.0",
+     "maturity": "usable",
+     "selfhost": false,
+     "logosEcosystem": false,
+     "note": "London-built, now stewarded by Aztec Labs with code kept open. Real deployments (17,000+ verifications) but young; proof generation runs through their mobile app."
+    },
+    {
+     "name": "Logos private consensus",
+     "url": "https://nomos.tech",
+     "what": "Privacy-preserving proof-of-stake blockchain intended as the settlement layer for self-governing communities.",
+     "origin": "global community (IFT, Switzerland)",
+     "license": "MIT/Apache-2.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": true,
+     "note": "Public testnet (v0.2, June 2026, ~350 nodes), mainnet targeted 2027. Run a node if curious. Protocol: Nomos.",
+     "tags": [
+      "testnet"
+     ]
+    },
+    {
+     "name": "Cake Wallet",
+     "url": "https://cakewallet.com",
+     "what": "Self-custody wallet for Bitcoin, Monero and more — keys on your device, and you can connect your own node.",
+     "origin": "US",
+     "license": "MIT",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Open source since 2018 with active releases; Monero heritage, now multi-currency across Android, iOS, macOS and Linux."
+    },
+    {
+     "name": "Monero",
+     "url": "https://www.getmonero.org",
+     "what": "Digital cash that is private by default — payments untraceable on-chain, run your own node, no company behind it.",
+     "origin": "global community",
+     "license": "BSD-3-Clause",
+     "maturity": "production",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Community-run since 2014, releasing steadily (v0.18.5.1, July 2026). UK reality check: FCA-supervised exchanges have largely delisted privacy coins, so acquiring it here means peer-to-peer or decentralised routes."
+    }
+   ]
+  }
+ ]
+}

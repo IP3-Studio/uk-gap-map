@@ -1,0 +1,398 @@
+[
+ {
+  "sort": "2026-07",
+  "when": "Jul 2026",
+  "event": "Government review touching lobbying due before summer recess",
+  "why": "Window for extending the register to in-house lobbyists",
+  "domains": [
+   "corruption-integrity",
+   "policy-gaps"
+  ]
+ },
+ {
+  "sort": "2026-07",
+  "when": "Jul 2026",
+  "event": "Online Safety Act categorisation register published",
+  "why": "Determines which small/community services face heavier duties",
+  "domains": [
+   "portable-sovereignty"
+  ]
+ },
+ {
+  "sort": "2026-08",
+  "when": "Aug 2026",
+  "event": "Local Youth Transformation pilot ends, no successor confirmed",
+  "why": "Youth-services duty review vehicle at risk of lapsing",
+  "domains": [
+   "youth-mobilisation",
+   "policy-gaps"
+  ]
+ },
+ {
+  "sort": "2026-08-31",
+  "when": "31 Aug 2026",
+  "event": "DSIT data-intermediaries consultation closes",
+  "why": "Decides whether a personal-data-store authorisation regime happens",
+  "domains": [
+   "privacy"
+  ]
+ },
+ {
+  "sort": "2026-09",
+  "when": "Sep 2026",
+  "event": "FCA stablecoin authorisation gateway opens (£350k capital floor)",
+  "why": "Confirms no proportionate route for community/mutual money systems",
+  "domains": [
+   "parallel-institutions",
+   "portable-sovereignty"
+  ]
+ },
+ {
+  "sort": "2026-09-30",
+  "when": "30 Sep 2026",
+  "event": "Wales: mandatory care-worker registration begins",
+  "why": "Live comparator strengthening the England-register gap case",
+  "domains": [
+   "health-social-care"
+  ]
+ },
+ {
+  "sort": "2026-10",
+  "when": "Oct 2026",
+  "event": "Adult Social Care Negotiating Body established (secondary legislation)",
+  "why": "Fair Pay Agreement machinery starts with still no funding conduit",
+  "domains": [
+   "health-social-care"
+  ]
+ },
+ {
+  "sort": "2026-10",
+  "when": "Autumn 2026",
+  "event": "Local Audit Office launches",
+  "why": "Fixes system leadership, not the disclaimed-accounts assurance hole",
+  "domains": [
+   "local-state-capacity"
+  ]
+ },
+ {
+  "sort": "2026-10",
+  "when": "Autumn 2026",
+  "event": "NFER independent evaluation of Oak's Aila reports",
+  "why": "First real evidence on the government's flagship AI education tool",
+  "domains": [
+   "education-ai"
+  ]
+ },
+ {
+  "sort": "2026-11",
+  "when": "Autumn 2026 Budget",
+  "event": "Treasury fiscal devolution roadmap",
+  "why": "Decides whether mayors get revenue tools or another document",
+  "domains": [
+   "growth-stagnation",
+   "local-state-capacity"
+  ]
+ },
+ {
+  "sort": "2026-11",
+  "when": "Nov 2026",
+  "event": "Covid Inquiry twice-yearly implementation updates begin",
+  "why": "Recurring accountability moment for every resilience gap",
+  "domains": [
+   "national-resilience"
+  ]
+ },
+ {
+  "sort": "2026-11-18",
+  "when": "18 Nov 2026",
+  "event": "Companies House identity-verification deadline for existing directors",
+  "why": "ECCTA credibility test; ACSP supervision gap becomes visible",
+  "domains": [
+   "corruption-integrity"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "Winter 2026",
+  "event": "Exercise Pegasus report due",
+  "why": "Cygnus-redux risk: recommendations with no owner or timeline",
+  "domains": [
+   "national-resilience"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "End 2026",
+  "event": "Health Data Research Service first services",
+  "why": "Statutory footing and SDE funding settlement still unresolved",
+  "domains": [
+   "health-social-care"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "End 2026",
+  "event": "PwC evaluation of the No Interest Loan Scheme due",
+  "why": "Evidence base for a permanent affordable-credit facility",
+  "domains": [
+   "debt"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "2026",
+  "event": "Law Commission final report: co-operative & community benefit society law",
+  "why": "The reform is drafted; the gap becomes purely a legislative slot",
+  "domains": [
+   "parallel-institutions",
+   "policy-gaps"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "2026",
+  "event": "Casey Commission phase 1 report (within existing resources)",
+  "why": "Natural vehicle for care-worker register and delivery-unit recommendations",
+  "domains": [
+   "health-social-care"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "2026",
+  "event": "Investigatory Powers Tribunal ruling: Apple/Privacy International TCN case",
+  "why": "Only live scrutiny of secret encryption orders",
+  "domains": [
+   "surveillance",
+   "portable-sovereignty",
+   "privacy"
+  ]
+ },
+ {
+  "sort": "2027-01",
+  "when": "Jan 2027",
+  "event": "Lifelong Learning Entitlement launches (loans-only)",
+  "why": "Confirms absence of any grant-based retraining instrument",
+  "domains": [
+   "education-ai",
+   "ai-crisis"
+  ]
+ },
+ {
+  "sort": "2027-02",
+  "when": "Feb 2027",
+  "event": "NHS Federated Data Platform contract break clause",
+  "why": "The one-shot exit window; after renewal, lock-in is the default",
+  "domains": [
+   "surveillance",
+   "privacy"
+  ]
+ },
+ {
+  "sort": "2027-03",
+  "when": "Mar 2027",
+  "event": "Civil Contingencies Act post-implementation review",
+  "why": "Main statutory vehicle for resilience-framework reform",
+  "domains": [
+   "national-resilience"
+  ]
+ },
+ {
+  "sort": "2027-03",
+  "when": "2027",
+  "event": "Anti-Corruption Strategy 'explore whistleblowing reform by 2027' deadline",
+  "why": "Office of the Whistleblower window",
+  "domains": [
+   "corruption-integrity"
+  ]
+ },
+ {
+  "sort": "2027-04",
+  "when": "Apr 2027",
+  "event": "British Industrial Competitiveness Scheme starts",
+  "why": "Two-tier electricity pricing begins; levy rebalancing unresolved for everyone else",
+  "domains": [
+   "growth-stagnation"
+  ]
+ },
+ {
+  "sort": "2027-04",
+  "when": "Apr 2027",
+  "event": "Local Audit Office takes over the audit backstop programme",
+  "why": "Disclaimed-years recovery either gets a plan or is normalised",
+  "domains": [
+   "local-state-capacity"
+  ]
+ },
+ {
+  "sort": "2027-05",
+  "when": "Spring 2027",
+  "event": "Revised national curriculum published (first teaching Sep 2028)",
+  "why": "Clock starts on the teacher AI-CPD entitlement gap",
+  "domains": [
+   "education-ai"
+  ]
+ },
+ {
+  "sort": "2027-06",
+  "when": "2027 Spending Review",
+  "event": "FPA funding conduit, social-care bridge, Preventative DEL decisions",
+  "why": "The fiscal moment most health and care gaps depend on",
+  "domains": [
+   "health-social-care"
+  ]
+ },
+ {
+  "sort": "2027-07",
+  "when": "Summer 2027",
+  "event": "Welsh Basic Income pilot final evaluation",
+  "why": "Only UK income-floor evidence for AI-transition instruments",
+  "domains": [
+   "ai-crisis"
+  ]
+ },
+ {
+  "sort": "2027-10",
+  "when": "Oct 2027",
+  "event": "FCA full cryptoasset regime live",
+  "why": "Final shape of the perimeter mutual credit and community currencies sit outside",
+  "domains": [
+   "parallel-institutions",
+   "portable-sovereignty"
+  ]
+ },
+ {
+  "sort": "2028-03",
+  "when": "Mar 2028",
+  "event": "SEND statutory override expires (£2.9–3.9bn/yr hits council balance sheets)",
+  "why": "Scheduled municipal fiscal cliff; failure-regime gap becomes acute",
+  "domains": [
+   "local-state-capacity",
+   "debt"
+  ]
+ },
+ {
+  "sort": "2028-04",
+  "when": "Apr 2028",
+  "event": "First Fair Pay Agreement takes effect",
+  "why": "Unfunded-mandate risk crystallises without a funding instrument",
+  "domains": [
+   "health-social-care"
+  ]
+ },
+ {
+  "sort": "2028-09",
+  "when": "Sep 2028",
+  "event": "Reformed curriculum first teaching (AI literacy from KS2)",
+  "why": "End of the three-year AI-literacy vacuum — if the workforce is trained",
+  "domains": [
+   "education-ai"
+  ]
+ },
+ {
+  "sort": "2028-12",
+  "when": "2028",
+  "event": "Casey Commission final report (funding reform)",
+  "why": "The social-care settlement, past the next election",
+  "domains": [
+   "health-social-care"
+  ]
+ },
+ {
+  "sort": "2028-12",
+  "when": "~2028",
+  "event": "Biometrics/LFR legislation expected (~2y after Feb 2026 consultation)",
+  "why": "The Biometrics Act window; deployment continues meanwhile",
+  "domains": [
+   "surveillance",
+   "policy-gaps"
+  ]
+ },
+ {
+  "sort": "2029-06",
+  "when": "2028–2032",
+  "event": "Pension mandation reserve power window (exercisable once, then lapses)",
+  "why": "Deadline for UK growth vehicles to absorb DC capital",
+  "domains": [
+   "growth-stagnation"
+  ]
+ },
+ {
+  "sort": "2029-08",
+  "when": "By 2029",
+  "event": "Next general election",
+  "why": "First with votes at 16 and cheap synthetic media; registration, first-vote and deepfake gaps all bind here",
+  "domains": [
+   "youth-mobilisation",
+   "ai-crisis"
+  ]
+ },
+ {
+  "sort": "2029-09",
+  "when": "2029",
+  "event": "Digital right-to-work checks planned mandatory on One Login",
+  "why": "A privacy-preserving credential alternative must exist before this",
+  "domains": [
+   "surveillance",
+   "portable-sovereignty",
+   "privacy"
+  ]
+ },
+ {
+  "sort": "2029-12",
+  "when": "~2029",
+  "event": "EU adequacy mid-point review (full renewal decision 2031)",
+  "why": "Caps how far UK data-protection divergence can drift",
+  "domains": [
+   "privacy"
+  ]
+ },
+ {
+  "sort": "2030-06",
+  "when": "~2030",
+  "event": "Ofqual on-screen exams (small-entry subjects only)",
+  "why": "The assessment-integrity crisis runs unmitigated until then",
+  "domains": [
+   "education-ai"
+  ]
+ },
+ {
+  "sort": "2039-01",
+  "when": "2039",
+  "event": "Flood Re expires, no successor designed",
+  "why": "Adaptation-finance gap becomes an uninsurable-homes crisis",
+  "domains": [
+   "national-resilience"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "By 31 Dec 2026",
+  "event": "Digital Access to Services Bill — parliamentary stages",
+  "why": "The reframed digital ID legislation, announced in the May 2026 King's Speech; where privacy safeguards are won or lost",
+  "domains": [
+   "privacy",
+   "surveillance"
+  ]
+ },
+ {
+  "sort": "2026-09",
+  "when": "From mid-2026, quarterly",
+  "event": "Single Unique Identifier scope regulations (Children's Wellbeing and Schools Act)",
+  "why": "Secondary legislation sets how far a child's cross-service identifier reaches — scope defined by regulation, not the Act",
+  "domains": [
+   "privacy",
+   "surveillance"
+  ]
+ },
+ {
+  "sort": "2026-12",
+  "when": "2026-27 delivery period",
+  "event": "Growth and Skills Levy — first funded starts under the new design",
+  "why": "The levy design a funded provider helped shape begins distributing money; the moment to test whose recommendations landed",
+  "domains": [
+   "corruption-integrity",
+   "education-ai"
+  ]
+ }
+]

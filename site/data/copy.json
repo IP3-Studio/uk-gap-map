@@ -1,0 +1,1218 @@
+{
+ "gap_copy": [
+  {
+   "number": 1,
+   "tagline": "Communities won first refusal on local assets. The fund to buy them closed in 2024.",
+   "summary": "A new law gives communities first refusal when a local pub, shop or hall comes up for sale — but the government shut its only asset-purchase fund and declined to replace it. Groups must now raise market value against a ticking clock. A permanent acquisition fund, built from dormant assets, would make the right real."
+  },
+  {
+   "number": 2,
+   "tagline": "Residents can buy the pub. They still can't touch the services or the spending.",
+   "summary": "Campaigners wanted community rights over assets, services and investment — the new devolution law delivered only the first. Neighbourhood boards will soon control up to £20m each while residents hold no enforceable say over the services and spending that shape their lives. Regulations with real teeth could finish the job."
+  },
+  {
+   "number": 3,
+   "tagline": "4.4 million people live in a news desert. The reporters left before the money arrived.",
+   "summary": "Local journalism has thinned to little or nothing in 37 council districts, mostly poorer and more diverse places. Those same places are about to receive billions in neighbourhood money, with nobody watching how it is spent. An independent news fund, financed by a levy on the platforms, could put reporters back on the patch."
+  },
+  {
+   "number": 4,
+   "tagline": "Billions for lonely neighbourhoods, and no one left to say what actually works.",
+   "summary": "The centre that told Britain what works against loneliness closed in 2024, taking its evidence base offline. Government is now spending billions on neighbourhood renewal aimed at social connection, with no institution able to say which interventions succeed. A new What Works centre with ten-year funding could carry the findings forward."
+  },
+  {
+   "number": 5,
+   "tagline": "Nobody officially counts Britain's community spaces. Billions get allocated anyway.",
+   "summary": "There is no regular official measure of Britain's social infrastructure — the halls, clubs and associations civic life runs on. Ten-year neighbourhood programmes are being targeted using ad hoc, unofficial indices nobody can scrutinise or update. Annual neighbourhood-level statistics from the Office for National Statistics would give them a baseline."
+  },
+  {
+   "number": 6,
+   "tagline": "Hundreds of resident boards are about to spend millions. Who teaches them how?",
+   "summary": "Resident boards in 379 deprived neighbourhoods are about to start spending serious regeneration money, just as the organisations that trained community leaders wind down. Inexperienced boards are the likeliest failure point of a £5bn programme. A national academy for neighbourhood leadership could inherit the training that made Big Local work."
+  },
+  {
+   "number": 7,
+   "tagline": "Government signed a covenant with charities. Break it, and nothing happens.",
+   "summary": "The Civil Society Covenant promises partnership between the state and charities, but no one adjudicates when a public body breaks it — and lobbying rules still chill charity campaigning. Watchdogs rate UK civic space as obstructed. A statutory duty, an independent referee and reformed campaigning law would give the promise force."
+  },
+  {
+   "number": 8,
+   "tagline": "Millions use TheyWorkForYou. It lives one funding cycle from shutdown.",
+   "summary": "The services that let Britons track MPs, file freedom of information requests and find election information are maintained by a handful of small organisations on short grants. Funders pay for novelty, never upkeep. A dedicated maintenance fund — Germany already runs one for critical code — would secure the plumbing democracy quietly depends on."
+  },
+  {
+   "number": 9,
+   "tagline": "Volunteering has fallen by a third. Demand isn't the problem — the pipeline is.",
+   "summary": "Volunteering is the entry point to civic life and it has declined for a decade — while the National Citizen Service closed without a successor and youth movements ration places for lack of adults. A volunteering passport — one vetting check, valid everywhere — plus a voluntary civic year for young people could rebuild the pipeline."
+  },
+  {
+   "number": 10,
+   "tagline": "Churches are closing faster than communities can catch them.",
+   "summary": "Faith buildings are the densest civic spaces in many neighbourhoods, and nearly a thousand are officially at risk just as repair costs got a VAT hike. When congregations fold, there is no standard route into community hands — every rescue is a bespoke legal slog. A transition agency with templates and funding could change that."
+  },
+  {
+   "number": 11,
+   "tagline": "London takes a third of big-foundation money. The rest of Britain gets a £1m strategy.",
+   "summary": "Charitable money pools in London, which takes more than a third of large-foundation funding. The government's new strategy to spread giving has just £1m behind it. A national endowment match for community foundations in low-giving areas worked once before — it could give left-behind places money that outlasts political cycles."
+  },
+  {
+   "number": 12,
+   "tagline": "Organising wins can take ten years. The grants run out after eighteen months.",
+   "summary": "Community organising won the living wage and works best among people institutions no longer reach. Yet the field runs on short project grants that fight its patient, long-game method. A pooled ten-year fund, kept independent of government, could pay organisers' salaries across the country."
+  },
+  {
+   "number": 215,
+   "tagline": "When a broke council drops the library, the community improvises — or watches it die.",
+   "summary": "Councils in financial distress are cutting libraries, parks and youth services to the legal minimum, and there is no prepared route for communities to take a service on. Every handover reinvents the same legal, insurance and staffing tangle. A tested playbook and a rapid advice service could turn austerity's vacuums into accountable local institutions."
+  },
+  {
+   "number": 221,
+   "tagline": "A single lawsuit or a closed bank account can end a charity. Each faces the attack alone.",
+   "summary": "Civic organisations face lawsuits, debanking, cyber intrusion and smear campaigns on tiny budgets, and each attack is survived — or not — alone. Isolation is the attacker's force multiplier. A mutual-defence compact with a shared security baseline, pooled incident response and a rapid solidarity fund would mean nobody stands alone under unjust attack."
+  },
+  {
+   "number": 13,
+   "tagline": "Germany pays the maintainers of critical code. Britain free-rides.",
+   "summary": "Government systems run on open source code kept alive by unpaid volunteers — one flawed logging component put the NHS at risk. Germany has funded the upkeep of more than sixty critical pieces of software, while Britain has no equivalent. A costed blueprint for a modest UK fund already exists and waits for an owner."
+  },
+  {
+   "number": 14,
+   "tagline": "Britain wrote the open-code playbook, then forgot to appoint anyone to run it.",
+   "summary": "Government code is meant to be open by default, but nobody audits whether departments publish it — the NHS's open source policy lapsed and its pages were quietly deleted. France and Germany run dedicated offices for this. A British equivalent could audit compliance, catalogue reusable code and give fourteen years of good intentions an owner."
+  },
+  {
+   "number": 15,
+   "tagline": "Every council vets the same software alone. Most give up and buy proprietary.",
+   "summary": "No standard process tells a council or hospital that an open source product is safe to buy, so each repeats its own due diligence or defaults to proprietary suppliers who arrive pre-assured. The single product that crossed the barrier saved councils up to £90,000 per website. A national kite-mark service could unlock those savings everywhere."
+  },
+  {
+   "number": 16,
+   "tagline": "Royal Mail owns the country's address list. Everyone else rents their own geography back.",
+   "summary": "The national address file went private with Royal Mail, so every delivery firm, emergency service and council pays layered licence fees to look up the country's own geography. Denmark, France and the Netherlands opened theirs and counted the economic gains. Britain could buy the file back or build an open register from councils' source data."
+  },
+  {
+   "number": 17,
+   "tagline": "A quarter of links on the government's own data site lead nowhere.",
+   "summary": "Nobody in government is required to keep the country's reference data — lists of schools, councils, countries — up to date, and the official data portal admits over a quarter of its links are broken. Every service built on rotting data inherits its errors. Named owners, update deadlines and public quality dashboards would fix the incentive."
+  },
+  {
+   "number": 18,
+   "tagline": "Europe's small-grant tap for public-interest tech has closed. Britain never had one.",
+   "summary": "Small, fast grants produced much of Europe's privacy technology and open protocols. The EU scheme that funded them has closed, and no UK funder — public or philanthropic — makes grants at the size where independent maintainers actually live. A lightweight pooled fund with paperwork to match could fill the tier entirely."
+  },
+  {
+   "number": 19,
+   "tagline": "British science runs on software funded to be born, never to be kept alive.",
+   "summary": "The UK's first fund for maintaining research software proved the demand, then hit its expiry date — it is a pilot, not a budget line. Thousands of scientific packages decay on volunteer time while grants reward only novelty. A permanent maintenance stream costing about one per cent of production spend would protect the rest."
+  },
+  {
+   "number": 20,
+   "tagline": "Government built the tools, published the code — and locked charities out anyway.",
+   "summary": "GOV.UK Notify sends messages for over 1,500 public services, but charities, hospices and housing associations are barred from it — so they re-buy the same infrastructure at retail prices with donated money. The code is open and already running. Extending access, or chartering a nonprofit to run it for civil society, is among the cheapest transfers available."
+  },
+  {
+   "number": 21,
+   "tagline": "The NHS ran national Covid research on open code. Then it went closed by default.",
+   "summary": "NHS England quietly deleted its open source policy and now keeps its code closed by default, even as hospital record systems lock in proprietary vendors across more than 200 trusts. Openness gave the NHS scrutiny, reuse and bargaining power — Covid-era research proved it. A reinstated policy with a named owner would win that back."
+  },
+  {
+   "number": 22,
+   "tagline": "No one has ever listed the open source code the British state actually runs on.",
+   "summary": "Government tells businesses to inventory their software dependencies but has never done it for itself — there is no map of which open source components underpin public services and critical infrastructure, or who maintains them. You cannot defend what you have not mapped. A recurring census could be delivered within a year using existing tools."
+  },
+  {
+   "number": 23,
+   "tagline": "'Consider open source' has been the rule since 2012. Nobody ever checked the homework.",
+   "summary": "Procurement rules have told officials to consider open source for over a decade, but nothing requires them to record the comparison or score openness — so proprietary contracts roll over by default. That habit shapes over £20bn of public technology spending. An auditable procurement note plus training for buyers would finally give the policy teeth."
+  },
+  {
+   "number": 24,
+   "tagline": "New EU cyber rules bind UK open source maintainers. Nobody here helps them comply.",
+   "summary": "Europe's Cyber Resilience Act imposes security obligations on anyone whose software reaches the EU market — Brexit does not exempt British maintainers, and the UK hosts Europe's largest contributor base. Left alone, projects may wall off Europe or quit maintaining altogether. Plain-English guidance and small compliance grants would keep British code on the continent."
+  },
+  {
+   "number": 25,
+   "tagline": "A 76-year-old institution died in a week when its corporate backer went under.",
+   "summary": "The British Youth Council collapsed overnight in 2024 when its single funder went into administration, and no independent, youth-governed national voice has replaced it. Sixteen-year-olds are about to get the vote in a country with no such body — a rarity in Europe. A refounded council with diversified long-term funding would close the gap."
+  },
+  {
+   "number": 26,
+   "tagline": "1.6 million teenagers get the vote before their schools know how to prepare them.",
+   "summary": "Votes at sixteen is coming, but a fifth of secondary schools teach no citizenship and the strengthened curriculum arrives after the first cohort votes. First elections form lifelong habits — a botched debut would entrench class-based turnout gaps from the start. A guaranteed democracy induction and mock election in every school would meet the moment."
+  },
+  {
+   "number": 27,
+   "tagline": "Welsh pilots added 16,000 voters. England has no registration plan of its own.",
+   "summary": "Around eight million eligible voters are missing from the register, with young people and renters worst affected. Teenagers already give the state their details when National Insurance numbers arrive — nobody uses that to put them on the roll. A schools registration duty plus automatic enrolment of teenagers would be the cheapest turnout lever available."
+  },
+  {
+   "number": 28,
+   "tagline": "Youth services are legally optional. Spending fell by three-quarters — the law let it.",
+   "summary": "The law behind youth services asks councils to act only 'so far as reasonably practicable', which in practice means optional. Spending has fallen by roughly three-quarters in real terms, and new capital money will refurbish centres councils cannot afford to staff. A strengthened duty and ring-fenced revenue funding would put workers back inside the buildings."
+  },
+  {
+   "number": 29,
+   "tagline": "England lost 4,500 youth workers. Teaching gets bursaries. Youth work gets nothing.",
+   "summary": "Every promise in the new youth strategy — including a trusted adult for half a million more young people — depends on staff who no longer exist. Unlike teaching or social work, youth work has no funded fast-track, no bursaries and no professional register. A workforce programme is the strategy's missing plank."
+  },
+  {
+   "number": 30,
+   "tagline": "The one programme that mixed teenagers across class lines closed with nothing behind it.",
+   "summary": "The National Citizen Service was the UK's only shared civic experience for teenagers, and it closed in 2025 without replacement. France and the United States run national civic service pathways — Britain now has none, just as polarisation among the young widens. A voluntary, paid civic year built on existing youth organisations is ready to be designed."
+  },
+  {
+   "number": 31,
+   "tagline": "Young men are drifting out of civic life. No funder owns the problem.",
+   "summary": "Young men not in education or work are up sharply since the pandemic, their politics is drifting towards online influencers, and suicide is the leading cause of death for older teenage boys. Yet no UK funder runs a dedicated programme for young men's civic participation. Mentoring, male youth workers and offline third spaces all wait for a backer."
+  },
+  {
+   "number": 32,
+   "tagline": "Wales gave youth voice legal force. Scotland did too. England relies on goodwill.",
+   "summary": "No English council is required to listen to young people, so youth councils collapsed alongside youth budgets, and the UK Youth Parliament survives on an annual contract. Goodwill-based consultation evaporates under fiscal pressure — it already did once after 2010. A statutory engagement duty and a youth impact check on new laws would make voice permanent."
+  },
+  {
+   "number": 33,
+   "tagline": "Government planned fifty youth hubs without knowing where existing services were.",
+   "summary": "There is no official count of youth services and no regular measure of youth civic participation — the sector reconstructs numbers from council returns and charity polls. The strategy's 2035 targets have no baseline to be judged against. An annual official series plus an open dataset of provision would be cheap and settle the arguments."
+  },
+  {
+   "number": 34,
+   "tagline": "A generation votes for the first time by 2029. Nobody is building the turnout machine.",
+   "summary": "Young people's politics is expressive — petitions, posts — but the UK has no at-scale nonpartisan operation to turn that into registration and turnout, and the groups doing the work are small and grant-dependent. The vacuum is filling with partisan influencer ecosystems. An independently governed mobilisation platform, funded now, could reach the young people hardest to find."
+  },
+  {
+   "number": 35,
+   "tagline": "The Youth Guarantee guarantees nothing outside eight city-regions.",
+   "summary": "Nearly a million young people are neither earning nor learning, yet the government's answer is a handful of pilot schemes with no enforceable entitlement and no coverage across most of the country. Disconnection from work feeds disconnection from democracy. A statutory offer of training, apprenticeship or paid placement for every young adult would make the name honest."
+  },
+  {
+   "number": 36,
+   "tagline": "100,000 children are queuing to join the Scouts. The shortage is adults.",
+   "summary": "The Scouts' waiting list passed 100,000 and Girlguiding faces the same squeeze — proven demand, queued and waiting. The binding constraint is adult volunteers, not young people's appetite, and no national mechanism recruits or trains them. Employer time-off entitlements and shared vetting across movements would clear lists faster than building anything new."
+  },
+  {
+   "number": 37,
+   "tagline": "Schools are buying AI tools for children on the vendors' word alone.",
+   "summary": "Government safety rules for classroom AI are voluntary self-assessment — no register, no audit, no enforcement. Rigorous trials take years while products ship in months. A permanent certification body, pairing a safety kitemark with rapid efficacy ratings and public money conditional on passing, would give schools a signal they can trust."
+  },
+  {
+   "number": 38,
+   "tagline": "Coursework rules assume pupils screenshot their AI prompts. Exams need a rethink.",
+   "summary": "Exam boards' anti-cheating rules rest on teachers vouching for coursework, which cannot be enforced at scale. On-screen exams will not arrive until around 2030, so the default response is retreat to handwritten finals — narrowing assessment just as reform tries to broaden it. A regulatory sandbox and a redesign fund could get there faster."
+  },
+  {
+   "number": 39,
+   "tagline": "94% of students use AI in assessed work. Every university copes alone.",
+   "summary": "British degrees are a national export, and the marking beneath them is quietly eroding — one student in eight now submits AI-generated text. Cash-strapped universities are each improvising their own response mid-redundancy. A funded national programme could pool redesigned assessments, shared oral-exam capacity and a common standard for verifying degrees."
+  },
+  {
+   "number": 40,
+   "tagline": "The AI curriculum lands in 2028. Teacher training for it has no budget.",
+   "summary": "England's revised curriculum will teach AI awareness from primary school, but the 460,000 teachers expected to deliver it get optional online modules and no funded training time. Untrained teachers sank the computing reforms of 2014. A national training entitlement with cover costs paid would stop history repeating."
+  },
+  {
+   "number": 41,
+   "tagline": "Wales hands every school vetted digital tools. England leaves 22,000 to shop alone.",
+   "summary": "Every Welsh school gets centrally licensed tools, identity and filtering through one national platform. English schools buy alone, so safe AI access tracks a trust's budget rather than pupils' need. A national platform for England — single sign-on, negotiated licences, certified tools only — is proven practice from just across the border."
+  },
+  {
+   "number": 42,
+   "tagline": "AI tutoring for 450,000 poorer pupils is promised. The lesson money isn't.",
+   "summary": "Tutoring is the best-evidenced remedy for the attainment gap, worth about five months' extra progress. But the national subsidy ended in 2024, and the government's new AI tutoring push funds tool-building, not lessons. A tutoring entitlement tied to pupil premium would put blended human-and-AI tutoring in front of the pupils who need it."
+  },
+  {
+   "number": 43,
+   "tagline": "Britain steers a once-in-a-generation jobs transition on last year's surveys.",
+   "summary": "No official data tracks where AI is eating entry-level work — the sharpest signals come from private job boards, with causes contested. Bursaries, levy priorities and careers advice all depend on knowing which occupations are eroding, and where. An open national skills data service, built from tax and vacancy records, could show it in near real time."
+  },
+  {
+   "number": 44,
+   "tagline": "Mid-career and displaced by AI? The state's offer is a loan.",
+   "summary": "Up to eight million UK jobs are exposed to AI, concentrated in clerical and administrative roles held disproportionately by women and older workers — people unlikely to borrow for retraining. Everything on offer is a loan, an employer-controlled levy or a short bootcamp. Grant-funded retraining accounts, piloted through mayoral authorities, would turn displacement into redeployment."
+  },
+  {
+   "number": 45,
+   "tagline": "Universities can go bust. There is no law for what happens to their students.",
+   "summary": "Nearly half of England's universities are in deficit. Unlike further education colleges, they have no insolvency regime protecting students if one collapses — a failure would strand thousands and force a panic bailout. A legal wind-down process plus a transformation fund would make restructuring orderly instead of catastrophic."
+  },
+  {
+   "number": 46,
+   "tagline": "No one studies what daily AI use does to a child's mind. Vendors mark their own homework.",
+   "summary": "The government admits evidence for AI tutoring is limited, yet it is rolling tools out to hundreds of thousands of disadvantaged pupils. The best classroom trials come from American labs testing their own products. A dedicated UK research programme — long-run cohort studies plus rapid trials in volunteer schools — would build independent knowledge before rollout, not after."
+  },
+  {
+   "number": 47,
+   "tagline": "Ministers will 'explore' an AI qualification for sixth-formers. Four million can't wait.",
+   "summary": "The government commits only to 'explore' a data science and AI qualification for sixth-formers, and nothing accredited exists at the levels where displacement bites hardest. Exploration without a commissioned awarding body and a date is how qualifications quietly die. A funded commission aimed at first teaching in 2028 would fix that."
+  },
+  {
+   "number": 48,
+   "tagline": "High-speed rail costs Britain eight times what France pays. The state keeps no score.",
+   "summary": "The best data on Britain's infrastructure cost disease is one-off campaign research, not an official series. Standardised, public unit costs would expose overruns to comparison on a pipeline worth £718bn. A campaign group proved the idea works once — making it permanent inside government is cheap."
+  },
+  {
+   "number": 49,
+   "tagline": "The planning revolution has arrived. The planners have not.",
+   "summary": "England and Wales are short more than 2,200 planners. The government's response trains 300, an order of magnitude too few for the reforms now landing on their desks. Without bursaries, ringfenced fees and shared specialist pools, the new planning laws stay on paper."
+  },
+  {
+   "number": 50,
+   "tagline": "Street votes could add 30,000 homes a year. The law exists. Nobody switched it on.",
+   "summary": "Residents of a street voting themselves permission to build — and pocket the uplift — became law in 2023, but the regulations to activate it were never laid. No new legislation is needed, just statutory instruments and pilot funding. Eighteen months of work could unlock new homes exactly where demand is highest."
+  },
+  {
+   "number": 51,
+   "tagline": "Electricity carries the levies. Gas doesn't. And Britain needs to electrify.",
+   "summary": "British industry pays some of the highest electricity prices in the developed world, partly because old renewables subsidies still sit on power bills. A new scheme rescues about 7,000 manufacturers and leaves everyone else — small firms, data centres, households — paying the penalty. No law schedules moving those costs off electricity for good."
+  },
+  {
+   "number": 52,
+   "tagline": "Data centres want cheap power. Nothing points them at Scotland's wasted wind.",
+   "summary": "Ministers rejected regional electricity pricing, promising locational efficiency through network-charge reform and a spatial energy plan — both unfinished. Meanwhile nothing steers big flexible users like AI data centres towards areas where generation outruns the grid, and payments to switch wind farms off keep rising. Cheaper connections and fast-track planning for well-sited demand would do the job administratively."
+  },
+  {
+   "number": 53,
+   "tagline": "Britain is dismantling the research data it needs to diagnose its own stagnation.",
+   "summary": "The flagship platform for linking government microdata was red-rated, closed to researchers, then defunded. Its ageing predecessor limps on, and economists still cannot connect firm-level tax, trade and ownership records — the raw material of productivity diagnosis. A funded successor with statutory service standards would put evidence back underneath the growth debate."
+  },
+  {
+   "number": 54,
+   "tagline": "France built trams in 25 cities by repetition. Britain reinvents the tram every time.",
+   "summary": "Manchester is around 55% less productive than same-sized Rome, partly because so few workers can reach the centre by public transport. Yet every British tram scheme starts from scratch — bespoke design, bespoke procurement, bespoke costs. A standing national delivery unit running a rolling pipeline is how other countries build cheaply and fast."
+  },
+  {
+   "number": 55,
+   "tagline": "Mayors got the growth duties. The Treasury kept the money.",
+   "summary": "New devolution law gives every part of England a strategic authority, but city leaders still control a fraction of the revenue of their French or German counterparts. Without powers to capture land value or borrow against growth, mayors remain supplicants to Whitehall funding rounds. The Treasury has promised a fiscal devolution roadmap — this gap is its missing content."
+  },
+  {
+   "number": 56,
+   "tagline": "A fifth of the Treasury quits or moves every year. The pay system rewards exactly that.",
+   "summary": "Civil servants get raises by moving jobs, not by getting good at them, so expertise drains from the teams running decade-long programmes like planning reform and infrastructure. That churn is one reason big projects fail expensively. Paying people to deepen in post — with minimum tenure for key delivery roles — is a cheap, unglamorous growth policy."
+  },
+  {
+   "number": 57,
+   "tagline": "America makes agencies buy from startups. It seeded Qualcomm. Britain's copy is starved.",
+   "summary": "The American scheme obliges federal agencies to spend a fixed slice of research budgets with small firms — it seeded Qualcomm and iRobot. Britain's version has no mandate and a budget withered to about 1% of its former level. A legislated set-aside would hand deep-tech startups their first customer at no net new cost."
+  },
+  {
+   "number": 58,
+   "tagline": "Post-war new towns ran on 60-year loans. Today's get annual grants instead.",
+   "summary": "Seven sites are shortlisted and the development-corporation powers exist, but no funding matches the model's timescale — new towns repay over decades through rising land values. Annualised grants cannot carry that. A long-dated Treasury lending facility and a land-assembly war chest would let the corporations actually build, as Milton Keynes once did."
+  },
+  {
+   "number": 59,
+   "tagline": "Pension savers' billions are pledged to British growth. The vehicles barely exist.",
+   "summary": "Seventeen providers promised a slice of workplace pensions to private markets, with law holding a backstop power to compel them. But the first flagship UK growth fund closed at just £200m, and little else exists at institutional scale — so the money may simply flow abroad. Building investable UK vehicles is the missing half of the bargain."
+  },
+  {
+   "number": 60,
+   "tagline": "A debt repayment lifeline became law in 2018. Eight years on, it is still switched off.",
+   "summary": "Breathing Space gives people in problem debt a 60-day pause, then protections vanish and enforcement resumes. Its legislated companion — a statutory plan letting people repay affordably with interest frozen and bailiffs held off — has never been commenced, and no start date exists. Millions who could repay if protected sit in the gap between a pause and bankruptcy."
+  },
+  {
+   "number": 61,
+   "tagline": "Banks fund debt advice. Today's debts are owed to the council and the energy firm.",
+   "summary": "The levy paying for debt advice falls on regulated lenders, yet the arrears crushing households now come from utilities, council tax and government itself — creditors who pay nothing towards it. Funded capacity covers barely a quarter of need. Extending the levy to the sectors actually generating the debt is a straightforward polluter-pays statute."
+  },
+  {
+   "number": 62,
+   "tagline": "Miss one council tax instalment and the whole year falls due. That rule is from 1992.",
+   "summary": "The state is routinely Britain's harshest creditor — practices that would be illegal for a regulated lender. Councils passed 1.69 million debts to bailiffs in a single year, and debt advisers report clients going without food to pay. Binding collection standards, affordability checks and statutory bailiff regulation would fix what voluntary charters have not."
+  },
+  {
+   "number": 63,
+   "tagline": "Every big bank is stress-tested. The public finances never are.",
+   "summary": "The 2022 pensions near-meltdown showed what improvising in a gilt crisis costs. Nobody publicly war-games a failed auction or a buyers' strike — the fiscal watchdog is barred from recommending policy, and official contingency planning stays secret. A standing independent stress-test programme is foundation-fundable at a few million pounds a year."
+  },
+  {
+   "number": 64,
+   "tagline": "Americans can buy their government's debt directly. Britons must go through a broker.",
+   "summary": "As pension funds retreat from long-dated gilts, borrowing costs have climbed and hedge funds have become the marginal buyer. Households — a stickier, cheaper source of demand — have no direct route to the safe asset their own taxes stand behind. A state-run retail gilt platform, like America's or Italy's, is a buildable public product."
+  },
+  {
+   "number": 65,
+   "tagline": "Hedge funds do a third of gilt trading. The crisis backstop doesn't cover them.",
+   "summary": "The 2022 crisis dynamic — leveraged investors forced to dump gilts — has migrated from pension funds to hedge funds, which sit outside the Bank of England's emergency lending facility. No one even publishes regular data on their gilt borrowing. Extending the backstop with strings attached, plus minimum haircuts and a public dashboard, would close the gap before it is tested."
+  },
+  {
+   "number": 66,
+   "tagline": "Councils owe a record £154.6bn. The accounts are late and auditors won't sign them.",
+   "summary": "Fourteen councils have gone effectively bankrupt, and each collapse arrived as a surprise negotiated behind closed doors. The watchdog that monitored council performance was abolished, and 41% of recent accounts were so unreliable auditors disclaimed them. A quarterly open dataset of debt, reserves and interest costs — a council fiscal watch — could be prototyped now."
+  },
+  {
+   "number": 67,
+   "tagline": "Britain's rescue for broke councils is more borrowing and selling the town hall.",
+   "summary": "Emergency support lets insolvent councils borrow to cover day-to-day shortfalls and sell civic assets, deferring the bill onto future residents without resolving it. There is no court-supervised process for restructuring genuinely unpayable municipal debt, as other countries have. A statutory resolution framework with shared losses would replace the annual behind-closed-doors kludge."
+  },
+  {
+   "number": 68,
+   "tagline": "13,000 loans went to people the banks turned away. Then the money ran out.",
+   "summary": "When regulated high-cost lenders quit the market, demand migrated to loan sharks — research links the vacuum to three million people using illegal lenders. The pilot alternative repaid well but stopped lending, and everything left rests on finite dormant-assets money. A permanent funding base for no-interest loans, credit unions and community lenders is the fix."
+  },
+  {
+   "number": 69,
+   "tagline": "Three million people used loan sharks. Enforcement prosecutes about 20 cases a year.",
+   "summary": "One small team hosted by a city council polices illegal lending for all of England, while the trade has moved onto social media and payment apps. The levy that funds it costs regulated firms a rounding error. Scaling it up, with bank data-sharing to spot lender-pattern accounts, would confront a market measured in millions of victims."
+  },
+  {
+   "number": 70,
+   "tagline": "Who manages the state's £1.4tn in pension promises? Strictly speaking, no one.",
+   "summary": "The only consolidated picture of what the state owes — unfunded pensions, nuclear clean-up, the student loan book — arrives more than a year late and with a qualified audit. The models valuing those liabilities cannot be independently checked. A clear Treasury mandate, a faster publication deadline and open valuation models would make hundred-billion-pound decisions contestable."
+  },
+  {
+   "number": 71,
+   "tagline": "Nine rewrites of the fiscal rules, all by announcement. Markets have noticed.",
+   "summary": "Markets partly price UK debt on the risk that the rules will move whenever they bind — and history justifies the suspicion. Thin headroom against the current rule now drives rolling tax-speculation cycles that damage investment. Requiring consultation before rule changes, plus a codified minimum buffer, is a package a policy unit could draft this year."
+  },
+  {
+   "number": 218,
+   "tagline": "We teach adults to spot scams, not to understand the systems that govern them.",
+   "summary": "Digital-skills courses teach adults to use apps and dodge scams, not to understand the systems that govern them — what encryption guarantees, what digital ID architectures reveal. Public debates proceed on claims citizens cannot evaluate. An open curriculum delivered through libraries, unions and community groups could build comprehension with citizens-advice reach."
+  },
+  {
+   "number": 72,
+   "tagline": "Facial recognition is rolling out nationwide before Parliament has written it a law.",
+   "summary": "Police forces already scan faces in the street, and the first fixed cameras are live in Croydon — with no dedicated law and no single regulator. An independent review called the oversight patchy and ineffectual. A Biometrics Act could set authorisation rules and a public register before national rollout hardens the habit."
+  },
+  {
+   "number": 73,
+   "tagline": "The order telling Apple to break iCloud encryption stayed secret until someone leaked it.",
+   "summary": "Government can order companies to weaken encryption for millions of users, and the orders are secret — even Parliament's intelligence committee is not told. The Apple case surfaced only through leaks. Other countries publish annual statistics on comparable orders, and Britain could do the same with notification duties attached."
+  },
+  {
+   "number": 74,
+   "tagline": "The only real test of police face-scanning accuracy was paid for by the police.",
+   "summary": "Britain has no independent lab that checks surveillance algorithms before police deploy them — the main accuracy study was commissioned by the forces using the technology. Retrospective face searches against passport databases run with no published error rates at all. A national testing facility could be piloted for under £10m."
+  },
+  {
+   "number": 75,
+   "tagline": "Wrongly watchlisted along with a million others? You each sue alone or not at all.",
+   "summary": "When a data scandal hits millions of people at once, UK law offers no group claim. The Supreme Court closed that door in 2021, and the fallback regulator rarely enforces. The fix — group actions modelled on competition law, plus complaints brought by charities — has already been drafted."
+  },
+  {
+   "number": 76,
+   "tagline": "The cases that curb UK surveillance are fought by tiny charities betting their budgets.",
+   "summary": "Litigation is the only force that has ever restrained UK surveillance powers, and it rests on a few small organisations carrying the risk of ruinous costs with no legal aid. A pooled fund of £3-5m a year — counsel, expert evidence, costs insurance — would keep the case pipeline alive."
+  },
+  {
+   "number": 77,
+   "tagline": "Britain's entire digital rights sector runs on less than £15m a year.",
+   "summary": "The charities scrutinising state surveillance depend on a handful of mostly foreign foundations — when a funder walks away, a quarter of an organisation's income can go with it. A pooled UK fund making long-term commitments would put the country's accountability work on stable footing."
+  },
+  {
+   "number": 78,
+   "tagline": "Nobody keeps a list of what surveillance kit is watching Britain. Not even the state.",
+   "summary": "No one tracks which cameras, algorithms and face-scanning tools police forces and councils have bought — the picture exists only in scattered freedom of information requests that quickly go stale. A maintained open database, like the one American civil liberties groups run, would cost a few hundred thousand pounds a year."
+  },
+  {
+   "number": 79,
+   "tagline": "A court found indefinite mugshot retention unlawful in 2012. Police hold 19 million.",
+   "summary": "The police face-search corpus is built on custody images a court ruled unlawful to keep — fourteen years ago. Hundreds of thousands of people never charged remain searchable by face indefinitely. DNA and fingerprints already get deleted automatically, and the same rule could simply be extended to photographs."
+  },
+  {
+   "number": 80,
+   "tagline": "The NHS can leave Palantir in February 2027. Nobody has built anywhere to go.",
+   "summary": "The Palantir-built NHS data platform, a £330m contract, reaches its break clause early next year, and a Commons committee has urged moving to a homegrown replacement. But no funded alternative exists, so lock-in wins by default. Patients cannot even opt out."
+  },
+  {
+   "number": 81,
+   "tagline": "Wrongly locked out of your digital ID? There is no ombudsman and no offline guarantee.",
+   "summary": "The unit overseeing digital identity sits inside the government department that runs it, and the One Login system beneath it lost certification against the government's own trust framework. Millions will need it to prove they can work. An independent regulator, a redress scheme and a right to offline alternatives are all missing."
+  },
+  {
+   "number": 82,
+   "tagline": "Ten million bank accounts face benefit-fraud scans. Nobody has to publish the error rate.",
+   "summary": "New powers let the benefits department make banks scan claimants' accounts for signs of ineligibility, rolling out from 2026. Nobody independent will publish false-positive rates, and welfare advisers lack the data-rights expertise to challenge wrongful flags. An observatory plus a toolkit for advisers would make any harms visible."
+  },
+  {
+   "number": 83,
+   "tagline": "Age checks made millions upload their faces and passports. Securing them is voluntary.",
+   "summary": "Online age rules push users into face scans and passport uploads with third-party verifiers, and the risk is already proven — a breach at a Discord contractor exposed about 70,000 government ID photos. Certification of these providers remains voluntary. Mandatory security standards could arrive through Ofcom guidance and a targeted change to the law."
+  },
+  {
+   "number": 84,
+   "tagline": "Britain built a blacklist for dodgy government contractors. It has zero entries.",
+   "summary": "More than a year after launch, the register for barring misbehaving suppliers from public contracts is still empty, and only ministers can put a name on it. Covid procurement fraud and error cost an estimated £10.9bn. An investigator with its own referral route, open to journalists and whistleblowers, would give the list teeth."
+  },
+  {
+   "number": 85,
+   "tagline": "Most lobbyists never appear on the lobbying register. The law only counts consultants.",
+   "summary": "The register covers hired consultant lobbyists only — in-house corporate lobbyists, the bulk of the industry, are exempt, which is exactly how Greensill's influence went unrecorded. A ready-made bill in the Lords would close the loophole. Meeting disclosures could turn monthly and machine-readable too."
+  },
+  {
+   "number": 86,
+   "tagline": "For most officials, breaking the revolving-door rules risks nothing but embarrassment.",
+   "summary": "Rules on officials taking jobs with the industries they regulated have carried no legal penalty for fifty years, and last October's reorganisation merely shuffled the toothless function between bodies. Enforceable contract terms with clawback for breaches, plus a single public register, would finally change the incentive."
+  },
+  {
+   "number": 87,
+   "tagline": "The new ethics watchdog answers to the Prime Minister it is meant to watch.",
+   "summary": "The commission created to restore standards after Partygate can only advise, cannot investigate individuals, and could be dissolved by any future Prime Minister at a stroke — it exists by executive decision, not law. Statute could give it a protected budget and the power to open its own investigations."
+  },
+  {
+   "number": 88,
+   "tagline": "A single donor can still give a British political party an unlimited sum. Legally.",
+   "summary": "The new elections bill raises fines and adds donor checks, yet caps nothing — a donor may still give any amount. Company donations are tested on revenue rather than UK profit, so shell firms can still pass foreign money through. Amendments could close both loopholes."
+  },
+  {
+   "number": 89,
+   "tagline": "Fraud enforcement pays for itself three times over. Britain still starves it.",
+   "summary": "The Serious Fraud Office more than pays for itself, yet its salaries fall ever further behind the private firms it faces in court. The national financial intelligence unit still has fewer staff than international assessors recommended in 2018. A ringfenced fund recycling recovered criminal assets into enforcement would end the false economy."
+  },
+  {
+   "number": 90,
+   "tagline": "Company ID checks now exist. The agents doing the checking are barely supervised.",
+   "summary": "Identity verification finally came to Companies House, but much of it is done by corporate service agents whose sector has long been the weakest link in money-laundering supervision. The Scottish partnership vehicles used to move up to $80bn out of Russia are still awaiting their fix. Publishing per-firm audit results would show whether the reform is real."
+  },
+  {
+   "number": 91,
+   "tagline": "Half the shell companies in major leaks fly the British flag. Their owners stay hidden.",
+   "summary": "Britain's overseas territories promised public registers of company owners and delivered gated ones — Cayman charges for each search and its Premier refuses an open register outright. So reform at Companies House simply pushes dirty money offshore under the same flag. London holds backstop powers to force the issue and has declined to use them."
+  },
+  {
+   "number": 92,
+   "tagline": "Freedom of information requests hit a record high. The watchdog's budget fell 41%.",
+   "summary": "Freedom of information exposed the VIP-lane contracts and the Cabinet Office unit vetting requests. Yet the regulator's budget for enforcing it has been cut 41% in real terms, and ministers are now exploring making requests easier to refuse. Funding it directly from Parliament, and extending it to outsourced public services, would rescue the public's main audit tool."
+  },
+  {
+   "number": 93,
+   "tagline": "Courts can now throw out bullying libel suits — but only ones about economic crime.",
+   "summary": "The High Court has used new strike-out powers for the first time, throwing out an £8m libel claim it found oppressive. But the shield covers only speech about economic crime — reporting on sexual misconduct or environmental harm gets nothing. A model law extending protection to all public-interest speech is already drafted."
+  },
+  {
+   "number": 94,
+   "tagline": "Whistleblowers catch more fraud than auditors. UK law protects them after the sacking.",
+   "summary": "Insiders raised alarms in the Post Office and pandemic-procurement scandals and were ignored or punished — the law gives them a tribunal claim after the damage, not protection before it. Nobody is even obliged to investigate what they disclose. A bill creating an Office of the Whistleblower is already in Parliament."
+  },
+  {
+   "number": 95,
+   "tagline": "265 local papers gone, and journalism still doesn't count as a charitable purpose.",
+   "summary": "Public-interest journalism is not a recognised charitable purpose, so investigative newsrooms squeeze through loopholes — the fact-checkers at Full Fact were rejected twice before winning charity status. Every register and disclosure regime relies on reporters to activate it. A change to charity law plus a national endowment would secure the discovery layer."
+  },
+  {
+   "number": 212,
+   "tagline": "Corrupted records convicted hundreds. Destroyed records stripped citizens of status.",
+   "summary": "The Post Office and Windrush scandals were both, at root, failures of record-keeping that nobody could independently verify. No UK institution stores inquiry evidence, judgments or contracts in tamper-evident, publicly checkable form, though the technology exists. A pilot could start with a single inquiry's evidence corpus."
+  },
+  {
+   "number": 96,
+   "tagline": "A law protecting mutuals from asset-stripping passed in 2023. It still does nothing.",
+   "summary": "Parliament gave mutual societies a way to lock their assets against demutualisation raids — the mechanism that hollowed out Britain's building societies — but the Treasury has never made the regulations that switch the law on, reportedly over an unresolved tax question. Publishing the analysis and laying the regulations is all it would take."
+  },
+  {
+   "number": 97,
+   "tagline": "The door to founding a friendly society shut in 1993. Nobody ever reopened it.",
+   "summary": "Software makes running a 500-member sick-pay club operationally trivial, but UK law demands anyone starting one become a regulated insurer, so nobody has founded a friendly society in decades. Millions of self-employed workers lack sick pay. A slim registration route for small benefit societies would reopen the form that built British welfare."
+  },
+  {
+   "number": 98,
+   "tagline": "Thousands can now govern a shared treasury online. UK law calls that unlimited liability.",
+   "summary": "Software lets thousands of strangers govern a shared treasury, but UK law treats such groups as partnerships with unlimited personal liability, so serious projects incorporate abroad. The same defect left about 4,000 pandemic mutual-aid groups legally invisible. A simple limited-liability association status would serve street groups and online communities alike."
+  },
+  {
+   "number": 99,
+   "tagline": "Wales has a co-op development agency. Scotland has one. England, somehow, does not.",
+   "summary": "Government has pledged to double the mutual sector, yet England — most of the UK's population — has no publicly funded body whose job is forming new co-operatives, while Wales has run one since 1982. An English agency, franchised through mayoral authorities, is fundable at £10-20m a year."
+  },
+  {
+   "number": 100,
+   "tagline": "Starting a company takes a day online. Registering a co-op takes ten working days.",
+   "summary": "Forming a company online costs about £50 and happens the same day. A mutual society can pay up to £950, wait weeks, and join a register that is mostly scanned paper nobody can query. Moving registration to Companies House, or rebuilding the registry with open data, would end the toll."
+  },
+  {
+   "number": 101,
+   "tagline": "Town pounds died out. Their smarter successor is stuck in regulatory limbo.",
+   "summary": "Local currencies like the Bristol Pound are gone, and the better idea replacing them — businesses clearing debts against each other without cash — operates with no regulatory guidance and no public backer. Sardinia proved such networks work at regional scale. One well-designed city pilot with a council on board could do the same here."
+  },
+  {
+   "number": 102,
+   "tagline": "Every new community pub pays lawyers for documents the last one already paid for.",
+   "summary": "The templates for founding a co-op, community share offer or wrapped digital collective are scattered, paywalled or locked inside model rules you must buy. An openly licensed library of governing documents, maintained like open-source software, may be the cheapest intervention on this map — low seven figures to build."
+  },
+  {
+   "number": 103,
+   "tagline": "Communities won the right to buy their local pub. The fund to pay for it closed in 2024.",
+   "summary": "A new law gives communities first refusal when local assets come up for sale, with a year-long pause to raise the money — but the national fund that backed such purchases closed with no successor. Rights without finance favour wealthy villages. A standing acquisition facility of £100m or more would fit the pause exactly."
+  },
+  {
+   "number": 104,
+   "tagline": "Home-educated teens can sit GCSEs only if an exam centre does them a favour.",
+   "summary": "The state is registering home-educated children without guaranteeing anything back — even exam access depends on goodwill places at approved centres, at up to £250 per subject. Poorer families are hit hardest. A duty on councils to secure exam places at cost would be the service half of the new settlement."
+  },
+  {
+   "number": 105,
+   "tagline": "Britain has 22 special economic zones. Not one can try governing differently.",
+   "summary": "Freeports and investment zones hand out tax breaks but no power to test new rules, so ambitious governance experiments either move abroad or never happen. The Netherlands and Germany allow time-limited, evaluated regulatory trials in designated places. A framework with local consent and automatic expiry would let Britain experiment onshore."
+  },
+  {
+   "number": 106,
+   "tagline": "Community shares run on trust, not law. One big collapse could poison the whole market.",
+   "summary": "Withdrawable shares finance community pubs, shops and energy projects, yet sit outside investor-protection law — the only safeguard is a voluntary mark, and cashing out depends on the society's till that day. The Law Commission's reform proposals are due this year. Enacting them, plus a facility letting members exit safely, would put the market on solid ground."
+  },
+  {
+   "number": 214,
+   "tagline": "Six million union members vote with processes less verifiable than a parkrun result.",
+   "summary": "Verifiable voting — where each member can confirm their ballot counted and anyone can check the tally — has never been trialled with real UK membership organisations, so every debate about electoral technology restarts from zero. Union ballots, co-op meetings and participatory budgets are the safe, low-stakes places to build the evidence."
+  },
+  {
+   "number": 220,
+   "tagline": "Millions of self-employed workers fall through the safety net. A mutual could catch them.",
+   "summary": "No British community has demonstrated the modern mutual — sick pay, bargaining power and legal defence for members, run on a transparent treasury. Existing law already allows a version of it. A pilot with a thousand members would give reformers a live client, funders a template, and the self-employed a way back in."
+  },
+  {
+   "number": 107,
+   "tagline": "Germany pays the maintainers of critical open code. Britain free-rides on them.",
+   "summary": "Foreign governments treat open-source software as infrastructure and pay for its upkeep. The UK, which relies on the same code — and originated some of it — pays nothing. A costed proposal for a £12.5m-a-year maintenance fund already exists, waiting for a department to adopt it."
+  },
+  {
+   "number": 108,
+   "tagline": "Online safety rules drove 300 volunteer forums offline. Each admin still stands alone.",
+   "summary": "When Online Safety Act duties landed, around 300 small community forums went dark rather than shoulder the legal risk alone. Every volunteer running a forum or server still writes their own risk assessment, uninsured and unadvised. A compliance co-operative — templates, a legal helpline, group insurance — would let community life stay off Big Tech."
+  },
+  {
+   "number": 109,
+   "tagline": "The power to break encrypted messaging sits on the statute book, held back by a promise.",
+   "summary": "British law lets regulators order the scanning of private messages, and separate secret notices already forced Apple to pull its strongest cloud encryption from UK users. Nothing in statute protects encryption, and not even the number of secret orders is published. A legal shield plus annual transparency reporting would fix both."
+  },
+  {
+   "number": 110,
+   "tagline": "France runs its government on a British protocol. Whitehall runs on WhatsApp.",
+   "summary": "More than 25 countries run secure state messaging on Matrix, a protocol invented in Britain — while British government business still travels over WhatsApp, criticised by the Covid inquiry. A pilot government messenger and cheap managed servers for councils and charities would bring the technology home."
+  },
+  {
+   "number": 111,
+   "tagline": "New data powers became law in 2025. Beyond banking, nobody has switched them on.",
+   "summary": "New smart-data powers could route your energy, care or telecoms records into a store you control — but ministers have designated no scheme beyond open banking. Fifteen years of personal data store pilots have worked and then stalled. One designated scheme with an open standard would finally flip the default from hoarding to citizen custody."
+  },
+  {
+   "number": 112,
+   "tagline": "Public AI compute flows to labs and startups. Charities are left renting Silicon Valley.",
+   "summary": "Britain's £500m sovereign AI push funds researchers, startups and the state — not the charity running advice triage or the local newsroom that could use a small model of its own. Without a community tier, civil society sends its sensitive data to US cloud companies instead. A modest compute allocation plus hands-on support would change that."
+  },
+  {
+   "number": 113,
+   "tagline": "Starting a co-op is harder than starting a company. The paperwork is the policy.",
+   "summary": "Forming a co-operative in Britain is slower and costlier than forming a company, and the law does not recognise co-ops that vote and govern online. The Law Commission's modernisation report lands in 2026. Implementing it — with digital registration and model rules for online-first mutuals — would stop community ownership losing by default."
+  },
+  {
+   "number": 114,
+   "tagline": "Italian firms trade hundreds of millions in mutual credit. UK law has no lane for it.",
+   "summary": "Every serious design for a community currency trips either e-money rules, consumer-credit law or a crypto regime built for capitalised issuers. Italy's Sardex network shows regional mutual credit can carry hundreds of millions in trade. Proportionate guidance from the financial regulator, plus shared clearing infrastructure, would let British towns try."
+  },
+  {
+   "number": 115,
+   "tagline": "British charities run on discounted Google. The co-ops that could host them stay tiny.",
+   "summary": "France built Framasoft, a public-interest host offering the everyday tools charities need. Britain has the same software and willing co-op operators, but no funder has aggregated them into a service with real support and charity pricing. It may be the easiest gap on this map to close — every piece already runs somewhere."
+  },
+  {
+   "number": 116,
+   "tagline": "When the phone network dies, hobbyists have a backup. Emergency planners don't.",
+   "summary": "Cheap, encrypted radio mesh networks already carry messages when power and phone masts fail, and British hobbyists run a national one. Official resilience doctrine gives them no role, no kit list and no funding. Starter kits for parish councils would cost tens of pounds a node."
+  },
+  {
+   "number": 117,
+   "tagline": "Proving you're over 18 shouldn't mean handing over your passport.",
+   "summary": "Identity checks are spreading across British life — age, work, services — and each one currently means uploading real documents to a private company. The cryptography to prove a single fact without revealing anything else already exists. Nobody has built the open, certified standard that would let every UK service use it."
+  },
+  {
+   "number": 118,
+   "tagline": "Nearly every claim about community tech comes from the people selling it.",
+   "summary": "Councils and funders weighing decentralised tools — encrypted messaging, data stores, digital currencies — rely almost entirely on vendor claims. Nobody runs structured field trials with real housing co-ops or parish councils and publishes comparable results. A test lab would tell communities which tools are ready and which are still whitepapers."
+  },
+  {
+   "number": 217,
+   "tagline": "Leaving a bank, a pension or a platform keeps getting harder. Nobody is measuring it.",
+   "summary": "Exit is what keeps institutions honest — banks, platforms and governments all behave better when leaving is cheap. Across British life the cost of leaving is rising, and no one measures it. An annual index of switching costs, scored per institution, is a research product a small team could ship in a year."
+  },
+  {
+   "number": 223,
+   "tagline": "Whoever runs the servers carries the legal risk. In Britain, they carry it alone.",
+   "summary": "Decentralised networks fail at the human layer: the state can always reach the handful of people running the nodes. UK operators of relays and community servers face safety duties and secret surveillance notices with no tailored legal guidance, defence fund or experienced counsel. Without support, they quit or move abroad — and dependence returns."
+  },
+  {
+   "number": 119,
+   "tagline": "Harm a million people a little each and British law has no working way to make you pay.",
+   "summary": "Mass data abuses — leaky ad auctions, mega-breaches — hurt vast numbers of people a few pounds at a time, sums nobody can sue over alone. Competition law lets a claim proceed for a whole class at once. Data protection law does not, and Parliament keeps declining to fix it."
+  },
+  {
+   "number": 120,
+   "tagline": "Europe has an organisation that sues over data rights for a living. Britain doesn't.",
+   "summary": "Data rights only bite when someone files the complaints, chases the tribunal and appeals the brush-offs — the machine the Austrian group noyb runs across Europe. No British organisation is staffed to do it. Lawyers plus technologists at £1–2m a year would close the gap."
+  },
+  {
+   "number": 121,
+   "tagline": "There is no appeal when the data watchdog looks at a breach and does nothing.",
+   "summary": "The Information Commissioner found the online ad industry systemically breaking data law in 2019 and has never enforced against it — and complainants can only challenge the paperwork, not the outcome. A regulator whose inaction carries no risk will keep choosing inaction. A merits appeal to a tribunal, as freedom-of-information law already has, would rebalance the incentives."
+  },
+  {
+   "number": 122,
+   "tagline": "Age checks turned ID uploads into honeypots. One breach spilled 70,000 of them.",
+   "summary": "The rules for online age checks measure whether they work, not whether they protect you — so millions of people now upload passports and selfies to third parties. Europe has published a blueprint for proving your age without handing over your identity. Britain could mandate the same and fund an open version anyone can use."
+  },
+  {
+   "number": 123,
+   "tagline": "Ministers promise a private digital ID. Nothing in the bill yet holds them to it.",
+   "summary": "A 2.9m-signature petition already forced ministers to drop compulsion from the digital ID scheme. But the bill still lacks the safeguards that matter — no ban on tracking where your ID gets used, no watchdog independent of the department running it. Amendments could fix that before the architecture becomes permanent."
+  },
+  {
+   "number": 124,
+   "tagline": "Every British Apple user has weaker cloud security than the rest of the world.",
+   "summary": "A secret order forced Apple to strip its strongest encryption from British customers — a downgrade no other country has managed. The public learned of it only through leaks and litigation. No law protects end-to-end encryption, and the state does not even have to say how many such orders exist."
+  },
+  {
+   "number": 125,
+   "tagline": "The NHS data opt-out doesn't cover the biggest NHS data platform.",
+   "summary": "Patients who opted out of NHS data sharing are still in the Palantir-built platform now covering most hospital trusts, and none of them can see who has accessed their record. Britain has collapsed two national health-data schemes this way already. A real opt-out plus a usage report in the NHS App would break the cycle."
+  },
+  {
+   "number": 126,
+   "tagline": "Your genome is protected by a gentleman's agreement with the insurance industry.",
+   "summary": "The state is sequencing 100,000 newborns while the only thing stopping insurers using genetic results against you is a voluntary code that an industry board could rescind. America and Canada legislated years ago. Nobody in Britain even owns the campaign for a law."
+  },
+  {
+   "number": 127,
+   "tagline": "Britain writes world-class privacy tech guidance, then funds none of the tech.",
+   "summary": "Privacy-enhancing technologies let organisations use data without exposing it — the closest thing to a technical fix for the growth-versus-privacy fight. The UK leads the world in guidance about them and has no standing fund to deploy any. A modest adoption fund, tied to how the NHS and tax office share data, would finally test them at scale."
+  },
+  {
+   "number": 128,
+   "tagline": "You've had the right to move your data since 2018. There's still no easy way to use it.",
+   "summary": "Exercising your data rights today means filing subject access requests alone. Certified intermediaries could wield them for you at scale, as open banking's 13 million users prove. But there is no legal route to authorise them — pioneers have waited a decade, and a government consultation is only now open."
+  },
+  {
+   "number": 129,
+   "tagline": "Companies you've never heard of trade your data. Not even the government has a list.",
+   "summary": "Nobody — including the government — can name the firms holding and selling profiles of UK residents, data that feeds scams, discriminatory pricing and hostile-state targeting. Rights are useless against companies you cannot identify. California keeps a public register and a one-stop deletion law — Britain could copy both."
+  },
+  {
+   "number": 130,
+   "tagline": "The watchdogs that forced a digital ID retreat run on less than £10m between them.",
+   "summary": "Every major privacy win of the past two years — the digital ID climbdown, scrutiny of secret encryption orders, the NHS data fight — came from a handful of groups whose combined budgets would not buy a football substitute. One funder leaving could collapse the field. A pooled fund making multi-year grants would make it durable."
+  },
+  {
+   "number": 216,
+   "tagline": "Lose your bank account and no institution in Britain is tasked with getting you back.",
+   "summary": "Debanking, de-platforming and digital ID errors can cut a person off from work, rent and trade overnight, with appeals that take months and no due process. No service exists whose whole job is restoration. One is buildable: emergency payment routes, identity re-establishment and casework against the institution that pulled the plug."
+  },
+  {
+   "number": 131,
+   "tagline": "AI is reshaping British jobs right now. The state finds out years later.",
+   "summary": "No one in Britain can see which occupations and towns AI is hitting until long after the fact — official statistics were never built for it. Yet every response, from retraining to income support, depends on that knowledge arriving quarterly. Linking payroll records, job adverts and firm-level AI adoption would create the early-warning system."
+  },
+  {
+   "number": 132,
+   "tagline": "Call-centre jobs are down 19% and there's no plan for the people losing them.",
+   "summary": "Britain has retraining schemes but nothing that replaces income while a mid-career worker retrains — no equivalent of America's trade adjustment support or Denmark's flexicurity. The government's own analysis puts a third of the workforce in the displacement-risk zone. A pilot combining wage insurance with a retraining entitlement could start in the occupations already shrinking."
+  },
+  {
+   "number": 133,
+   "tagline": "Britain tests the most powerful AI models only when their makers say yes.",
+   "summary": "The AI Security Institute has tested more than 30 frontier models, but its access rests entirely on voluntary agreements that mostly US labs can withdraw at will. The promised law putting it on a statutory footing has slipped since 2024, and no AI bill is before Parliament. The window to set enforceable terms is closing."
+  },
+  {
+   "number": 134,
+   "tagline": "Plane crashes get investigated. Drug reactions get logged. AI failures just vanish.",
+   "summary": "Aviation, medicines and workplace safety all run mandatory incident reporting. AI — now embedded in benefits, policing and hospitals — has nothing, so no one can spot patterns or catch early warnings of bigger failures. A central incident database may be the cheapest single piece of AI preparedness available — and it remains unbuilt."
+  },
+  {
+   "number": 135,
+   "tagline": "The data centres are in Britain. The off switch is in Washington.",
+   "summary": "Britain's AI build-out runs on roughly £31bn of American capital, and the computers stay under US corporate and export-control jurisdiction wherever they physically sit. No contract or statute guarantees UK access if Washington ever rations it. Step-in rights and a public compute reserve would anchor the strategy in law rather than goodwill."
+  },
+  {
+   "number": 136,
+   "tagline": "If American AI access ever ends, Britain has no plan B. Open models could be one.",
+   "summary": "Open-weight AI models now trail the frontier by only months, making them a credible fallback if US access were restricted or repriced — but a fallback only if someone maintains and adapts them in advance. Europe is building its own open frontier model. Britain's sole effort is a small university project."
+  },
+  {
+   "number": 137,
+   "tagline": "Political deepfakes are legal, unlabelled and already reaching three in ten adults.",
+   "summary": "Three in ten adults saw a candidate deepfake in the month before this year's local elections, yet election law binds only registered campaigners and no regulator owns the problem. The next general election will be the first fought amid cheap, fluent synthetic media at scale. The fix is known — it just has to pass before the campaign starts."
+  },
+  {
+   "number": 138,
+   "tagline": "Government is Britain's biggest AI adopter and its least audited.",
+   "summary": "AI now helps read 2.4 million NHS chest X-rays a year and drafts ministers' briefings. A supposedly mandatory transparency standard has produced barely 33 published records, and no independent body audits whether any of it works. One conspicuous failure — in benefits, policing or health — could set adoption back years."
+  },
+  {
+   "number": 139,
+   "tagline": "No one in government models what AI displacement does to the tax take.",
+   "summary": "Nearly half of government revenue comes from taxing wages, and most British workers sit in AI-exposed jobs — yet no institution models what happens to receipts if white-collar incomes compress. Fiscal stress will arrive before unemployment statistics do. Mandating the budget watchdog to publish AI downside scenarios would buy the Treasury time to prepare."
+  },
+  {
+   "number": 140,
+   "tagline": "The towns hosting AI data centres could lose their biggest service employers to AI.",
+   "summary": "Call-centre work clusters in the North East, South Wales and central Scotland — the same regions now hosting data-centre building booms that leave few lasting jobs. Displacement lands as local shocks, the lesson of deindustrialisation, yet no exposure map feeds any local growth plan. Transition compacts for the most exposed towns would put an owner on the problem."
+  },
+  {
+   "number": 141,
+   "tagline": "An AI agent can cause harm that no person is legally liable for. That's the law now.",
+   "summary": "The Law Commission has identified scenarios where an autonomous system causes harm and no one is legally liable, yet no reform project exists to fix them. Unclear liability chills honest deployment and leaves victims uncompensated, and insurers cannot price the risk. Waiting for the first big uncompensated harm means legislating in a panic."
+  },
+  {
+   "number": 142,
+   "tagline": "Graduate job adverts are down nearly half. The real bill arrives in the 2030s.",
+   "summary": "Firms exposed to AI are cutting junior roles, and graduate postings are reported down 45% year on year. Every cohort that misses its first job is a permanent scar — on individual earnings and on the senior skills Britain needs in the 2030s. Levy rebates conditional on keeping junior intake would give firms a reason to train."
+  },
+  {
+   "number": 219,
+   "tagline": "When anything can be faked, Britain still proves 'what happened' with a single web page.",
+   "summary": "Synthetic media is now free to make, yet election results and emergency alerts still rest on single sources with no independent way to verify them. Detection tools lose the arms race — provenance doesn't have to. A pilot letting returning officers, observers and the elections watchdog cryptographically co-sign results would make the record checkable by anyone."
+  },
+  {
+   "number": 143,
+   "tagline": "Germany pays the volunteers who maintain critical code. Britain still free-rides.",
+   "summary": "Open-source code sits in about 96% of codebases, including systems behind the NHS and the banks, yet the UK has no fund to maintain it. Germany has paid for exactly this since 2022. A British version — costed at £12.5m a year — could contract the maintainers our infrastructure quietly depends on."
+  },
+  {
+   "number": 144,
+   "tagline": "One small pooled fund signed up 746,000 voters. Imagine it at ten times the size.",
+   "summary": "Britain's democracy work — voter registration, election integrity, civic information — leans on a handful of family trusts, and one funder's retreat can collapse a whole field. The UK's pooled democracy fund proved the model, credited with helping register some 746,000 voters. The same fund at £20m a year, locked in for the long term, is the obvious build."
+  },
+  {
+   "number": 145,
+   "tagline": "Millions use Britain's civic tech. Its anchor funder left, and no one took the seat.",
+   "summary": "The websites that let Britons file freedom of information requests, track Parliament and find their polling station run on hand-to-mouth grants — and the foundation that anchored the field has moved on. One flagship operator's income fell 15% in a year. Government quietly relies on these services — it could pay for them as public infrastructure, or an endowment could."
+  },
+  {
+   "number": 146,
+   "tagline": "US foundations must pay out 5% a year. British ones needn't even disclose theirs.",
+   "summary": "Tens of billions of pounds sit in charitable endowments, and nobody can tell whether they are being spent or stockpiled — the UK requires no minimum payout and no reporting of payout rates. Even a small rise in average payout across the largest foundations could free hundreds of millions a year. An annual-return rule would start the argument with facts."
+  },
+  {
+   "number": 147,
+   "tagline": "The plan to grow British philanthropy has £1m behind it. The prize runs to billions.",
+   "summary": "Britain's richest give away a tiny share of their wealth, and the best-evidenced fix — matching private donations with public money — has no national vehicle. Charity researchers reckon modest giving by millionaires alone would add £12bn a year. The government's plan so far comes with £1m attached."
+  },
+  {
+   "number": 148,
+   "tagline": "A ten-year campaign won a fund for left-behind places. It arrived a tenth of the size.",
+   "summary": "Campaigners spent a decade winning a Community Wealth Fund for neighbourhoods with the least social infrastructure. It launches at £175m — enough to reach only a fraction of the places that qualify. A fixed slice of future dormant assets, plus matched philanthropy, could build the permanent billion-pound endowment the campaign originally imagined."
+  },
+  {
+   "number": 149,
+   "tagline": "When local news dies, scrutiny goes with it. The UK's main fix pays three big publishers.",
+   "summary": "The UK has no independent fund for public-interest news, years after an official review recommended one. The main subsidy that does exist sends most of its funded reporters to the three dominant publishers. An endowed, arm's-length news fund — paid for by a platform levy or foundations — is the well-studied missing piece."
+  },
+  {
+   "number": 150,
+   "tagline": "The centre that told government what works for wellbeing died waiting for its next grant.",
+   "summary": "Government leans on What Works Centres to say which policies deserve money, then funds them on short grants anyone can drop. The wellbeing centre — which helped shape Treasury spending rules — closed in 2024 when its grants simply ran out. A pooled ten-year funding facility would treat evidence as infrastructure, not a project."
+  },
+  {
+   "number": 151,
+   "tagline": "British foundations give away billions. Community organising sees 0.3% of it.",
+   "summary": "Community organising — the slow work of building local leaders and local power — receives 0.3% of UK foundation grants. Without it, new buildings and funds land in places with nobody organised to use them. A single pooled fund exists but remains small — scaling it up, with a training institute for organisers, is the fix on the table."
+  },
+  {
+   "number": 152,
+   "tagline": "London hosts world-class charity evaluators. They point donors abroad, almost never here.",
+   "summary": "No organisation publishes rigorous, public rankings of which UK charities and civic projects deliver the most per pound. Wealthy donors name doubt about impact as a reason they hold back. A domestic evaluator would cost £2-3m a year to run — trivial next to the giving it could redirect."
+  },
+  {
+   "number": 153,
+   "tagline": "Crypto funders give millions to public goods. British charities lack a way to accept it.",
+   "summary": "One programme alone has granted over $148m to open-source and civic projects worldwide, yet no UK vehicle exists to receive crypto public-goods money, and charity trustees stay wary. British civic tech, short of funders at home, forfeits grants its American and European peers collect. A crypto-competent fiscal sponsor and clear Charity Commission guidance would open the tap."
+  },
+  {
+   "number": 154,
+   "tagline": "Who funds what in British philanthropy? Mostly, nobody can say.",
+   "summary": "American foundations must file every grant in machine-readable form, while British funders publish voluntarily — only around 300 of them do. That blind spot makes every other gap on this map harder to prove and every funder collaboration harder to broker. A reporting rule in the charity annual return would finally show where the money goes."
+  },
+  {
+   "number": 155,
+   "tagline": "Police facial recognition is heading for national rollout. Parliament never voted on it.",
+   "summary": "Thirteen police forces already use live facial recognition and a national rollout is planned, yet no dedicated law says when cameras may scan a crowd or who lands on a watchlist. Courts, police and citizens all operate in legal fog. The government has consulted on a statutory framework — the gap is turning it into an Act with real oversight."
+  },
+  {
+   "number": 156,
+   "tagline": "Unpaid volunteers maintain the code beneath government services. Whitehall pays nothing.",
+   "summary": "No UK body pays for the maintenance and security of the open-source software that public services, banks and utilities run on. Germany has spent over €23m doing exactly this, and the EU is following. A British fund on the German model — with a published map of which code matters most — exists on paper and awaits a sponsor."
+  },
+  {
+   "number": 157,
+   "tagline": "Ministers want to double the co-op economy. The law behind it is a century old.",
+   "summary": "Parts of the law governing co-operatives have gone unreviewed for over a century, making community ownership of housing, energy and platforms needlessly hard. The Law Commission has modernisation ready in 2026 — but its reports routinely die awaiting a parliamentary slot. A fast-track commitment to legislate, plus a proper mutuals registrar, would finish the job."
+  },
+  {
+   "number": 158,
+   "tagline": "Government calls youth services decimated. The one law protecting them has no teeth.",
+   "summary": "Councils' only duty to provide youth services comes with a get-out — 'so far as reasonably practicable' — so no one can hold them to it. A £500m strategy is now pouring capital into a system with no floor beneath it. Wales is writing a statutory framework, and England could follow."
+  },
+  {
+   "number": 159,
+   "tagline": "The Post Office exposed Horizon victims' data. Its punishment was a stern letter.",
+   "summary": "The data watchdog no longer fines public bodies — reprimands only — so when the Post Office breached data belonging to 502 Horizon scandal victims, it faced no penalty. Private firms pay millions for equivalent failures. The fix is a sanctions regime with teeth — remediation orders, named accountable officers and redress paid to those affected."
+  },
+  {
+   "number": 160,
+   "tagline": "Britain rebuilt its company register. Twenty-five conflicted supervisors guard the door.",
+   "summary": "New company-register rules mean millions of directors must prove who they are — but the checks lean on professional-body money-laundering supervisors that campaigners call deeply conflicted. Around 65,000 companies already appear to flout ownership rules. Consolidating supervision into one statutory body, with a ring-fenced enforcement budget, would close the weakest link."
+  },
+  {
+   "number": 161,
+   "tagline": "Parliament passes laws by the shelf-load. It almost never checks whether they worked.",
+   "summary": "The system for reviewing laws after they pass has quietly collapsed — researchers found no reviews at all published in 2023 — while skeleton bills push real policy into statutory instruments Parliament cannot amend. Failed laws persist and good ones never scale. A standing scrutiny committee and a reformed procedure for instruments are designed and waiting."
+  },
+  {
+   "number": 162,
+   "tagline": "Civil servants move on before their policies land. Nobody has to answer for the loss.",
+   "summary": "Whitehall runs on musical chairs — officials win promotion by moving, exit schemes are stripping out thousands of experienced staff, and no department publishes targets for keeping expertise in place. Ministers end up advised by officials newer to the subject than they are. Published turnover targets, with permanent secretaries answerable for them, would be a start."
+  },
+  {
+   "number": 163,
+   "tagline": "Auditors say government can't show its spending works. There's no duty to find out.",
+   "summary": "Government has no duty to evaluate its own programmes or publish the results — the audit office says ministers cannot show much of their spending makes a difference. The evidence centres meant to help live from grant to grant and get re-tendered like catering contracts. A duty to evaluate, and decade-length core funding, would fix both ends."
+  },
+  {
+   "number": 164,
+   "tagline": "England's new mayors have big duties and someone else's chequebook.",
+   "summary": "The 2026 devolution Act hands England's strategic authorities wide responsibilities but almost no power to raise or keep revenue — most still live on fragmented Whitehall grants. Scotland and Wales set taxes England's regions cannot. A published fiscal framework — settlement timetables, local revenue tools, a review of the needs-blind funding formula — is the missing half of devolution."
+  },
+  {
+   "number": 165,
+   "tagline": "If AI starts taking jobs at speed, no one in government will see it coming.",
+   "summary": "No institution owns the question of what happens if AI displaces workers quickly — no monitoring, no retraining entitlement, no trigger for support. Business groups already warn the workforce is not ready. An observatory tracking occupational exposure in real time, with pre-agreed responses if the numbers move, would mean acting before the losses rather than after."
+  },
+  {
+   "number": 166,
+   "tagline": "Think tanks help write government policy. They never have to say who pays them.",
+   "summary": "Consultant lobbyists must register, but the think tanks briefing ministers face no disclosure rules — investigators traced £25m of pre-election policy funding to opaque sources. Meanwhile England's new regional governments make big decisions with almost no independent policy capacity outside London. Disclosure rules and endowed regional institutes are the twin fixes."
+  },
+  {
+   "number": 167,
+   "tagline": "Social care reform arrives in two instalments. Nobody owns the gap between them.",
+   "summary": "Social care reform comes in stages — what's affordable now, fundamental change in 2028 — and nobody is tasked with delivering the early recommendations in between. Past commission reports decayed on exactly this shelf. A delivery unit and bridging fund could be set up within months, no new law required."
+  },
+  {
+   "number": 168,
+   "tagline": "Scotland and Wales register their care workers. England can't even name its 1.6 million.",
+   "summary": "England's care workforce — around 1.6 million people — has no register, no enforceable standards and no statutory training body, unlike Scotland and Wales. A fair-pay deal is coming for workers the state cannot individually identify. Registration legislated alongside the pay reforms would give carers portable credentials and a career ladder at last."
+  },
+  {
+   "number": 169,
+   "tagline": "A national pay rise for care workers is coming. No one has said who pays for it.",
+   "summary": "England's Fair Pay Agreement for care workers takes effect from 2028, but no mechanism moves money into the council fee rates most providers depend on. Left unfunded, it risks provider collapse and handed-back contracts — the opposite of a stable workforce. A ring-fenced grant or legal fee-rate floor, settled at the next spending review, is the missing plumbing."
+  },
+  {
+   "number": 170,
+   "tagline": "The UK's most valuable health data sits in GP records. Researchers lost the key in 2021.",
+   "summary": "National research access to GP records collapsed in 2021 when a badly launched data programme met public revolt, and nothing has replaced it. Trials, prevention research and the new health-data service all feel the hole. A rebuilt collection — secure-environment access only, co-designed with GPs and patients, with reformed opt-outs — is the settlement waiting to be issued."
+  },
+  {
+   "number": 171,
+   "tagline": "Britain keeps building health-data infrastructure, then letting the funding lapse.",
+   "summary": "Researchers analyse NHS data inside secure environments built by a £175m programme whose funding has run out, and the new national data service has no statutory footing. The body that legally owns the collections is being dissolved. Without a long-term settlement, Britain repeats its pattern — build health-data infrastructure, then abandon it."
+  },
+  {
+   "number": 172,
+   "tagline": "Twenty years of NHS strategies promise a prevention shift. The money never moves.",
+   "summary": "Every NHS strategy since 2006 has promised to shift money into prevention, yet there is no agreed definition of prevention spending, no baseline and no rule forcing the shift, so acute pressures always claw the money back. A measurable investment standard — or a dedicated Treasury spending category — would turn a slogan into a number someone must hit."
+  },
+  {
+   "number": 173,
+   "tagline": "NHS dentistry runs on a contract that drives dentists out. The new reforms just patch it.",
+   "summary": "The dental contract blamed for access deserts and dentists quitting NHS work dates from 2006, and this year's reforms modify it rather than replace it. Select committees have condemned the model since 2008. What's missing is a dated programme for a successor — piloted, legislated and paired with a workforce plan."
+  },
+  {
+   "number": 174,
+   "tagline": "A million children a year get referred for mental health care. No maximum wait exists.",
+   "summary": "Children's mental health services handle over a million referrals a year with no enforceable waiting-time standard. Waits vary up to seventeen-fold from place to place, and deterioration during the queue shunts children into crisis care. NHS clinicians drew up a four-week standard years ago — mandating it and publishing the data needs no new law."
+  },
+  {
+   "number": 175,
+   "tagline": "MPs rewrote the Mental Health Act. Making it real could take a decade.",
+   "summary": "The new Mental Health Act promises less coercive care, but implementation stretches up to ten years with no dedicated unit, no costed timetable and no duty to report progress. A neighbouring reform was legislated in 2019 and has never been switched on. An implementation unit and an annual report to Parliament would stop history repeating."
+  },
+  {
+   "number": 176,
+   "tagline": "New liberty safeguards became law in 2019. Nobody ever switched them on.",
+   "summary": "Around 124,000 people wait in a backlog for legal authorisation of their confinement. The replacement system Parliament approved in 2019 has never been switched on, and a Supreme Court ruling has just redefined the underlying legal test. That opens a rare window to redesign the framework properly — and fund clearing the queue."
+  },
+  {
+   "number": 177,
+   "tagline": "How many people need care and don't get it? Britain has decided not to count.",
+   "summary": "No official statistic measures how many people need social care and do not receive it — the government declined to produce one, citing methodology. Every funding negotiation therefore starts blind, and charity estimates fill the void. A national statistics series, built from a survey linked to council data, is a well-defined project someone could simply commission."
+  },
+  {
+   "number": 178,
+   "tagline": "The court rescue plan had two halves. Only the one curtailing jury trial reached the law.",
+   "summary": "Sir Brian Leveson designed a package: structural court reform plus diversion to cut demand. Ministers legislated the structural half — including removing the right to choose jury trial — while the diversion half has no bill and no ring-fenced money. A backlog of roughly 80,000 cases is unlikely to fall as modelled."
+  },
+  {
+   "number": 179,
+   "tagline": "A court ruling broke the funding behind group lawsuits. The fix keeps slipping.",
+   "summary": "Most big group claims, like the sub-postmasters', run on third-party funding that a 2023 Supreme Court ruling left largely unenforceable. Ministers accepted the fix, then left it out of the King's Speech. A short bill — drafted once already — would settle the rules before more cases and capital move abroad."
+  },
+  {
+   "number": 180,
+   "tagline": "Wrong millions of people a few pounds each, and British courts can barely touch you.",
+   "summary": "When a company wrongs millions of people a small amount each, individual claims are uneconomic — and outside competition law Britain has no opt-out class action to bundle them. Wrongdoers keep the gains. A general collective redress regime, which the Law Commission begins examining this autumn, would change the maths."
+  },
+  {
+   "number": 181,
+   "tagline": "Legal aid exists on paper. Most people have no local education or benefits lawyer.",
+   "summary": "Nine in ten people in England and Wales have no local legal aid provider for education law, and benefits and care law fare little better. No one has a duty to act when the last provider leaves an area. A statutory coverage duty would make the entitlement real."
+  },
+  {
+   "number": 182,
+   "tagline": "Four inspectors watch the pieces of criminal justice. Nobody inspects the courts at all.",
+   "summary": "Police, prosecution, prisons and probation each have their own inspectorate, but nobody follows a case from arrest to release or holds the system itself to account. Court administration has gone entirely uninspected since 2010. A chief inspector of criminal justice, with courts back in scope, would close the blind spot."
+  },
+  {
+   "number": 183,
+   "tagline": "Two decades after Britain's first drug courts, intensive supervision is still a pilot.",
+   "summary": "Intensive supervision courts — judges keeping offenders with addictions on track through community sentences — have piloted since 2023 with no permanent legal basis, no delivery unit and no recurring budget. Sentencing reform is about to send thousands more people to community sentences. Without a rollout vehicle, the expertise dissipates, as earlier drug courts showed."
+  },
+  {
+   "number": 184,
+   "tagline": "Conviction quashed? You still must prove innocence beyond reasonable doubt to be paid.",
+   "summary": "People whose convictions are quashed must prove innocence beyond reasonable doubt to be compensated — a test almost every exoneree fails, judged inside the ministry whose system failed them. Andrew Malkinson left prison to benefit-sanction letters, not payment. The Law Commission's reform blueprint lands at the end of this year."
+  },
+  {
+   "number": 185,
+   "tagline": "The last resort for the wrongly convicted is itself in collapse — and answers to no one.",
+   "summary": "The Criminal Cases Review Commission is the only route back to court once appeals fail — and it declined to test the DNA that later cleared Andrew Malkinson. Its chair has resigned and MPs demand root-and-branch reform, yet its referral test and lack of outside oversight persist. A criminal appeals act could fix both."
+  },
+  {
+   "number": 186,
+   "tagline": "How well a death is investigated depends on which council pays the coroner.",
+   "summary": "Inquests are how the state learns from deaths, yet coroners are appointed and funded by 85 separate local jurisdictions with no consistent standards. Bereaved families often face the state's lawyers alone. Two decades of reviews have recommended a national service. Ministers keep declining."
+  },
+  {
+   "number": 187,
+   "tagline": "Parliament abolished the sentence in 2012. More than 2,400 people are still serving it.",
+   "summary": "Imprisonment for Public Protection was scrapped fourteen years ago, but not for those already serving it. More than a thousand have never been released, many held years or decades past short tariffs. Ministers keep refusing the one real remedy — a resentencing exercise — even as a United Nations expert urges reconsideration."
+  },
+  {
+   "number": 188,
+   "tagline": "Nobody forecasts prison places until they run out. Then comes the emergency release.",
+   "summary": "Prisons are dangerously past their certified capacity, and official warnings say space could run out within months. Yet nobody independently forecasts demand or scores sentencing laws for capacity impact before they pass. Each crunch ends in improvised emergency release — a standing capacity mechanism would break the cycle."
+  },
+  {
+   "number": 189,
+   "tagline": "Police, courts and prisons can't follow the same case. The backlog hides in the gaps.",
+   "summary": "Every criminal justice agency runs its own case system, with no shared identifier following a person from arrest to release. No one can see in real time where the 80,000-case backlog actually sits, and victims cannot be told what is happening to their case. A common data layer is the unglamorous fix most other reforms depend on."
+  },
+  {
+   "number": 222,
+   "tagline": "Courts control the lives of 200,000 people. Families can't audit a single decision.",
+   "summary": "More than 200,000 people live under court-appointed deputies, their biggest decisions recorded in fragmented files families cannot check. Another 124,000 wait for their confinement even to be authorised. Tamper-evident decision logs, auditable without exposing private details, would deter the abuse that opacity invites."
+  },
+  {
+   "number": 190,
+   "tagline": "Years of council accounts will simply never be audited. Nobody plans to go back.",
+   "summary": "To clear the audit backlog, England let auditors give up: nearly half of local bodies had their accounts disclaimed at the latest deadline, and no one plans to re-audit those years. Fraud or misstatement from that period may simply never surface. A funded recovery programme would re-verify the riskiest balance sheets."
+  },
+  {
+   "number": 191,
+   "tagline": "Councils spend over £100bn a year. No independent body checks whether the sums add up.",
+   "summary": "No institution independently checks whether council funding matches councils' legal duties, so fiscal cliffs arrive as surprises negotiated in private. The best-known forecast of the sector's £7bn shortfall comes from its own lobby group. An independent fiscal watchdog for local government would put the debate on numbers everyone can trust."
+  },
+  {
+   "number": 192,
+   "tagline": "English mayors can spend, but barely tax. Growth they create flows straight to Whitehall.",
+   "summary": "English councils and mayors control little beyond council tax and business rates, leaving England among the most fiscally centralised big economies. A modest devolved menu — a tourist levy, a share of income tax — could raise £4.4bn a year for local services. The Treasury's roadmap arrives this autumn, so far a document rather than an instrument."
+  },
+  {
+   "number": 193,
+   "tagline": "The NHS has a plan for failing hospitals. For failing councils, England improvises.",
+   "summary": "When a council fails there is no rulebook: bailouts are negotiated behind closed doors and commissioners recruited ad hoc from a thin pool. Five councils sit under intervention right now, their residents facing indefinite cuts to service debts that may never be repaid. A statutory failure regime would catch distress early and resolve it openly."
+  },
+  {
+   "number": 194,
+   "tagline": "Every council collapse was visible in the data years ahead. No one's job was to say so.",
+   "summary": "The watchdog meant to spot struggling councils was scrapped, and its replacement is a dashboard run by the department being judged. The next Woking or Thurrock is probably visible in today's data — commercial debt, concentrated investments — but naming it is nobody's job. An independent early-warning unit with a public risk register would change that."
+  },
+  {
+   "number": 195,
+   "tagline": "One in six council finance jobs is vacant, just as the accounts crisis needs them most.",
+   "summary": "Councils cannot produce trustworthy accounts without accountants, yet 16% of finance posts stand vacant and apprenticeship rules have choked the main qualification route. The sector's workforce plan is voluntary and unfunded. A national programme — bursaries, fast-tracks, shared specialists for small councils — would rebuild the pipeline."
+  },
+  {
+   "number": 196,
+   "tagline": "Bad deals sank Woking. Councils still have no expert help for the next big contract.",
+   "summary": "Councils move tens of billions of pounds a year through contracts and commercial deals, yet Whitehall's commercial profession does not serve them and the one body built for the job is small and fee-funded. Reorganisation is about to multiply the contract risk. A national commercial service would put deal teams on call."
+  },
+  {
+   "number": 197,
+   "tagline": "Dozens of councils must merge their IT at once. No fund, no platform, no standards body.",
+   "summary": "Reorganisation forces dozens of abolished districts to merge finance systems and data into new unitary councils — among the largest forced IT consolidations ever attempted in the UK public sector — with no dedicated fund and no shared standards. Birmingham's Oracle failure shows how badly one such project can go. Shared open-source components would stop every council solving it alone."
+  },
+  {
+   "number": 198,
+   "tagline": "Mayors control billions. The scrutiny? Part-time councillors reviewing their own mayor.",
+   "summary": "Devolution hands mayoral authorities flexible multi-billion-pound settlements, but no body follows the pound across everything spent in a place — council, mayor, NHS, police. The first mayoral spending scandal caught late could discredit the whole settlement. Local public accounts committees, piloted first in Greater Manchester and the West Midlands, are the ready answer."
+  },
+  {
+   "number": 199,
+   "tagline": "Your council tax bill is based on what your home was worth in 1991.",
+   "summary": "England has not revalued homes for council tax in 35 years, so identical bills land on wildly different properties and every funding formula built on top inherits the distortion. Wales has already legislated for regular revaluations. A rolling revaluation cycle is entirely buildable — the government has simply ruled it out."
+  },
+  {
+   "number": 213,
+   "tagline": "Council spending data is stale and unauditable. The technology to fix that is routine.",
+   "summary": "Over £100bn of annual local spending now has neither timely audit nor public verifiability, and the spending files councils publish are stale and unstandardised. Publishing payments as they happen, on tamper-evident rails, is technically routine — yet no British public body does it. One willing council could prove the model."
+  },
+  {
+   "number": 200,
+   "tagline": "The Covid inquiry asked for an independent preparedness watchdog. Ministers said no.",
+   "summary": "Every review since 2020 blamed groupthink and absent outside challenge for Britain's pandemic failures — yet ministers rejected the Covid inquiry's call for an independent statutory preparedness body. Between crises, the state still marks its own homework. A watchdog on the climate-committee model would supply the missing challenge."
+  },
+  {
+   "number": 201,
+   "tagline": "Emergency science advice gets assembled after the emergency starts.",
+   "summary": "The scientific advisory group that steers ministers through a crisis is assembled only once the crisis has begun — in 2020 the UK stood up its advice from a cold start. Nothing maintains expertise, models scenarios or challenges assumptions in peacetime. A permanently funded standing network would cut the fatal lag."
+  },
+  {
+   "number": 202,
+   "tagline": "Germany has a trained civilian reserve for disasters. Britain has a crowdfunded charity.",
+   "summary": "The UK has no national volunteer reserve for emergencies — nothing like Germany's technical relief agency or the Nordic civil-defence corps. When crisis hits, surge help is improvised, as it was in 2020. A government-backed corps with training, insurance and employer time-off rights would make the willing useful."
+  },
+  {
+   "number": 203,
+   "tagline": "Charities filled the state's gaps in 2020. There's still no plan to fund them next time.",
+   "summary": "In the pandemic, community groups reached people the state could not — with no defined roles, no funding rails and no coordination. The arrangements remain informal today. A standing protocol with pre-agreed roles and a rapid surge-funding facility would let civil society mobilise fast and get paid for it."
+  },
+  {
+   "number": 204,
+   "tagline": "You cannot improvise a vaccine factory. Britain still has no warm-standby manufacturing.",
+   "summary": "The £1bn pandemic strategy replenishes protective equipment and buys some vaccine capacity, but Britain has no standing surge-manufacturing base and no published stockpile strategy with rotated reserves. Stockpiles degrade, and factories cannot be conjured mid-crisis. A warm manufacturing base is what makes a fast response possible."
+  },
+  {
+   "number": 205,
+   "tagline": "A 2016 exercise predicted the pandemic's failures. Its findings sat on a shelf.",
+   "summary": "Exercise Cygnus foresaw in 2016 the precise weaknesses that crippled the Covid response, and its recommendations were shelved. The far bigger Exercise Pegasus now risks the same fate, with no named owner, no deadlines and no funded follow-through. A statutory mechanism tracking every accepted lesson would break the pattern."
+  },
+  {
+   "number": 206,
+   "tagline": "Climate-proofing Britain needs around £11bn a year. Nothing exists to raise or track it.",
+   "summary": "The climate committee puts Britain's adaptation bill at roughly £11bn a year, split between public and private money, and finds no mechanism to coordinate, guarantee or track it. The flood insurance backstop expires in 2039 with no successor designed. A national adaptation-finance vehicle would keep high-risk homes insurable."
+  },
+  {
+   "number": 207,
+   "tagline": "Most heat deaths happen indoors. No one in government owns keeping homes cool.",
+   "summary": "Overheating rules cover only new homes and are weakly enforced, while three departments each hold a piece of the problem and none owns the outcome. Last year was the UK's hottest on record, and heat mortality is projected to rise sharply. Naming a lead department is the cheap, obvious first step."
+  },
+  {
+   "number": 208,
+   "tagline": "A 2010 law would tame surface flooding. England has never brought it into force.",
+   "summary": "Surface water is the fastest-growing flood risk, threatening around three million properties, yet responsibility is split with no clear owner. The legal fix — mandatory sustainable drainage and ending developers' automatic right to connect to old sewers — has sat uncommenced since 2010, though Wales enforces it. Commencement needs no new law."
+  },
+  {
+   "number": 209,
+   "tagline": "Britain's pathogen radar is switched on in some hospitals and switched off in most.",
+   "summary": "The promised national biosurveillance network — spotting novel pathogens in real time — runs in only around 30 NHS trusts, with wastewater and air monitoring barely begun. Whether the headline funding is genuinely new money is contested, and there are no measurable milestones. Finishing the build decides how early Britain catches the next outbreak."
+  },
+  {
+   "number": 210,
+   "tagline": "A single failure can cascade from power to payments to transport. Nobody owns the whole.",
+   "summary": "The UK secures each of its 13 critical infrastructure sectors separately, and no executive body manages how they depend on one another. A flood, cyber-attack or solar storm in one sector can ripple unchecked through energy, water and finance. An agency with power to set cross-sector standards is the missing piece."
+  },
+  {
+   "number": 211,
+   "tagline": "Local emergency planners have no legal existence and no budget beyond next year.",
+   "summary": "Local Resilience Forums carry the front line of every emergency, yet they have no legal personality and survive on fragmented short-term funding. There is no national chief resilience officer either, despite repeated parliamentary calls. A resilience act with a multi-year settlement would put the front line on a footing to match its job."
+  },
+  {
+   "number": 224,
+   "tagline": "US-owned firms run our NHS and defence data. Nobody checks if US law can reach it.",
+   "summary": "The companies running Britain's most sensitive data platforms are American-owned, and US law can compel an American company to hand over data it controls. No UK contract sign-off asks that question on the record. A required exposure assessment would — and a research body could start auditing signed contracts now."
+  },
+  {
+   "number": 225,
+   "tagline": "Government's no-competition contracts are all public. Nobody adds them up.",
+   "summary": "Direct awards under defence and 'technical' exemptions are each published, then forgotten — so a habit of handing the same suppliers uncompeted work stays invisible. A £240m Ministry of Defence deal went to Palantir without a tender. An open register built from public data would make the pattern legible."
+  },
+  {
+   "number": 226,
+   "tagline": "A firm helped design the levy it's now paid from. The records don't talk to each other.",
+   "summary": "Companies submit evidence to Parliament that shapes funding rules they later draw money from, but the two public records live apart, so the loop is never drawn. Multiverse advised on the skills levy it now trains apprentices under. A tracker linking policy submissions to public money would let anyone see it."
+  },
+  {
+   "number": 227,
+   "tagline": "Government signs software deals it can't leave — and never checks that it could.",
+   "summary": "The state buys deep, long contracts for intelligence and data platforms with no requirement to prove it could ever switch supplier or bring the work in-house. Dependence deepens by default. An exit-readiness test at approval, plus a lock-in toolkit buildable now, would make leaving a real option."
+  },
+  {
+   "number": 228,
+   "tagline": "The public pays for the training. A private company keeps the data.",
+   "summary": "Publicly funded apprenticeships generate detailed learner records held on private platforms under 'legitimate business interest', not consent, with no rules on who ends up owning them. Public money builds private data assets with no strings. A data-governance clause in the funding rules would fix it."
+  }
+ ],
+ "domain_intros": [
+  {
+   "slug": "civic-society",
+   "intro": "Fewer Britons volunteer, join or belong than a decade ago — yet the policy weather has rarely been better. New community rights, a £5bn neighbourhood programme and a formal reset with government have all just arrived. The catch: the institutions needed to make them work keep closing. Money and rights are arriving faster than the capacity to use them.\n\nThe gaps below are mostly missing plumbing: a right to buy with no fund to buy with, resident boards with no one to train them, billions allocated with no statistics or evidence behind them. Local news, community organising and civic tech all run on grants that expire. Most of these gaps come with a concrete fix already sketched — what's missing is an owner."
+  },
+  {
+   "slug": "open-source-public-goods",
+   "intro": "Britain wrote the rules on open government code and remains Europe's top open source contributor — the sector produces over a quarter of UK digital value. Yet by 2026 the state is retreating from its own playbook: the NHS deleted its open source policy, government data rots unowned, and while Germany pays the maintainers of critical code, the UK buys AI equity stakes instead.\n\nThe gaps here are mostly about maintenance — the unglamorous work every funder skips. Nobody pays the volunteers whose code the state runs on, nobody audits the open-by-default rule, nobody keeps reference data current, and charities are locked out of platforms taxpayers already built. Almost every fix has a working model abroad, ready to copy."
+  },
+  {
+   "slug": "youth-mobilisation",
+   "intro": "Britain is about to give 1.6 million teenagers the vote. The infrastructure that would help them use it has been hollowed out for years: council youth spending down by roughly three-quarters, the national youth council collapsed, the National Citizen Service closed. The reform is racing its own foundations.\n\nThe gaps below share a deadline: the first general election with sixteen-year-old voters. Registration pipelines, first-vote education in schools, a rebuilt youth work profession, and programmes for the groups drifting furthest — young men, and the million neither earning nor learning. Each is buildable before that election. Most are cheap."
+  },
+  {
+   "slug": "education-ai",
+   "intro": "Nearly every university student now uses AI in assessed work, and schoolchildren use it every day. The curriculum meant to teach them about it does not reach classrooms until 2028. The exam system, built on coursework a teacher must vouch for, has no fix arriving before 2030. The technology sprinted. The institutions are strolling.\n\nThe gaps below are mostly missing plumbing rather than missing ideas. No one certifies the AI tools schools buy. No fund retrains the teachers or redesigns the exams. Workers displaced in mid-career are offered loans, not grants. Each entry names what could be built and who is best placed to build it."
+  },
+  {
+   "slug": "growth-stagnation",
+   "intro": "Britain has diagnosed its stagnation to death and, unusually, has now legislated against it — planning reform, new towns, pension capital, cheaper industrial power. Yet a high-speed railway here costs many times what France pays, and the law that could add tens of thousands of homes sits enacted but switched off. Passing acts turned out to be the easy part.\n\nThe gaps below live in the unglamorous middle between statute and spade: commencement orders never laid, planning departments short of planners, data platforms dismantled mid-crisis, pension billions pledged to funds that barely exist. Most need no new argument — only an owner, a budget and a date."
+  },
+  {
+   "slug": "debt",
+   "intro": "Britain owes money at every level. The state paid £126bn in debt interest in a single year. Councils hold record borrowing and go bust in surprise announcements. Four million people spend more than they earn each month. The crises differ, but they share a trait: the machinery for handling each is missing, voluntary or switched off.\n\nThe gaps here are less about the size of the debts than the plumbing around them. A repayment scheme Parliament created years ago has never taken a case. No one war-games a gilt crisis in public. Loan-shark enforcement manages a handful of prosecutions a year against millions of victims. Fixes exist for each, and some cost almost nothing."
+  },
+  {
+   "slug": "surveillance",
+   "intro": "Britain is building surveillance faster than it is building the rules. Police vans scan faces in the street with no dedicated law behind them. Secret orders reach into encrypted phones. Age checks push millions of identity documents into private databases. Each programme arrived before its safeguards did.\n\nThe gaps below are the missing counterweights. Some need Parliament — a biometrics law, transparency for encryption orders. Others could be built tomorrow: a public register of what is deployed where, a litigation fund, a stable income for the handful of small charities doing the entire country's watching of the watchers."
+  },
+  {
+   "slug": "corruption-integrity",
+   "intro": "On paper, Britain has just rebuilt its defences against corruption — a new national strategy, a new ethics commission, a register for barring bad suppliers from public contracts. Look closer. The register is empty, the commission can only advise, and breaking the revolving-door rules still carries no legal penalty at all.\n\nMost gaps here are half-built machines waiting for teeth: lobbying registers that miss most lobbyists, watchdogs on goodwill budgets, whistleblowers protected only after the damage. A few need no permission at all — a fraud-spotting unit for procurement data, a defence fund for small newsrooms, an archive nobody can quietly edit."
+  },
+  {
+   "slug": "parallel-institutions",
+   "intro": "Britain built its first welfare system from the ground up, through friendly societies and mutuals owned by their members. The government now wants to double the mutual sector. Yet the law in effect bars anyone from founding a new friendly society, and has done since 1993.\n\nThe gaps below sit between what software makes easy and what statute allows. Some are single switches Whitehall has never flipped, like the asset-lock law passed in 2023 and never turned on. Others could start tomorrow — open legal templates, a community acquisition fund, one flagship mutual that proves the model."
+  },
+  {
+   "slug": "portable-sovereignty",
+   "intro": "Britain invented the messaging protocol France and Germany use for their sovereign government communications — then bought none of it. The pieces of digital self-reliance already exist here: encrypted messaging, personal data stores, co-op software, community hosting. Nobody has assembled them, and the law keeps tripping the people who try. Around 300 volunteer-run forums went offline when Online Safety Act duties arrived.\n\nThe gaps below are mostly small and specific: a maintenance fund here, a registration reform there, a pilot someone could run next year. Some need a minister's signature. Others need a few million pounds and a willing co-op. All of them move power — over messages, money, records and identity — back towards the people they belong to."
+  },
+  {
+   "slug": "privacy",
+   "intro": "Britain's data watchdog found the online advertising industry systemically breaking the law in 2019. Seven years on, it has yet to enforce. That is the pattern across UK privacy: rights exist on paper, and almost nothing makes them bite. Courts closed the group-action route. Complaints take about a year. The entire national advocacy sector runs on less than £10m.\n\nMeanwhile the checks multiply — age verification, digital ID, a health record you cannot fully opt out of — mostly built without privacy safeguards written into law. The gaps below are enforcement machinery, missing legal shields and buildable alternatives: the things that would turn Britain's paper rights into working ones. The buildable half of privacy — encrypted messaging, personal data stores, credentials that prove without exposing — lives under portable sovereignty; what remains here is mostly the law catching up."
+  },
+  {
+   "slug": "ai-crisis",
+   "intro": "The government's own analysis says about 70% of British workers are in jobs exposed to AI — a higher share than America's. Its policy answer is to accelerate: more compute, more adoption, no new law. Graduate job postings have already fallen sharply, and no AI bill is before Parliament. Britain is preparing thoroughly for AI's upside and barely at all for its downside.\n\nThe gaps below are the missing shock absorbers: nobody watching displacement as it happens, no income bridge for workers whose jobs contract, no incident register, no election rules for deepfakes. Most are cheap by Whitehall standards. All get harder to build once the crisis is visible."
+  },
+  {
+   "slug": "funding-gaps",
+   "intro": "Britain is not short of charitable money. Foundations gave a record £8.24bn in a single year. Most adults donate something. Yet the very richest give away under half a per cent of their wealth, the funders who kept civic infrastructure alive are quietly leaving the field, and nobody's job is to fund the connective tissue that everything else depends on.\n\nThe gaps below are about plumbing, not generosity. Missing funds, missing rules, missing data. Each names something buildable — a pooled fund, a match scheme, a reporting requirement — that would move money which already exists towards work that already matters."
+  },
+  {
+   "slug": "policy-gaps",
+   "intro": "Britain has become good at passing laws and bad at making them happen. Flagship Acts sit on the statute book with sections never switched on, watchdogs lack teeth, and Parliament almost never checks whether the laws it passed actually worked. Meanwhile police facial recognition scales towards national rollout with no statute behind it at all.\n\nThe gaps below are mostly not calls for new legislation. They are the missing second half of laws already passed — the enforcement budgets, scrutiny committees, funding instruments and oversight bodies that turn words on vellum into change on the ground."
+  },
+  {
+   "slug": "health-social-care",
+   "intro": "England's health and care system has plans stacked up like planes over Heathrow. A new NHS plan, a social care commission, a fresh Mental Health Act — and beneath them, delivery machinery so thin that a reform from 2019 has still never been switched on. More than a million children a year get referred to mental health services with no enforceable limit on how long they wait.\n\nThe gaps below follow one pattern: the announcement exists, the mechanism does not. Missing registers, funding routes, implementation units and official statistics — the unglamorous parts that decide whether reform reaches a care worker's payslip or a child's referral letter."
+  },
+  {
+   "slug": "justice-access",
+   "intro": "England and Wales is running out of justice. The Crown Court backlog has passed 80,000 cases, with trials booked years ahead. Prisons hold a quarter more people than they were built for. And in much of the country, the right to legal aid means little, because no local lawyer takes the work.\n\nThe gaps below are mostly missing machinery, not just missing money. No inspector watches the courts. No independent body forecasts prison demand or compensates the wrongly convicted. Nothing resentences the thousands still held on a punishment Parliament abolished. Each entry names what could be built, and who could build it."
+  },
+  {
+   "slug": "local-state-capacity",
+   "intro": "English local government is being rebuilt in the middle of a crisis. Councils are merging in the biggest shake-up since 1974, even as council after council leans on emergency support just to set a budget. And audit has quietly collapsed: at the latest deadline, auditors disclaimed nearly half of all council accounts, giving no assurance on the numbers.\n\nThe gaps here are about who watches, who warns and who rescues. No independent body checks whether council funding matches council duties. No early-warning system names the next Thurrock before it fails. The entries below sketch the watchdogs, failure regimes and skilled people the rebuilt system still lacks."
+  },
+  {
+   "slug": "national-resilience",
+   "intro": "The Covid inquiry's verdict on Britain's preparedness was damning, and the government accepted almost every recommendation — except the biggest. There will be no independent body checking the country is ready for the next emergency. Preparedness remains something the state audits itself on, the exact habit the inquiry blamed for 2020.\n\nThe gaps below follow that pattern. Strategies exist for pandemics, floods and heatwaves. What is missing is ownership and money that lasts — a named lead for overheating homes, legal footing for local responders, a mechanism that turns exercise lessons into action. Much has been announced. Less has been built."
+  }
+ ]
+}

@@ -1,0 +1,1370 @@
+[
+ {
+  "number": 1,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: National Lottery Community Fund or dormant-assets distributor; Power to Change-style endowment needs no legislation, community foundations deliver."
+ },
+ {
+  "number": 2,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: regulations under the 2026 Devolution and Community Empowerment Act or a successor Community Power Act."
+ },
+ {
+  "number": 3,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: platform levy legislation plus BBC Charter LDRS settlement; philanthropy-plus-platform-contributions fund possible earlier but not at-scale."
+ },
+ {
+  "number": 4,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: ESRC/DCMS as endowment co-funders; evaluation duties inside government programmes require them at the table."
+ },
+ {
+  "number": 5,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: ONS for badging and mandate; OCSI/Bennett-style open-data prototype can precede the official series."
+ },
+ {
+  "number": 6,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: foundation-funded academy cohort inheriting Local Trust's Community Leadership Academy curriculum and Big Local evidence base."
+ },
+ {
+  "number": 7,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory have-regard duty plus Lobbying Act Part 2 reform — primary legislation."
+ },
+ {
+  "number": 8,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropic maintenance fund paying maintainers of Democracy Club-class codebases; statutory open-data duties are the later end-state."
+ },
+ {
+  "number": 9,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: DBS/Home Office for vetting portability plus a DCMS-class funder for service-year bursaries."
+ },
+ {
+  "number": 10,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: denominations (Church Commissioners-class trusts) must consent to transfers; heritage bodies co-fund."
+ },
+ {
+  "number": 11,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Treasury/dormant-assets match funding at spending review plus Gift Aid reform."
+ },
+ {
+  "number": 12,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: pooled ten-year funder commitment paying organiser salaries in a first cohort of places; NACO training standard exists."
+ },
+ {
+  "number": 13,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DSIT/UKRI budget line issuing maintainer service contracts."
+ },
+ {
+  "number": 14,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: machinery-of-government decision creating a GDS/DSIT OSPO with audit mandate."
+ },
+ {
+  "number": 15,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: GDS Local/DSIT, or LGA-coordinated councils pooling kite-marked evaluations into a standing service."
+ },
+ {
+  "number": 16,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Ofcom PAF review, government acquisition, or National Data Library register; AddressBase licensing blocks outside builds."
+ },
+ {
+  "number": 17,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Cabinet Office functional standard or statutory duty within the National Data Library."
+ },
+ {
+  "number": 18,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropic pilot grant round with NLnet-style process hosted at ODI/Nesta; DSIT co-funding can follow."
+ },
+ {
+  "number": 19,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: permanent UKRI Digital Research Infrastructure budget line converting the RSMF pilot."
+ },
+ {
+  "number": 20,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: trust-seeded nonprofit running the open-sourced Notify/Forms codebases for charities (Open Digital Cooperative model)."
+ },
+ {
+  "number": 21,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: NHS England/DHSC; pilot possible with one volunteer ICB or trust adopting open-code procurement conditions."
+ },
+ {
+  "number": 22,
+  "permission": "build-together",
+  "data_ready": false,
+  "note": "Counterparty: NCSC/DSIT commission plus departmental and CNI SBOM access — privileged data outsiders cannot scrape."
+ },
+ {
+  "number": 23,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Procurement Policy Note under the Procurement Act 2023 (Cabinet Office)."
+ },
+ {
+  "number": 24,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: plain-English CRA guidance plus philanthropic tooling grants; statutory UK steward concept is the later end-state."
+ },
+ {
+  "number": 25,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: foundation-consortium-funded refounded council holding federation and international functions; UKYP contract negotiated with DCMS later."
+ },
+ {
+  "number": 26,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: DfE and Electoral Commission co-funding; existing providers deliver through schools and colleges."
+ },
+ {
+  "number": 27,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory schools duty and automatic attainer registration via amendment or secondary legislation."
+ },
+ {
+  "number": 28,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: strengthened statutory duty with sufficiency standards plus ring-fenced multi-year revenue grant."
+ },
+ {
+  "number": 29,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: DCMS/DfE as funder-of-record with NYA delivering bursaries, apprenticeships and the professional register."
+ },
+ {
+  "number": 30,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: foundation-consortium design-and-pilot on #iwill/uniformed infrastructure; spending-review bid is the statutory-scale end-state."
+ },
+ {
+  "number": 31,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: pooled multi-funder programme with commissioned What Works evidence strand at Youth Futures Foundation."
+ },
+ {
+  "number": 32,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory engagement duty and UKYP footing; think-tank shadow Jugend-Check unit can prototype meanwhile."
+ },
+ {
+  "number": 33,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: ONS/DCMS commission; council provision data FOI-able for a shadow dataset meanwhile."
+ },
+ {
+  "number": 34,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: pooled-fund-backed nonpartisan platform running registration drives, creator partnerships and relational turnout tools."
+ },
+ {
+  "number": 35,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory 18-21 guarantee with national rollout funding at spending review."
+ },
+ {
+  "number": 36,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: shared cross-movement recruitment/vetting platform; employer time via voluntary compacts before any statutory entitlement."
+ },
+ {
+  "number": 37,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statute making EdTech Assurance Body permanent, with DfE procurement conditionality and audited public register."
+ },
+ {
+  "number": 38,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: Ofqual (sandbox waivers) plus exam boards co-funding NEA redesign; no new law needed for pilots."
+ },
+ {
+  "number": 39,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: Jisc/QAA plus volunteer universities pooling assessment banks and viva capacity; OfS/DfE funding is the scaled end-state."
+ },
+ {
+  "number": 40,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DfE-funded national CPD entitlement with cover costs, written into ITT core content framework."
+ },
+ {
+  "number": 41,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: coalition of MATs forming federated SSO/licensing framework; DfE-commissioned platform is the statutory end-state."
+ },
+ {
+  "number": 42,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: pupil-premium-linked statutory tutoring entitlement with national commissioning and recurrent DfE funding."
+ },
+ {
+  "number": 43,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: ONS/Skills England or accredited HMRC RTI-LEO access; vacancy-scrape AI-exposure index alone is buildable now."
+ },
+ {
+  "number": 44,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: 2-3 mayoral combined authorities piloting grant accounts from devolved adult skills budgets; levy strand needs statute later."
+ },
+ {
+  "number": 45,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: primary legislation creating HE special administration regime plus Treasury-funded Transformation Fund."
+ },
+ {
+  "number": 46,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: volunteer school networks plus DfE NPD-linkage approval; philanthropic funder can seed before UKRI-DfE programme."
+ },
+ {
+  "number": 47,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DfE/Ofqual funded, dated commission to awarding bodies for 2028 first teaching."
+ },
+ {
+  "number": 48,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: maintained open unit-cost database from published/FOI-able outturns, extending Britain Remade; statutory NISTA mandate is end-state."
+ },
+ {
+  "number": 49,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: volunteer councils funding shared specialist pools and apprenticeships via full-cost fees already legal under PIA 2025."
+ },
+ {
+  "number": 50,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: commencement regulations under Levelling-up and Regeneration Act 2023 plus Planning Inspectorate procedures."
+ },
+ {
+  "number": 51,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statute scheduling RO/FiT levy transfer to Exchequer or gas over fixed timetable."
+ },
+ {
+  "number": 52,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Ofgem TNUoS charging decision plus government demand-siting package (fast-track planning, connection priority)."
+ },
+ {
+  "number": 53,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Spending Review funding for successor platform plus statutory service standards; HMRC data access is government-gated."
+ },
+ {
+  "number": 54,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: mayoral combined authorities jointly creating shared light-rail delivery unit, pooling CRSTS funds; no statute required."
+ },
+ {
+  "number": 55,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: fiscal devolution statute — TIF, land value capture, visitor levy, assigned tax shares."
+ },
+ {
+  "number": 56,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Cabinet Office/Treasury pay-remit reform for in-post progression and SRO minimum tenure."
+ },
+ {
+  "number": 57,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: legislation mandating 2-3% SBIR-style set-aside of departmental extramural R&D budgets."
+ },
+ {
+  "number": 58,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Treasury long-dated lending facility or National Wealth Fund mandate capitalising statutory development corporations."
+ },
+ {
+  "number": 59,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: science-and-tech LTAF / BGP-successor fund with DC-friendly fees, launchable by a commercial manager today."
+ },
+ {
+  "number": 60,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: commencement of SDRP regulations under Financial Guidance and Claims Act 2018, or successor statute."
+ },
+ {
+  "number": 61,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statute extending debt-advice levy to energy, water, telecoms and government creditors."
+ },
+ {
+  "number": 62,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: amended 1992 council tax regulations plus statutory Enforcement Conduct Board licensing and binding cross-government standards."
+ },
+ {
+  "number": 63,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: published sovereign stress scenario with response playbook, run by institute consortium; foundation-fundable at £1-3m/year."
+ },
+ {
+  "number": 64,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: low-friction ISA-eligible retail gilt brokerage (founder-shaped today); DMO/NS&I platform is the state end-state."
+ },
+ {
+  "number": 65,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Bank of England CNRF extension, FPC-mandated repo haircuts, Bank/FCA leverage dashboard from supervisory data."
+ },
+ {
+  "number": 66,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: open quarterly council fiscal watch from PWLB and MHCLG returns; statutory early-warning function is end-state."
+ },
+ {
+  "number": 67,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory local-authority debt-resolution framework with independent assessment and conditional write-downs."
+ },
+ {
+  "number": 68,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statute expanding dormant assets and mandating matched bank contributions (CRA-style) for permanent NILS/CDFI facility."
+ },
+ {
+  "number": 69,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Treasury decision raising IMLT levy plus statutory victim-routing duty; bank data-sharing pilot possible but capacity needs levy."
+ },
+ {
+  "number": 70,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Treasury balance-sheet mandate extending UKGI CLCC plus statutory nine-month WGA deadline."
+ },
+ {
+  "number": 71,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Charter for Budget Responsibility amendment; a policy unit can draft the package, only government can enact due process."
+ },
+ {
+  "number": 72,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: a Biometrics Act with statutory regulator and deployment register, turning the closed Feb 2026 consultation into primary legislation."
+ },
+ {
+  "number": 73,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: IPA amendment mandating aggregate notice statistics, ISC notification and IPCO reporting duties; only Parliament can compel this."
+ },
+ {
+  "number": 74,
+  "permission": "build-together",
+  "data_ready": false,
+  "note": "Counterparty: host lab (NPL/Turing) plus vendors and forces submitting algorithms; pilot facility fundable now, statutory regime is the end-state."
+ },
+ {
+  "number": 75,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: funder-backed opt-in litigation vehicle using Article 80(1) claims; statutory opt-out regime is the end-state."
+ },
+ {
+  "number": 76,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: pooled £3-5m/yr litigation fund with adverse-costs insurance, raised by a funder consortium on the TLEF model."
+ },
+ {
+  "number": 77,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: Civitates-style collaborative fund hosted at an existing foundation making 5-10 year core-funding commitments."
+ },
+ {
+  "number": 78,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: machine-readable deployment database from FOI pipelines and Contracts Finder data; ATRS extension is the policy tail."
+ },
+ {
+  "number": 79,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: legislative clause extending PoFA 2012 automatic deletion to custody images, plus funded PND system remediation."
+ },
+ {
+  "number": 80,
+  "permission": "build-together",
+  "data_ready": false,
+  "note": "Counterparty: NHS England or willing non-FDP trusts for an OpenSAFELY-style operational pilot and exit-feasibility assessment before February 2027."
+ },
+ {
+  "number": 81,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: digital ID legislation after the 2026 consultation — statutory regulator, ombudsman scheme, mandatory certification, offline-alternative right."
+ },
+ {
+  "number": 82,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: FOI-based EVN observatory publishing volumes and error rates, plus adviser data-rights toolkit hosted by an existing advice body."
+ },
+ {
+  "number": 83,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Ofcom guidance plus targeted amendment making certification mandatory; voluntary certification already exists and is insufficient."
+ },
+ {
+  "number": 84,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: red-flag analytics unit on public Central Digital Platform data producing shadow debarment dossiers; statutory regime is the end-state."
+ },
+ {
+  "number": 85,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: government-backed amendment adopting the Hayter Bill; in-house lobbying data cannot exist without the statutory duty."
+ },
+ {
+  "number": 86,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory business-appointments regime with enforceable contract terms, injunctions and clawback."
+ },
+ {
+  "number": 87,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: primary legislation giving the EIC statutory footing, protected budget and own-initiative investigation powers."
+ },
+ {
+  "number": 88,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: party-finance amendments or successor bill — donation caps, source-of-funds tests, electoral-crime investigation capability."
+ },
+ {
+  "number": 89,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory ringfenced Economic Crime Fighting Fund recycling recovered assets on multi-year settlements."
+ },
+ {
+  "number": 90,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: FCA supervision timetable, LP-reform commencement orders, and a funded Companies House data-integrity unit."
+ },
+ {
+  "number": 91,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory deadline with Order-in-Council backstop, or legislated minimum access standards for the registers."
+ },
+ {
+  "number": 92,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: direct parliamentary funding for FOI regulation plus statutory extension to outsourced public services."
+ },
+ {
+  "number": 93,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: legal-defence fund for small newsrooms and freelancers; comprehensive Anti-SLAPP Act is the end-state."
+ },
+ {
+  "number": 94,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statute creating an Office of the Whistleblower with standard-setting, investigation and redress powers."
+ },
+ {
+  "number": 95,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: match-funded endowment via PINF-style intermediaries seeded by existing trusts; Charities Act amendment is the end-state."
+ },
+ {
+  "number": 96,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: HM Treasury/HMRC commencement regulations plus published tax analysis; nothing outsiders can ship."
+ },
+ {
+  "number": 97,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: small-benefit-society regime via government response to the Law Commission, plus FCA perimeter guidance."
+ },
+ {
+  "number": 98,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: limited-liability nonprofit association statute; DSIT/MoJ/HM Treasury must commission the recommended reviews."
+ },
+ {
+  "number": 99,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: a mayoral combined authority franchising a pilot regional co-op development agency ahead of Treasury or dormant-assets funding."
+ },
+ {
+  "number": 100,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: FCA registry rebuild or statutory transfer of registration to Companies House, costed in the mutuals strategy."
+ },
+ {
+  "number": 101,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: FCA sandbox cohort plus one volunteer local authority anchoring a city-region obligation-clearing pilot."
+ },
+ {
+  "number": 102,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: openly licensed, versioned template library covering every UK formation route; named consortium partners are helpful, not gatekeepers."
+ },
+ {
+  "number": 103,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropy-plus-social-investment revolving acquisition facility via an Access/BSC-type intermediary; dormant assets scale it later."
+ },
+ {
+  "number": 104,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: exam boards and willing centres for a charitable private-candidate access network; statutory duty is the end-state."
+ },
+ {
+  "number": 105,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory experimental-zone framework with local democratic consent, independent evaluation and automatic sunset."
+ },
+ {
+  "number": 106,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: social-investor liquidity/underwriting facility for member exits; Law Commission share reforms are the end-state."
+ },
+ {
+  "number": 107,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DSIT-sponsored, UKRI-administered maintenance-contract fund — a government spending decision outsiders cannot ship."
+ },
+ {
+  "number": 108,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: model OSA risk-assessment pack plus mutual formation; statutory proportionality carve-out is the later state-led end-state."
+ },
+ {
+  "number": 109,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropic UK Encryption Defence Fund; the statutory E2EE amendment remains the state-led end-state."
+ },
+ {
+  "number": 110,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: GDS/CCS for the messenger pilot; Matrix software exists and no new law is required."
+ },
+ {
+  "number": 111,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DSIT smart-data scheme designation via secondary legislation under the DUAA powers."
+ },
+ {
+  "number": 112,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: DSIT/UKRI for an AIRR community allocation; open-weight models and hosting are ready today."
+ },
+ {
+  "number": 113,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: legislation implementing Law Commission 2026 recommendations plus FCA registration digitisation."
+ },
+ {
+  "number": 114,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: FCA (perimeter guidance and sandbox tier); mutual-credit clearing software already exists to plug in."
+ },
+ {
+  "number": 115,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: alliance charter with shared security baseline, SLA and member directory across existing co-op hosts; philanthropically seeded."
+ },
+ {
+  "number": 116,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: one volunteer LRF or town/parish council for a mesh pilot; Cabinet Office sponsorship is the end-state."
+ },
+ {
+  "number": 117,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: open-source selective-disclosure spec and reference implementation; DIATF certification and Ofcom mandate are the state-led end-state."
+ },
+ {
+  "number": 118,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: comparative field evaluation with a first community-organisation cohort; philanthropically fundable, trials generate the data."
+ },
+ {
+  "number": 119,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: primary legislation creating an opt-out representative-action regime."
+ },
+ {
+  "number": 120,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: the enforcement centre's first strategic complaint docket; fill names philanthropic funding and the ORG capitalisation route."
+ },
+ {
+  "number": 121,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory complaint deadlines plus First-tier Tribunal merits appeal."
+ },
+ {
+  "number": 122,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: binding Ofcom/ICO privacy standard with mandatory AV-provider certification."
+ },
+ {
+  "number": 123,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: amendments to the digital ID Bill plus a statutory commissioner."
+ },
+ {
+  "number": 124,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: IPA/OSA amendment creating statutory presumption and mandatory TCN transparency."
+ },
+ {
+  "number": 125,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory single opt-out plus NHS App usage-report mandate."
+ },
+ {
+  "number": 126,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory prohibition on genetic discrimination plus law-enforcement access rules."
+ },
+ {
+  "number": 127,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: DSIT/Innovate UK or a willing data-holding body (NHS, ONS, HMRC); a philanthropy-seeded PETs challenge with one public partner needs no legislation."
+ },
+ {
+  "number": 128,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: legislation or statutory ICO code plus government launch of a smart-data scheme."
+ },
+ {
+  "number": 129,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: independent UK data-broker observatory (fill's named interim); statutory register is the state-led end-state."
+ },
+ {
+  "number": 130,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: donor-collaborative fund prospectus; a pooled philanthropic fund needs no institutional permission."
+ },
+ {
+  "number": 131,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: ONS/HMRC via existing SRS/Datalab access plus commercial postings feeds; statutory RTI access is the end-state."
+ },
+ {
+  "number": 132,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: foundation consortium (JRF/Nuffield) or a metro mayor as funder-of-record for the pilot."
+ },
+ {
+  "number": 133,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: a Frontier AI Act putting AISI on statutory footing."
+ },
+ {
+  "number": 134,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory reporting duty and DSIT/AISI-run database; investigation branch later."
+ },
+ {
+  "number": 135,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory step-in/priority-access rights, escrow mandates and revived SMS designations."
+ },
+ {
+  "number": 136,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: government programme decision within the £500m Sovereign AI Unit and AIRR."
+ },
+ {
+  "number": 137,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Elections (Digital Content) amendment with regulator designation and statutory funding."
+ },
+ {
+  "number": 138,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory ATRS publication duty plus NAO-linked audit function and ring-fenced funding."
+ },
+ {
+  "number": 139,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: OBR mandate change plus a standing HMT/HMRC analysis unit."
+ },
+ {
+  "number": 140,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: one metro mayor or local authority compact pooling DWP/Skills England funding; exposure mapping is doable today."
+ },
+ {
+  "number": 141,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: commissioned Law Commission project leading to an AI Liability Act."
+ },
+ {
+  "number": 142,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Growth and Skills Levy credit design plus an official DfE statistic."
+ },
+ {
+  "number": 143,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DSIT-sponsored Sovereign Tech Fund housed in UKRI or ARIA-adjacent — a government spending decision per the UK Day One blueprint."
+ },
+ {
+  "number": 144,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: expanded JRRT-template pooled fund with charitable and non-charitable arms; foundation anchors are fundraising targets, not permission gates."
+ },
+ {
+  "number": 145,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropic civic-tech core-grant pool/endowment seeded by foundations and tech wealth; statutory procurement is the state-led alternative path."
+ },
+ {
+  "number": 146,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: ACF convening large grantmakers into a voluntary 4-5% payout commitment; the statutory floor is the state-led end-state."
+ },
+ {
+  "number": 147,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Treasury-backed £100m match fund plus Gift Aid reform — statutory funding via the Office for the Impact Economy."
+ },
+ {
+  "number": 148,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory share of future dormant-assets tranches; the philanthropic match campaign only supplements state-controlled capital."
+ },
+ {
+  "number": 149,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: foundation-consortium endowed regranting fund scaling PINF's role; DST slice, platform levy and LDRS reform are state/BBC paths."
+ },
+ {
+  "number": 150,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: Cabinet Office Evaluation Task Force plus foundations co-capitalising a ten-year facility — no legislation, but needs government at the table."
+ },
+ {
+  "number": 151,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: Civic Power Fund scaled via foundation/HNW commitments plus an organiser training institute — pooled philanthropy, no institutional gatekeeper."
+ },
+ {
+  "number": 152,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: open cost-effectiveness rankings of UK domestic charities from public accounts and evaluations, plus a pooled effective-giving fund."
+ },
+ {
+  "number": 153,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: crypto-competent fiscal-sponsor charity plus a UK-civic Gitcoin/EF matching round; Charity Commission guidance helps but does not gate v1."
+ },
+ {
+  "number": 154,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Charity Commission annual-return mandate for structured grants data; voluntary 360Giving publication already exists and is the named-insufficient prototype."
+ },
+ {
+  "number": 155,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Biometrics and Public-Space Surveillance Act converting the Home Office consultation into statutory authorisation and oversight."
+ },
+ {
+  "number": 156,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DSIT arm's-length Sovereign Tech Fund on Germany's commissioning model — a government spending decision."
+ },
+ {
+  "number": 157,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Law Commission bill via special parliamentary procedure plus a resourced FCA mutuals registrar."
+ },
+ {
+  "number": 158,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: amendment of s.507B Education Act 1996 in a children/education bill with a defined sufficiency standard."
+ },
+ {
+  "number": 159,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DUAA follow-on legislation or binding Information Commission policy — only Parliament or the regulator can create sanctions with teeth."
+ },
+ {
+  "number": 160,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: HMT legislation consolidating ~25 AML supervisors into statutory supervisor(s) with direct powers over ACSPs."
+ },
+ {
+  "number": 161,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Statutory Instruments Act plus standing post-legislative scrutiny committee — Parliament and government must change their own procedures."
+ },
+ {
+  "number": 162,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Cabinet Office turnover/tenure targets in outcome delivery plans with permanent-secretary accountability — internal government machinery only."
+ },
+ {
+  "number": 163,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Treasury-directed duty to evaluate plus ten-year core funding via ETF/ESRC/Dormant Assets."
+ },
+ {
+  "number": 164,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: MHCLG/HMT fiscal devolution framework — integrated-settlements timetable, business-rates reform, Barnett review."
+ },
+ {
+  "number": 165,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: shadow observatory publishing occupational-exposure and vacancy dashboards from public data; retraining entitlement and policy triggers stay state-led."
+ },
+ {
+  "number": 166,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropic pooled endowment for regional policy institutes (IPPR North model); statutory funder disclosure remains state-led."
+ },
+ {
+  "number": 167,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DHSC/MHCLG delivery unit established administratively plus 2027 Spending Review bridging fund — a government decision outsiders cannot ship."
+ },
+ {
+  "number": 168,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory registration scheme legislated alongside FPA secondary legislation, extending Social Work England or creating a new registrar."
+ },
+ {
+  "number": 169,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: ring-fenced grant or statutory fee-rate floor agreed at the 2027 Spending Review — HM Treasury capital."
+ },
+ {
+  "number": 170,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DHSC data collection direction with SDE-only dissemination and opt-out reform; foundations can fund deliberation but cannot issue the direction."
+ },
+ {
+  "number": 171,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: five-to-ten-year funding settlement plus legislation giving HDRS statutory functions in the next health/data bill."
+ },
+ {
+  "number": 172,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: independent prevention-spend definition and measurement (REAL Centre-style) from published/FOI-able ICB data; the Treasury DEL is state-led."
+ },
+ {
+  "number": 173,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: legislated successor to the 2006 UDA contract with dated milestones — a DHSC-owned reform programme."
+ },
+ {
+  "number": 174,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: independent CYP waiting-times tracker from published/FOI-able NHS data; mandating the four-week standard is NHSE/DHSC's."
+ },
+ {
+  "number": 175,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropically funded independent MHA implementation monitor (Centre for Mental Health/RCPsych-style); the DHSC unit is the official end-state."
+ },
+ {
+  "number": 176,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: LPS commencement or replacement legislation on the new Supreme Court test, plus funded backlog clearance."
+ },
+ {
+  "number": 177,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: DHSC-commissioned ONS official statistics series — official status is the gap; unofficial charity estimates already exist and fall short."
+ },
+ {
+  "number": 178,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Courts and Tribunals Bill amendment or PCSC 2022 secondary legislation plus spending-review fund; civil-society tracker is pressure, not the fill."
+ },
+ {
+  "number": 179,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: short Litigation Funding (Enforceability and Regulation) Bill; only primary legislation reverses PACCAR — outcomes monitor is an adjunct."
+ },
+ {
+  "number": 180,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Collective Redress Act on Law Commission recommendations; near-term outsider step is evidence to the consultation closing October 2026."
+ },
+ {
+  "number": 181,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: LASPO amendment creating statutory access duty plus LAA coverage-based commissioning and fee reform."
+ },
+ {
+  "number": 182,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: primary legislation creating HM Chief Inspector of Criminal Justice and restoring court-administration inspection."
+ },
+ {
+  "number": 183,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Sentencing Act amendment making ISC powers permanent, plus a named MoJ/HMCTS unit and multi-year funding."
+ },
+ {
+  "number": 184,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: s.133 CJA 1988 amendment and independent compensation body; Law Commission end-2026 report supplies the blueprint."
+ },
+ {
+  "number": 185,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Criminal Appeals Act implementing the Law Commission package — reformed referral test, independent inspectorate, statutory safeguards."
+ },
+ {
+  "number": 186,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Coroners (Reform) Act; nearest step is enacting the stalled Public Office (Accountability) Bill legal-aid parity provisions."
+ },
+ {
+  "number": 187,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: resentencing legislation — Woodley bill given government time or amendments to the next criminal justice bill."
+ },
+ {
+  "number": 188,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: next criminal justice bill creating OBR-style capacity body, mandatory impact assessments and codified contingency protocol."
+ },
+ {
+  "number": 189,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory data-standards duty in next criminal justice bill; Data First expansion needs MoJ funding and governance."
+ },
+ {
+  "number": 190,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: LAO secondary legislation plus MHCLG central funding; only the assurance-status register could be shadowed from public opinions."
+ },
+ {
+  "number": 191,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropically funded shadow fiscal unit at IFS/IfG publishing sustainability and new-burdens analysis; statutory office is the end-state."
+ },
+ {
+  "number": 192,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: HM Treasury enabling legislation via the fiscal devolution roadmap plus HMRC/VOA collection-and-assignment infrastructure."
+ },
+ {
+  "number": 193,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: MHCLG primary legislation creating a graduated failure regime and standing Local Authority Resolution Unit."
+ },
+ {
+  "number": 194,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: LAO secondary legislation extending its duty beyond audit, or a parliamentary NAO analytics remit with statutory data mandate."
+ },
+ {
+  "number": 195,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: CIPFA and volunteer host councils for a philanthropy-seeded 'Teach First for treasurers' pilot; MHCLG funds full scale."
+ },
+ {
+  "number": 196,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: Local Partnerships and LGA to pilot deployable commercial teams and a contract-management academy; MHCLG grant scales it."
+ },
+ {
+  "number": 197,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropy-underwritten open-source unitarisation components and standards (LocalGov-Drupal-style); successor fund and standing service are the state end-state."
+ },
+ {
+  "number": 198,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: GMCA or WMCA hosting a philanthropy-funded two-area pilot LPAC before secondary-legislation rollout."
+ },
+ {
+  "number": 199,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: primary legislation for a rolling revaluation cycle on the Welsh 2024 Act model, with VOA automated-valuation infrastructure."
+ },
+ {
+  "number": 200,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: National Resilience Act creating an OBR/CCC-model statutory scrutineer with information powers; government rejected it January 2025."
+ },
+ {
+  "number": 201,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: philanthropically funded standing shadow network (Independent-SAGE precedent) publishing horizon scans, scenario models and red-team exercises."
+ },
+ {
+  "number": 202,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: willing Local Resilience Forums integrating a philanthropically funded pilot corps (JCAC nucleus); statutory recognition and employer protections are end-state."
+ },
+ {
+  "number": 203,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: DCMS and Local Resilience Forums adopting a pre-agreed protocol; the surge fund can be pooled philanthropically first."
+ },
+ {
+  "number": 204,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: government stockpile strategy plus DHSC-funded BARDA-style warm-base manufacturing — spending-review decisions outsiders cannot ship."
+ },
+ {
+  "number": 205,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: statutory lessons-implementation mechanism with named senior owner and funded delivery; outsiders can only track recommendations publicly."
+ },
+ {
+  "number": 206,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: Treasury/Defra blended adaptation-finance mechanism with mandatory reporting plus statutory Flood Re successor design."
+ },
+ {
+  "number": 207,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: machinery-of-government designation of a lead department, Part O regulatory extension and funded retrofit programme."
+ },
+ {
+  "number": 208,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: commencement order for FWMA 2010 Schedule 3 plus Environment Agency empowerment — purely a government decision."
+ },
+ {
+  "number": 209,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: ring-fenced multi-year DHSC/UKHSA funding and NHS-wide metagenomics rollout with published milestones."
+ },
+ {
+  "number": 210,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: legislation creating an executive CNI agency with cross-sector standard-setting and enforcement powers."
+ },
+ {
+  "number": 211,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: National Resilience Act giving LRFs legal standing, multi-year ring-fenced settlement and a national Chief Resilience Officer."
+ },
+ {
+  "number": 212,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: tamper-evident hash archive of one published inquiry evidence corpus; the council-records variant would need a partner."
+ },
+ {
+  "number": 213,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: one willing council, combined authority or Pride in Place board publishing payments to the tamper-evident ledger pilot."
+ },
+ {
+  "number": 214,
+  "permission": "build-together",
+  "data_ready": false,
+  "note": "Counterparty: a union, co-op or participatory-budgeting host running verifiable ballots alongside incumbent processes; e-balloting reform is the tail."
+ },
+ {
+  "number": 215,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: open service-continuity playbook (legal templates, TUPE, insurance) published by a Locality/Plunkett-class body."
+ },
+ {
+  "number": 216,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: rapid casework service plus published exclusion-volumes tracker; credit-union partnerships are voluntary, not gatekeeping."
+ },
+ {
+  "number": 217,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: Exit Friction Index v1 — the fill itself calls it shippable by a small team within a year."
+ },
+ {
+  "number": 218,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: open civic-technology curriculum plus train-the-trainer pack; libraries, unions, community groups deliver voluntarily, no gatekeeper."
+ },
+ {
+  "number": 219,
+  "permission": "build-together",
+  "data_ready": true,
+  "note": "Counterparty: returning officers and the Electoral Commission as co-signers; declared results data is already public."
+ },
+ {
+  "number": 220,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: 1,000-member community benefit society with transparent treasury, formed voluntarily within existing law."
+ },
+ {
+  "number": 221,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: signed compact with pooled rapid-response defence fund, convened by an NCVO/Bond-class network."
+ },
+ {
+  "number": 222,
+  "permission": "build-together",
+  "data_ready": false,
+  "note": "Counterparty: Office of the Public Guardian (one region's caseload) alongside the LPS redesign; records are privileged, not public."
+ },
+ {
+  "number": 223,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: plain-English resilience guidance per operator class; specialist-firm partnership is hired counsel, not permission."
+ },
+ {
+  "number": 224,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: a research body's published foreign-data-compulsion assessments of already-signed contracts; the mandatory rule is the state-led end-state."
+ },
+ {
+  "number": 225,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: an open register scraping Find a Tender for exemption-based awards; all source data is public."
+ },
+ {
+  "number": 226,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "First artefact: a funder-provenance tracker cross-referencing public parliamentary evidence, declared interests and contracts."
+ },
+ {
+  "number": 227,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: a statutory exit-readiness condition on contract approval; an independent lock-in toolkit can precede it."
+ },
+ {
+  "number": 228,
+  "permission": "state-led",
+  "data_ready": false,
+  "note": "Instrument: a Department for Education change to apprenticeship funding rules attaching data-governance conditions."
+ }
+]

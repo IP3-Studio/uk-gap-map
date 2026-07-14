@@ -1,0 +1,22 @@
+# dependencies & build artifacts
+site/node_modules/
+site/.next/
+site/out/
+site/next-env.d.ts
+site/*.tsbuildinfo
+node_modules/
+
+# OS
+.DS_Store
+
+# Book: CC BY-SA, downloadable from arxiv.org/abs/2510.09840; derived working files
+farewell-to-westphalia.pdf
+book-text.txt
+book-splits/
+
+# internal working/provenance files (not needed to build; may contain local paths)
+site/data/raw/trello-candidates.json
+site/data/raw/westphalia-extraction.json
+
+# internal handoff / working state (kept local, not published)
+HANDOFF.md
