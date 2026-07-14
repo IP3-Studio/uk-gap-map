@@ -16,6 +16,7 @@ book-splits/
 # internal working/provenance files (not needed to build; may contain local paths)
 data/raw/trello-candidates.json
 data/raw/lens-extraction.json
+data/raw/synthetic-state-round2.json
 
 # internal handoff / working state (kept local, not published)
 HANDOFF.md

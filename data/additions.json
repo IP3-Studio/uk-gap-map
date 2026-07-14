@@ -258,5 +258,43 @@
    "https://www.theregister.com/databases/2026/05/12/nhs-england-confirms-palantir-staff-can-access-patient-data",
    "https://syntheticstate.netlify.app/investigation"
   ]
+ },
+ {
+  "domain": "civic-society",
+  "lens": "synthetic-state",
+  "added": "2026-07-14",
+  "gap_type": "policy",
+  "horizon": "mid (2-7y)",
+  "title": "No automatic plurality review for non-state press acquisitions",
+  "description": "Public-interest scrutiny of UK press acquisitions under the Enterprise Act 2002 operates only if the Secretary of State chooses to issue an intervention notice against the section 58 plurality and standards considerations, and only where jurisdictional thresholds are met. The sole mandatory strand, inserted by the Digital Markets, Competition and Consumers Act 2024, obliges intervention only where a foreign power would gain control or influence over a newspaper, and July 2025 regulations exempt passive state-owned holdings of up to 15 per cent. Orders in force from 24 July 2025 brought online news publications into scope but did not alter the discretionary trigger, and the Media Act 2024 addresses broadcasting, not ownership. The result, illustrated by Tortoise Media's acquisition of The Observer completing in April 2025 with no intervention notice on record, is that no acquisition of a news title by a non-state buyer receives an automatic plurality review. Surfaced by The Synthetic State (syntheticstate.netlify.app), a pseudonymous self-published investigation; the underlying facts here are cited to primary sources, not to that synthesis.",
+  "why_it_matters": "Plurality of news ownership is load-bearing civic infrastructure for electoral accountability, local scrutiny and resistance to capture. The current asymmetry means a foreign state taking 16 per cent of a title triggers a statutory duty while a private buyer taking 100 per cent may attract no review at all, and smaller but significant titles can fall below the jurisdictional thresholds entirely. Ofcom recommended broadening the media public-interest test in 2021; only part of that recommendation has been acted on.",
+  "what_would_fill_it": "Primary legislation creating an automatic, threshold-based referral of significant news-enterprise acquisitions to Ofcom for plurality assessment, regardless of acquirer type, with transparent criteria and statutory time limits; periodic plurality reviews between transactions on a statutory footing; and a public register of beneficial ownership of UK news enterprises. Ahead of legislation, researchers can build the evidence base now: a maintained ownership-change tracker, model bill drafting, and analysis of which recent transactions the current regime did and did not catch.",
+  "sources": [
+   "https://www.legislation.gov.uk/ukpga/2002/40/section/58",
+   "https://www.legislation.gov.uk/ukpga/2002/40/section/70A",
+   "https://www.legislation.gov.uk/uksi/2025/921/made",
+   "https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-2-6-weeks/220700-the-future-of-media-plurality-in-the-uk/associated-documents/statement-future-of-media-plurality.pdf?v=327147",
+   "https://www.tortoisemedia.com/2024/12/18/tortoise-signs-deal-to-buy-the-observer",
+   "https://syntheticstate.netlify.app/investigation"
+  ]
+ },
+ {
+  "domain": "corruption-integrity",
+  "lens": "synthetic-state",
+  "added": "2026-07-14",
+  "gap_type": "policy",
+  "horizon": "mid (2-7y)",
+  "title": "No human-rights due-diligence standard in public technology procurement",
+  "description": "The Procurement Act 2023, in force since 24 February 2025, permits exclusion of suppliers only on defined grounds: Schedule 6 turns on convictions or a threat to national security, Schedule 7 on labour-market, environmental and professional misconduct. Nothing in the Act, the National Procurement Policy Statement or any Procurement Policy Note requires a contracting authority to assess a technology supplier's human-rights record, or the dual-use surveillance potential of its products, before award. The modern-slavery instruments (PPN 009 and section 54 of the Modern Slavery Act 2015) are confined to slavery, forced labour and trafficking in supply chains, and section 54 makes due-diligence disclosure optional. The central debarment list remained blank in its most recent published version, and the government's October 2025 response to the Joint Committee on Human Rights made no commitment to mandatory due diligence. Surfaced by The Synthetic State (syntheticstate.netlify.app), a pseudonymous self-published investigation; the underlying facts here are cited to primary sources, not to that synthesis.",
+  "why_it_matters": "Public procurement is the state's largest commercial lever, and the UK's National Action Plan on the UN Guiding Principles (last updated May 2016) already commits the government to reflecting human rights in public purchasing, yet that commitment has never been turned into a method or a duty. Technology contracts raise risks the modern-slavery regime cannot see, because the harm can sit in what a product does rather than in how it was made. Without a shared standard, individual authorities have no defensible way to ask the question, and the exclusion powers Parliament created sit unused.",
+  "what_would_fill_it": "A published human-rights due-diligence standard for technology procurement: a model questionnaire, risk framework and evidence base aligned with the UN Guiding Principles and OECD guidance, drafted openly so contracting authorities can adopt it voluntarily as conditions of participation within the existing Act. Pilot it with willing authorities, track use of the exclusion and debarment powers, then press for adoption as a Procurement Policy Note or through the Responsible Business Conduct review.",
+  "sources": [
+   "https://www.legislation.gov.uk/ukpga/2023/54/schedule/6",
+   "https://www.legislation.gov.uk/ukpga/2023/54/schedule/7",
+   "https://www.legislation.gov.uk/ukpga/2015/30/section/54",
+   "https://www.gov.uk/government/publications/ppn-009-tackling-modern-slavery-in-government-supply-chains",
+   "https://publications.parliament.uk/pa/jt5901/jtselect/jtrights/633/report.html",
+   "https://syntheticstate.netlify.app/investigation"
+  ]
  }
 ]

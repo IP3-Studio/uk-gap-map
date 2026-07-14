@@ -343,6 +343,14 @@
    "weBring": "Technical teams versed in the ICO's own PETs guidance, philanthropic co-funding for the challenge purse, and evaluation partners to publish what worked: the translation layer three years of guidance hasn't bought.",
    "theyGain": "A data-sharing project that clears privacy review instead of stalling in it, deployable patterns for the next ten projects, and evidence for the growth-versus-privacy question ministers keep asking.",
    "firstStep": "A 120-day pilot on one existing, stalled data-sharing use case: define the privacy constraint, run the challenge, publish the evaluation jointly. No procurement commitment beyond the pilot."
+  },
+  {
+   "number": 230,
+   "counterparty": "government-bodies",
+   "ask": "Adopt a published human-rights due-diligence standard for technology procurement in one authority's tenders: a model questionnaire and risk framework used as conditions of participation under the existing Act.",
+   "weBring": "A draft standard aligned with the UN Guiding Principles and OECD due-diligence guidance, legal review against Schedules 6 and 7, and independent monitoring of how the Act's exclusion and debarment powers are used in practice.",
+   "theyGain": "A defensible, consistent way to ask questions the Act already permits, ahead of the Responsible Business Conduct review, without waiting for new legislation.",
+   "firstStep": "One willing contracting authority pilots the questionnaire on a single technology tender and publishes what it learned."
   }
  ]
 }

@@ -1139,6 +1139,16 @@
    "number": 228,
    "tagline": "The public pays for the training. A private company keeps the data.",
    "summary": "Publicly funded apprenticeships generate detailed learner records held on private platforms under 'legitimate business interest', not consent, with no rules on who ends up owning them. Public money builds private data assets with no strings. A data-governance clause in the funding rules would fix it."
+  },
+  {
+   "number": 229,
+   "tagline": "Foreign states face mandatory press ownership review. Every other acquirer faces none automatically.",
+   "summary": "UK press takeovers receive plurality scrutiny only if a minister chooses to intervene, and the 2024 mandatory regime covers foreign states alone. An automatic, acquirer-neutral review for significant news acquisitions remains missing."
+  },
+  {
+   "number": 230,
+   "tagline": "Public money buys technology with no duty to check suppliers' human-rights records.",
+   "summary": "The Procurement Act 2023 excludes suppliers for convictions and defined misconduct but requires no assessment of a technology supplier's human-rights record or the dual-use nature of its products before award. Modern-slavery rules cover supply-chain labour only, so no human-rights due-diligence standard exists anywhere in UK public technology procurement."
   }
  ],
  "domain_intros": [
