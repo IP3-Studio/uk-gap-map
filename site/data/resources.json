@@ -103,15 +103,15 @@
      "note": "Built for teaching rather than quick meetings; wants a dedicated Ubuntu server with decent specs. Steward Blindside Networks; 3.0.x actively maintained (July 2026)."
     },
     {
-     "name": "Logos p2p messaging",
+     "name": "Logos Messaging",
      "url": "https://docs.waku.org",
-     "what": "Peer-to-peer messaging protocol for apps that want no servers at all; the transport underneath the Status app.",
+     "what": "Peer-to-peer messaging for apps that want no servers at all — the transport underneath the Status app.",
      "origin": "Switzerland (IFT), distributed team",
      "license": "MIT / Apache-2.0",
      "maturity": "usable",
      "selfhost": true,
      "logosEcosystem": true,
-     "note": "Rebranded Logos Messaging in 2026; nwaku still 0.x (v0.38, May 2026). Status runs on it, but the incentivised public network remains research/testnet-stage — not production for third parties.",
+     "note": "Formerly Waku. nwaku still 0.x (v0.38, May 2026); Status runs on it, but the incentivised public network remains research/testnet-stage — not production for third parties.",
      "tags": [
       "testnet"
      ]
@@ -314,15 +314,15 @@
      "note": "Cryptographically solid and stable, but slow-moving: last release December 2024, small community. Expect to invest in operating it yourself."
     },
     {
-     "name": "Logos storage",
+     "name": "Logos Storage",
      "url": "https://codex.storage",
-     "what": "Decentralised storage network with durability guarantees — aims to keep files provably alive without trusting any single provider.",
+     "what": "Decentralised storage with durability guarantees — aims to keep files provably alive without trusting any single provider.",
      "origin": "Switzerland-registered IFT, global team",
      "license": "MIT/Apache-2.0",
      "maturity": "usable",
      "selfhost": true,
      "logosEcosystem": true,
-     "note": "Public testnet paused Sept 2025 for a redesign, mainnet targeted 2027; code active (v0.4.1, July 2026). Protocol: Codex.",
+     "note": "Formerly Codex. Public testnet paused Sept 2025 for a redesign, mainnet targeted 2027; code active (v0.4.1, July 2026).",
      "tags": [
       "testnet"
      ]
@@ -687,15 +687,15 @@
      "note": "London-built, now stewarded by Aztec Labs with code kept open. Real deployments (17,000+ verifications) but young; proof generation runs through their mobile app."
     },
     {
-     "name": "Logos private consensus",
+     "name": "Logos Consensus",
      "url": "https://nomos.tech",
-     "what": "Privacy-preserving proof-of-stake blockchain intended as the settlement layer for self-governing communities.",
+     "what": "Privacy-preserving proof-of-stake blockchain, intended as the settlement layer for self-governing communities.",
      "origin": "global community (IFT, Switzerland)",
      "license": "MIT/Apache-2.0",
      "maturity": "usable",
      "selfhost": true,
      "logosEcosystem": true,
-     "note": "Public testnet (v0.2, June 2026, ~350 nodes), mainnet targeted 2027. Run a node if curious. Protocol: Nomos.",
+     "note": "Formerly Nomos. Public testnet (v0.2, June 2026, ~350 nodes), mainnet targeted 2027. Run a node if curious.",
      "tags": [
       "testnet"
      ]
