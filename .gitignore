@@ -1,10 +1,9 @@
 # dependencies & build artifacts
-site/node_modules/
-site/.next/
-site/out/
-site/next-env.d.ts
-site/*.tsbuildinfo
 node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
 
 # OS
 .DS_Store
@@ -15,8 +14,11 @@ book-text.txt
 book-splits/
 
 # internal working/provenance files (not needed to build; may contain local paths)
-site/data/raw/trello-candidates.json
-site/data/raw/westphalia-extraction.json
+data/raw/trello-candidates.json
+data/raw/westphalia-extraction.json
 
 # internal handoff / working state (kept local, not published)
 HANDOFF.md
+
+# local editor / preview config
+.claude/

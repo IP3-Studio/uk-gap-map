@@ -43,7 +43,7 @@ uk-gap-map/
 
 ## The dataset
 
-The site is a static build over a layered dataset in `site/data/`, assembled by
+The site is a static build over a layered dataset in `data/`, assembled by
 `scripts/build-data.mjs`:
 
 | File | What it is |

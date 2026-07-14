@@ -52,7 +52,7 @@ The map's empirical finding — the **follow-through deficit**, six archetypes o
 
 ## 4. The twelve new gaps (№ 212–223)
 
-Live on the site tagged `westphalia`, in `site/data/additions.json`. One-line index:
+Live on the site tagged `westphalia`, in `data/additions.json`. One-line index:
 
 1. **№ 212 — No tamper-evident public archive infrastructure for evidence-grade records** (corruption & integrity · tooling). Horizon, Windrush and disclaimed accounts are archive failures; inquiry evidence, court records and FOI corpora need Byzantine-fault-tolerant, publicly auditable preservation.
 2. **№ 213 — No verifiable spending and procurement rails for local government** (local state · tooling). Councils in EFS negotiate in private on disclaimed accounts; a pilot of tamper-evident, continuously auditable council treasuries is buildable now.
@@ -88,4 +88,4 @@ The book's answer to "just presenting the gaps isn't enough" is precise, and the
 - **Oracle limits**: no attestation network delivers certainty; multi-witness staking raises the price of lying, no more.
 - **Values precede tools**: every proposed fill needs an identified, value-aligned community — a stack without one is shelfware. This is why the literacy gap (№ 218) is load-bearing.
 
-*Compiled July 2026 from a nine-reader close-reading of the full text (extraction archived in `site/data/raw/westphalia-extraction.json`). Quotes are from the CC BY-SA edition; book page references are approximate.*
+*Compiled July 2026 from a nine-reader close-reading of the full text (extraction archived in `data/raw/westphalia-extraction.json`). Quotes are from the CC BY-SA edition; book page references are approximate.*
