@@ -54,8 +54,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <Link href="/about/">Methodology &amp; limitations</Link>
             </div>
             <div>
-              Built and maintained by IP3 Studio. Inspired by <em>Farewell to Westphalia</em> by Jarrad Hope
-              &amp; Peter Ludlow. Modelled on Convergent Research’s gap-map.org.
+              Built and maintained by IP3 Studio. Modelled on Convergent Research’s gap-map.org.
             </div>
           </div>
         </footer>

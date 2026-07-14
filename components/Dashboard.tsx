@@ -60,7 +60,7 @@ function readParams(): Filters {
     types: csv("types"),
     horizons: csv("horizons"),
     permissions: csv("permission"),
-    lens: p.get("lens") === "westphalia",
+    lens: p.get("lens") === "decentralisation",
     sort,
   };
 }
@@ -75,7 +75,7 @@ function serialize(f: Filters, base: string): string {
   if (f.types.size) p.set("types", [...f.types].join(","));
   if (f.horizons.size) p.set("horizons", [...f.horizons].join(","));
   if (f.permissions.size) p.set("permission", [...f.permissions].join(","));
-  if (f.lens) p.set("lens", "westphalia");
+  if (f.lens) p.set("lens", "decentralisation");
   const defaultSort: Sort = f.q.trim() ? "relevance" : "rank";
   if (f.sort !== defaultSort) p.set("sort", f.sort);
   return p.toString();
@@ -146,7 +146,7 @@ export default function Dashboard() {
     if (f.types.size) list = list.filter((g) => f.types.has(g.type));
     if (f.horizons.size) list = list.filter((g) => f.horizons.has(g.horizon));
     if (f.permissions.size) list = list.filter((g) => g.permission && f.permissions.has(g.permission));
-    if (f.lens) list = list.filter((g) => g.lens === "westphalia");
+    if (f.lens) list = list.filter((g) => g.lens === "decentralisation");
     if (effectiveSort === "title") list.sort((a, b) => a.title.localeCompare(b.title));
     else if (effectiveSort === "domain") list.sort((a, b) => a.domain.localeCompare(b.domain) || a.number - b.number);
     else if (effectiveSort === "number") list.sort((a, b) => a.number - b.number);
@@ -161,7 +161,7 @@ export default function Dashboard() {
     return c;
   }, []);
 
-  const lensCount = useMemo(() => gaps.filter((g) => g.lens === "westphalia").length, []);
+  const lensCount = useMemo(() => gaps.filter((g) => g.lens === "decentralisation").length, []);
 
   return (
     <div className="layout">
@@ -217,7 +217,7 @@ export default function Dashboard() {
           <legend>Lens</legend>
           <label>
             <input type="checkbox" checked={f.lens} onChange={() => update({ lens: !f.lens })} />
-            Westphalia additions
+            Decentralisation additions
             <span className="count">{lensCount}</span>
           </label>
         </fieldset>
@@ -263,7 +263,7 @@ export default function Dashboard() {
                   <span className="badge">{g.type}</span>
                   <span className="badge">{horizonLabel(g.horizon)}</span>
                   {g.permission && <span className={`badge perm ${g.permission}`}>{permissionLabel(g.permission)}</span>}
-                  {g.lens === "westphalia" && <span className="badge">Westphalia</span>}
+                  {g.lens === "decentralisation" && <span className="badge">Decentralisation</span>}
                   <StaleBadge reviewBy={g.provenance.reviewBy} compact />
                 </div>
                 <h2>{g.title}</h2>

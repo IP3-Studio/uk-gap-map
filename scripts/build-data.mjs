@@ -53,7 +53,7 @@ if (sourceDomains.length !== DOMAIN_META.length) {
 }
 
 // Hand-curated entries added after the July 2026 research pass (e.g. the
-// Farewell to Westphalia lens). Same shape as research gaps + domain slug + lens tag.
+// decentralisation lens). Same shape as research gaps + domain slug + lens tag.
 let additions = [];
 try {
   additions = JSON.parse(readFileSync(path.join(here, "../data/additions.json"), "utf8"));

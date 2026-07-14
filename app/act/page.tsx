@@ -171,9 +171,9 @@ export default function ActPage() {
 
       <h2>How we think about action</h2>
       <p>
-        The doctrine behind this page comes from <em>Farewell to Westphalia</em> (Hope &amp; Ludlow, 2025), whose
-        conclusion is blunt: the binding constraint on better governance is not technology but participation,
-        because “simply by participating… one can put one’s hand on the tiller.” Three working rules follow:
+        The doctrine behind this page is blunt: the binding constraint on better governance is not technology
+        but participation. Showing up and building is how you put a hand on the tiller. Three working rules
+        follow:
       </p>
       <ul>
         <li>

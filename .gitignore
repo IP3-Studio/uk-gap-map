@@ -8,14 +8,14 @@ next-env.d.ts
 # OS
 .DS_Store
 
-# Book: CC BY-SA, downloadable from arxiv.org/abs/2510.09840; derived working files
-farewell-to-westphalia.pdf
+# local research materials (not published)
+*.pdf
 book-text.txt
 book-splits/
 
 # internal working/provenance files (not needed to build; may contain local paths)
 data/raw/trello-candidates.json
-data/raw/westphalia-extraction.json
+data/raw/lens-extraction.json
 
 # internal handoff / working state (kept local, not published)
 HANDOFF.md

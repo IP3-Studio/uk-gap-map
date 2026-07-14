@@ -110,25 +110,21 @@ export default function AboutPage() {
         <a href="https://www.gap-map.org" rel="noopener noreferrer" target="_blank">
           gap-map.org
         </a>
-        . It is inspired by <em>Farewell to Westphalia</em> by Jarrad Hope &amp; Peter Ludlow (2025, CC BY-SA;{" "}
-        <a href="https://arxiv.org/pdf/2510.09840" rel="noopener noreferrer" target="_blank">
-          full text
-        </a>
-        ). Get involved, propose a gap or correct an entry on{" "}
+        . Get involved, propose a gap or correct an entry on{" "}
         <a href="https://github.com/IP3-Studio/uk-gap-map" rel="noopener noreferrer" target="_blank">
           GitHub
         </a>
         .
       </p>
       <p>
-        Twelve entries, badged <em>Westphalia lens</em>, were derived directly from that book, which argues
-        that centralisation is the structural root of the failures this map catalogues, and that the remedy is
-        participation: communities building transparent, exit-respecting institutions at every scale.
+        Twelve entries, badged <em>decentralisation lens</em>, examine the same failures through a structural
+        argument: centralisation concentrates failure, and the remedy is participation, with communities
+        building transparent, exit-respecting institutions at every scale.
       </p>
       <p>
         <strong>How we handle interest:</strong> entries are written mechanism-agnostically (a gap is never
         “fund organisation X”), and where a specific named technology is a candidate fill, the entry says so and
-        rates it by the same yardstick as everything else. We also import the book’s own scepticism: nothing is
+        rates it by the same yardstick as everything else. We also apply a standing scepticism: nothing is
         trustless, decentralisation comes in degrees, and every proposed fill carries named residual trust
         assumptions. Hold us to that.
       </p>

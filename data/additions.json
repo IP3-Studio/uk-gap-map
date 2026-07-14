@@ -1,7 +1,7 @@
 [
  {
   "domain": "corruption-integrity",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No tamper-evident public archive infrastructure for evidence-grade records",
   "gap_type": "tooling",
@@ -10,14 +10,13 @@
   "why_it_matters": "Records are where UK accountability actually breaks: Horizon and Windrush each destroyed thousands of lives through corrupted or vanished records. 'There is no political power without control of the archive', and the state keeps proving it cannot be its own archivist.",
   "what_would_fill_it": "A public-interest archive service anchoring hashes of inquiry evidence, judgments, contracts and FOI releases to tamper-evident storage with independent verification, piloted with one inquiry's evidence corpus or one council's records, run by a university-charity consortium, mechanism-agnostic on the underlying stack.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.gov.uk/government/publications/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions",
    "https://www.opendemocracy.net/en/freedom-of-information/freedom-of-information-in-danger-of-sliding-into-obsolescence-new-report-finds/"
   ]
  },
  {
   "domain": "local-state-capacity",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No verifiable spending and procurement rails for local government",
   "gap_type": "tooling",
@@ -26,14 +25,13 @@
   "why_it_matters": "The audit system failed and its replacement fixes plumbing, not assurance. Residents of effectively bankrupt councils cannot see where the money went; verifiable-by-default finance would make the next Thurrock visible years earlier, and is the strongest possible differentiator for any parallel institution handling community money.",
   "what_would_fill_it": "A pilot with one willing council or combined authority (or a Pride in Place neighbourhood board): all payments and procurement published to a tamper-evident public ledger with supplier and category data, paired with an independent evaluation of cost, fraud-detection and trust effects.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.gov.uk/guidance/exceptional-financial-support-for-local-authorities-for-2026-27",
    "https://www.lgcplus.com/finance/revealed-22-councils-miss-audit-backstop-deadline-27-03-2026/"
   ]
  },
  {
   "domain": "parallel-institutions",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No civic governance laboratories: verifiable voting and decision-records untested in low-stakes democracy",
   "gap_type": "tooling",
@@ -42,14 +40,13 @@
   "why_it_matters": "Blockchain communities are 'laboratories for investigating democratic governance mechanisms', but only if someone runs the experiments. The UK has 16.6m co-op members and 6m union members governed by processes less verifiable than a parkrun result; proving the tooling there is the prerequisite for ever trusting it anywhere else.",
   "what_would_fill_it": "A funded governance-lab programme partnering with unions, co-ops and participatory-budgeting pilots to run verifiable ballots alongside incumbent processes, publishing comparable results on turnout, cost, contestation and member trust, with statutory reform of e-balloting rules as the policy tail.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.uk.coop/resources/economy",
    "https://www.gov.uk/government/statistics/trade-union-statistics-2025/trade-union-membership-uk-1995-to-2025-statistical-bulletin"
   ]
  },
  {
   "domain": "civic-society",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No prepared community pathway for service continuity when councils withdraw",
   "gap_type": "coordination",
@@ -58,14 +55,13 @@
   "why_it_matters": "The fiscal arithmetic guarantees more withdrawal. Each unprepared handover either fails (discrediting community capacity) or succeeds invisibly (teaching nobody). A prepared pathway converts austerity's vacuums into accountable community institutions instead of decay: the pressure-valve logic of parallel institutions applied to the most immediate UK case.",
   "what_would_fill_it": "A service-continuity playbook and support unit: legal templates per service type, a transparent-treasury standard for community operators, TUPE and insurance guidance, and a rapid-response advice service for communities facing withdrawal (fundable by the community-power foundations, deliverable by a Locality/Plunkett-class body).",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.instituteforgovernment.org.uk/explainer/local-authority-section-114-notices",
    "https://www.legislation.gov.uk/ukpga/2026/23/contents/enacted"
   ]
  },
  {
   "domain": "privacy",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No landing-spot institution for the debanked, de-platformed and digitally excluded",
   "gap_type": "institutional",
@@ -74,14 +70,13 @@
   "why_it_matters": "Arendt's 'right to have rights' has a domestic form: a person cut off from payments and identity is functionally rightless regardless of their legal rights. As access to essentials becomes conditional on accounts, exclusion errors become livelihood-destroying events, and their invisibility is why they persist.",
   "what_would_fill_it": "A 'landing spot' service: rapid casework for the debanked/excluded, guaranteed-access payment arrangements (credit-union partnerships, cash-capable rails), identity re-establishment support, and published data on exclusion volumes and causes, plus policy work for statutory due-process duties on account closure.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.fca.org.uk/publications/corporate-documents/account-access-closures",
    "https://commonslibrary.parliament.uk/research-briefings/cbp-10369/"
   ]
  },
  {
   "domain": "portable-sovereignty",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "Nobody measures exit friction: no audit of UK lock-ins",
   "gap_type": "knowledge",
@@ -90,14 +85,13 @@
   "why_it_matters": "'The penalty for selecting a bad community should not be a life sentence in that community.' Exit is what disciplines institutions: banks, platforms and states alike behave better when leaving is cheap. Unmeasured, lock-in accumulates silently until it is architecture.",
   "what_would_fill_it": "An annual UK Exit Friction Index: measured switching/leaving costs across banking, pensions, platforms, credentials, identity and residence, with per-institution scores and a design standard (data portability, wallet interoperability, credential portability). A publishable research product a small team could ship in a year.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.biometricupdate.com/202602/uk-digital-id-providers-fear-govt-plans-conflict-with-data-protection-act-aims",
    "https://www.sidley.com/en/insights/newsupdates/2026/01/uk-cryptoasset-regulation-action-points-for-2026-2027"
   ]
  },
  {
   "domain": "education-ai",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No civic technological literacy infrastructure for adults",
   "gap_type": "institutional",
@@ -106,14 +100,13 @@
   "why_it_matters": "'If people do not understand the technology, they cannot trust it', and if a community wishes to survive attack 'it will need members who understand its foundational technologies in addition to its foundational values.' Every other sovereignty gap on this map has adoption blocked by this one.",
   "what_would_fill_it": "A civic technology literacy programme: open curriculum (encryption, verification, identity architectures, custody), train-the-trainer delivery through libraries, unions, faith groups and community organisations, and a UK network of community technologists, modelled on citizens-advice reach rather than university outreach.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.goodthingsfoundation.org/",
    "https://www.bcs.org/articles-opinion-and-research/new-computing-curriculum-will-teach-ai-awareness-and-digital-literacy/"
   ]
  },
  {
   "domain": "ai-crisis",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No decentralised attestation network for critical public facts",
   "gap_type": "tooling",
@@ -122,14 +115,13 @@
   "why_it_matters": "Coordination requires common knowledge: everyone knowing everyone has the same uncorrupted record. Demos found 30% of adults saw a candidate deepfake before the May 2026 locals; by the first votes-at-16 general election, verification-by-default may be the only alternative to epistemic collapse. Detection loses the arms race; attestation doesn't have to.",
   "what_would_fill_it": "A multi-witness attestation pilot for one fact class (e.g. declared local election results co-signed by returning officers, the Electoral Commission and accredited observers, verifiable by anyone), with staked/multi-party design so no single institution is the arbiter, then extension to emergency communications.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://demos.co.uk/blogs/one-in-three-uk-adults-report-seeing-political-deepfakes-in-the-month-before-local-elections/",
    "https://www.electoralcommission.org.uk/media-centre/electoral-commission-launches-deepfake-detection-pilot-counter-ai-misinformation"
   ]
  },
  {
   "domain": "parallel-institutions",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No flagship full-stack mutual demonstrating services-without-territory",
   "gap_type": "institutional",
@@ -138,14 +130,13 @@
   "why_it_matters": "Legal reform follows demonstration more often than it precedes it. One visible, well-governed full-stack mutual (the book's 'services without territory' menu made British) would give the Law Commission workstreams a live client, funders a template, and 4.4m self-employed workers an alternative to falling through the welfare state's gaps.",
   "what_would_fill_it": "A flagship mutual pilot: 1,000+ members drawn from an existing community (a union branch, a professional network, a large mutual-aid group), offering two or three services at launch with transparent treasury and published governance, structured within existing law (community benefit society + contractual layers) while documenting exactly where the law binds, which is the evidence the reform entries need.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://lawcom.gov.uk/project/friendly-societies/",
    "https://financialmutuals.org/resource/afm-welcomes-the-law-commission-consultation-on-the-long-overdue-reform-of-friendly-societies-legislation/"
   ]
  },
  {
   "domain": "civic-society",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No mutual-defence compact for UK civil society under attack",
   "gap_type": "coordination",
@@ -154,14 +145,13 @@
   "why_it_matters": "'No community under unjust attack should stand alone.' Isolation is the attacker's force multiplier: one lawsuit, one account closure or one breach can end an organisation that a compact would have carried. The sector's accountability functions (the map's own oversight-outsourced-to-charities archetype) are only as resilient as their weakest, loneliest member.",
   "what_would_fill_it": "A civil-society mutual-defence compact, convened by an existing network (NCVO/Bond-class) with foundation seed funding: shared security baseline and pooled incident response, a rapid-response defence fund (legal, financial, communications), coordinated disclosure among members, and a public solidarity protocol.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.ncsc.gov.uk/section/information-for/charity-sector",
    "https://antislapp.uk/solutions/legislation/"
   ]
  },
  {
   "domain": "justice-access",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No auditable records infrastructure for guardianship and deprivation-of-liberty decisions",
   "gap_type": "tooling",
@@ -170,14 +160,13 @@
   "why_it_matters": "People under guardianship are the least able to contest bad decisions; their protection depends entirely on records others keep. Tamper-evident decision-trails, auditable by families and inspectors without publishing private details, would deter the abuses the current opacity invites, in a system already years past its legal capacity.",
   "what_would_fill_it": "An auditable decision-records standard for deputyship and DoLS/LPS cases: standardised, tamper-evident logs of decisions, evidence and authorisations, family-accessible with privacy-preserving disclosure (prove a decision was authorised without exposing the file), piloted with one region's OPG caseload alongside the post-Supreme-Court LPS redesign.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.scie.org.uk/news/detail/mental-capacity-act-reform-stalled-urgent-action-needed-as-system-unravels/",
    "https://www.mentalcapacitylawandpolicy.org.uk/deprivation-of-liberty-update-the-supreme-court-dhsc-and-cqc/"
   ]
  },
  {
   "domain": "portable-sovereignty",
-  "lens": "westphalia",
+  "lens": "decentralisation",
   "added": "2026-07-08",
   "title": "No jurisdictional resilience provision for UK infrastructure operators",
   "gap_type": "institutional",
@@ -186,7 +175,6 @@
   "why_it_matters": "Every sovereignty-stack gap on this map assumes someone runs the infrastructure. If operating a relay from the UK is legally hazardous and unsupported, operators exit to other jurisdictions or quit, and UK communities inherit dependence on foreign infrastructure, which is the situation the stack exists to fix.",
   "what_would_fill_it": "An operator resilience service: plain-English legal guidance per operator class, a retained counsel network and defence fund for notice recipients, structural templates (entity, hosting and jurisdiction options), and published transparency norms, all buildable by a digital-rights organisation with specialist-firm partnership.",
   "sources": [
-   "https://arxiv.org/pdf/2510.09840",
    "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/consultation-technology-notices",
    "https://privacyinternational.org/news-analysis/5624/update-our-case-against-uk-governments-secret-surveillance-orders-be-heard-2026"
   ]

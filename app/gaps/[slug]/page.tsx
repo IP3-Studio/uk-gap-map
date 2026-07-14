@@ -64,7 +64,7 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
         )}
         {(gap.facet === "funding-gaps" || gap.facets?.includes("funding-gaps")) && <span className="badge">funding lens</span>}
         {(gap.facet === "policy-gaps" || gap.facets?.includes("policy-gaps")) && <span className="badge">policy lens</span>}
-        {gap.lens === "westphalia" && <span className="badge">Westphalia lens</span>}
+        {gap.lens === "decentralisation" && <span className="badge">Decentralisation lens</span>}
         {gap.lens === "synthetic-state" && <span className="badge">Synthetic State lens</span>}
         <StaleBadge reviewBy={gap.provenance.reviewBy} />
       </div>

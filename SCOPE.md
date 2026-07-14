@@ -2,7 +2,7 @@
 
 **Status:** v0.3 scope (July 2026). Research complete — all 18 dossiers in; nothing built yet.
 **Modelled on:** [Convergent Research's Gap Map](https://www.gap-map.org/?sort=rank), their [ecosystem directory](https://www.convergentresearch.org/ecosystem), and the [Essential Technology launch post](https://www.essentialtechnology.blog/p/introducing-the-convergent-research); AI-crisis framing informed by [Europe 2031](https://europe2031.ai/europe-2031.pdf).
-**Research base:** 18 domain dossiers (in `domains/`), 223 candidate gap entries (211 from the July 2026 research pass + 12 derived from *Farewell to Westphalia* — see `westphalia-alignment.md`), all sourced against the mid-2026 UK situation; reference-model analysis in `reference-models.md`; adversarial completeness review in `completeness-critique.md`.
+**Research base:** 18 domain dossiers (in `domains/`), 223 candidate gap entries (211 from the July 2026 research pass + 12 from a decentralisation lens pass), all sourced against the mid-2026 UK situation; reference-model analysis in `reference-models.md`; adversarial completeness review in `completeness-critique.md`.
 
 **Visual layer (July 2026):** the home page carries a "territory at a glance" chart — 18 domain rows, stacked by permission split, every segment deep-linking into the filtered dashboard; the watchlist is a visual timeline grouped by period; gap pages have breadcrumbs and a "more in this domain" trail. **Geographic UK map: deliberately not built** — the gaps are national/institutional and a coloured-counties map would imply place-level data that doesn't exist. The trigger for building one is real local adoption data (claimed gaps, local pilots, circle activity): "who is building what, where" is mappable; the inventory itself is not.
 
@@ -10,7 +10,7 @@
 
 **Resource hub (July 2026):** the site carries `/resources` — "Stacks you can build on today" — 115 verified open-source entries across seven categories (communications, p2p foundations incl. GNUnet, storage/local-first, collaboration/governance, compute & AI, identity/money/coordination, and a personal-privacy layer of phones, browsers, passwords and file tools verified from the curator's long-running privacy-tools board in July 2026), each with an honest maturity rating (production / usable / early), origin, licence and self-host flags. Pre-mainnet projects are rated cold by the same yardstick as everything else. Data in `data/resources.json`; falls under the same quarterly review standard.
 
-**Stewardship:** built and maintained by IP3 Studio; get involved via the repository. The philosophical lens is *Farewell to Westphalia* (Hope & Ludlow, 2025), applied with the book's own stated limits; the map remains mechanism-agnostic and evidence-first. The site now carries an **action layer**: per-gap claim CTAs, an Act page with audience playbooks, and the participation doctrine — the map is a to-do list, not a catalogue.
+**Stewardship:** built and maintained by IP3 Studio; get involved via the repository. The map remains mechanism-agnostic and evidence-first. The site now carries an **action layer**: per-gap claim CTAs, an Act page with audience playbooks, and the participation doctrine — the map is a to-do list, not a catalogue.
 
 ---
 
