@@ -9,13 +9,13 @@ const perm = (p: string) => gaps.filter((g) => g.permission === p).length;
 export default function Home() {
   return (
     <>
-      <h1>What’s missing in the UK — and what would fill it</h1>
+      <h1>What’s missing in the UK, and what would fill it</h1>
       <p className="lede">
         {gaps.length} concrete gaps in Britain’s civic, economic and technological fabric: missing institutions,
         funds, tools, datasets and laws left switched off. Each one names what would fill it. Most don’t need
         anyone’s permission to start.{" "}
         {candidateCount > gaps.length && (
-          <>Curated from {candidateCount} research candidates — duplicates across domains are counted once.</>
+          <>Curated from {candidateCount} research candidates; duplicates across domains are counted once.</>
         )}
       </p>
 
@@ -28,7 +28,7 @@ export default function Home() {
         <Link href="/?permission=build-together" className="stat-tile together">
           <div className="n">{perm("build-together")}</div>
           <div className="t">Build together</div>
-          <div className="s">No new law — just a willing council, union or public body at the table.</div>
+          <div className="s">No new law: just a willing council, union or public body at the table.</div>
         </Link>
         <Link href="/?permission=state-led" className="stat-tile">
           <div className="n">{perm("state-led")}</div>

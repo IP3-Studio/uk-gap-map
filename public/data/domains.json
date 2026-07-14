@@ -85,7 +85,7 @@
   ],
   "funders": [
    "National Lottery Community Fund (largest community funder; Community Wealth Fund delivery; Solidarity Fund)",
-   "Dormant Assets Scheme (community wealth, youth, financial inclusion strands — most plausible source of new civic capital)",
+   "Dormant Assets Scheme (community wealth, youth, financial inclusion strands; most plausible source of new civic capital)",
    "DCMS (Covenant programme, Know Your Neighbourhood, Amplify local media plan, Better Futures Fund, place-based philanthropy roadmap)",
    "MHCLG (Pride in Place £5bn, neighbourhood governance implementation)",
    "BBC licence fee (Local Democracy Reporting Service, subject to Charter review)",
@@ -99,9 +99,9 @@
    "UK community foundations network (47 foundations, place-based giving)",
    "Nesta / think-tank-adjacent innovation funders",
    "International democracy funders active in UK civic tech (National Endowment for Democracy, Luminate)",
-   "Corporate/platform money (Google News Initiative — contested; potential platform levy)"
+   "Corporate/platform money (Google News Initiative, contested; potential platform levy)"
   ],
-  "policyNotes": "The Covenant (July 2025) is non-statutory with no adjudication mechanism; its Local Covenant Partnerships Fund (£11.59m) reaches only 15 English council areas. The English Devolution and Community Empowerment Act 2026 delivered one of the three community rights campaigners sought (buy — not shape-services or control-investment) and leaves neighbourhood-governance parameters to future regulations. Government closed the Community Ownership Fund without a capital successor, betting the right alone suffices. The Lobbying Act 2014 remains unreformed despite documented chilling effects; CIVICUS has rated UK civic space 'obstructed' since 2023 and HRW (January 2026) documents escalating protest restrictions — an awkward counterpoint to partnership rhetoric. Loneliness policy has drifted since 2020 (DCMS team repurposed; evidence bodies closed). Local news policy is modest (Amplify: £12m over two years) with LDRS funding unresolved in Charter review. Dormant assets and the new Office for the Impact Economy are the live levers to watch.",
+  "policyNotes": "The Covenant (July 2025) is non-statutory with no adjudication mechanism; its Local Covenant Partnerships Fund (£11.59m) reaches only 15 English council areas. The English Devolution and Community Empowerment Act 2026 delivered one of the three community rights campaigners sought (buy, not shape-services or control-investment) and leaves neighbourhood-governance parameters to future regulations. Government closed the Community Ownership Fund without a capital successor, betting the right alone suffices. The Lobbying Act 2014 remains unreformed despite documented chilling effects; CIVICUS has rated UK civic space 'obstructed' since 2023 and HRW (January 2026) documents escalating protest restrictions, an awkward counterpoint to partnership rhetoric. Loneliness policy has drifted since 2020 (DCMS team repurposed; evidence bodies closed). Local news policy is modest (Amplify: £12m over two years) with LDRS funding unresolved in Charter review. Dormant assets and the new Office for the Impact Economy are the live levers to watch.",
   "sources": [
    "https://www.gov.uk/government/publications/civil-society-covenant/civil-society-covenant",
    "https://www.gov.uk/guidance/civil-society-covenant-programme",
@@ -159,7 +159,7 @@
    "https://www.scouts.org.uk/volunteers/growing-scouts/get-more-young-people-involved/waiting-lists/"
   ],
   "gapCount": 20,
-  "intro": "Fewer Britons volunteer, join or belong than a decade ago — yet the policy weather has rarely been better. New community rights, a £5bn neighbourhood programme and a formal reset with government have all just arrived. The catch: the institutions needed to make them work keep closing. Money and rights are arriving faster than the capacity to use them.\n\nThe gaps below are mostly missing plumbing: a right to buy with no fund to buy with, resident boards with no one to train them, billions allocated with no statistics or evidence behind them. Local news, community organising and civic tech all run on grants that expire. Most of these gaps come with a concrete fix already sketched — what's missing is an owner."
+  "intro": "Fewer Britons volunteer, join or belong than a decade ago, yet the policy weather has rarely been better. New community rights, a £5bn neighbourhood programme and a formal reset with government have all just arrived. The catch: the institutions needed to make them work keep closing. Money and rights are arriving faster than the capacity to use them.\n\nThe gaps below are mostly missing plumbing: a right to buy with no fund to buy with, resident boards with no one to train them, billions allocated with no statistics or evidence behind them. Local news, community organising and civic tech all run on grants that expire. Most of these gaps come with a concrete fix already sketched; what's missing is an owner."
  },
  {
   "num": 2,
@@ -187,7 +187,7 @@
    {
     "name": "Software Sustainability Institute (SSI)",
     "type": "research institute/programme",
-    "note": "Runs the £4.8m UKRI Research Software Maintenance Fund (13 projects in round 1, 2025; round 2 opened January 2026) — the UK's only dedicated software maintenance fund."
+    "note": "Runs the £4.8m UKRI Research Software Maintenance Fund (13 projects in round 1, 2025; round 2 opened January 2026), the UK's only dedicated software maintenance fund."
    },
    {
     "name": "Open Digital Cooperative (LocalGov Drupal)",
@@ -207,7 +207,7 @@
    {
     "name": "mySociety / SocietyWorks",
     "type": "charity with trading subsidiary",
-    "note": "Runs TheyWorkForYou, WhatDoTheyKnow and FixMyStreet — de facto national civic infrastructure funded by foundations plus commercial income, with no dedicated UK funding stream for such infrastructure."
+    "note": "Runs TheyWorkForYou, WhatDoTheyKnow and FixMyStreet: de facto national civic infrastructure funded by foundations plus commercial income, with no dedicated UK funding stream for such infrastructure."
    },
    {
     "name": "Centre for Public Data",
@@ -246,20 +246,20 @@
    }
   ],
   "funders": [
-   "UKRI (Innovate UK, EPSRC and the Digital Research Infrastructure programme — host of the SSI maintenance fund and proposed administrator of a UK open-source fund)",
-   "DSIT (National Data Library £100m+, £500m Sovereign AI Fund, digital centre of government budgets — the natural home for a sovereign tech fund)",
+   "UKRI (Innovate UK, EPSRC and the Digital Research Infrastructure programme; host of the SSI maintenance fund and proposed administrator of a UK open-source fund)",
+   "DSIT (National Data Library £100m+, £500m Sovereign AI Fund, digital centre of government budgets; the natural home for a sovereign tech fund)",
    "Wellcome Trust (£17m to OpenSAFELY 2025; £600m with government for the Health Data Research Service)",
    "NHS England (platform and EPR budgets; currently funds almost no open source stewardship)",
-   "MHCLG (former DLUHC Local Digital Fund, ~£1m to LocalGov Drupal, now closed — an obvious vehicle to revive)",
+   "MHCLG (former DLUHC Local Digital Fund, ~£1m to LocalGov Drupal, now closed; an obvious vehicle to revive)",
    "Nesta (innovation foundation; past digital/civic tech funder)",
    "The National Lottery Community Fund (ran a Digital Fund, now closed)",
    "Charitable trusts funding civic tech at the margins (Joseph Rowntree trusts, Paul Hamlyn, Worshipful Company of Information Technologists small grants)",
    "US/international philanthropy currently substituting for UK funders (Omidyar Network, Open Society, Sloan/Ford digital infrastructure funds)",
    "Corporate open source money (GitHub Sponsors, Google/Microsoft OSS programmes, Linux Foundation/OpenSSF Alpha-Omega)",
    "EU Horizon Europe (UK associated; NGI cascade-grant route via NLnet cut from 2025)",
-   "Member subscriptions (the Open Digital Cooperative council/supplier model — proven self-sustaining route once seed-funded)"
+   "Member subscriptions (the Open Digital Cooperative council/supplier model; proven self-sustaining route once seed-funded)"
   ],
-  "policyNotes": "'Open by default' has been UK policy since 2012 (Service Standard; Technology Code of Practice point 3) but has no institutional owner, no compliance measurement and no funding arm — a policy without a programme. NHS England's 2025-26 retreat to default-closed code shows how easily it evaporates. The Procurement Act 2023 and G-Cloud 15 modernised process but created no duty to weigh open source. The Cyber Security and Resilience Bill (report stage June 2026) is, unlike the EU Cyber Resilience Act, silent on open source stewardship. DSIT's activity is analytic — commissioned OSS supply-chain research, a voluntary Software Security Code of Practice — not financial. The National Data Library (further details due spring 2026) is the main live data policy and the natural host for register reform and open address data. The 2026 Digital and Technologies Sector Plan update funds sovereign AI equity, not open digital infrastructure; OpenUK's UKRI-commissioned guidance is the nearest thing to an emerging strategy.",
+  "policyNotes": "'Open by default' has been UK policy since 2012 (Service Standard; Technology Code of Practice point 3) but has no institutional owner, no compliance measurement and no funding arm: a policy without a programme. NHS England's 2025-26 retreat to default-closed code shows how easily it evaporates. The Procurement Act 2023 and G-Cloud 15 modernised process but created no duty to weigh open source. The Cyber Security and Resilience Bill (report stage June 2026) is, unlike the EU Cyber Resilience Act, silent on open source stewardship. DSIT's activity is analytic (commissioned OSS supply-chain research, a voluntary Software Security Code of Practice), not financial. The National Data Library (further details due spring 2026) is the main live data policy and the natural host for register reform and open address data. The 2026 Digital and Technologies Sector Plan update funds sovereign AI equity, not open digital infrastructure; OpenUK's UKRI-commissioned guidance is the nearest thing to an emerging strategy.",
   "sources": [
    "https://www.sovereign.tech/programs/fund",
    "https://eu-stf.openforumeurope.org/",
@@ -304,7 +304,7 @@
    "https://www.openrightsgroup.org/campaign/demand-uk-digital-sovereignty/"
   ],
   "gapCount": 13,
-  "intro": "Britain wrote the rules on open government code and remains Europe's top open source contributor — the sector produces over a quarter of UK digital value. Yet by 2026 the state is retreating from its own playbook: the NHS deleted its open source policy, government data rots unowned, and while Germany pays the maintainers of critical code, the UK buys AI equity stakes instead.\n\nThe gaps here are mostly about maintenance — the unglamorous work every funder skips. Nobody pays the volunteers whose code the state runs on, nobody audits the open-by-default rule, nobody keeps reference data current, and charities are locked out of platforms taxpayers already built. Almost every fix has a working model abroad, ready to copy."
+  "intro": "Britain wrote the rules on open government code and remains Europe's top open source contributor; the sector produces over a quarter of UK digital value. Yet by 2026 the state is retreating from its own playbook: the NHS deleted its open source policy, government data rots unowned, and while Germany pays the maintainers of critical code, the UK buys AI equity stakes instead.\n\nThe gaps here are mostly about maintenance: the unglamorous work every funder skips. Nobody pays the volunteers whose code the state runs on, nobody audits the open-by-default rule, nobody keeps reference data current, and charities are locked out of platforms taxpayers already built. Almost every fix has a working model abroad, ready to copy."
  },
  {
   "num": 3,
@@ -372,7 +372,7 @@
    {
     "name": "John Smith Centre, University of Glasgow",
     "type": "research institute",
-    "note": "UK Youth Poll 2025 and 2026 — the best longitudinal evidence on Gen Z attitudes to democracy, the gender divide and social-media-first political information."
+    "note": "UK Youth Poll 2025 and 2026: the best longitudinal evidence on Gen Z attitudes to democracy, the gender divide and social-media-first political information."
    },
    {
     "name": "#iwill Movement",
@@ -406,7 +406,7 @@
    "Sport England (embedded in National Youth Strategy)",
    "Electoral Commission (democratic education programme grants)"
   ],
-  "policyNotes": "The live vehicle is the Representation of the People Bill 2024-26 (second reading 2 March 2026): votes at 16 UK-wide, registration from 14, and pilot powers for automatic registration — opposed by the Conservatives and DUP. Holes: no statutory schools/attainer registration mechanism; the promised democratic-education 'package' is non-statutory and unfunded; the strengthened citizenship curriculum publishes in 2027, likely after the first 16-year-old voters are enfranchised. The National Youth Strategy (Dec 2025) commits ~£500m but only reviews — does not strengthen — the weak s.507B youth services duty, and skews capital over revenue. The Youth Guarantee is eight trailblazers, not an entitlement, while under-19 apprenticeship starts fell ~40% over a decade. NCS Act 2017 repeal is still needed to close the NCS Trust. Devolved divergence is instructive: Wales piloted automatic registration and has statutory participation duties; Scotland incorporated the UNCRC in 2024.",
+  "policyNotes": "The live vehicle is the Representation of the People Bill 2024-26 (second reading 2 March 2026): votes at 16 UK-wide, registration from 14, and pilot powers for automatic registration, opposed by the Conservatives and DUP. Holes: no statutory schools/attainer registration mechanism; the promised democratic-education 'package' is non-statutory and unfunded; the strengthened citizenship curriculum publishes in 2027, likely after the first 16-year-old voters are enfranchised. The National Youth Strategy (Dec 2025) commits ~£500m but only reviews, rather than strengthens, the weak s.507B youth services duty, and skews capital over revenue. The Youth Guarantee is eight trailblazers, not an entitlement, while under-19 apprenticeship starts fell ~40% over a decade. NCS Act 2017 repeal is still needed to close the NCS Trust. Devolved divergence is instructive: Wales piloted automatic registration and has statutory participation duties; Scotland incorporated the UNCRC in 2024.",
   "sources": [
    "https://commonslibrary.parliament.uk/research-briefings/sn01747/",
    "https://www.gov.uk/government/publications/representation-of-the-people-bill-policy-summaries/votes-at-16",
@@ -457,7 +457,7 @@
    "https://www.gov.uk/government/news/power-of-youth-charter-gives-young-people-a-voice-in-government"
   ],
   "gapCount": 12,
-  "intro": "Britain is about to give 1.6 million teenagers the vote. The infrastructure that would help them use it has been hollowed out for years: council youth spending down by roughly three-quarters, the national youth council collapsed, the National Citizen Service closed. The reform is racing its own foundations.\n\nThe gaps below share a deadline: the first general election with sixteen-year-old voters. Registration pipelines, first-vote education in schools, a rebuilt youth work profession, and programmes for the groups drifting furthest — young men, and the million neither earning nor learning. Each is buildable before that election. Most are cheap."
+  "intro": "Britain is about to give 1.6 million teenagers the vote. The infrastructure that would help them use it has been hollowed out for years: council youth spending down by roughly three-quarters, the national youth council collapsed, the National Citizen Service closed. The reform is racing its own foundations.\n\nThe gaps below share a deadline: the first general election with sixteen-year-old voters. Registration pipelines, first-vote education in schools, a rebuilt youth work profession, and programmes for the groups drifting furthest (young men, and the million neither earning nor learning). Each is buildable before that election. Most are cheap."
  },
  {
   "num": 4,
@@ -465,7 +465,7 @@
   "name": "Education in the age of AI",
   "shortName": "Education & AI",
   "hue": 200,
-  "landscape": "England enters mid-2026 mid-reform. The Curriculum and Assessment Review (Francis) reported November 2025; the government response promises a revised curriculum by spring 2027, first teaching September 2028, embedding AI awareness and digital/media literacy and replacing the computer science GCSE — leaving a three-year window in which pupils use AI daily with no curriculum coverage. DfE has moved fast on supply: Oak's Aila lesson assistant (NFER trial reports autumn 2026), the AI Content Store built with Faculty AI, £23m EdTech Testbeds, an AI tutoring programme targeting 450,000 disadvantaged pupils by end-2027, and voluntary generative-AI product safety expectations. Assessment is the pressure point: JCQ relies on teachers authenticating coursework, Ofqual's on-screen exams arrive ~2030 for small subjects only, and in HE 94% of students use generative AI in assessed work (HEPI 2026) while nearly half of providers run deficits and 12,000+ jobs were cut in 2025. Teacher supply remains short (secondary ITT forecast 14% below target for 2026/27), making AI workload tools strategically important but largely unevaluated. The skills system is mid-transition: Skills England now publishes annual needs assessments; the Growth and Skills Levy replaces the apprenticeship levy from April 2026; the loans-based Lifelong Learning Entitlement launches January 2027 after repeated delays. Graduate vacancies have fallen sharply with contested AI attribution, youth unemployment is at a decade high, and no instrument exists for mid-career retraining at scale. Wales centralises school digital infrastructure through Hwb; England leaves 22,000+ schools to buy alone.",
+  "landscape": "England enters mid-2026 mid-reform. The Curriculum and Assessment Review (Francis) reported November 2025; the government response promises a revised curriculum by spring 2027, first teaching September 2028, embedding AI awareness and digital/media literacy and replacing the computer science GCSE, leaving a three-year window in which pupils use AI daily with no curriculum coverage. DfE has moved fast on supply: Oak's Aila lesson assistant (NFER trial reports autumn 2026), the AI Content Store built with Faculty AI, £23m EdTech Testbeds, an AI tutoring programme targeting 450,000 disadvantaged pupils by end-2027, and voluntary generative-AI product safety expectations. Assessment is the pressure point: JCQ relies on teachers authenticating coursework, Ofqual's on-screen exams arrive ~2030 for small subjects only, and in HE 94% of students use generative AI in assessed work (HEPI 2026) while nearly half of providers run deficits and 12,000+ jobs were cut in 2025. Teacher supply remains short (secondary ITT forecast 14% below target for 2026/27), making AI workload tools strategically important but largely unevaluated. The skills system is mid-transition: Skills England now publishes annual needs assessments; the Growth and Skills Levy replaces the apprenticeship levy from April 2026; the loans-based Lifelong Learning Entitlement launches January 2027 after repeated delays. Graduate vacancies have fallen sharply with contested AI attribution, youth unemployment is at a decade high, and no instrument exists for mid-career retraining at scale. Wales centralises school digital infrastructure through Hwb; England leaves 22,000+ schools to buy alone.",
   "actors": [
    {
     "name": "Oak National Academy",
@@ -485,12 +485,12 @@
    {
     "name": "Ofqual",
     "type": "regulator",
-    "note": "Consulting (Dec 2025–Mar 2026) on on-screen GCSE/A-level exams — capped at small-entry subjects, delivery ~2030; regulates exam integrity in the AI era."
+    "note": "Consulting (Dec 2025–Mar 2026) on on-screen GCSE/A-level exams (capped at small-entry subjects, delivery ~2030); regulates exam integrity in the AI era."
    },
    {
     "name": "Joint Council for Qualifications (JCQ)",
     "type": "exam boards' membership body",
-    "note": "Owns the 'AI Use in Assessments' guidance (rev. April 2025) governing coursework/NEA authentication — the front line of the schools assessment-integrity problem."
+    "note": "Owns the 'AI Use in Assessments' guidance (rev. April 2025) governing coursework/NEA authentication: the front line of the schools assessment-integrity problem."
    },
    {
     "name": "Skills England",
@@ -515,7 +515,7 @@
    {
     "name": "National Centre for Computing Education (NCCE)",
     "type": "government-funded programme (STEM Learning consortium)",
-    "note": "DfE-funded CPD for computing teachers — the obvious chassis for whole-workforce AI-literacy training, but its remit is computing, not AI across subjects."
+    "note": "DfE-funded CPD for computing teachers: the obvious chassis for whole-workforce AI-literacy training, but its remit is computing, not AI across subjects."
    },
    {
     "name": "Raspberry Pi Foundation",
@@ -540,7 +540,7 @@
    {
     "name": "Ufi VocTech Trust",
     "type": "charitable funder",
-    "note": "The main dedicated funder of technology for adult vocational learning (VocTech Activate: £900k round Jan 2026, grants £30–60k) — small relative to the retraining challenge."
+    "note": "The main dedicated funder of technology for adult vocational learning (VocTech Activate: £900k round Jan 2026, grants £30–60k), though small relative to the retraining challenge."
    }
   ],
   "funders": [
@@ -555,10 +555,10 @@
    "XTX Markets (major maths/AI education philanthropy in the UK)",
    "Google.org / Google DeepMind (Experience AI with Raspberry Pi Foundation)",
    "Sutton Trust (social mobility; tutoring and access evidence)",
-   "Exam board charitable owners (Cambridge University Press & Assessment, AQA) — assessment R&D capacity",
+   "Exam board charitable owners (Cambridge University Press & Assessment, AQA): assessment R&D capacity",
    "Mayoral combined authorities (devolved adult skills funds)"
   ],
-  "policyNotes": "Policy is prolific but fragmented: DfE (schools AI guidance, content store, curriculum), DSIT (TechFirst, AI Opportunities Action Plan), Ofqual/OfS/JCQ/QAA (assessment), Skills England (levy, needs assessments). Holes: the GenAI product safety expectations are voluntary, with no register or audit; JCQ coursework guidance is unenforceable at scale; Ofqual's on-screen timeline (~2030, small subjects first) lags the integrity crisis by years; the 2028 curriculum leaves a three-year AI-literacy vacuum; the post-16 white paper strengthens OfS powers but offers no transition finance and no HE insolvency regime despite Education Committee warnings; the LLE is loans-only and scope-limited at its January 2027 launch; employer training investment fell ~9% in real terms 2019–2024 while levy flexibility tightened; and no official data series tracks AI's labour-market impact — Skills England itself flags local and occupational data gaps. Devolution (Wales's Hwb, Scotland's Glow) means England is the outlier on central digital provision.",
+  "policyNotes": "Policy is prolific but fragmented: DfE (schools AI guidance, content store, curriculum), DSIT (TechFirst, AI Opportunities Action Plan), Ofqual/OfS/JCQ/QAA (assessment), Skills England (levy, needs assessments). Holes: the GenAI product safety expectations are voluntary, with no register or audit; JCQ coursework guidance is unenforceable at scale; Ofqual's on-screen timeline (~2030, small subjects first) lags the integrity crisis by years; the 2028 curriculum leaves a three-year AI-literacy vacuum; the post-16 white paper strengthens OfS powers but offers no transition finance and no HE insolvency regime despite Education Committee warnings; the LLE is loans-only and scope-limited at its January 2027 launch; employer training investment fell ~9% in real terms 2019–2024 while levy flexibility tightened; and no official data series tracks AI's labour-market impact: Skills England itself flags local and occupational data gaps. Devolution (Wales's Hwb, Scotland's Glow) means England is the outlier on central digital provision.",
   "sources": [
    "https://www.gov.uk/government/publications/curriculum-and-assessment-review-final-report",
    "https://www.gov.uk/government/publications/curriculum-and-assessment-review-final-report-government-response",
@@ -606,10 +606,10 @@
  {
   "num": 5,
   "slug": "growth-stagnation",
-  "name": "Stagnation solutions — what drives UK growth",
+  "name": "Stagnation solutions: what drives UK growth",
   "shortName": "Growth & stagnation",
   "hue": 260,
-  "landscape": "Productivity is the central fact: UK multifactor productivity grew ~0.1% a year over 2008–21 versus 1.3% pre-crisis, and in November 2025 the OBR cut its medium-term productivity assumption to 1.0% and potential growth to 1.5%. Diagnoses compete — weak public and private investment, a TFP slowdown concentrated in manufacturing, ICT and finance, poor diffusion, and the 'Foundations' thesis that Britain has effectively banned investment in housing, transport and energy. 2024–26 produced an unusually dense reform wave: the Planning and Infrastructure Act 2025 (Royal Assent 18 December 2025), a New Towns programme (seven shortlisted sites, three priority), a 10-year Infrastructure Strategy (£725bn) under the new NISTA, an Industrial Strategy cutting industrial electricity costs by up to 25% from April 2027 (BICS), grid connection queue reform (first 'first ready, first connected' Gate 2 offers issued 2026), rejection of zonal pricing in favour of reformed national pricing (July 2025), the Pension Schemes Act 2026 with a sunset-limited mandation reserve power behind the Mansion House Accord, the English Devolution and Community Empowerment Act 2026, ARIA (~£1bn), and government acceptance of all 47 nuclear regulatory taskforce recommendations. A new civic growth ecosystem (Britain Remade, Looking for Growth, Centre for British Progress, YIMBY groups) has shifted the debate. The binding constraints are now delivery-side: planner and civil-service capacity, infrastructure unit costs, legacy levies on electricity, thin fiscal devolution, and collapsing research-data infrastructure.",
+  "landscape": "Productivity is the central fact: UK multifactor productivity grew ~0.1% a year over 2008–21 versus 1.3% pre-crisis, and in November 2025 the OBR cut its medium-term productivity assumption to 1.0% and potential growth to 1.5%. Diagnoses compete: weak public and private investment, a TFP slowdown concentrated in manufacturing, ICT and finance, poor diffusion, and the 'Foundations' thesis that Britain has effectively banned investment in housing, transport and energy. 2024–26 produced an unusually dense reform wave: the Planning and Infrastructure Act 2025 (Royal Assent 18 December 2025), a New Towns programme (seven shortlisted sites, three priority), a 10-year Infrastructure Strategy (£725bn) under the new NISTA, an Industrial Strategy cutting industrial electricity costs by up to 25% from April 2027 (BICS), grid connection queue reform (first 'first ready, first connected' Gate 2 offers issued 2026), rejection of zonal pricing in favour of reformed national pricing (July 2025), the Pension Schemes Act 2026 with a sunset-limited mandation reserve power behind the Mansion House Accord, the English Devolution and Community Empowerment Act 2026, ARIA (~£1bn), and government acceptance of all 47 nuclear regulatory taskforce recommendations. A new civic growth ecosystem (Britain Remade, Looking for Growth, Centre for British Progress, YIMBY groups) has shifted the debate. The binding constraints are now delivery-side: planner and civil-service capacity, infrastructure unit costs, legacy levies on electricity, thin fiscal devolution, and collapsing research-data infrastructure.",
   "actors": [
    {
     "name": "NISTA (National Infrastructure and Service Transformation Authority)",
@@ -689,13 +689,13 @@
   ],
   "funders": [
    "HM Treasury (Infrastructure Strategy £725bn; New Towns; fiscal devolution roadmap)",
-   "DSIT and UKRI (ESRC, Innovate UK, Research England) — public R&D at ~£20bn/yr, funder of The Productivity Institute and spinout reform",
+   "DSIT and UKRI (ESRC, Innovate UK, Research England): public R&D at ~£20bn/yr, funder of The Productivity Institute and spinout reform",
    "ARIA (~£1bn high-risk R&D)",
    "British Business Bank / British Growth Partnership (state-anchored growth capital)",
    "National Wealth Fund (~£27bn policy bank for energy/industry infrastructure)",
    "Homes England (housing and development corporation delivery funding)",
    "Mansion House Accord pension providers (Aegon UK, NatWest Cushon, M&G among first movers into UK growth funds)",
-   "Coefficient Giving (formerly Open Philanthropy) — $120m Abundance & Growth Fund covering housing, energy and innovation policy advocacy",
+   "Coefficient Giving (formerly Open Philanthropy): $120m Abundance & Growth Fund covering housing, energy and innovation policy advocacy",
    "Nuffield Foundation (funded the Resolution Foundation/LSE Economy 2030 Inquiry)",
    "Nesta (innovation and mission-led funder)",
    "Gatsby Foundation (skills and industrial policy research)",
@@ -758,7 +758,7 @@
    "https://esrc.ukri.org/funding/funding-opportunities/esrc-productivity-institute/"
   ],
   "gapCount": 11,
-  "intro": "Britain has diagnosed its stagnation to death and, unusually, has now legislated against it — planning reform, new towns, pension capital, cheaper industrial power. Yet a high-speed railway here costs many times what France pays, and the law that could add tens of thousands of homes sits enacted but switched off. Passing acts turned out to be the easy part.\n\nThe gaps below live in the unglamorous middle between statute and spade: commencement orders never laid, planning departments short of planners, data platforms dismantled mid-crisis, pension billions pledged to funds that barely exist. Most need no new argument — only an owner, a budget and a date."
+  "intro": "Britain has diagnosed its stagnation to death and, unusually, has now legislated against it: planning reform, new towns, pension capital, cheaper industrial power. Yet a high-speed railway here costs many times what France pays, and the law that could add tens of thousands of homes sits enacted but switched off. Passing acts turned out to be the easy part.\n\nThe gaps below live in the unglamorous middle between statute and spade: commencement orders never laid, planning departments short of planners, data platforms dismantled mid-crisis, pension billions pledged to funds that barely exist. Most need no new argument, only an owner, a budget and a date."
  },
  {
   "num": 6,
@@ -766,7 +766,7 @@
   "name": "The debt problem (UK public, municipal and household debt)",
   "shortName": "Debt",
   "hue": 350,
-  "landscape": "UK public sector net debt stood near 95% of GDP in May 2026, with underlying debt at a 60-year high. Debt interest cost £126bn in 2025-26 (~3.5% of GDP); May 2026's £11.7bn was the highest May on record. Gilt markets are strained: 30-year yields peaked at 5.7% in September 2025 and term premia are roughly double long-run averages as defined-benefit pension demand fades and hedge funds account for ~30% of gilt trading. Bank of England QT has shrunk the Asset Purchase Facility to ~£529bn; the OBR puts lifetime APF losses at £104-134bn, indemnified by the Treasury (£49.4bn transferred since 2022). Fiscal rules have been rewritten repeatedly; the Lords Economic Affairs Committee's April 2026 report called the framework \"frail\", and thin \"headroom\" dominates policymaking. Households: four million people live in negative budgets (Citizens Advice National Red Index), council tax debt is £8.3bn with 1.69m debts sent to bailiffs in 2024/25, and roughly three million people in Great Britain used illegal lenders over three years. Councils hold record debt of £154.6bn; 30 received Exceptional Financial Support in 2025-26, 41% of recent accounts received disclaimed audit opinions, and a Local Audit Office was legislated in April 2026. The student loan book reached £295bn, forecast to hit ~£500bn by the late 2040s. Unfunded public pension liabilities are ~£1.4tn and nuclear decommissioning provisions ~£107bn. The UK debt problem is three-layered — sovereign, municipal and household — and its institutional plumbing has gaps at every layer.",
+  "landscape": "UK public sector net debt stood near 95% of GDP in May 2026, with underlying debt at a 60-year high. Debt interest cost £126bn in 2025-26 (~3.5% of GDP); May 2026's £11.7bn was the highest May on record. Gilt markets are strained: 30-year yields peaked at 5.7% in September 2025 and term premia are roughly double long-run averages as defined-benefit pension demand fades and hedge funds account for ~30% of gilt trading. Bank of England QT has shrunk the Asset Purchase Facility to ~£529bn; the OBR puts lifetime APF losses at £104-134bn, indemnified by the Treasury (£49.4bn transferred since 2022). Fiscal rules have been rewritten repeatedly; the Lords Economic Affairs Committee's April 2026 report called the framework \"frail\", and thin \"headroom\" dominates policymaking. Households: four million people live in negative budgets (Citizens Advice National Red Index), council tax debt is £8.3bn with 1.69m debts sent to bailiffs in 2024/25, and roughly three million people in Great Britain used illegal lenders over three years. Councils hold record debt of £154.6bn; 30 received Exceptional Financial Support in 2025-26, 41% of recent accounts received disclaimed audit opinions, and a Local Audit Office was legislated in April 2026. The student loan book reached £295bn, forecast to hit ~£500bn by the late 2040s. Unfunded public pension liabilities are ~£1.4tn and nuclear decommissioning provisions ~£107bn. The UK debt problem is three-layered (sovereign, municipal and household), and its institutional plumbing has gaps at every layer.",
   "actors": [
    {
     "name": "Office for Budget Responsibility (OBR)",
@@ -801,7 +801,7 @@
    {
     "name": "Money and Pensions Service (MaPS)",
     "type": "arm's-length body",
-    "note": "Commissions debt advice in England via the FCA financial-services levy — but funds only just over a quarter of estimated advice capacity."
+    "note": "Commissions debt advice in England via the FCA financial-services levy, but funds only just over a quarter of estimated advice capacity."
    },
    {
     "name": "StepChange Debt Charity",
@@ -816,7 +816,7 @@
    {
     "name": "Money Advice Trust (National Debtline)",
     "type": "charity",
-    "note": "Runs National Debtline/Business Debtline; documents harm from council tax collection — half of clients with arrears going without food."
+    "note": "Runs National Debtline/Business Debtline; documents harm from council tax collection: half of clients with arrears going without food."
    },
    {
     "name": "Fair4All Finance",
@@ -836,7 +836,7 @@
    {
     "name": "Enforcement Conduct Board",
     "type": "voluntary oversight body",
-    "note": "Independent bailiff oversight since 2022; accreditation is voluntary — statutory underpinning consulted on in 2025 but not yet legislated."
+    "note": "Independent bailiff oversight since 2022; accreditation is voluntary; statutory underpinning consulted on in 2025 but not yet legislated."
    },
    {
     "name": "CIPFA",
@@ -859,7 +859,7 @@
    "Lloyds Bank Foundation and NatWest Group (advice-sector and financial-health philanthropy)",
    "JPMorganChase Foundation (UK financial-health programmes)"
   ],
-  "policyNotes": "Fiscal policy runs on the Charter for Budget Responsibility (current-budget balance; net financial liabilities falling), assessed by the OBR — once a year since the 2025 reform. The Lords Economic Affairs Committee (April 2026) judged the framework \"frail\". Holes: the Statutory Debt Repayment Plan remains uncommenced eight years after legislation; the 1992 council tax enforcement regulations are unreformed (consultation closed September 2025, response pending); bailiff regulation awaits legislation after the June 2025 MoJ consultation, with only fee reforms in force from May 2026; the Public Authorities (Fraud, Error and Recovery) Bill expands DWP recovery powers without matching affordability safeguards; local audit reform is legislated but disclaimed opinions persist to 2028; the 2025 Financial Inclusion Strategy funds credit unions (£30m) but creates no statutory affordable-credit stream; EFS remains an ad hoc annual negotiation; and no body owns whole-of-government balance-sheet management.",
+  "policyNotes": "Fiscal policy runs on the Charter for Budget Responsibility (current-budget balance; net financial liabilities falling), assessed by the OBR, once a year since the 2025 reform. The Lords Economic Affairs Committee (April 2026) judged the framework \"frail\". Holes: the Statutory Debt Repayment Plan remains uncommenced eight years after legislation; the 1992 council tax enforcement regulations are unreformed (consultation closed September 2025, response pending); bailiff regulation awaits legislation after the June 2025 MoJ consultation, with only fee reforms in force from May 2026; the Public Authorities (Fraud, Error and Recovery) Bill expands DWP recovery powers without matching affordability safeguards; local audit reform is legislated but disclaimed opinions persist to 2028; the 2025 Financial Inclusion Strategy funds credit unions (£30m) but creates no statutory affordable-credit stream; EFS remains an ad hoc annual negotiation; and no body owns whole-of-government balance-sheet management.",
   "sources": [
    "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2026",
    "https://obr.uk/frs/fiscal-risks-and-sustainability-july-2025/",
@@ -915,7 +915,7 @@
   "name": "Surveillance",
   "shortName": "Surveillance",
   "hue": 220,
-  "landscape": "The UK runs one of the most extensive lawful surveillance regimes of any democracy, and 2024–26 expanded it on several fronts simultaneously. The Investigatory Powers (Amendment) Act 2024 eased bulk personal dataset rules and created notification notices for tech firms. Under IPA technical capability notices, the Home Office ordered Apple to break iCloud end-to-end encryption: Apple withdrew Advanced Data Protection from the UK (Feb 2025), a narrower UK-only order followed (Sept 2025), and an Investigatory Powers Tribunal hearing on assumed facts was listed for early 2026. Online Safety Act age checks became mandatory in July 2025, driving VPN sign-up surges and mass ID-document collection by third-party verifiers. Police live facial recognition is expanding from 13 of 43 forces towards a national rollout (40 new vans announced Jan 2026; first fixed cameras in Croydon, Oct 2025) ahead of legislation — a Home Office consultation on a biometrics legal framework closed February 2026. Retail facial recognition (Facewatch) grew rapidly; the ICO closed its inspection without action. Digital ID was announced Sept 2025, softened to voluntary in Jan 2026, but digital right-to-work checks remain planned by end of Parliament on One Login — which lost trust-framework certification in May 2025. DWP gained bank-account eligibility-checking powers (Royal Assent Dec 2025, rollout from 2026). NHS England's Palantir Federated Data Platform faces a February 2027 contract break-clause decision. Oversight is fragmented and under-resourced: IPCO reports falling resources amid rising demand, the ICO's public-sector approach is widely criticised, and civil society is capable but tiny and foundation-dependent.",
+  "landscape": "The UK runs one of the most extensive lawful surveillance regimes of any democracy, and 2024–26 expanded it on several fronts simultaneously. The Investigatory Powers (Amendment) Act 2024 eased bulk personal dataset rules and created notification notices for tech firms. Under IPA technical capability notices, the Home Office ordered Apple to break iCloud end-to-end encryption: Apple withdrew Advanced Data Protection from the UK (Feb 2025), a narrower UK-only order followed (Sept 2025), and an Investigatory Powers Tribunal hearing on assumed facts was listed for early 2026. Online Safety Act age checks became mandatory in July 2025, driving VPN sign-up surges and mass ID-document collection by third-party verifiers. Police live facial recognition is expanding from 13 of 43 forces towards a national rollout (40 new vans announced Jan 2026; first fixed cameras in Croydon, Oct 2025) ahead of legislation; a Home Office consultation on a biometrics legal framework closed February 2026. Retail facial recognition (Facewatch) grew rapidly; the ICO closed its inspection without action. Digital ID was announced Sept 2025, softened to voluntary in Jan 2026, but digital right-to-work checks remain planned by end of Parliament on One Login, which lost trust-framework certification in May 2025. DWP gained bank-account eligibility-checking powers (Royal Assent Dec 2025, rollout from 2026). NHS England's Palantir Federated Data Platform faces a February 2027 contract break-clause decision. Oversight is fragmented and under-resourced: IPCO reports falling resources amid rising demand, the ICO's public-sector approach is widely criticised, and civil society is capable but tiny and foundation-dependent.",
   "actors": [
    {
     "name": "Big Brother Watch",
@@ -1002,7 +1002,7 @@
    "Individual donations and crowdfunding (CrowdJustice case funding)",
    "Plausible new entrants: UKRI/ESRC (evidence and observatory infrastructure), Wellcome (health data governance), privacy-focused tech firms (e.g. Proton has funded UK digital rights work), UK community foundations pooling for a digital rights fund"
   ],
-  "policyNotes": "Surveillance powers legislation is running ahead of governance. The IPAA 2024 expanded bulk personal dataset and notice powers, with codes of practice consulted through 2024-25; TCN secrecy is being tested in the IPT (Apple/PI hearing, early 2026). The Online Safety Act's s.121-122 'accredited technology' powers remain on the statute book despite the 2023 enforcement pause — a latent client-side scanning fight. The DUAA 2025 restructures the ICO into an Information Commission and retained (rather than abolished) the BSCC after the DPDI Bill fell, but the Surveillance Camera Code is unrevised since 2021. The Home Office biometrics/LFR framework consultation closed February 2026 with legislation expected; digital ID mandation was softened January 2026 with consultation in March; FERA codes were finalised May 2026. Principal holes: no biometrics statute, no notice transparency, Article 80(2) unimplemented, and an ICO public-sector approach that structurally under-enforces against state surveillance.",
+  "policyNotes": "Surveillance powers legislation is running ahead of governance. The IPAA 2024 expanded bulk personal dataset and notice powers, with codes of practice consulted through 2024-25; TCN secrecy is being tested in the IPT (Apple/PI hearing, early 2026). The Online Safety Act's s.121-122 'accredited technology' powers remain on the statute book despite the 2023 enforcement pause, a latent client-side scanning fight. The DUAA 2025 restructures the ICO into an Information Commission and retained (rather than abolished) the BSCC after the DPDI Bill fell, but the Surveillance Camera Code is unrevised since 2021. The Home Office biometrics/LFR framework consultation closed February 2026 with legislation expected; digital ID mandation was softened January 2026 with consultation in March; FERA codes were finalised May 2026. Principal holes: no biometrics statute, no notice transparency, Article 80(2) unimplemented, and an ICO public-sector approach that structurally under-enforces against state surveillance.",
   "sources": [
    "https://www.gov.uk/government/consultations/legal-framework-for-using-facial-recognition-in-law-enforcement",
    "https://post.parliament.uk/facial-recognition-technology-in-policing/",
@@ -1053,7 +1053,7 @@
    "https://en.wikipedia.org/wiki/Big_Brother_Watch"
   ],
   "gapCount": 11,
-  "intro": "Britain is building surveillance faster than it is building the rules. Police vans scan faces in the street with no dedicated law behind them. Secret orders reach into encrypted phones. Age checks push millions of identity documents into private databases. Each programme arrived before its safeguards did.\n\nThe gaps below are the missing counterweights. Some need Parliament — a biometrics law, transparency for encryption orders. Others could be built tomorrow: a public register of what is deployed where, a litigation fund, a stable income for the handful of small charities doing the entire country's watching of the watchers."
+  "intro": "Britain is building surveillance faster than it is building the rules. Police vans scan faces in the street with no dedicated law behind them. Secret orders reach into encrypted phones. Age checks push millions of identity documents into private databases. Each programme arrived before its safeguards did.\n\nThe gaps below are the missing counterweights. Some need Parliament: a biometrics law, transparency for encryption orders. Others could be built tomorrow: a public register of what is deployed where, a litigation fund, a stable income for the handful of small charities doing the entire country's watching of the watchers."
  },
  {
   "num": 8,
@@ -1061,7 +1061,7 @@
   "name": "Corruption and institutional integrity",
   "shortName": "Corruption & integrity",
   "hue": 30,
-  "landscape": "After three years without one, the UK published a new Anti-Corruption Strategy in December 2025 — 123 commitments across three pillars — and appointed Baroness Margaret Hodge as Anti-Corruption Champion, with a Countering Illicit Finance Summit planned for 2026. The institutional map has been redrawn: the Ethics and Integrity Commission launched in October 2025 (replacing the Committee on Standards in Public Life), and ACOBA was closed, its revolving-door functions split between the Independent Adviser on Ministerial Standards and the Civil Service Commission. The Procurement Act's debarment regime went live in February 2025, but the register remains blank and the first investigations (Grenfell-linked cladding suppliers) were paused at prosecutors' request. ECCTA implementation is advancing — identity verification mandatory for new directors since November 2025, 3.8m verification codes issued — and in June 2026 HM Treasury confirmed the FCA will become the single AML supervisor for professional services, though implementation will take years. The Representation of the People Bill (February 2026) restores Electoral Commission independence by repealing the strategy-and-policy-statement power and raises maximum fines from £20,000 to £500,000, but leaves donation size uncapped. The first anti-SLAPP strike-out (Kamal v Tax Policy Associates, March 2026) proved the ECCTA provisions work — but only for economic-crime speech. FOI is under strain: record request volumes (94,526 in 2025), a 41% real-terms cut to ICO FOI funding over a decade, and 2026 ministerial exploration of lowering the section 12 cost ceiling. Enforcement agencies remain under-resourced relative to caseloads.",
+  "landscape": "After three years without one, the UK published a new Anti-Corruption Strategy in December 2025 (123 commitments across three pillars) and appointed Baroness Margaret Hodge as Anti-Corruption Champion, with a Countering Illicit Finance Summit planned for 2026. The institutional map has been redrawn: the Ethics and Integrity Commission launched in October 2025 (replacing the Committee on Standards in Public Life), and ACOBA was closed, its revolving-door functions split between the Independent Adviser on Ministerial Standards and the Civil Service Commission. The Procurement Act's debarment regime went live in February 2025, but the register remains blank and the first investigations (Grenfell-linked cladding suppliers) were paused at prosecutors' request. ECCTA implementation is advancing (identity verification mandatory for new directors since November 2025, 3.8m verification codes issued), and in June 2026 HM Treasury confirmed the FCA will become the single AML supervisor for professional services, though implementation will take years. The Representation of the People Bill (February 2026) restores Electoral Commission independence by repealing the strategy-and-policy-statement power and raises maximum fines from £20,000 to £500,000, but leaves donation size uncapped. The first anti-SLAPP strike-out (Kamal v Tax Policy Associates, March 2026) proved the ECCTA provisions work, but only for economic-crime speech. FOI is under strain: record request volumes (94,526 in 2025), a 41% real-terms cut to ICO FOI funding over a decade, and 2026 ministerial exploration of lowering the section 12 cost ceiling. Enforcement agencies remain under-resourced relative to caseloads.",
   "actors": [
    {
     "name": "Transparency International UK",
@@ -1153,7 +1153,7 @@
    "Nuffield Foundation (justice and governance research)",
    "Public Interest News Foundation (pooled philanthropic funds for journalism)"
   ],
-  "policyNotes": "The UK Anti-Corruption Strategy 2025 (December 2025) is the organising document — 123 commitments, three pillars, oversight involving civil society and Parliament — but several commitments lack timelines, per the UK Anti-Corruption Coalition. The Representation of the People Bill (February 2026) carries political-finance reform: Electoral Commission independence restored (strategy-and-policy statement repealed), fines raised to £500,000, Know Your Donor checks, £100k overseas-elector cap and crypto moratorium via Rycroft Review amendments. ECCTA continues phased commencement (limited-partnership reform from spring 2026; IDV enforcement late 2026); in June 2026 the FCA was confirmed as future single AML supervisor, implementation taking years. Holes: no lobbying commitment anywhere in the strategy; whistleblowing deferred to 'explore by 2027'; no MoD economic-crime measures; SLAPP protection confined to economic crime; FOI facing a section 12 cost-ceiling reduction rather than reform; overseas territories conceded legitimate-interest-only registers; debarment has no independent trigger and no entries.",
+  "policyNotes": "The UK Anti-Corruption Strategy 2025 (December 2025) is the organising document (123 commitments, three pillars, oversight involving civil society and Parliament), but several commitments lack timelines, per the UK Anti-Corruption Coalition. The Representation of the People Bill (February 2026) carries political-finance reform: Electoral Commission independence restored (strategy-and-policy statement repealed), fines raised to £500,000, Know Your Donor checks, £100k overseas-elector cap and crypto moratorium via Rycroft Review amendments. ECCTA continues phased commencement (limited-partnership reform from spring 2026; IDV enforcement late 2026); in June 2026 the FCA was confirmed as future single AML supervisor, implementation taking years. Holes: no lobbying commitment anywhere in the strategy; whistleblowing deferred to 'explore by 2027'; no MoD economic-crime measures; SLAPP protection confined to economic crime; FOI facing a section 12 cost-ceiling reduction rather than reform; overseas territories conceded legitimate-interest-only registers; debarment has no independent trigger and no entries.",
   "sources": [
    "https://www.gov.uk/government/publications/uk-anti-corruption-strategy-2025/uk-anti-corruption-strategy-2025-accessible",
    "https://www.gov.uk/government/news/new-anti-corruption-champion-and-nca-funding-as-campaign-against-corruption-steps-up",
@@ -1207,7 +1207,7 @@
    "https://www.stoneking.co.uk/news/general/official-recognition-charitable-journalism-enables-support-future-high-quality"
   ],
   "gapCount": 18,
-  "intro": "On paper, Britain has just rebuilt its defences against corruption — a new national strategy, a new ethics commission, a register for barring bad suppliers from public contracts. Look closer. The register is empty, the commission can only advise, and breaking the revolving-door rules still carries no legal penalty at all.\n\nMost gaps here are half-built machines waiting for teeth: lobbying registers that miss most lobbyists, watchdogs on goodwill budgets, whistleblowers protected only after the damage. A few need no permission at all — a fraud-spotting unit for procurement data, a defence fund for small newsrooms, an archive nobody can quietly edit."
+  "intro": "On paper, Britain has just rebuilt its defences against corruption: a new national strategy, a new ethics commission, a register for barring bad suppliers from public contracts. Look closer. The register is empty, the commission can only advise, and breaking the revolving-door rules still carries no legal penalty at all.\n\nMost gaps here are half-built machines waiting for teeth: lobbying registers that miss most lobbyists, watchdogs on goodwill budgets, whistleblowers protected only after the damage. A few need no permission at all: a fraud-spotting unit for procurement data, a defence fund for small newsrooms, an archive nobody can quietly edit."
  },
  {
   "num": 9,
@@ -1215,7 +1215,7 @@
   "name": "Parallel institutions formation",
   "shortName": "Parallel institutions",
   "hue": 170,
-  "landscape": "The UK's mutual economy is large and growing — 10,119 co-ops and mutuals, £179.2bn income, 16.6m co-op members (Co-operatives UK, 2025) — and government policy is unusually warm: a manifesto pledge to double the sector, a mutuals champion, a Treasury-convened Business Council, and a December 2025 FCA/PRA package (new Mutual Societies Development Unit, registration cut to 10 working days). Three Law Commission reviews are live: co-operative societies (report due 2026), friendly societies (consultation closed June 2025), and the July 2024 DAO scoping paper. Yet formation infrastructure lags what technology now permits. New friendly societies effectively cannot form (the 1974 Act closed in 1993; the 1992 route demands insurance authorisation). DAOs and informal associations default to unlimited-liability partnership or legal invisibility — the same defect that left ~4,000 Covid mutual aid groups unable to persist. The 2023 asset-lock Act awaits commencement regulations. Local paper currencies are extinct (Bristol Pound 2020–21; Lewes Pound, the last, ended 2025), with mutual credit pilots (Local Loop Merseyside) in regulatory grey space. Parallel service provision is being re-regulated: the free schools pipeline was largely cancelled (December 2025), home education faces statutory registers (Children's Wellbeing and Schools Act 2026), while Great British Energy is conversely funding community energy at up to £1bn. Communities gained a statutory Right to Buy (English Devolution and Community Empowerment Act 2026) just after the Community Ownership Fund closed. Zone policy consolidated into 22 Industrial Strategy Zones — fiscal incentives, no governance experimentation.",
+  "landscape": "The UK's mutual economy is large and growing, with 10,119 co-ops and mutuals, £179.2bn income and 16.6m co-op members (Co-operatives UK, 2025), and government policy is unusually warm: a manifesto pledge to double the sector, a mutuals champion, a Treasury-convened Business Council, and a December 2025 FCA/PRA package (new Mutual Societies Development Unit, registration cut to 10 working days). Three Law Commission reviews are live: co-operative societies (report due 2026), friendly societies (consultation closed June 2025), and the July 2024 DAO scoping paper. Yet formation infrastructure lags what technology now permits. New friendly societies effectively cannot form (the 1974 Act closed in 1993; the 1992 route demands insurance authorisation). DAOs and informal associations default to unlimited-liability partnership or legal invisibility, the same defect that left ~4,000 Covid mutual aid groups unable to persist. The 2023 asset-lock Act awaits commencement regulations. Local paper currencies are extinct (Bristol Pound 2020–21; Lewes Pound, the last, ended 2025), with mutual credit pilots (Local Loop Merseyside) in regulatory grey space. Parallel service provision is being re-regulated: the free schools pipeline was largely cancelled (December 2025), home education faces statutory registers (Children's Wellbeing and Schools Act 2026), while Great British Energy is conversely funding community energy at up to £1bn. Communities gained a statutory Right to Buy (English Devolution and Community Empowerment Act 2026) just after the Community Ownership Fund closed. Zone policy consolidated into 22 Industrial Strategy Zones: fiscal incentives, no governance experimentation.",
   "actors": [
    {
     "name": "Co-operatives UK",
@@ -1230,7 +1230,7 @@
    {
     "name": "FCA Mutuals Registration Team / Mutual Societies Development Unit",
     "type": "government body",
-    "note": "Registrar for ~10,000 societies; new Development Unit and faster (10-working-day) registration announced December 2025 — the closest thing to a formation service for mutuals."
+    "note": "Registrar for ~10,000 societies; new Development Unit and faster (10-working-day) registration announced December 2025, the closest thing to a formation service for mutuals."
    },
    {
     "name": "Cwmpas",
@@ -1265,12 +1265,12 @@
    {
     "name": "Local Trust / Community Wealth Fund Alliance",
     "type": "charity",
-    "note": "Won the campaign to direct dormant assets into a £175m Community Wealth Fund giving deprived neighbourhoods £1m–£2.5m over 10 years — a template for resident-led parallel institutions."
+    "note": "Won the campaign to direct dormant assets into a £175m Community Wealth Fund giving deprived neighbourhoods £1m–£2.5m over 10 years, a template for resident-led parallel institutions."
    },
    {
     "name": "Great British Energy (Local Power Plan)",
     "type": "government body",
-    "note": "Feb 2026 plan commits up to £1bn to locally and community-owned energy, plus a 2026 consultation on mandatory shared ownership — the state actively seeding parallel provision in one sector."
+    "note": "Feb 2026 plan commits up to £1bn to locally and community-owned energy, plus a 2026 consultation on mandatory shared ownership: the state actively seeding parallel provision in one sector."
    },
    {
     "name": "Fair4All Finance",
@@ -1280,7 +1280,7 @@
    {
     "name": "Shepherds Friendly Society",
     "type": "friendly society",
-    "note": "1826 mutual still writing income protection (97% of claims paid in 2025) — evidence the friendly society model works, and that survivors are all legacy institutions."
+    "note": "1826 mutual still writing income protection (97% of claims paid in 2025): evidence the friendly society model works, and that survivors are all legacy institutions."
    },
    {
     "name": "Education Otherwise",
@@ -1290,7 +1290,7 @@
    {
     "name": "Forest City 1",
     "type": "project (proposal)",
-    "note": "Late-2025 proposal for a ~1m-person new city on Suffolk farmland backed by free-market think-tank figures — the most concrete UK charter-city-style ambition, currently with no lawful vehicle."
+    "note": "Late-2025 proposal for a ~1m-person new city on Suffolk farmland backed by free-market think-tank figures: the most concrete UK charter-city-style ambition, currently with no lawful vehicle."
    }
   ],
   "funders": [
@@ -1300,12 +1300,12 @@
    "Access – The Foundation for Social Investment (funds the Community Shares Booster Fund)",
    "Great British Energy (up to £1bn Local Power Plan for community/local energy ownership)",
    "Power to Change (community business trust and funder)",
-   "Large mutuals as sector patrons — Royal London, Nationwide, Co-op Group (members of the Mutual and Co-operative Sector Business Council)",
+   "Large mutuals as sector patrons: Royal London, Nationwide, Co-op Group (members of the Mutual and Co-operative Sector Business Council)",
    "Fair4All Finance (credit union and community finance capability)",
    "Plausible philanthropic funders of economic-democracy and formation infrastructure: Friends Provident Foundation, Barrow Cadbury Trust, Joseph Rowntree Foundation",
-   "Crypto-ecosystem funders (e.g. Ethereum Foundation grants) — plausible funders of DAO/limited-liability-association law reform work"
+   "Crypto-ecosystem funders (e.g. Ethereum Foundation grants), plausible funders of DAO/limited-liability-association law reform work"
   ],
-  "policyNotes": "Policy is unusually favourable but chronically un-commenced. Three live Law Commission reviews (co-op societies report due 2026; friendly societies recommendations pending; DAO scoping paper unowned since July 2024) will land on a government that pledged to double the mutual sector, appointed a mutuals champion, and secured a December 2025 regulator package — yet the 2023 asset-lock Act's regulations remain unmade over tax questions, and credit union common bond reform is promised only \"when parliamentary time allows\" (written statement, 18 March 2026). Communities received new rights as funding closed: the EDCE Act 2026 Right to Buy arrived after the Community Ownership Fund shut (December 2024). Education went the other way: the free schools pipeline was largely cancelled (December 2025) and home education faces registers without service entitlements. Zone policy (Industrial Strategy Zones, June 2025) is fiscal, not governance-experimental. The recurring hole: reviews and rights without commencement orders, delivery institutions, or capital.",
+  "policyNotes": "Policy is unusually favourable but chronically un-commenced. Three live Law Commission reviews (co-op societies report due 2026; friendly societies recommendations pending; DAO scoping paper unowned since July 2024) will land on a government that pledged to double the mutual sector, appointed a mutuals champion, and secured a December 2025 regulator package, yet the 2023 asset-lock Act's regulations remain unmade over tax questions, and credit union common bond reform is promised only \"when parliamentary time allows\" (written statement, 18 March 2026). Communities received new rights as funding closed: the EDCE Act 2026 Right to Buy arrived after the Community Ownership Fund shut (December 2024). Education went the other way: the free schools pipeline was largely cancelled (December 2025) and home education faces registers without service entitlements. Zone policy (Industrial Strategy Zones, June 2025) is fiscal, not governance-experimental. The recurring hole: reviews and rights without commencement orders, delivery institutions, or capital.",
   "sources": [
    "https://lawcom.gov.uk/project/co-operatives-and-community-benefit-societies/",
    "https://lawcom.gov.uk/project/friendly-societies/",
@@ -1357,7 +1357,7 @@
    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8563598/"
   ],
   "gapCount": 13,
-  "intro": "Britain built its first welfare system from the ground up, through friendly societies and mutuals owned by their members. The government now wants to double the mutual sector. Yet the law in effect bars anyone from founding a new friendly society, and has done since 1993.\n\nThe gaps below sit between what software makes easy and what statute allows. Some are single switches Whitehall has never flipped, like the asset-lock law passed in 2023 and never turned on. Others could start tomorrow — open legal templates, a community acquisition fund, one flagship mutual that proves the model."
+  "intro": "Britain built its first welfare system from the ground up, through friendly societies and mutuals owned by their members. The government now wants to double the mutual sector. Yet the law in effect bars anyone from founding a new friendly society, and has done since 1993.\n\nThe gaps below sit between what software makes easy and what statute allows. Some are single switches Whitehall has never flipped, like the asset-lock law passed in 2023 and never turned on. Others could start tomorrow: open legal templates, a community acquisition fund, one flagship mutual that proves the model."
  },
  {
   "num": 10,
@@ -1365,12 +1365,12 @@
   "name": "Portable sovereignty stack (personal and community digital autonomy: local AI, E2EE comms, personal data stores, co-op governance tooling, community economy, private collaboration)",
   "shortName": "Portable sovereignty",
   "hue": 285,
-  "landscape": "The UK has strong ingredients but no assembled stack. Intelligence: open-weight models (Llama, Mistral, Qwen families) run adequately on consumer hardware, and public compute has grown (Isambard-AI, the AI Research Resource, a £500m Sovereign AI Unit opened April 2026) — but access routes exclude community groups and no UK open-weight model yet exists. Communications: Signal/WhatsApp dominate; Matrix — a UK-originated protocol powering France's and Germany's sovereign messengers — is production-grade but has negligible UK public-sector uptake and a chronically underfunded foundation; Waku is honest-to-goodness pre-production (public testnet targeted 2026, mainnet 2027). Storage: Mydex personal data stores work at pilot scale in Scotland; Solid has stalled; DUAA 2025 smart-data powers (in force August 2025) remain unused beyond open banking. Governance: Loomio/Decidim are usable today, but co-op registration is paper-era; the Law Commission's co-op law report lands 2026, and its 2024 DAO scoping paper's recommendations sit unactioned. Economy: self-custody wallets are lawful and usable; the FCA cryptoasset regime (regulations made February 2026, live October 2027, stablecoin gateway September 2026) is built for capitalised issuers; paper town pounds are dead (Lewes Pound last used 2025) and mutual credit sits in a regulatory grey zone. Coordination: CryptPad/Nextcloud work now, but UK ethical hosting (Webarchitects, Autonomic) is micro-scale. Overarching constraints: OSA duties drove ~300 small forums offline in March 2025, Ofcom's May 2026 technology-notice guidance keeps E2EE-scanning powers live, and secret IPA notices already stripped UK users of Apple's Advanced Data Protection.",
+  "landscape": "The UK has strong ingredients but no assembled stack. Intelligence: open-weight models (Llama, Mistral, Qwen families) run adequately on consumer hardware, and public compute has grown (Isambard-AI, the AI Research Resource, a £500m Sovereign AI Unit opened April 2026), but access routes exclude community groups and no UK open-weight model yet exists. Communications: Signal/WhatsApp dominate; Matrix (a UK-originated protocol powering France's and Germany's sovereign messengers) is production-grade but has negligible UK public-sector uptake and a chronically underfunded foundation; Waku is honest-to-goodness pre-production (public testnet targeted 2026, mainnet 2027). Storage: Mydex personal data stores work at pilot scale in Scotland; Solid has stalled; DUAA 2025 smart-data powers (in force August 2025) remain unused beyond open banking. Governance: Loomio/Decidim are usable today, but co-op registration is paper-era; the Law Commission's co-op law report lands 2026, and its 2024 DAO scoping paper's recommendations sit unactioned. Economy: self-custody wallets are lawful and usable; the FCA cryptoasset regime (regulations made February 2026, live October 2027, stablecoin gateway September 2026) is built for capitalised issuers; paper town pounds are dead (Lewes Pound last used 2025) and mutual credit sits in a regulatory grey zone. Coordination: CryptPad/Nextcloud work now, but UK ethical hosting (Webarchitects, Autonomic) is micro-scale. Overarching constraints: OSA duties drove ~300 small forums offline in March 2025, Ofcom's May 2026 technology-notice guidance keeps E2EE-scanning powers live, and secret IPA notices already stripped UK users of Apple's Advanced Data Protection.",
   "actors": [
    {
     "name": "Element",
     "type": "company",
-    "note": "UK-founded Matrix vendor supplying sovereign messengers to 30+ governments (France, Germany, Belgium) — yet with almost no UK public-sector deployment."
+    "note": "UK-founded Matrix vendor supplying sovereign messengers to 30+ governments (France, Germany, Belgium), yet with almost no UK public-sector deployment."
    },
    {
     "name": "Matrix.org Foundation",
@@ -1390,7 +1390,7 @@
    {
     "name": "Mydex CIC",
     "type": "community interest company",
-    "note": "Edinburgh-based personal data store operator; longest-running UK PDS with Scottish Government contracts — proof the storage layer works at pilot scale."
+    "note": "Edinburgh-based personal data store operator; longest-running UK PDS with Scottish Government contracts, proof the storage layer works at pilot scale."
    },
    {
     "name": "Open Data Institute",
@@ -1400,7 +1400,7 @@
    {
     "name": "Webarchitects Co-operative",
     "type": "co-operative",
-    "note": "Sheffield multi-stakeholder co-op providing ethical, green, open-source hosting (Nextcloud etc.) — one of very few UK public-interest hosts."
+    "note": "Sheffield multi-stakeholder co-op providing ethical, green, open-source hosting (Nextcloud etc.), one of very few UK public-interest hosts."
    },
    {
     "name": "Autonomic Co-operative",
@@ -1420,7 +1420,7 @@
    {
     "name": "Mutual Credit Services",
     "type": "company",
-    "note": "Stroud-based developer of mutual-credit 'trade clubs' and local clearing systems — the main serious UK attempt at the community-economy layer post-town-pounds."
+    "note": "Stroud-based developer of mutual-credit 'trade clubs' and local clearing systems, the main serious UK attempt at the community-economy layer post-town-pounds."
    },
    {
     "name": "Timebanking UK",
@@ -1435,31 +1435,31 @@
    {
     "name": "DSIT Sovereign AI Unit / AI Research Resource",
     "type": "government body / programme",
-    "note": "£500m sovereign AI investment unit (opened April 2026) plus national compute (Isambard-AI, AIRR) — allocated to research, startups and public sector, not communities."
+    "note": "£500m sovereign AI investment unit (opened April 2026) plus national compute (Isambard-AI, AIRR), allocated to research, startups and public sector, not communities."
    },
    {
     "name": "Institute of Free Technology (Waku, Codex, Nomos)",
     "type": "project",
-    "note": "Building Waku messaging, Codex storage and Nomos chain, explicitly civil-society-framed but pre-production — public testnet targeted 2026, mainnet 2027."
+    "note": "Building Waku messaging, Codex storage and Nomos chain, explicitly civil-society-framed but pre-production: public testnet targeted 2026, mainnet 2027."
    }
   ],
   "funders": [
    "DSIT (Sovereign AI Unit, AI Research Resource, smart data implementation)",
    "UKRI / Innovate UK (natural administrator for a Sovereign Tech Fund)",
-   "Joseph Rowntree Charitable Trust (Power and Accountability programme — funds digital rights orgs)",
+   "Joseph Rowntree Charitable Trust (Power and Accountability programme; funds digital rights orgs)",
    "Joseph Rowntree Reform Trust (democratic and civil liberties grants)",
    "Luminate (funds UK digital rights and public-interest news/tech)",
    "Open Society Foundations (digital rights litigation and advocacy)",
    "Nesta (innovation methods; charity AI adoption)",
    "National Lottery Community Fund (community infrastructure and resilience)",
    "Power to Change (community business, community ownership)",
-   "Friends Provident Foundation (fair economy — plausible funder for mutual credit)",
+   "Friends Provident Foundation (fair economy; plausible funder for mutual credit)",
    "Omidyar Network (responsible tech)",
    "NLnet / EU NGI programmes (have funded UK-linked open-source privacy projects; post-Brexit access partial)",
    "Institute of Free Technology / Ethereum Foundation grants (decentralised stack R&D)",
    "Ofcom/DSIT contestable funds and regulatory sandboxes (in-kind)"
   ],
-  "policyNotes": "Three regimes dominate. The OSA applies full illegal-content and child-safety duties to volunteer-run services with no community-scale exemption; Ofcom finalised Technology Notices guidance (May 2026) preserving the power to mandate 'accredited technology' against E2EE once 'technically feasible', and the categorisation register lands July 2026. The IPA (amended 2024) enables secret technical capability notices: Apple withdrew ADP for UK users, the IPT dismissed its appeal after the order was narrowed, and Privacy International's secrecy challenge was heard in 2026 — no transparency reporting exists. The FCA cryptoasset regime (regulations made February 2026; live October 2027; stablecoin gateway September 2026, £350k capital floor) has no proportionate route for community or mutual systems. DUAA 2025 smart-data powers sit unused. Digital ID consultation closed June 2026 — voluntary for citizens, digital right-to-work checks planned from 2029. No policy anywhere funds or protects the open-source substrate all of this depends on.",
+  "policyNotes": "Three regimes dominate. The OSA applies full illegal-content and child-safety duties to volunteer-run services with no community-scale exemption; Ofcom finalised Technology Notices guidance (May 2026) preserving the power to mandate 'accredited technology' against E2EE once 'technically feasible', and the categorisation register lands July 2026. The IPA (amended 2024) enables secret technical capability notices: Apple withdrew ADP for UK users, the IPT dismissed its appeal after the order was narrowed, and Privacy International's secrecy challenge was heard in 2026; no transparency reporting exists. The FCA cryptoasset regime (regulations made February 2026; live October 2027; stablecoin gateway September 2026, £350k capital floor) has no proportionate route for community or mutual systems. DUAA 2025 smart-data powers sit unused. Digital ID consultation closed June 2026: voluntary for citizens, digital right-to-work checks planned from 2029. No policy anywhere funds or protects the open-source substrate all of this depends on.",
   "sources": [
    "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/consultation-technology-notices",
    "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/helping-small-services-navigate-the-online-safety-act",
@@ -1506,7 +1506,7 @@
    "https://www.jrct.org.uk/what-we-fund"
   ],
   "gapCount": 11,
-  "intro": "Britain invented the messaging protocol France and Germany use for their sovereign government communications — then bought none of it. The pieces of digital self-reliance already exist here: encrypted messaging, personal data stores, co-op software, community hosting. Nobody has assembled them, and the law keeps tripping the people who try. Around 300 volunteer-run forums went offline when Online Safety Act duties arrived.\n\nThe gaps below are mostly small and specific: a maintenance fund here, a registration reform there, a pilot someone could run next year. Some need a minister's signature. Others need a few million pounds and a willing co-op. All of them move power — over messages, money, records and identity — back towards the people they belong to."
+  "intro": "Britain invented the messaging protocol France and Germany use for their sovereign government communications, then bought none of it. The pieces of digital self-reliance already exist here: encrypted messaging, personal data stores, co-op software, community hosting. Nobody has assembled them, and the law keeps tripping the people who try. Around 300 volunteer-run forums went offline when Online Safety Act duties arrived.\n\nThe gaps below are mostly small and specific: a maintenance fund here, a registration reform there, a pilot someone could run next year. Some need a minister's signature. Others need a few million pounds and a willing co-op. All of them move power (over messages, money, records and identity) back towards the people they belong to."
  },
  {
   "num": 11,
@@ -1514,7 +1514,7 @@
   "name": "Privacy and sovereignty of the individual",
   "shortName": "Privacy",
   "hue": 320,
-  "landscape": "The UK's privacy settlement was rewritten in 2025–26. The Data (Use and Access) Act 2025 (DUAA, Royal Assent June 2025; main provisions commenced 5 February 2026) loosened UK GDPR — \"recognised legitimate interests\", broader automated decision-making, opt-out analytics cookies — while putting digital verification services on a statutory footing and restructuring the ICO into an Information Commission during 2026. The EU renewed adequacy in December 2025, to 2031 with a four-year mid-point review. Enforcement remains the weak joint: the ICO favours engagement over sanction; 2025 produced only seven fines (£19.6m, mostly security breaches, including 23andMe's £2.31m), and its 2019 finding that real-time bidding adtech is systemically unlawful has still produced no RTB enforcement. Complaints take roughly a year to resolve. The Online Safety Act's age-verification duties (July 2025) triggered a 1,400%+ VPN sign-up surge and breaches exposing verification IDs (Discord's third-party provider ~70,000 IDs; the Tea app), with no mandated privacy-preserving architecture. The government's digital ID scheme (announced September 2025) drew a 2.9m-signature petition, a January 2026 retreat from compulsion, and a Digital Access to Services Bill in the May 2026 King's Speech — with credentials locked to the GOV.UK Wallet and oversight sitting inside DSIT. A secret Technical Capability Notice forced Apple to withdraw Advanced Data Protection from UK users; IPT litigation continues in 2026. Health-data centralisation (Palantir's Federated Data Platform, Single Patient Record from 2028) proceeds under an opt-out that largely does not apply. Advocacy capacity is thin and philanthropically precarious.",
+  "landscape": "The UK's privacy settlement was rewritten in 2025–26. The Data (Use and Access) Act 2025 (DUAA, Royal Assent June 2025; main provisions commenced 5 February 2026) loosened UK GDPR (\"recognised legitimate interests\", broader automated decision-making, opt-out analytics cookies) while putting digital verification services on a statutory footing and restructuring the ICO into an Information Commission during 2026. The EU renewed adequacy in December 2025, to 2031 with a four-year mid-point review. Enforcement remains the weak joint: the ICO favours engagement over sanction; 2025 produced only seven fines (£19.6m, mostly security breaches, including 23andMe's £2.31m), and its 2019 finding that real-time bidding adtech is systemically unlawful has still produced no RTB enforcement. Complaints take roughly a year to resolve. The Online Safety Act's age-verification duties (July 2025) triggered a 1,400%+ VPN sign-up surge and breaches exposing verification IDs (Discord's third-party provider ~70,000 IDs; the Tea app), with no mandated privacy-preserving architecture. The government's digital ID scheme (announced September 2025) drew a 2.9m-signature petition, a January 2026 retreat from compulsion, and a Digital Access to Services Bill in the May 2026 King's Speech, with credentials locked to the GOV.UK Wallet and oversight sitting inside DSIT. A secret Technical Capability Notice forced Apple to withdraw Advanced Data Protection from UK users; IPT litigation continues in 2026. Health-data centralisation (Palantir's Federated Data Platform, Single Patient Record from 2028) proceeds under an opt-out that largely does not apply. Advocacy capacity is thin and philanthropically precarious.",
   "actors": [
    {
     "name": "Information Commissioner's Office (becoming the Information Commission)",
@@ -1569,7 +1569,7 @@
    {
     "name": "Age Check Certification Scheme (ACCS)",
     "type": "certification body",
-    "note": "Runs the ICO-approved UK GDPR certification for age-assurance providers — the only privacy certification in the AV market, but voluntary."
+    "note": "Runs the ICO-approved UK GDPR certification for age-assurance providers, the only privacy certification in the AV market, but voluntary."
    },
    {
     "name": "Age Verification Providers Association",
@@ -1598,14 +1598,14 @@
    "Innovate UK (plausible funder of PETs commercialisation; currently no standing programme)",
    "Joseph Rowntree Reform Trust (core funder of Open Rights Group and democratic-rights campaigning)",
    "Luminate (Open Rights Group and data-rights field funder)",
-   "Open Society Foundations (historic funder of UK digital rights; retrenched from Europe — the gap its exit left is itself part of the problem)",
+   "Open Society Foundations (historic funder of UK digital rights; retrenched from Europe, and the gap its exit left is itself part of the problem)",
    "Nuffield Foundation (founded and funds the Ada Lovelace Institute; data governance research)",
    "Wellcome Trust (health data governance and public-trust research; plausible funder of patient-data transparency infrastructure)",
    "ICO / Information Commission grants programme (previously funded privacy research; could be revived for PETs and enforcement research)",
    "Digital Freedom Fund (European strategic litigation support, extendable to UK data rights cases)",
    "Tech-wealth and consumer-facing philanthropy (e.g. Proton, Mozilla Foundation) as plausible entrants for privacy-tool and advocacy funding"
   ],
-  "policyNotes": "The DUAA 2025 tilts deregulatory (recognised legitimate interests, relaxed automated decision-making, opt-out analytics cookies) while EU adequacy — renewed December 2025 to 2031 with a four-year mid-point review — caps divergence. Individual redress is the systemic hole: Article 80(2) opt-out actions were never implemented, Lloyd v Google closed the courts route, s166 DPA offers only procedural review, and Delo confirmed the ICO need not determine complaints. Encryption is unprotected in statute: secret IPA Technical Capability Notices (Apple litigation at the IPT, 2026) and unused OSA s121 scanning powers persist. The Digital Access to Services Bill (May 2026 King's Speech) currently lacks statutory unlinkability and independent oversight. Health-data centralisation outpaces the non-statutory National Data Opt-Out; genetic discrimination rests on a voluntary ABI code (2025 review). Live windows: digital ID Bill passage, DSIT data intermediaries consultation (closes 31 August 2026), data broker call for evidence.",
+  "policyNotes": "The DUAA 2025 tilts deregulatory (recognised legitimate interests, relaxed automated decision-making, opt-out analytics cookies) while EU adequacy (renewed December 2025 to 2031 with a four-year mid-point review) caps divergence. Individual redress is the systemic hole: Article 80(2) opt-out actions were never implemented, Lloyd v Google closed the courts route, s166 DPA offers only procedural review, and Delo confirmed the ICO need not determine complaints. Encryption is unprotected in statute: secret IPA Technical Capability Notices (Apple litigation at the IPT, 2026) and unused OSA s121 scanning powers persist. The Digital Access to Services Bill (May 2026 King's Speech) currently lacks statutory unlinkability and independent oversight. Health-data centralisation outpaces the non-statutory National Data Opt-Out; genetic discrimination rests on a voluntary ABI code (2025 review). Live windows: digital ID Bill passage, DSIT data intermediaries consultation (closes 31 August 2026), data broker call for evidence.",
   "sources": [
    "https://www.gov.uk/guidance/data-use-and-access-act-2025-data-protection-and-privacy-changes",
    "https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/",
@@ -1660,15 +1660,15 @@
    "https://luminategroup.com/investee/open-rights-group"
   ],
   "gapCount": 12,
-  "intro": "Britain's data watchdog found the online advertising industry systemically breaking the law in 2019. Seven years on, it has yet to enforce. That is the pattern across UK privacy: rights exist on paper, and almost nothing makes them bite. Courts closed the group-action route. Complaints take about a year. The entire national advocacy sector runs on less than £10m.\n\nMeanwhile the checks multiply — age verification, digital ID, a health record you cannot fully opt out of — mostly built without privacy safeguards written into law. The gaps below are enforcement machinery, missing legal shields and buildable alternatives: the things that would turn Britain's paper rights into working ones. The buildable half of privacy — encrypted messaging, personal data stores, credentials that prove without exposing — lives under portable sovereignty; what remains here is mostly the law catching up."
+  "intro": "Britain's data watchdog found the online advertising industry systemically breaking the law in 2019. Seven years on, it has yet to enforce. That is the pattern across UK privacy: rights exist on paper, and almost nothing makes them bite. Courts closed the group-action route. Complaints take about a year. The entire national advocacy sector runs on less than £10m.\n\nMeanwhile the checks multiply (age verification, digital ID, a health record you cannot fully opt out of), mostly built without privacy safeguards written into law. The gaps below are enforcement machinery, missing legal shields and buildable alternatives: the things that would turn Britain's paper rights into working ones. The buildable half of privacy (encrypted messaging, personal data stores, credentials that prove without exposing) lives under portable sovereignty; what remains here is mostly the law catching up."
  },
  {
   "num": 12,
   "slug": "ai-crisis",
-  "name": "The coming AI crisis — UK preparedness and response",
+  "name": "The coming AI crisis: UK preparedness and response",
   "shortName": "AI crisis preparedness",
   "hue": 0,
-  "landscape": "Mid-2026 UK AI policy is dominated by the growth agenda. The AI Opportunities Action Plan one-year-on review (Jan 2026) reports 38 of 50 commitments met: public compute up from 2 to 21 ExaFLOPs, five AI Growth Zones designated, a £500m Sovereign AI Unit entering its next phase, and the 'Humphrey' toolset spreading through Whitehall. But the build-out rests on US capital and control: the September 2025 Tech Prosperity Deal brought ~£31bn from Microsoft, NVIDIA, OpenAI and CoreWeave, and the CMA found AWS and Microsoft each hold 30-40% of UK cloud. The AI Security Institute is world-class (100+ technical staff, 30+ frontier models tested) yet entirely non-statutory, and the promised Frontier AI Bill has slipped repeatedly — no AI bill is before Parliament. Meanwhile labour signals have turned: youth unemployment around 16%, graduate postings reported down ~45% year-on-year, call-centre employment down 19% (2021-25), and King's College London finds AI-exposed firms cutting junior roles by 5.8%. DSIT's own January 2026 assessment says roughly 70% of UK workers are in AI-exposed roles — higher than the US — with a third of the workforce in the high-exposure/low-complementarity (displacement-risk) segment. Transition policy is thin: skills programmes exist (Youth Guarantee, TechFirst), but there is no displacement observatory, no income-bridging instrument, and the only UK income-floor evidence (the Welsh care-leavers pilot) reports finally in 2027. Election law, liability and incident reporting all lag deployment. The posture is: accelerate adoption, partner with US labs, defer regulation — leaving downside preparedness largely unbuilt.",
+  "landscape": "Mid-2026 UK AI policy is dominated by the growth agenda. The AI Opportunities Action Plan one-year-on review (Jan 2026) reports 38 of 50 commitments met: public compute up from 2 to 21 ExaFLOPs, five AI Growth Zones designated, a £500m Sovereign AI Unit entering its next phase, and the 'Humphrey' toolset spreading through Whitehall. But the build-out rests on US capital and control: the September 2025 Tech Prosperity Deal brought ~£31bn from Microsoft, NVIDIA, OpenAI and CoreWeave, and the CMA found AWS and Microsoft each hold 30-40% of UK cloud. The AI Security Institute is world-class (100+ technical staff, 30+ frontier models tested) yet entirely non-statutory, and the promised Frontier AI Bill has slipped repeatedly; no AI bill is before Parliament. Meanwhile labour signals have turned: youth unemployment around 16%, graduate postings reported down ~45% year-on-year, call-centre employment down 19% (2021-25), and King's College London finds AI-exposed firms cutting junior roles by 5.8%. DSIT's own January 2026 assessment says roughly 70% of UK workers are in AI-exposed roles (higher than the US), with a third of the workforce in the high-exposure/low-complementarity (displacement-risk) segment. Transition policy is thin: skills programmes exist (Youth Guarantee, TechFirst), but there is no displacement observatory, no income-bridging instrument, and the only UK income-floor evidence (the Welsh care-leavers pilot) reports finally in 2027. Election law, liability and incident reporting all lag deployment. The posture is: accelerate adoption, partner with US labs, defer regulation. That leaves downside preparedness largely unbuilt.",
   "actors": [
    {
     "name": "AI Security Institute (AISI)",
@@ -1688,7 +1688,7 @@
    {
     "name": "Incubator for AI (i.AI) / Government Digital Service",
     "type": "government body",
-    "note": "Builds and deploys the 'Humphrey' suite (Consult, Parlex, Minute, Lex, Redbox, Extract) across the civil service — the sharp end of public-sector AI adoption."
+    "note": "Builds and deploys the 'Humphrey' suite (Consult, Parlex, Minute, Lex, Redbox, Extract) across the civil service: the sharp end of public-sector AI adoption."
    },
    {
     "name": "AI Research Resource (Isambard-AI, Bristol; Dawn, Cambridge)",
@@ -1698,12 +1698,12 @@
    {
     "name": "AI Growth Zones programme",
     "type": "government programme",
-    "note": "Five designated zones (Culham, North East, North Wales, South Wales, Lanarkshire) with fast-track planning and power; government claims £28.2bn private investment and 15,000+ jobs — mostly US-hyperscaler-anchored data centres."
+    "note": "Five designated zones (Culham, North East, North Wales, South Wales, Lanarkshire) with fast-track planning and power; government claims £28.2bn private investment and 15,000+ jobs, mostly US-hyperscaler-anchored data centres."
    },
    {
     "name": "AI Growth Lab (DSIT)",
     "type": "government programme",
-    "note": "Cross-economy regulatory sandbox launched 8 June 2026 (legal services/conveyancing first) allowing licensed, supervised relaxation of rules for AI pilots — the government's chosen substitute for an AI bill."
+    "note": "Cross-economy regulatory sandbox launched 8 June 2026 (legal services/conveyancing first) allowing licensed, supervised relaxation of rules for AI pilots, the government's chosen substitute for an AI bill."
    },
    {
     "name": "Skills England",
@@ -1713,12 +1713,12 @@
    {
     "name": "Electoral Commission",
     "type": "regulator",
-    "note": "Launched a deepfake-detection pilot ahead of the May 2026 elections; has itself called for the digital imprint regime to be extended to all online election material — a change only government can legislate."
+    "note": "Launched a deepfake-detection pilot ahead of the May 2026 elections; has itself called for the digital imprint regime to be extended to all online election material, a change only government can legislate."
    },
    {
     "name": "Ada Lovelace Institute",
     "type": "research institute",
-    "note": "Nuffield Foundation-founded; the leading independent analyst of UK AI regulation, public-sector AI deployment and societal impacts — consistently documenting the gap between adoption and governance."
+    "note": "Nuffield Foundation-founded; the leading independent analyst of UK AI regulation, public-sector AI deployment and societal impacts, consistently documenting the gap between adoption and governance."
    },
    {
     "name": "Institute for the Future of Work (IFOW)",
@@ -1728,7 +1728,7 @@
    {
     "name": "Centre for Long-Term Resilience (CLTR)",
     "type": "think tank",
-    "note": "Authored the incident-reporting and frontier-AI-governance blueprints (central incident database, 'three lines' risk model, AISI statutory powers) most cited in this space — largely unimplemented."
+    "note": "Authored the incident-reporting and frontier-AI-governance blueprints (central incident database, 'three lines' risk model, AISI statutory powers) most cited in this space; they remain largely unimplemented."
    },
    {
     "name": "Centre for Emerging Technology and Security (CETaS, Alan Turing Institute)",
@@ -1738,28 +1738,28 @@
    {
     "name": "Nscale",
     "type": "company",
-    "note": "UK AI-infrastructure firm behind Stargate UK (with OpenAI and NVIDIA, sited in the North East AI Growth Zone) and Microsoft's Loughton AI campus — the main domestic corporate vehicle for the US-financed build-out."
+    "note": "UK AI-infrastructure firm behind Stargate UK (with OpenAI and NVIDIA, sited in the North East AI Growth Zone) and Microsoft's Loughton AI campus: the main domestic corporate vehicle for the US-financed build-out."
    },
    {
     "name": "BritLLM / UK-LLM (UCL AI Centre, with Bangor University and NVIDIA)",
     "type": "project",
-    "note": "The UK's only open-weight national LLM effort — trained on Isambard-AI, focused on UK languages (English/Welsh reasoning model, Sept 2025); academically led and small-scale, not a strategic programme."
+    "note": "The UK's only open-weight national LLM effort, trained on Isambard-AI and focused on UK languages (English/Welsh reasoning model, Sept 2025); academically led and small-scale, not a strategic programme."
    }
   ],
   "funders": [
    "DSIT / HM Treasury (£2bn compute roadmap, £500m Sovereign AI Unit, £240m AISI, £187m TechFirst)",
-   "UKRI — EPSRC and ESRC (AIRR access programmes, Responsible AI UK, BRAID, Turing Institute core funding)",
-   "ARIA (Safeguarded AI programme, ~£59m — technical AI safety R&D)",
+   "UKRI: EPSRC and ESRC (AIRR access programmes, Responsible AI UK, BRAID, Turing Institute core funding)",
+   "ARIA (Safeguarded AI programme, ~£59m; technical AI safety R&D)",
    "Nuffield Foundation (founded and funds the Ada Lovelace Institute; funded the IFOW Pissarides Review)",
    "Open Philanthropy (major funder of UK AI governance/safety orgs including CLTR and GovAI)",
    "Founders Pledge / effective-giving funds (AI risk and policy grantmaking reaching UK orgs)",
-   "Joseph Rowntree Foundation (economic insecurity and emerging-futures work — natural funder of transition-instrument pilots)",
+   "Joseph Rowntree Foundation (economic insecurity and emerging-futures work; a natural funder of transition-instrument pilots)",
    "Luminate and democracy-focused philanthropy (information ecosystem, Full Fact-type fact-checking infrastructure)",
    "Schmidt Sciences and other AI-safety philanthropies (technical safety and evaluation capacity)",
-   "US hyperscalers as infrastructure financiers (Microsoft £22bn, NVIDIA, OpenAI/Nscale Stargate UK, CoreWeave — capital the UK leverages but does not control)",
+   "US hyperscalers as infrastructure financiers (Microsoft £22bn, NVIDIA, OpenAI/Nscale Stargate UK, CoreWeave; capital the UK leverages but does not control)",
    "Devolved and local: Welsh Government (basic income pilot precedent), Scottish Government, metro mayors' local growth funds (potential hosts for place-based transition pilots)"
   ],
-  "policyNotes": "No AI statute exists. The Frontier AI Bill — a manifesto commitment to binding regulation of frontier developers — has slipped since 2024: first to fold in copyright, then displaced by the October 2025 regulation blueprint centred on the AI Growth Lab, a cross-economy sandbox (live 8 June 2026, legal services first) that relaxes rules rather than adding them; the Technology Secretary has signalled little appetite for new regulation beyond extending online safety. Governing law is UK GDPR, the Data (Use and Access) Act 2025 and sector regulators. The Online Safety Act omits political deepfakes and democratic-harm misinformation; the digital-imprint regime binds only registered campaigners. The CMA completed its cloud investigation (July 2025) finding AWS/Microsoft duopoly concerns, then shelved SMS designation. The Law Commission's July 2025 liability paper has no reform project behind it. AISI remains voluntary and non-statutory. Employment and fiscal frameworks are effectively AI-blind.",
+  "policyNotes": "No AI statute exists. The Frontier AI Bill, a manifesto commitment to binding regulation of frontier developers, has slipped since 2024: first to fold in copyright, then displaced by the October 2025 regulation blueprint centred on the AI Growth Lab, a cross-economy sandbox (live 8 June 2026, legal services first) that relaxes rules rather than adding them; the Technology Secretary has signalled little appetite for new regulation beyond extending online safety. Governing law is UK GDPR, the Data (Use and Access) Act 2025 and sector regulators. The Online Safety Act omits political deepfakes and democratic-harm misinformation; the digital-imprint regime binds only registered campaigners. The CMA completed its cloud investigation (July 2025) finding AWS/Microsoft duopoly concerns, then shelved SMS designation. The Law Commission's July 2025 liability paper has no reform project behind it. AISI remains voluntary and non-statutory. Employment and fiscal frameworks are effectively AI-blind.",
   "sources": [
    "https://www.gov.uk/government/publications/ai-opportunities-action-plan-one-year-on/ai-opportunities-action-plan-one-year-on",
    "https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market",
@@ -1798,7 +1798,7 @@
    "https://contact-centres.com/forrester-predicts-that-ai-will-reduce-contact-centre-jobs-by-50/"
   ],
   "gapCount": 13,
-  "intro": "The government's own analysis says about 70% of British workers are in jobs exposed to AI — a higher share than America's. Its policy answer is to accelerate: more compute, more adoption, no new law. Graduate job postings have already fallen sharply, and no AI bill is before Parliament. Britain is preparing thoroughly for AI's upside and barely at all for its downside.\n\nThe gaps below are the missing shock absorbers: nobody watching displacement as it happens, no income bridge for workers whose jobs contract, no incident register, no election rules for deepfakes. Most are cheap by Whitehall standards. All get harder to build once the crisis is visible."
+  "intro": "The government's own analysis says about 70% of British workers are in jobs exposed to AI, a higher share than America's. Its policy answer is to accelerate: more compute, more adoption, no new law. Graduate job postings have already fallen sharply, and no AI bill is before Parliament. Britain is preparing thoroughly for AI's upside and barely at all for its downside.\n\nThe gaps below are the missing shock absorbers: nobody watching displacement as it happens, no income bridge for workers whose jobs contract, no incident register, no election rules for deepfakes. Most are cheap by Whitehall standards. All get harder to build once the crisis is visible."
  },
  {
   "num": 13,
@@ -1816,7 +1816,7 @@
    {
     "name": "Association of Charitable Foundations (ACF)",
     "type": "network / membership body",
-    "note": "Represents 400+ foundations; its Foundations in Focus research (Oct 2025) is the main data source on foundation giving — record £8.24bn in 2023-24."
+    "note": "Represents 400+ foundations; its Foundations in Focus research (Oct 2025) is the main data source on foundation giving (a record £8.24bn in 2023-24)."
    },
    {
     "name": "Charities Aid Foundation (CAF)",
@@ -1831,7 +1831,7 @@
    {
     "name": "Joseph Rowntree Charitable Trust",
     "type": "funder (Quaker trust)",
-    "note": "Grants £10m+/yr across power & accountability, rights & justice — one of very few institutional funders of UK democracy and accountability work."
+    "note": "Grants £10m+/yr across power & accountability, rights & justice; one of very few institutional funders of UK democracy and accountability work."
    },
    {
     "name": "Nesta",
@@ -1856,7 +1856,7 @@
    {
     "name": "360Giving",
     "type": "charity / data infrastructure",
-    "note": "Runs the open grants-data standard; 300+ funders publishing, £300bn of grants represented — the UK's de facto philanthropy data infrastructure, itself grant-dependent."
+    "note": "Runs the open grants-data standard; 300+ funders publishing, £300bn of grants represented. It is the UK's de facto philanthropy data infrastructure, itself grant-dependent."
    },
    {
     "name": "Founders Pledge",
@@ -1881,7 +1881,7 @@
    {
     "name": "Public Interest News Foundation",
     "type": "charity / funder",
-    "note": "The UK's only charitable foundation dedicated to public-interest journalism; distributes small grants (well under £1m/yr) — the residue of the rejected Cairncross institute."
+    "note": "The UK's only charitable foundation dedicated to public-interest journalism; distributes small grants (well under £1m/yr), the residue of the rejected Cairncross institute."
    }
   ],
   "funders": [
@@ -1903,7 +1903,7 @@
    "Founders Pledge, Longview Philanthropy, Open Philanthropy (London-based, globally focused tech/EA philanthropy)",
    "Ethereum Foundation ESP, Gitcoin, Protocol Labs, Optimism (crypto public-goods funding, minimal current UK reach)"
   ],
-  "policyNotes": "There is no minimum payout or payout-reporting requirement for endowed foundations (the US requires ~5%). Gift Aid's higher-rate relief flows to donors rather than charities; reform proposals have repeatedly stalled. Charity Commission campaigning rules (CC9) and Electoral Commission non-party campaigner regulation chill foundation funding of democracy work — JRRT stays deliberately non-charitable to fund reform campaigns. The Dormant Assets Scheme Strategy (June 2025) governs £440m to 2028, but allocation of future tranches among four competing causes is unresolved. The Civil Society Covenant (July 2025) sets partnership principles without money; the Office for the Impact Economy (November 2025) is a 'front door' without capital; 'Our Place to Give' (April 2026) carries just £1m. The Law Family Commission's recommendations (commissioner, match funds, better data) are mostly unimplemented. No policy treats open-source software, civic tech, local news or evidence intermediaries as fundable public infrastructure.",
+  "policyNotes": "There is no minimum payout or payout-reporting requirement for endowed foundations (the US requires ~5%). Gift Aid's higher-rate relief flows to donors rather than charities; reform proposals have repeatedly stalled. Charity Commission campaigning rules (CC9) and Electoral Commission non-party campaigner regulation chill foundation funding of democracy work; JRRT stays deliberately non-charitable to fund reform campaigns. The Dormant Assets Scheme Strategy (June 2025) governs £440m to 2028, but allocation of future tranches among four competing causes is unresolved. The Civil Society Covenant (July 2025) sets partnership principles without money; the Office for the Impact Economy (November 2025) is a 'front door' without capital; 'Our Place to Give' (April 2026) carries just £1m. The Law Family Commission's recommendations (commissioner, match funds, better data) are mostly unimplemented. No policy treats open-source software, civic tech, local news or evidence intermediaries as fundable public infrastructure.",
   "sources": [
    "https://www.cafonline.org/docs/default-source/uk-giving-reports/uk_giving_report_2025.pdf",
    "https://www.cafonline.org/docs/default-source/about-us-research/caf_high_value_giving_report_2025.pdf",
@@ -1949,7 +1949,7 @@
    "https://www.beaconcollaborative.org.uk/law-family-commission-reports-on-the-state-of-uk-philanthropy/"
   ],
   "gapCount": 0,
-  "intro": "Britain is not short of charitable money. Foundations gave a record £8.24bn in a single year. Most adults donate something. Yet the very richest give away under half a per cent of their wealth, the funders who kept civic infrastructure alive are quietly leaving the field, and nobody's job is to fund the connective tissue that everything else depends on.\n\nThe gaps below are about plumbing, not generosity. Missing funds, missing rules, missing data. Each names something buildable — a pooled fund, a match scheme, a reporting requirement — that would move money which already exists towards work that already matters.",
+  "intro": "Britain is not short of charitable money. Foundations gave a record £8.24bn in a single year. Most adults donate something. Yet the very richest give away under half a per cent of their wealth, the funders who kept civic infrastructure alive are quietly leaving the field, and nobody's job is to fund the connective tissue that everything else depends on.\n\nThe gaps below are about plumbing, not generosity. Missing funds, missing rules, missing data. Each names something buildable (a pooled fund, a match scheme, a reporting requirement) that would move money which already exists towards work that already matters.",
   "lens": true
  },
  {
@@ -1958,7 +1958,7 @@
   "name": "Policy gaps (cross-cutting)",
   "shortName": "Policy (lens)",
   "hue": 60,
-  "landscape": "Mid-2026 UK policymaking is defined by a widening gap between legislating and implementing. Flagship statutes have passed — ECCTA 2023, Procurement Act 2023 (in force February 2025), Data (Use and Access) Act 2025, English Devolution and Community Empowerment Act 2026 (Royal Assent 29 April 2026) — but commencement, enforcement and resourcing lag behind. There is still no AI statute: government declines to back the Lords private member's AI (Regulation) Bill, betting on regulator-led rules. The Home Office consulted (December 2025–February 2026) on the first legal framework for police facial recognition even as live facial recognition is used by 13 of 43 forces with national rollout planned. State capacity is strained: the IfG's Whitehall Monitor records 12.7% churn in 2023/24 easing to 8.9% only via recruitment freezes, with exit schemes targeting 8,586 staff; the NAO finds evaluation \"variable and inconsistent\"; the What Works Network lost What Works Wellbeing (closed 2024) and is being re-tendered piecemeal. Parliament under-scrutinises: skeleton bills push policy into statutory instruments the Hansard Society calls a broken system, and departmental post-legislative memoranda have quietly stopped. Devolution deepens asymmetrically: seven mayoral strategic authorities get integrated settlements by 2026-27 while others stay on fragmented grants, and Wales is legislating a statutory youth-work framework England lacks. The think-tank ecosystem (~150 organisations) is London-heavy and under no duty to disclose funders. The cross-cutting pattern: reviews, consultations and even Acts exist; the institutions, money and feedback loops to make them real often do not.",
+  "landscape": "Mid-2026 UK policymaking is defined by a widening gap between legislating and implementing. Flagship statutes have passed: ECCTA 2023, Procurement Act 2023 (in force February 2025), Data (Use and Access) Act 2025, English Devolution and Community Empowerment Act 2026 (Royal Assent 29 April 2026). But commencement, enforcement and resourcing lag behind. There is still no AI statute: government declines to back the Lords private member's AI (Regulation) Bill, betting on regulator-led rules. The Home Office consulted (December 2025–February 2026) on the first legal framework for police facial recognition even as live facial recognition is used by 13 of 43 forces with national rollout planned. State capacity is strained: the IfG's Whitehall Monitor records 12.7% churn in 2023/24 easing to 8.9% only via recruitment freezes, with exit schemes targeting 8,586 staff; the NAO finds evaluation \"variable and inconsistent\"; the What Works Network lost What Works Wellbeing (closed 2024) and is being re-tendered piecemeal. Parliament under-scrutinises: skeleton bills push policy into statutory instruments the Hansard Society calls a broken system, and departmental post-legislative memoranda have quietly stopped. Devolution deepens asymmetrically: seven mayoral strategic authorities get integrated settlements by 2026-27 while others stay on fragmented grants, and Wales is legislating a statutory youth-work framework England lacks. The think-tank ecosystem (~150 organisations) is London-heavy and under no duty to disclose funders. The cross-cutting pattern: reviews, consultations and even Acts exist; the institutions, money and feedback loops to make them real often do not.",
   "actors": [
    {
     "name": "Institute for Government",
@@ -2003,7 +2003,7 @@
    {
     "name": "OpenUK",
     "type": "industry body",
-    "note": "Represents UK open source; has a blueprint for public-sector open-source funding 'under discussion' with government — but no fund exists yet."
+    "note": "Represents UK open source; has a blueprint for public-sector open-source funding 'under discussion' with government, but no fund exists yet."
    },
    {
     "name": "Centre for British Progress",
@@ -2052,7 +2052,7 @@
    "Power to Change (community business and co-operative economy)",
    "Open Society Foundations (anti-corruption, rights and surveillance accountability)"
   ],
-  "policyNotes": "A policy-gap entry should record: (1) instrument status — bill/Act with bills.parliament.uk ID, stage, and commencement status of each relevant provision (legislation.gov.uk lists uncommenced sections); (2) responsible department and minister; (3) consultation/review status with dates (e.g. Home Office facial recognition consultation closed 12 February 2026, response pending); (4) Law Commission or independent-review recommendations and government acceptance status; (5) select committee interest — inquiries, reports, government responses; (6) cost estimate and its source (impact assessment, OBR, NAO) and who bears it; (7) enforcement body, powers and budget — the commonest failure mode is law-without-resourcing (ECCTA, ICO public-sector approach); (8) territorial extent and devolved competence (England-only vs GB/UK; Wales diverging on youth work); (9) post-implementation review due date; (10) named champions. Bill stage alone misleads: most gaps here are post-Royal-Assent implementation failures, not absent legislation.",
+  "policyNotes": "A policy-gap entry should record: (1) instrument status: bill/Act with bills.parliament.uk ID, stage, and commencement status of each relevant provision (legislation.gov.uk lists uncommenced sections); (2) responsible department and minister; (3) consultation/review status with dates (e.g. Home Office facial recognition consultation closed 12 February 2026, response pending); (4) Law Commission or independent-review recommendations and government acceptance status; (5) select committee interest: inquiries, reports, government responses; (6) cost estimate and its source (impact assessment, OBR, NAO) and who bears it; (7) enforcement body, powers and budget: the commonest failure mode is law-without-resourcing (ECCTA, ICO public-sector approach); (8) territorial extent and devolved competence (England-only vs GB/UK; Wales diverging on youth work); (9) post-implementation review due date; (10) named champions. Bill stage alone misleads: most gaps here are post-Royal-Assent implementation failures, not absent legislation.",
   "sources": [
    "https://bills.parliament.uk/bills/3942",
    "https://www.osborneclarke.com/insights/regulatory-outlook-may-2026-artificial-intelligence",
@@ -2102,7 +2102,7 @@
    "https://www.instituteforgovernment.org.uk/explainer/costing-opposition-policies"
   ],
   "gapCount": 0,
-  "intro": "Britain has become good at passing laws and bad at making them happen. Flagship Acts sit on the statute book with sections never switched on, watchdogs lack teeth, and Parliament almost never checks whether the laws it passed actually worked. Meanwhile police facial recognition scales towards national rollout with no statute behind it at all.\n\nThe gaps below are mostly not calls for new legislation. They are the missing second half of laws already passed — the enforcement budgets, scrutiny committees, funding instruments and oversight bodies that turn words on vellum into change on the ground.",
+  "intro": "Britain has become good at passing laws and bad at making them happen. Flagship Acts sit on the statute book with sections never switched on, watchdogs lack teeth, and Parliament almost never checks whether the laws it passed actually worked. Meanwhile police facial recognition scales towards national rollout with no statute behind it at all.\n\nThe gaps below are mostly not calls for new legislation. They are the missing second half of laws already passed: the enforcement budgets, scrutiny committees, funding instruments and oversight bodies that turn words on vellum into change on the ground.",
   "lens": true
  },
  {
@@ -2111,7 +2111,7 @@
   "name": "Health and social care (including mental health)",
   "shortName": "Health & social care",
   "hue": 185,
-  "landscape": "England enters mid-2026 with a crowded reform pipeline but thin delivery machinery. The 10 Year Health Plan (July 2025) promises three shifts — hospital to community, analogue to digital, sickness to prevention — while NHS England is being dissolved into DHSC, removing the body that ran national data and delivery programmes. In social care, the Casey Commission (reporting to the Prime Minister) publishes phase 1 recommendations in 2026, explicitly constrained to existing resources; fundamental reform waits for its 2028 final report. The Fair Pay Agreement machinery is real — secondary legislation and an Adult Social Care Negotiating Body due October 2026, first FPA effective from 2028 — but England still has no care-worker register, statutory training body or committed funding route, unlike Wales (mandatory registration from 30 September 2026) and Scotland (SSSC). The Mental Health Act 2025 (Royal Assent 18 December 2025) will take up to a decade to implement; the Liberty Protection Safeguards remain uncommenced against a ~124,000-case DoLS backlog, and a June 2026 Supreme Court judgment has reopened the deprivation-of-liberty test. On data, the up-to-£600m Health Data Research Service launches first services by end-2026, but national GP data extraction for research has been paused since GPDPR collapsed in 2021 and the Secure Data Environment network's original funding has expired. Dentistry received UDA modifications from April/June 2026, not a new contract. Children's mental health referrals exceed one million a year with no enforceable waiting-time standard; Mental Health Support Teams reach full school coverage only by 2029-30.",
+  "landscape": "England enters mid-2026 with a crowded reform pipeline but thin delivery machinery. The 10 Year Health Plan (July 2025) promises three shifts (hospital to community, analogue to digital, sickness to prevention) while NHS England is being dissolved into DHSC, removing the body that ran national data and delivery programmes. In social care, the Casey Commission (reporting to the Prime Minister) publishes phase 1 recommendations in 2026, explicitly constrained to existing resources; fundamental reform waits for its 2028 final report. The Fair Pay Agreement machinery is real (secondary legislation and an Adult Social Care Negotiating Body due October 2026, first FPA effective from 2028), but England still has no care-worker register, statutory training body or committed funding route, unlike Wales (mandatory registration from 30 September 2026) and Scotland (SSSC). The Mental Health Act 2025 (Royal Assent 18 December 2025) will take up to a decade to implement; the Liberty Protection Safeguards remain uncommenced against a ~124,000-case DoLS backlog, and a June 2026 Supreme Court judgment has reopened the deprivation-of-liberty test. On data, the up-to-£600m Health Data Research Service launches first services by end-2026, but national GP data extraction for research has been paused since GPDPR collapsed in 2021 and the Secure Data Environment network's original funding has expired. Dentistry received UDA modifications from April/June 2026, not a new contract. Children's mental health referrals exceed one million a year with no enforceable waiting-time standard; Mental Health Support Teams reach full school coverage only by 2029-30.",
   "actors": [
    {
     "name": "Independent Commission into Adult Social Care (Casey Commission)",
@@ -2126,12 +2126,12 @@
    {
     "name": "Skills for Care",
     "type": "charity / sector body",
-    "note": "Holds workforce data and led the 2024 sector Workforce Strategy; delivers the voluntary Care Workforce Pathway — but has no statutory remit or registration powers."
+    "note": "Holds workforce data and led the 2024 sector Workforce Strategy; delivers the voluntary Care Workforce Pathway, but has no statutory remit or registration powers."
    },
    {
     "name": "Social Care Wales",
     "type": "statutory regulator (Wales)",
-    "note": "Registers care workers; registration becomes mandatory for all employed social care workers from 30 September 2026 — the model England lacks."
+    "note": "Registers care workers; registration becomes mandatory for all employed social care workers from 30 September 2026: the model England lacks."
    },
    {
     "name": "Scottish Social Services Council (SSSC)",
@@ -2199,7 +2199,7 @@
    "Impact on Urban Health / Guy's & St Thomas' Foundation (prevention and health-equity funding, plausibly extendable to prevention-measurement work)",
    "HM Treasury via the 2027 Spending Review (the only realistic source for an FPA funding conduit, bridging social care fund, or Preventative DEL)"
   ],
-  "policyNotes": "The pipeline is legislation-rich but implementation-poor. Employment Rights Act provisions enable Fair Pay Agreements, with social care secondary legislation and a negotiating body due October 2026 and the first FPA from 2028 — but no funding instrument accompanies them. The Mental Health Act 2025 phases in over up to ten years with no statutory implementation vehicle or reporting duty. The Mental Capacity (Amendment) Act 2019 remains uncommenced seven years on; DHSC consulted on LPS in H1 2026 just as a Supreme Court judgment unsettled Cheshire West. Casey phase 1 is confined to existing resources; funding reform is deferred to 2028+, past the next election. Health-data law permits SDE-based access, but the GP-data settlement and opt-out reform are unresolved while NHS England's abolition moves custodianship. No statute or Treasury mechanism enforces the prevention shift, and dentistry's 2006 contract framework survives the 2026 modifications.",
+  "policyNotes": "The pipeline is legislation-rich but implementation-poor. Employment Rights Act provisions enable Fair Pay Agreements, with social care secondary legislation and a negotiating body due October 2026 and the first FPA from 2028, but no funding instrument accompanies them. The Mental Health Act 2025 phases in over up to ten years with no statutory implementation vehicle or reporting duty. The Mental Capacity (Amendment) Act 2019 remains uncommenced seven years on; DHSC consulted on LPS in H1 2026 just as a Supreme Court judgment unsettled Cheshire West. Casey phase 1 is confined to existing resources; funding reform is deferred to 2028+, past the next election. Health-data law permits SDE-based access, but the GP-data settlement and opt-out reform are unresolved while NHS England's abolition moves custodianship. No statute or Treasury mechanism enforces the prevention shift, and dentistry's 2006 contract framework survives the 2026 modifications.",
   "sources": [
    "https://www.gov.uk/government/publications/independent-commission-into-adult-social-care-terms-of-reference",
    "https://www.gov.uk/government/publications/adult-social-care-and-the-cost-of-inaction-government-response-to-the-hscc/adult-social-care-reform-and-the-cost-of-inaction-government-response-to-the-health-and-social-care-committee-hscc-report",
@@ -2236,7 +2236,7 @@
    "https://www.gov.uk/government/news/improved-safeguarding-and-protections-for-vulnerable-people"
   ],
   "gapCount": 11,
-  "intro": "England's health and care system has plans stacked up like planes over Heathrow. A new NHS plan, a social care commission, a fresh Mental Health Act — and beneath them, delivery machinery so thin that a reform from 2019 has still never been switched on. More than a million children a year get referred to mental health services with no enforceable limit on how long they wait.\n\nThe gaps below follow one pattern: the announcement exists, the mechanism does not. Missing registers, funding routes, implementation units and official statistics — the unglamorous parts that decide whether reform reaches a care worker's payslip or a child's referral letter."
+  "intro": "England's health and care system has plans stacked up like planes over Heathrow. A new NHS plan, a social care commission, a fresh Mental Health Act. And beneath them, delivery machinery so thin that a reform from 2019 has still never been switched on. More than a million children a year get referred to mental health services with no enforceable limit on how long they wait.\n\nThe gaps below follow one pattern: the announcement exists, the mechanism does not. Missing registers, funding routes, implementation units and official statistics. These are the unglamorous parts that decide whether reform reaches a care worker's payslip or a child's referral letter."
  },
  {
   "num": 16,
@@ -2244,7 +2244,7 @@
   "name": "Justice, courts and access to justice",
   "shortName": "Justice & access",
   "hue": 240,
-  "landscape": "England and Wales's justice system is in managed crisis across courts, legal aid, prisons and post-conviction review. The Crown Court open caseload hit a record ~80,200 in December 2025, with trials listed into 2029. The government's December 2025 response accepted Sir Brian Leveson's Part 1 \"blueprint\", and the Courts and Tribunals Bill (introduced 25 February 2026) legislates the structural half — removing defendants' right to elect Crown Court trial, a judge-alone Crown Court Bench Division, an appeals permission stage, extended magistrates' sentencing powers — while the diversion and early-guilty-plea half remains unfunded and unlegislated. The Sentencing Act 2026 (implementing the Gauke review) introduced earned-progression release against a prison population above 87,000, roughly 25% over certified normal capacity; the Public Accounts Committee warned in early 2026 that space could run out within months. On the civil side, the first legal aid fee rises in a decade (December 2025) covered only housing and immigration; deserts persist in education (88% of the population without a local provider), welfare benefits (82%) and community care (~70%). Government accepted the Civil Justice Council's PACCAR litigation-funding fix on 17 December 2025 but omitted it from the 2026 King's Speech. The Law Commission opens a consumer class-actions project in autumn 2026 and reports on criminal appeals in 2026–27. The Hillsborough Law (Public Office (Accountability) Bill) stalled in January 2026 over a security-services candour carve-out and was carried over to the new session in April 2026.",
+  "landscape": "England and Wales's justice system is in managed crisis across courts, legal aid, prisons and post-conviction review. The Crown Court open caseload hit a record ~80,200 in December 2025, with trials listed into 2029. The government's December 2025 response accepted Sir Brian Leveson's Part 1 \"blueprint\", and the Courts and Tribunals Bill (introduced 25 February 2026) legislates the structural half (removing defendants' right to elect Crown Court trial, a judge-alone Crown Court Bench Division, an appeals permission stage, extended magistrates' sentencing powers), while the diversion and early-guilty-plea half remains unfunded and unlegislated. The Sentencing Act 2026 (implementing the Gauke review) introduced earned-progression release against a prison population above 87,000, roughly 25% over certified normal capacity; the Public Accounts Committee warned in early 2026 that space could run out within months. On the civil side, the first legal aid fee rises in a decade (December 2025) covered only housing and immigration; deserts persist in education (88% of the population without a local provider), welfare benefits (82%) and community care (~70%). Government accepted the Civil Justice Council's PACCAR litigation-funding fix on 17 December 2025 but omitted it from the 2026 King's Speech. The Law Commission opens a consumer class-actions project in autumn 2026 and reports on criminal appeals in 2026–27. The Hillsborough Law (Public Office (Accountability) Bill) stalled in January 2026 over a security-services candour carve-out and was carried over to the new session in April 2026.",
   "actors": [
    {
     "name": "Ministry of Justice",
@@ -2269,12 +2269,12 @@
    {
     "name": "Civil Justice Council",
     "type": "advisory body",
-    "note": "Its June 2025 litigation funding final report recommended reversing PACCAR and light-touch regulation — accepted by government in December 2025 but not yet legislated."
+    "note": "Its June 2025 litigation funding final report recommended reversing PACCAR and light-touch regulation; government accepted this in December 2025 but has not yet legislated."
    },
    {
     "name": "Criminal Justice Joint Inspection (HMICFRS, HMCPSI, HMI Prisons, HMI Probation)",
     "type": "inspection consortium",
-    "note": "The four criminal justice inspectorates' joint programme under the Police and Justice Act 2006 — the closest thing to whole-system inspection, but periodic and agency-bounded."
+    "note": "The four criminal justice inspectorates' joint programme under the Police and Justice Act 2006: the closest thing to whole-system inspection, but periodic and agency-bounded."
    },
    {
     "name": "Criminal Cases Review Commission",
@@ -2284,7 +2284,7 @@
    {
     "name": "Law Society of England and Wales",
     "type": "professional body",
-    "note": "Publishes the legal aid deserts heatmaps mapping provider coverage by area of law and local authority — the key evidence base on advice deserts."
+    "note": "Publishes the legal aid deserts heatmaps mapping provider coverage by area of law and local authority: the key evidence base on advice deserts."
    },
    {
     "name": "Bar Council",
@@ -2326,7 +2326,7 @@
    "Ministry of Justice / Legal Aid Agency (statutory funder of legal aid, courts and pilots such as Intensive Supervision Courts)",
    "HM Treasury via spending reviews (the binding constraint on Leveson and Gauke implementation)",
    "The Legal Education Foundation (largest UK justice-focused foundation; funds Justice Lab, data and access-to-justice work)",
-   "Nuffield Foundation (justice research; funds the Nuffield Family Justice Observatory — a replicable model for criminal justice)",
+   "Nuffield Foundation (justice research; funds the Nuffield Family Justice Observatory, a replicable model for criminal justice)",
    "Access to Justice Foundation (national funder of free legal advice; receives pro bono costs orders)",
    "Baring Foundation (funds civil society use of law and legal action)",
    "Esmée Fairbairn Foundation (justice reform and penal policy grants)",
@@ -2335,9 +2335,9 @@
    "AB Charitable Trust (access to justice and penal reform)",
    "ESRC / ADR UK (funds Data First and justice data infrastructure)",
    "City Bridge Foundation (London advice-sector funding)",
-   "Commercial third-party litigation funders (Association of Litigation Funders members — de facto funders of collective redress, contingent on the PACCAR fix)"
+   "Commercial third-party litigation funders (Association of Litigation Funders members; de facto funders of collective redress, contingent on the PACCAR fix)"
   ],
-  "policyNotes": "The defining pattern is acceptance without instruments. Government has accepted Leveson Part 1, the CJC's PACCAR recommendations, CCRC reform in principle and inquest legal-aid parity — but only structural court reform and sentencing reached statute (Courts and Tribunals Bill, February 2026; Sentencing Act 2026). The 2026 King's Speech omitted litigation funding; the Public Office (Accountability) Bill stalled in January 2026 over a security-services candour carve-out and was carried over in April; Leveson's diversion recommendations and Part 2 (efficiency) await funding decisions. Law Commission workstreams — criminal appeals (final report early 2027), wrongful-conviction compensation (end-2026), consumer class actions (from autumn 2026) — make 2027–28 the legislative window for redress and appeals reform. On-record rejections: IPP resentencing and a national coroner service. Legal aid remains piecemeal: December 2025 fee regulations covered two categories, means-test changes slipped to 2026, and no coverage duty exists anywhere in statute.",
+  "policyNotes": "The defining pattern is acceptance without instruments. Government has accepted Leveson Part 1, the CJC's PACCAR recommendations, CCRC reform in principle and inquest legal-aid parity, but only structural court reform and sentencing reached statute (Courts and Tribunals Bill, February 2026; Sentencing Act 2026). The 2026 King's Speech omitted litigation funding; the Public Office (Accountability) Bill stalled in January 2026 over a security-services candour carve-out and was carried over in April; Leveson's diversion recommendations and Part 2 (efficiency) await funding decisions. Law Commission workstreams on criminal appeals (final report early 2027), wrongful-conviction compensation (end-2026) and consumer class actions (from autumn 2026) make 2027–28 the legislative window for redress and appeals reform. On-record rejections: IPP resentencing and a national coroner service. Legal aid remains piecemeal: December 2025 fee regulations covered two categories, means-test changes slipped to 2026, and no coverage duty exists anywhere in statute.",
   "sources": [
    "https://www.gov.uk/government/publications/courts-and-tribunals-bill/courts-and-tribunals-bill-factsheet",
    "https://www.gov.uk/guidance/independent-review-of-the-criminal-courts",
@@ -2393,7 +2393,7 @@
   "name": "Local-state capacity, devolution and public finance (England)",
   "shortName": "Local state",
   "hue": 110,
-  "landscape": "Mid-2026 finds English sub-national government mid-way through its biggest reshaping since 1974. The English Devolution and Community Empowerment Act 2026 (Royal Assent 29 April 2026) puts strategic authorities on a statutory footing, gives Established Mayoral Strategic Authorities integrated funding settlements (pioneered by Greater Manchester and the West Midlands trailblazers), and drives reorganisation of two-tier counties into unitaries. Finance is on a knife-edge: the first multi-year settlement in a decade and Fair Funding Review 2.0 redistribution began in 2026-27, yet the LGA projects a £7bn funding gap by 2028-29; around 35 councils needed c.£1.5bn of Exceptional Financial Support to set 2026-27 budgets (42 authorities have received EFS since 2020-21); SEND deficits kept off balance sheets by a statutory override until March 2028 are forecast to reach £2.9-3.9bn a year, and 79% of councils say they cannot balance 2028-29 budgets. Assurance has partially collapsed: statutory backstop dates cleared the audit backlog by mass-disclaiming opinions — roughly 45% of bodies were disclaimed at the 27 February 2026 backstop — and MHCLG concedes disclaimers will continue through 2026/27. The new Local Audit Office launches autumn 2026, absorbing PSAA, FRC, NAO-code and ICAEW-register functions and taking over the backstop programme from April 2027. Independent oversight is thinner: Oflog closed in December 2024, replaced by an MHCLG-run Local Government Outcomes Framework from April 2026. Five councils remain under commissioners (Birmingham, Woking, Slough, Thurrock, Nottingham). A Treasury 'fiscal devolution roadmap' is promised alongside the autumn 2026 Budget.",
+  "landscape": "Mid-2026 finds English sub-national government mid-way through its biggest reshaping since 1974. The English Devolution and Community Empowerment Act 2026 (Royal Assent 29 April 2026) puts strategic authorities on a statutory footing, gives Established Mayoral Strategic Authorities integrated funding settlements (pioneered by Greater Manchester and the West Midlands trailblazers), and drives reorganisation of two-tier counties into unitaries. Finance is on a knife-edge: the first multi-year settlement in a decade and Fair Funding Review 2.0 redistribution began in 2026-27, yet the LGA projects a £7bn funding gap by 2028-29; around 35 councils needed c.£1.5bn of Exceptional Financial Support to set 2026-27 budgets (42 authorities have received EFS since 2020-21); SEND deficits kept off balance sheets by a statutory override until March 2028 are forecast to reach £2.9-3.9bn a year, and 79% of councils say they cannot balance 2028-29 budgets. Assurance has partially collapsed: statutory backstop dates cleared the audit backlog by mass-disclaiming opinions (roughly 45% of bodies were disclaimed at the 27 February 2026 backstop), and MHCLG concedes disclaimers will continue through 2026/27. The new Local Audit Office launches autumn 2026, absorbing PSAA, FRC, NAO-code and ICAEW-register functions and taking over the backstop programme from April 2027. Independent oversight is thinner: Oflog closed in December 2024, replaced by an MHCLG-run Local Government Outcomes Framework from April 2026. Five councils remain under commissioners (Birmingham, Woking, Slough, Thurrock, Nottingham). A Treasury 'fiscal devolution roadmap' is promised alongside the autumn 2026 Budget.",
   "actors": [
    {
     "name": "Ministry of Housing, Communities and Local Government (MHCLG)",
@@ -2403,7 +2403,7 @@
    {
     "name": "Local Audit Office (LAO)",
     "type": "government body (being established)",
-    "note": "Created by the 2026 Devolution Act; launches autumn 2026, consolidating auditor appointment (PSAA), code (NAO), quality (FRC) and register (ICAEW) functions; runs the backstop programme from April 2027 — but has no re-audit mandate."
+    "note": "Created by the 2026 Devolution Act; launches autumn 2026, consolidating auditor appointment (PSAA), code (NAO), quality (FRC) and register (ICAEW) functions; runs the backstop programme from April 2027, but has no re-audit mandate."
    },
    {
     "name": "Public Sector Audit Appointments (PSAA)",
@@ -2443,7 +2443,7 @@
    {
     "name": "Local Partnerships LLP",
     "type": "public joint venture (HM Treasury/LGA/Welsh Government)",
-    "note": "Sells commercial, contract-management and LGR delivery support to councils — the seed of a national commercial capability service, but small and fee-funded."
+    "note": "Sells commercial, contract-management and LGR delivery support to councils: the seed of a national commercial capability service, but small and fee-funded."
    },
    {
     "name": "County Councils Network (CCN)",
@@ -2463,7 +2463,7 @@
    {
     "name": "Office for Budget Responsibility (OBR)",
     "type": "fiscal watchdog",
-    "note": "Remit is strictly national public finances — no forward assessment of local government sustainability; the institutional template for an 'OBR for councils'."
+    "note": "Remit is strictly national public finances, with no forward assessment of local government sustainability; the institutional template for an 'OBR for councils'."
    },
    {
     "name": "LGIU",
@@ -2483,7 +2483,7 @@
    "Power to Change (community assets and the Act's community-empowerment agenda)",
    "Plausible new entrants: a philanthropic consortium funding an interim 'OBR for councils' unit or an LPAC pilot in Greater Manchester/West Midlands"
   ],
-  "policyNotes": "The English Devolution and Community Empowerment Act 2026 (Royal Assent April 2026) is the frame: statutory strategic authorities, integrated settlements, the Local Audit Office, and mass unitarisation. Finance reform is live — first multi-year settlement in a decade plus Fair Funding Review 2.0 from 2026-27 — and a Treasury fiscal devolution roadmap lands with the autumn 2026 Budget (interim summer 2026); a visitor levy bill featured in the 2026 King's Speech but bites no earlier than 2028. Audit: Transition Plan (Nov 2025), LAO launch autumn 2026, backstop oversight April 2027, VfM review by end-2027 — but no re-audit of disclaimed years. Holes: no failure-regime legislation despite PAC criticism of EFS; LPACs only 'explored'; council tax reform explicitly ruled out; the SEND override cliff merely deferred to March 2028; Oflog's replacement is departmental self-oversight; workforce plans remain voluntary and unfunded.",
+  "policyNotes": "The English Devolution and Community Empowerment Act 2026 (Royal Assent April 2026) is the frame: statutory strategic authorities, integrated settlements, the Local Audit Office, and mass unitarisation. Finance reform is live (first multi-year settlement in a decade plus Fair Funding Review 2.0 from 2026-27), and a Treasury fiscal devolution roadmap lands with the autumn 2026 Budget (interim summer 2026); a visitor levy bill featured in the 2026 King's Speech but bites no earlier than 2028. Audit: Transition Plan (Nov 2025), LAO launch autumn 2026, backstop oversight April 2027, VfM review by end-2027, but no re-audit of disclaimed years. Holes: no failure-regime legislation despite PAC criticism of EFS; LPACs only 'explored'; council tax reform explicitly ruled out; the SEND override cliff merely deferred to March 2028; Oflog's replacement is departmental self-oversight; workforce plans remain voluntary and unfunded.",
   "sources": [
    "https://www.gov.uk/government/consultations/local-audit-reform-a-strategy-for-overhauling-the-local-audit-system-in-england/outcome/local-audit-reform-government-response-to-the-consultation-to-overhaul-local-audit-in-england",
    "https://www.gov.uk/government/publications/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions/addressing-the-local-audit-backlog-modified-or-disclaimed-audit-opinions",
@@ -2647,6 +2647,6 @@
    "https://nic.org.uk/news/clearer-standards-needed-to-boost-economys-resilience/"
   ],
   "gapCount": 12,
-  "intro": "The Covid inquiry's verdict on Britain's preparedness was damning, and the government accepted almost every recommendation — except the biggest. There will be no independent body checking the country is ready for the next emergency. Preparedness remains something the state audits itself on, the exact habit the inquiry blamed for 2020.\n\nThe gaps below follow that pattern. Strategies exist for pandemics, floods and heatwaves. What is missing is ownership and money that lasts — a named lead for overheating homes, legal footing for local responders, a mechanism that turns exercise lessons into action. Much has been announced. Less has been built."
+  "intro": "The Covid inquiry's verdict on Britain's preparedness was damning, and the government accepted almost every recommendation, except the biggest. There will be no independent body checking the country is ready for the next emergency. Preparedness remains something the state audits itself on, the exact habit the inquiry blamed for 2020.\n\nThe gaps below follow that pattern. Strategies exist for pandemics, floods and heatwaves. What is missing is ownership and money that lasts: a named lead for overheating homes, legal footing for local responders, a mechanism that turns exercise lessons into action. Much has been announced. Less has been built."
  }
 ]

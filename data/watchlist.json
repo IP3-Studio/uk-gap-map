@@ -284,7 +284,7 @@
   "sort": "2028-09",
   "when": "Sep 2028",
   "event": "Reformed curriculum first teaching (AI literacy from KS2)",
-  "why": "End of the three-year AI-literacy vacuum — if the workforce is trained",
+  "why": "End of the three-year AI-literacy vacuum, if the workforce is trained",
   "domains": [
    "education-ai"
   ]
@@ -368,7 +368,7 @@
  {
   "sort": "2026-12",
   "when": "By 31 Dec 2026",
-  "event": "Digital Access to Services Bill — parliamentary stages",
+  "event": "Digital Access to Services Bill: parliamentary stages",
   "why": "The reframed digital ID legislation, announced in the May 2026 King's Speech; where privacy safeguards are won or lost",
   "domains": [
    "privacy",
@@ -379,7 +379,7 @@
   "sort": "2026-09",
   "when": "From mid-2026, quarterly",
   "event": "Single Unique Identifier scope regulations (Children's Wellbeing and Schools Act)",
-  "why": "Secondary legislation sets how far a child's cross-service identifier reaches — scope defined by regulation, not the Act",
+  "why": "Secondary legislation sets how far a child's cross-service identifier reaches; scope defined by regulation, not the Act",
   "domains": [
    "privacy",
    "surveillance"
@@ -388,7 +388,7 @@
  {
   "sort": "2026-12",
   "when": "2026-27 delivery period",
-  "event": "Growth and Skills Levy — first funded starts under the new design",
+  "event": "Growth and Skills Levy: first funded starts under the new design",
   "why": "The levy design a funded provider helped shape begins distributing money; the moment to test whose recommendations landed",
   "domains": [
    "corruption-integrity",

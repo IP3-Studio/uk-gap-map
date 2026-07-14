@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { domains } from "@/lib/data";
 
-export const metadata = { title: "Domains — UK Gap Map" };
+export const metadata = { title: "Domains · UK Gap Map" };
 
 export default function DomainsPage() {
   const vertical = domains.filter((d) => !d.lens);

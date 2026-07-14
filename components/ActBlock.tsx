@@ -3,16 +3,16 @@ import { permissionLabel, type Gap } from "@/lib/data";
 const REPO = "https://github.com/IP3-Studio/uk-gap-map";
 
 const PERM_LEAD: Record<string, string> = {
-  "build-now": "No permission needed — a competent team could start this week.",
-  "build-together": "No new law needed — this needs a willing institution at the table, which is exactly a conversation worth opening.",
-  "state-led": "This one needs the state to move — but pressure, prototypes and evidence are all permissionless.",
+  "build-now": "No permission needed: a competent team could start this week.",
+  "build-together": "No new law needed: this needs a willing institution at the table, which is exactly a conversation worth opening.",
+  "state-led": "This one needs the state to move, but pressure, prototypes and evidence are all permissionless.",
 };
 
 // Primary verb by gap type: who is best placed to move this, and how.
 const CTA: Record<string, { verb: string; line: string }> = {
   funding: {
     verb: "Fund it",
-    line: "This gap names a fundable vehicle. If you are a funder — or can convene one — the entry above is a term sheet waiting to happen.",
+    line: "This gap names a fundable vehicle. If you are a funder, or can convene one, the entry above is a term sheet waiting to happen.",
   },
   policy: {
     verb: "Move it",
@@ -28,7 +28,7 @@ const CTA: Record<string, { verb: string; line: string }> = {
   },
   knowledge: {
     verb: "Research it",
-    line: "This gap is missing evidence or data. Researchers, journalists and analysts can close it — and change what everyone else can see.",
+    line: "This gap is missing evidence or data. Researchers, journalists and analysts can close it, and change what everyone else can see.",
   },
   coordination: {
     verb: "Convene it",
@@ -41,7 +41,7 @@ export default function ActBlock({ gap }: { gap: Gap }) {
 
   return (
     <aside className="act-block">
-      <h2>{cta.verb} — this gap is actionable</h2>
+      <h2>{cta.verb}: this gap is actionable</h2>
       {gap.permission && (
         <p className="perm-line">
           <strong>{permissionLabel(gap.permission)}.</strong> {PERM_LEAD[gap.permission]}

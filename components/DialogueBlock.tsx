@@ -8,7 +8,7 @@ export default function DialogueBlock({ gap }: { gap: Gap }) {
 
   return (
     <aside className="dialogue-block">
-      <h2>The conversation to have — with {COUNTERPARTIES[d.counterparty] ?? d.counterparty}</h2>
+      <h2>The conversation to have with {COUNTERPARTIES[d.counterparty] ?? d.counterparty}</h2>
       <dl className="dialogue-grid">
         <div>
           <dt>The ask</dt>
@@ -34,7 +34,7 @@ export default function DialogueBlock({ gap }: { gap: Gap }) {
       </div>
       <p className="act-note">
         Written for both sides of the table. If you work inside the institution named here, this page is the
-        agenda — we will bring the dossier.
+        agenda; we will bring the dossier.
       </p>
     </aside>
   );

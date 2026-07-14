@@ -2,7 +2,7 @@ import Link from "next/link";
 import watchlist from "@/data/watchlist.json";
 import { domainBySlug } from "@/lib/data";
 
-export const metadata = { title: "Watchlist — UK Gap Map" };
+export const metadata = { title: "Watchlist · UK Gap Map" };
 
 const items = [...watchlist].sort((a, b) => a.sort.localeCompare(b.sort));
 
@@ -21,7 +21,7 @@ export default function WatchlistPage() {
     <>
       <h1>Watchlist</h1>
       <p className="lede">
-        The dated events the gap inventory hangs on — bills, consultation deadlines, break clauses, commencement
+        The dated events the gap inventory hangs on: bills, consultation deadlines, break clauses, commencement
         dates. Each is the moment a gap either gets filled or hardens. Compiled July 2026; reviewed quarterly.
       </p>
 

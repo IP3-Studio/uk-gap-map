@@ -253,7 +253,7 @@ export default function Dashboard() {
                 <div className="meta">
                   <span className="num">№ {g.number}</span>
                   {typeof g.rank === "number" && (
-                    <span className="badge rank" title={g.rankNote ?? "Editorial urgency, 0–5 — see the methodology on the About page"}>
+                    <span className="badge rank" title={g.rankNote ?? "Editorial urgency, 0–5; see the methodology on the About page"}>
                       urgency {g.rank}
                     </span>
                   )}

@@ -12,7 +12,7 @@ const newsreader = Newsreader({ subsets: ["latin"], variable: "--font-serif", di
 export const metadata: Metadata = {
   title: "UK Gap Map",
   description:
-    "A map of concrete, fillable gaps in the UK's civic, economic and technological fabric — what is missing, what would fill it, and who is working on it.",
+    "A map of concrete, fillable gaps in the UK's civic, economic and technological fabric: what is missing, what would fill it, and who is working on it.",
 };
 
 // Applies a stored theme choice before first paint so neither mode flashes.
@@ -37,7 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </header>
         <div className="notice">
           <div className="container">
-            {gaps.length} candidate gaps, researched July 2026. A crude map, not a prioritisation — every entry
+            {gaps.length} candidate gaps, researched July 2026. A crude map, not a prioritisation; every entry
             carries a review-by date.
           </div>
         </div>

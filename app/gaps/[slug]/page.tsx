@@ -12,7 +12,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const gap = gapBySlug.get(slug);
-  return { title: gap ? `${gap.title} — UK Gap Map` : "UK Gap Map" };
+  return { title: gap ? `${gap.title} · UK Gap Map` : "UK Gap Map" };
 }
 
 export default async function GapPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -37,7 +37,7 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
       <div className="detail-meta">
         <span className="num">№ {gap.number}</span>
         {typeof gap.rank === "number" && (
-          <span className="badge rank" title="Editorial urgency, 0–5 — criteria on the About page">
+          <span className="badge rank" title="Editorial urgency, 0–5; criteria on the About page">
             urgency {gap.rank}
           </span>
         )}
@@ -80,7 +80,7 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
       <DialogueBlock gap={gap} />
 
       <details className="fold" open>
-        <summary>The dossier — what the research found (July 2026)</summary>
+        <summary>The dossier: what the research found (July 2026)</summary>
         <div className="fold-body">
           <h2>What is missing</h2>
           <p>{gap.description}</p>
@@ -96,12 +96,12 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
       {gap.mergedFrom && gap.mergedFrom.length > 0 && (
         <details className="fold">
           <summary>
-            One gap, several dossiers — entries folded into this one ({gap.mergedFrom.length})
+            One gap, several dossiers: entries folded into this one ({gap.mergedFrom.length})
           </summary>
           <div className="fold-body">
             <p>
               The research pass surfaced this gap independently in more than one domain. Those entries are
-              merged here so the map counts it once{gap.curationNote ? ` — ${gap.curationNote}` : "."}
+              merged here so the map counts it once{gap.curationNote ? `: ${gap.curationNote}` : "."}
             </p>
             {gap.mergedFrom.map((m) => (
               <div key={m.number} className="merged-entry">
@@ -178,7 +178,7 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
       )}
 
       <div className="provenance">
-        Candidate entry from the July 2026 research pass — not yet validated by practitioner interviews. Added{" "}
+        Candidate entry from the July 2026 research pass, not yet validated by practitioner interviews. Added{" "}
         {gap.provenance.added} · last verified {gap.provenance.lastVerified} · review by{" "}
         <strong>{gap.provenance.reviewBy}</strong>. Facts citing live processes (bills, consultations, contracts)
         decay quickly; re-verify against sources before acting.

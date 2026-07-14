@@ -9,7 +9,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const d = domainBySlug.get(slug);
-  return { title: d ? `${d.shortName} — UK Gap Map` : "UK Gap Map" };
+  return { title: d ? `${d.shortName} · UK Gap Map` : "UK Gap Map" };
 }
 
 export default async function DomainPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -101,12 +101,12 @@ export default async function DomainPage({ params }: { params: Promise<{ slug: s
       )}
 
       <details className="fold">
-        <summary>Who is already here — key actors ({d.actors.length})</summary>
+        <summary>Who is already here: key actors ({d.actors.length})</summary>
         <div className="fold-body">
           <ul className="actor-list">
             {d.actors.map((a) => (
               <li key={a.name}>
-                <strong>{a.name}</strong> <span className="type">({a.type})</span> — {a.note}
+                <strong>{a.name}</strong> <span className="type">({a.type})</span>: {a.note}
               </li>
             ))}
           </ul>

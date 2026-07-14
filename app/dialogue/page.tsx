@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { COUNTERPARTIES, gaps } from "@/lib/data";
 
-export const metadata = { title: "Dialogue — UK Gap Map" };
+export const metadata = { title: "Dialogue · UK Gap Map" };
 
 const REPO = "https://github.com/IP3-Studio/uk-gap-map";
 
@@ -15,13 +15,13 @@ export default function DialoguePage() {
     <div>
       <h1>An open dialogue with public institutions</h1>
       <p className="lede">
-        {briefs.length} of the gaps on this map need no new law — just a willing institution at the table. This
+        {briefs.length} of the gaps on this map need no new law, just a willing institution at the table. This
         page is our standing offer: for each one, what we’re asking, what we bring, what you gain, and a first
         step small enough to agree in one meeting. If you work inside one of these institutions, this is the
         agenda.
       </p>
       <p className="disclosure">
-        These are written for both sides of the table — the gain named for your institution is meant honestly,
+        These are written for both sides of the table: the gain named for your institution is meant honestly,
         and the first steps are deliberately pilot-sized, time-boxed and reversible. Every brief links to a full
         dossier with sources.
       </p>
@@ -53,7 +53,7 @@ export default function DialoguePage() {
 
       {briefs.length === 0 && (
         <div className="empty-state">
-          <p>The dialogue briefs are being written — check back shortly.</p>
+          <p>The dialogue briefs are being written. Check back shortly.</p>
         </div>
       )}
 
@@ -64,7 +64,7 @@ export default function DialoguePage() {
           repository
         </a>
         . Officials: name the gap number and we’ll bring the dossier and the people. Community groups: tell us
-        which institution you already have a relationship with — warm introductions move faster than cold
+        which institution you already have a relationship with; warm introductions move faster than cold
         letters. Nothing here requires anyone to commit beyond the first step.
       </p>
     </div>

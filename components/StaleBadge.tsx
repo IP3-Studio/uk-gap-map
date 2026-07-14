@@ -13,5 +13,5 @@ export default function StaleBadge({ reviewBy, compact }: { reviewBy: string; co
   }, [reviewBy]);
 
   if (!stale) return null;
-  return <span className="badge stale">{compact ? "stale" : "stale — past review date"}</span>;
+  return <span className="badge stale">{compact ? "stale" : "stale (past review date)"}</span>;
 }

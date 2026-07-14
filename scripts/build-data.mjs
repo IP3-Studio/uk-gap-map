@@ -278,6 +278,10 @@ const badSlug = gaps.find((g) => !/^[a-z0-9][a-z0-9-]*$/.test(g.slug));
 if (badSlug) throw new Error(`Malformed slug for gap ${badSlug.number}: "${badSlug.slug}"`);
 if (new Set(gaps.map((g) => g.slug)).size !== gaps.length) throw new Error("Duplicate slugs in output");
 
+// house style: no em-dashes anywhere in published content (July 2026 scrub)
+const emDashes = (JSON.stringify(gaps) + JSON.stringify(domains)).split("—").length - 1;
+if (emDashes) console.warn(`WARNING: ${emDashes} em-dashes in generated dataset — house style is none; fix the source layer`);
+
 writeFileSync(path.join(here, "../data/domains.json"), JSON.stringify(domains, null, 1));
 writeFileSync(path.join(here, "../data/gaps.json"), JSON.stringify(gaps, null, 1));
 writeFileSync(path.join(here, "../data/aliases.json"), JSON.stringify(aliases, null, 1));

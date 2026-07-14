@@ -39,7 +39,7 @@
   "number": 7,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: statutory have-regard duty plus Lobbying Act Part 2 reform — primary legislation."
+  "note": "Instrument: statutory have-regard duty plus Lobbying Act Part 2 reform; primary legislation."
  },
  {
   "number": 8,
@@ -129,7 +129,7 @@
   "number": 22,
   "permission": "build-together",
   "data_ready": false,
-  "note": "Counterparty: NCSC/DSIT commission plus departmental and CNI SBOM access — privileged data outsiders cannot scrape."
+  "note": "Counterparty: NCSC/DSIT commission plus departmental and CNI SBOM access; privileged data outsiders cannot scrape."
  },
  {
   "number": 23,
@@ -327,7 +327,7 @@
   "number": 55,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: fiscal devolution statute — TIF, land value capture, visitor levy, assigned tax shares."
+  "note": "Instrument: fiscal devolution statute (TIF, land value capture, visitor levy, assigned tax shares)."
  },
  {
   "number": 56,
@@ -483,7 +483,7 @@
   "number": 81,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: digital ID legislation after the 2026 consultation — statutory regulator, ombudsman scheme, mandatory certification, offline-alternative right."
+  "note": "Instrument: digital ID legislation after the 2026 consultation (statutory regulator, ombudsman scheme, mandatory certification, offline-alternative right)."
  },
  {
   "number": 82,
@@ -525,7 +525,7 @@
   "number": 88,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: party-finance amendments or successor bill — donation caps, source-of-funds tests, electoral-crime investigation capability."
+  "note": "Instrument: party-finance amendments or successor bill (donation caps, source-of-funds tests, electoral-crime investigation capability)."
  },
  {
   "number": 89,
@@ -639,7 +639,7 @@
   "number": 107,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: DSIT-sponsored, UKRI-administered maintenance-contract fund — a government spending decision outsiders cannot ship."
+  "note": "Instrument: DSIT-sponsored, UKRI-administered maintenance-contract fund; a government spending decision outsiders cannot ship."
  },
  {
   "number": 108,
@@ -855,7 +855,7 @@
   "number": 143,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: DSIT-sponsored Sovereign Tech Fund housed in UKRI or ARIA-adjacent — a government spending decision per the UK Day One blueprint."
+  "note": "Instrument: DSIT-sponsored Sovereign Tech Fund housed in UKRI or ARIA-adjacent; a government spending decision per the UK Day One blueprint."
  },
  {
   "number": 144,
@@ -879,7 +879,7 @@
   "number": 147,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: Treasury-backed £100m match fund plus Gift Aid reform — statutory funding via the Office for the Impact Economy."
+  "note": "Instrument: Treasury-backed £100m match fund plus Gift Aid reform; statutory funding via the Office for the Impact Economy."
  },
  {
   "number": 148,
@@ -897,13 +897,13 @@
   "number": 150,
   "permission": "build-together",
   "data_ready": true,
-  "note": "Counterparty: Cabinet Office Evaluation Task Force plus foundations co-capitalising a ten-year facility — no legislation, but needs government at the table."
+  "note": "Counterparty: Cabinet Office Evaluation Task Force plus foundations co-capitalising a ten-year facility; no legislation, but needs government at the table."
  },
  {
   "number": 151,
   "permission": "build-now",
   "data_ready": true,
-  "note": "First artefact: Civic Power Fund scaled via foundation/HNW commitments plus an organiser training institute — pooled philanthropy, no institutional gatekeeper."
+  "note": "First artefact: Civic Power Fund scaled via foundation/HNW commitments plus an organiser training institute; pooled philanthropy, no institutional gatekeeper."
  },
  {
   "number": 152,
@@ -933,7 +933,7 @@
   "number": 156,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: DSIT arm's-length Sovereign Tech Fund on Germany's commissioning model — a government spending decision."
+  "note": "Instrument: DSIT arm's-length Sovereign Tech Fund on Germany's commissioning model; a government spending decision."
  },
  {
   "number": 157,
@@ -951,7 +951,7 @@
   "number": 159,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: DUAA follow-on legislation or binding Information Commission policy — only Parliament or the regulator can create sanctions with teeth."
+  "note": "Instrument: DUAA follow-on legislation or binding Information Commission policy; only Parliament or the regulator can create sanctions with teeth."
  },
  {
   "number": 160,
@@ -963,13 +963,13 @@
   "number": 161,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: Statutory Instruments Act plus standing post-legislative scrutiny committee — Parliament and government must change their own procedures."
+  "note": "Instrument: Statutory Instruments Act plus standing post-legislative scrutiny committee; Parliament and government must change their own procedures."
  },
  {
   "number": 162,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: Cabinet Office turnover/tenure targets in outcome delivery plans with permanent-secretary accountability — internal government machinery only."
+  "note": "Instrument: Cabinet Office turnover/tenure targets in outcome delivery plans with permanent-secretary accountability; internal government machinery only."
  },
  {
   "number": 163,
@@ -981,7 +981,7 @@
   "number": 164,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: MHCLG/HMT fiscal devolution framework — integrated-settlements timetable, business-rates reform, Barnett review."
+  "note": "Instrument: MHCLG/HMT fiscal devolution framework (integrated-settlements timetable, business-rates reform, Barnett review)."
  },
  {
   "number": 165,
@@ -999,7 +999,7 @@
   "number": 167,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: DHSC/MHCLG delivery unit established administratively plus 2027 Spending Review bridging fund — a government decision outsiders cannot ship."
+  "note": "Instrument: DHSC/MHCLG delivery unit established administratively plus 2027 Spending Review bridging fund; a government decision outsiders cannot ship."
  },
  {
   "number": 168,
@@ -1011,7 +1011,7 @@
   "number": 169,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: ring-fenced grant or statutory fee-rate floor agreed at the 2027 Spending Review — HM Treasury capital."
+  "note": "Instrument: ring-fenced grant or statutory fee-rate floor agreed at the 2027 Spending Review; HM Treasury capital."
  },
  {
   "number": 170,
@@ -1035,7 +1035,7 @@
   "number": 173,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: legislated successor to the 2006 UDA contract with dated milestones — a DHSC-owned reform programme."
+  "note": "Instrument: legislated successor to the 2006 UDA contract with dated milestones; a DHSC-owned reform programme."
  },
  {
   "number": 174,
@@ -1059,7 +1059,7 @@
   "number": 177,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: DHSC-commissioned ONS official statistics series — official status is the gap; unofficial charity estimates already exist and fall short."
+  "note": "Instrument: DHSC-commissioned ONS official statistics series. Official status is the gap; unofficial charity estimates already exist and fall short."
  },
  {
   "number": 178,
@@ -1071,7 +1071,7 @@
   "number": 179,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: short Litigation Funding (Enforceability and Regulation) Bill; only primary legislation reverses PACCAR — outcomes monitor is an adjunct."
+  "note": "Instrument: short Litigation Funding (Enforceability and Regulation) Bill; only primary legislation reverses PACCAR. The outcomes monitor is an adjunct."
  },
  {
   "number": 180,
@@ -1107,7 +1107,7 @@
   "number": 185,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: Criminal Appeals Act implementing the Law Commission package — reformed referral test, independent inspectorate, statutory safeguards."
+  "note": "Instrument: Criminal Appeals Act implementing the Law Commission package (reformed referral test, independent inspectorate, statutory safeguards)."
  },
  {
   "number": 186,
@@ -1119,7 +1119,7 @@
   "number": 187,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: resentencing legislation — Woodley bill given government time or amendments to the next criminal justice bill."
+  "note": "Instrument: resentencing legislation; Woodley bill given government time or amendments to the next criminal justice bill."
  },
  {
   "number": 188,
@@ -1221,7 +1221,7 @@
   "number": 204,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: government stockpile strategy plus DHSC-funded BARDA-style warm-base manufacturing — spending-review decisions outsiders cannot ship."
+  "note": "Instrument: government stockpile strategy plus DHSC-funded BARDA-style warm-base manufacturing; spending-review decisions outsiders cannot ship."
  },
  {
   "number": 205,
@@ -1245,7 +1245,7 @@
   "number": 208,
   "permission": "state-led",
   "data_ready": false,
-  "note": "Instrument: commencement order for FWMA 2010 Schedule 3 plus Environment Agency empowerment — purely a government decision."
+  "note": "Instrument: commencement order for FWMA 2010 Schedule 3 plus Environment Agency empowerment; purely a government decision."
  },
  {
   "number": 209,
@@ -1299,7 +1299,7 @@
   "number": 217,
   "permission": "build-now",
   "data_ready": true,
-  "note": "First artefact: Exit Friction Index v1 — the fill itself calls it shippable by a small team within a year."
+  "note": "First artefact: Exit Friction Index v1; the fill itself calls it shippable by a small team within a year."
  },
  {
   "number": 218,

@@ -81,7 +81,7 @@ export const HORIZONS = [
 export const horizonLabel = (h: string) => HORIZONS.find((x) => x.key === h)?.label ?? h;
 
 export const PERMISSIONS = [
-  { key: "build-now", label: "Build now", blurb: "no permission needed — start this week" },
+  { key: "build-now", label: "Build now", blurb: "no permission needed; start this week" },
   { key: "build-together", label: "Build together", blurb: "needs a willing institution at the table" },
   { key: "state-led", label: "State-led", blurb: "needs legislation or a government decision" },
 ] as const;

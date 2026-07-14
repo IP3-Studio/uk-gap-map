@@ -44,7 +44,7 @@ export default function TerritoryChart() {
                     href={`/?domains=${r.slug}&permission=${s.key}`}
                     className={`t-seg ${s.key}`}
                     style={{ flexGrow: r.counts[s.key] }}
-                    title={`${r.shortName}: ${r.counts[s.key]} ${s.label.toLowerCase()} — click to browse`}
+                    title={`${r.shortName}: ${r.counts[s.key]} ${s.label.toLowerCase()} (click to browse)`}
                   />
                 )
             )}

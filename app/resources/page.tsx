@@ -1,6 +1,6 @@
 import resourcesJson from "@/data/resources.json";
 
-export const metadata = { title: "Resources — UK Gap Map" };
+export const metadata = { title: "Resources · UK Gap Map" };
 
 type Entry = {
   name: string;
@@ -22,7 +22,7 @@ const SECTIONS: Record<string, { title: string; line: string }> = {
   },
   "p2p-foundations": {
     title: "Peer-to-peer foundations",
-    line: "The networking layer underneath everything else — routing, anonymity, going off-grid.",
+    line: "The networking layer underneath everything else: routing, anonymity, going off-grid.",
   },
   "storage-local-first": {
     title: "Storage & local-first",
@@ -40,12 +40,16 @@ const SECTIONS: Record<string, { title: string; line: string }> = {
     title: "Identity, money & coordination",
     line: "The rails for proving, paying and organising without a central gatekeeper.",
   },
+  "personal-privacy": {
+    title: "Personal privacy",
+    line: "The end-user layer: phones, browsers, search, passwords and files that answer to you, not to an ad platform.",
+  },
 };
 
 const MATURITY: Record<string, string> = {
   production: "rely on it today",
   usable: "works, rough edges",
-  early: "watch or contribute — don't depend yet",
+  early: "watch or contribute; don't depend yet",
 };
 
 const categories = (resourcesJson as { categories: Category[] }).categories;
@@ -56,14 +60,14 @@ export default function ResourcesPage() {
       <h1>Stacks you can build on today</h1>
       <p className="lede">
         Open-source infrastructure for founders and communities who would rather not run their lives through US
-        platforms and US compute. Everything here is free software you can inspect, fork and self-host — rated
+        platforms and US compute. Everything here is free software you can inspect, fork and self-host, rated
         honestly by what it can do <em>today</em>, not what its roadmap promises.
       </p>
       <p className="disclosure">Check the maturity badge before you depend on anything.</p>
 
       {categories.length === 0 && (
         <div className="empty-state">
-          <p>The catalogue is being verified — check back shortly.</p>
+          <p>The catalogue is being verified. Check back shortly.</p>
         </div>
       )}
 
@@ -104,10 +108,10 @@ export default function ResourcesPage() {
 
       <h2>How to read the maturity badges</h2>
       <p className="prose-width">
-        <strong>production</strong> — widely deployed; you can rely on it today. <strong>usable</strong> — it
-        works, with rough edges or a smaller track record; fine for the adventurous. <strong>early</strong> —
+        <strong>production</strong>: widely deployed; you can rely on it today. <strong>usable</strong>: it
+        works, with rough edges or a smaller track record; fine for the adventurous. <strong>early</strong>:
         testnet, pre-production or research-grade; watch it, contribute to it, don’t build your community’s
-        lifeline on it yet. Nothing here is a recommendation to ignore your own threat model — and every entry
+        lifeline on it yet. Nothing here is a recommendation to ignore your own threat model, and every entry
         still involves trusting someone: maintainers, hosts, or yourself.
       </p>
     </div>

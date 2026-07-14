@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { gaps } from "@/lib/data";
 
-export const metadata = { title: "Act — UK Gap Map" };
+export const metadata = { title: "Act · UK Gap Map" };
 
 const REPO = "https://github.com/IP3-Studio/uk-gap-map";
 // Contact currently routes through the public repository; swap for an email/form when one exists.
@@ -18,7 +18,7 @@ export default function ActPage() {
       <h1>The map is a to-do list</h1>
       <p className="lede">
         Every entry on this map names something buildable, fundable or decidable. Nothing here requires
-        permission you don’t have. Pick a gap that matches what you can do, and start — or find the people who
+        permission you don’t have. Pick a gap that matches what you can do and start, or find the people who
         already have.
       </p>
 
@@ -29,7 +29,7 @@ export default function ActPage() {
             <Link href="/?permission=build-now">Build now · {perm("build-now")}</Link>
           </h2>
           <p>
-            No permission needed. A competent team could start any of these this week — and for{" "}
+            No permission needed. A competent team could start any of these this week, and for{" "}
             {dataReadyNow} of them the data is already available or sourceable. Don’t ask; ship, then show.
           </p>
         </div>
@@ -38,7 +38,7 @@ export default function ActPage() {
             <Link href="/?permission=build-together">Build together · {perm("build-together")}</Link>
           </h2>
           <p>
-            No new law needed — these need a willing council, NHS body, union or regulator at the table. The{" "}
+            No new law needed: these need a willing council, NHS body, union or regulator at the table. The{" "}
             <Link href="/dialogue/">dialogue page</Link> is our standing offer to public institutions: the ask,
             what we bring, what you gain, and a first step per gap.
           </p>
@@ -48,7 +48,7 @@ export default function ActPage() {
             <Link href="/?permission=state-led">State-led · {perm("state-led")}</Link>
           </h2>
           <p>
-            Only the state can ship these — but pressure, prototypes and evidence are permissionless, and many
+            Only the state can ship these, but pressure, prototypes and evidence are permissionless, and many
             reduce to a commencement order someone has to keep asking for.
           </p>
         </div>
@@ -67,7 +67,7 @@ export default function ActPage() {
               <Link href="/?types=institutional,tooling">Browse buildable gaps</Link>
             </li>
             <li>
-              Start small: an observatory, a register, a template library — several entries are shippable by a
+              Start small: an observatory, a register, a template library. Several entries are shippable by a
               tiny team.
             </li>
             <li>
@@ -79,7 +79,7 @@ export default function ActPage() {
         <div className="audience-card">
           <h2>Funders</h2>
           <p>
-            {count("funding")} gaps are missing funding instruments — many are pooled vehicles no single funder
+            {count("funding")} gaps are missing funding instruments; many are pooled vehicles no single funder
             could build alone, sized £1m–£50m.
           </p>
           <ul>
@@ -87,7 +87,7 @@ export default function ActPage() {
               <Link href="/?types=funding">Browse funding gaps</Link>
             </li>
             <li>
-              The recurring ask is patient, 5–10 year core funding — not another grant round.
+              The recurring ask is patient, 5–10 year core funding, not another grant round.
             </li>
             <li>
               <a href={mail("UK Gap Map: funder conversation")}>Talk to us about co-funding</a>.
@@ -123,7 +123,7 @@ export default function ActPage() {
               <Link href="/?types=policy">Browse policy gaps</Link>
             </li>
             <li>
-              Check the <Link href="/watchlist/">watchlist</Link> for the live windows — consultations, break
+              Check the <Link href="/watchlist/">watchlist</Link> for the live windows: consultations, break
               clauses, bills in passage.
             </li>
             <li>
@@ -152,7 +152,7 @@ export default function ActPage() {
           <p>Sovereignty starts with defaults you control.</p>
           <ul>
             <li>
-              Move one group chat, one backup, one login to infrastructure you control — the{" "}
+              Move one group chat, one backup, one login to infrastructure you control; the{" "}
               <Link href="/resources/">resource hub</Link> lists what works today.
             </li>
             <li>
@@ -163,7 +163,7 @@ export default function ActPage() {
               .
             </li>
             <li>
-              <a href={mail("UK Gap Map: count me in")}>Leave your contact</a> — we’ll match you to a gap.
+              <a href={mail("UK Gap Map: count me in")}>Leave your contact</a> and we’ll match you to a gap.
             </li>
           </ul>
         </div>
@@ -172,18 +172,18 @@ export default function ActPage() {
       <h2>How we think about action</h2>
       <p>
         The doctrine behind this page comes from <em>Farewell to Westphalia</em> (Hope &amp; Ludlow, 2025), whose
-        conclusion is blunt: the binding constraint on better governance is not technology but participation —
-        “simply by participating… one can put one’s hand on the tiller.” Three working rules follow:
+        conclusion is blunt: the binding constraint on better governance is not technology but participation,
+        because “simply by participating… one can put one’s hand on the tiller.” Three working rules follow:
       </p>
       <ul>
         <li>
           <strong>Build, don’t only petition.</strong> Where a gap is buildable, the fastest fix is a working
-          demonstration. Where it is a policy gap, the ask is usually embarrassingly small — commence the law,
-          fund the register — and a working demonstration strengthens the ask.
+          demonstration. Where it is a policy gap, the ask is usually embarrassingly small (commence the law,
+          fund the register), and a working demonstration strengthens the ask.
         </li>
         <li>
           <strong>Expand a mission before founding an institution.</strong> The cheapest route to filling a gap
-          is usually an existing community — a union branch, a co-op, a congregation, a professional network —
+          is usually an existing community (a union branch, a co-op, a congregation, a professional network)
           adopting it, not a new organisation incorporating from zero.
         </li>
         <li>
@@ -195,7 +195,7 @@ export default function ActPage() {
       <p>
         And three tests for anything you build, from the same source: does it <strong>minimise distrust</strong>{" "}
         (no unaccountable centre to take on faith)? Does it enable <strong>self-determination</strong>? Does it
-        provide <strong>safe exit</strong> — can people leave with their assets and standing at bearable cost?
+        provide <strong>safe exit</strong>: can people leave with their assets and standing at bearable cost?
         See the full application of the book to this map in the{" "}
         <a href="/about/">about page</a>.
       </p>
