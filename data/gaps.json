@@ -47,7 +47,9 @@
     "fill": "A standing revolving community-asset acquisition facility (£100m+, blending dormant assets, social investment and philanthropy) with development support timed to the moratorium window, deliverable through Access, Big Society Capital-type intermediaries or the Community Wealth Fund architecture."
    }
   ],
-  "curationNote": "the same standing acquisition fund inside the statutory moratorium window, surfaced by both the civic and parallel-institutions dossiers."
+  "curationNote": "the same standing acquisition fund inside the statutory moratorium window, surfaced by both the civic and parallel-institutions dossiers.",
+  "rank": 5,
+  "rankNote": "The 2026 Act's first-refusal right is live now but government declined to replace the closed ownership fund, so communities lose assets within fixed moratorium windows they cannot finance."
  },
  {
   "number": 2,
@@ -74,7 +76,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: regulations under the 2026 Devolution and Community Empowerment Act or a successor Community Power Act.",
   "tagline": "Residents can buy the pub. They still can't touch the services or the spending.",
-  "summary": "Campaigners wanted community rights over assets, services and investment; the new devolution law delivered only the first. Neighbourhood boards will soon control up to £20m each while residents hold no enforceable say over the services and spending that shape their lives. Regulations with real teeth could finish the job."
+  "summary": "Campaigners wanted community rights over assets, services and investment; the new devolution law delivered only the first. Neighbourhood boards will soon control up to £20m each while residents hold no enforceable say over the services and spending that shape their lives. Regulations with real teeth could finish the job.",
+  "rank": 2,
+  "rankNote": "Completing the rights framework needs only regulations under the live 2026 Act, but advocacy is under-resourced and the neighbourhood governance duty's parameters remain undefined, with no acute deadline."
  },
  {
   "number": 3,
@@ -126,7 +130,9 @@
     "title": "No charitable pathway or endowment for investigative journalism",
     "domain": "corruption-integrity"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "Local accountability collapses as devolution scales up; the live BBC Charter review now decides the reporting service's fate, and no independent at-scale financing fills the news deserts."
  },
  {
   "number": 4,
@@ -169,7 +175,9 @@
     "title": "No core-funding backstop for evidence infrastructure (What Works Centres)",
     "domain": "civic-society"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Government is spending billions on neighbourhood renewal with no institution to say what works, while a decade of loneliness evidence orphaned by recent closures fragments and needs a home now."
  },
  {
   "number": 5,
@@ -204,7 +212,9 @@
    "weBring": "A working open-data prototype built on existing indices, methodology from the Bennett Institute measurement programme, partner analysts at OCSI and Onward, and volunteers to ground-truth the register locally.",
    "theyGain": "A new official series at low development cost: the hard prototype work done outside, clear demand from government programmes needing baselines, and a visible answer to a recognised gap in national statistics.",
    "firstStep": "A 90-day joint feasibility review of the prototype against official-statistics standards, published as a methodology note, with no commitment to badge anything beyond that."
-  }
+  },
+  "rank": 0,
+  "rankNote": "Billions in neighbourhood funding are allocated using ad hoc, non-official indices, but the fix is a standard statistical product with no dated trigger, so it can progress opportunistically."
  },
  {
   "number": 6,
@@ -232,7 +242,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: foundation-funded academy cohort inheriting Local Trust's Community Leadership Academy curriculum and Big Local evidence base.",
   "tagline": "Hundreds of resident boards are about to spend millions. Who teaches them how?",
-  "summary": "Resident boards in 379 deprived neighbourhoods are about to start spending serious regeneration money, just as the organisations that trained community leaders wind down. Inexperienced boards are the likeliest failure point of a £5bn programme. A national academy for neighbourhood leadership could inherit the training that made Big Local work."
+  "summary": "Resident boards in 379 deprived neighbourhoods are about to start spending serious regeneration money, just as the organisations that trained community leaders wind down. Inexperienced boards are the likeliest failure point of a £5bn programme. A national academy for neighbourhood leadership could inherit the training that made Big Local work.",
+  "rank": 4,
+  "rankNote": "Some 379 boards already spend up to £20m each while the institution that trained resident leaders winds down this year, leaving a £5bn programme's likeliest failure point unsupported."
  },
  {
   "number": 7,
@@ -261,7 +273,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory have-regard duty plus Lobbying Act Part 2 reform; primary legislation.",
   "tagline": "Government signed a covenant with charities. Break it, and nothing happens.",
-  "summary": "The Civil Society Covenant promises partnership between the state and charities, but no one adjudicates when a public body breaks it, and lobbying rules still chill charity campaigning. Watchdogs rate UK civic space as obstructed. A statutory duty, an independent referee and reformed campaigning law would give the promise force."
+  "summary": "The Civil Society Covenant promises partnership between the state and charities, but no one adjudicates when a public body breaks it, and lobbying rules still chill charity campaigning. Watchdogs rate UK civic space as obstructed. A statutory duty, an independent referee and reformed campaigning law would give the promise force.",
+  "rank": 0,
+  "rankNote": "Reform means primary legislation the government has already rejected, so despite chilling advocacy law the flagship covenant stays exhortatory; the fight is hard with no dated trigger forcing action."
  },
  {
   "number": 8,
@@ -313,7 +327,9 @@
     "title": "No UK Sovereign Tech Fund for maintaining critical open source infrastructure",
     "domain": "open-source-public-goods"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "Civic services used by millions run on organisations perpetually one grant from shutdown; the Sovereign Tech Fund model is proven and unfunded here, but no date forces action now."
  },
  {
   "number": 9,
@@ -356,7 +372,9 @@
     "title": "Nothing replaced NCS's universal civic rite of passage",
     "domain": "youth-mobilisation"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "A decade-long volunteering decline underpins every other civic gap, and the state closed its only youth civic-service programme without replacement; the fix is achievable but faces no single closing deadline."
  },
  {
   "number": 10,
@@ -390,7 +408,9 @@
    "weBring": "Rescue expertise from the community pub and shop movement, draft transfer templates from completed conversions, co-funding routes through heritage charities, and community groups with business plans already waiting for space.",
    "theyGain": "An orderly route out of buildings they can no longer maintain: lower disposal and insurance costs, heritage duties met, and neighbourhoods that remember the church kindly rather than fighting the sale.",
    "firstStep": "A twelve-month pilot in one diocese: three closing buildings taken through a templated transfer with small feasibility grants, jointly reviewed before anything is standardised nationally."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Thousands of central heritage-grade civic buildings will change hands irreversibly, accelerated by the March 2026 VAT-scheme closure, yet no standardised transfer route to community ownership exists."
  },
  {
   "number": 11,
@@ -433,7 +453,9 @@
     "fill": "A Treasury-backed national philanthropy match fund (£100m+ over a parliament) matching private donations into place-based endowments stewarded by community foundations, administered via the Office for the Impact Economy, plus Gift Aid reform options for redirecting higher-rate relief."
    }
   ],
-  "curationNote": "both fills are the same Treasury/dormant-assets national match into place-based endowments plus Gift Aid reform."
+  "curationNote": "both fills are the same Treasury/dormant-assets national match into place-based endowments plus Gift Aid reform.",
+  "rank": 0,
+  "rankNote": "The London funding skew needs patient endowed capital, but the fix is a long-horizon match challenge with no dated trigger, so it can be pursued opportunistically."
  },
  {
   "number": 12,
@@ -475,7 +497,9 @@
     "fill": "Scale the Civic Power Fund to £10m+/yr through foundation and high-net-worth commitments, funding multi-year organiser salaries, plus a national organiser training institute: the workforce pipeline the field currently lacks."
    }
   ],
-  "curationNote": "the same pooled core-funding vehicle for community organising; the 0.3%-of-grantmaking statistic is its headline evidence."
+  "curationNote": "the same pooled core-funding vehicle for community organising; the 0.3%-of-grantmaking statistic is its headline evidence.",
+  "rank": 0,
+  "rankNote": "Organising rebuilds associational power among the least-reached, yet the field cannot plan past eighteen months; a pooled fund is achievable but faces no acute deadline forcing action now."
  },
  {
   "number": 13,
@@ -553,7 +577,9 @@
     "title": "No public funder for PETs deployment or privacy infrastructure maintenance",
     "domain": "privacy"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "A fully costed, Germany-proven delivery model sits unfunded while national infrastructure free-rides on unpaid maintainers, and OpenUK's 2025 UKRI recommendations open a live decision moment."
  },
  {
   "number": 14,
@@ -580,7 +606,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: machinery-of-government decision creating a GDS/DSIT OSPO with audit mandate.",
   "tagline": "Britain wrote the open-code playbook, then forgot to appoint anyone to run it.",
-  "summary": "Government code is meant to be open by default, but nobody audits whether departments publish it: the NHS's open source policy lapsed and its pages were quietly deleted. France and Germany run dedicated offices for this. A British equivalent could audit compliance, catalogue reusable code and give fourteen years of good intentions an owner."
+  "summary": "Government code is meant to be open by default, but nobody audits whether departments publish it: the NHS's open source policy lapsed and its pages were quietly deleted. France and Germany run dedicated offices for this. A British equivalent could audit compliance, catalogue reusable code and give fourteen years of good intentions an owner.",
+  "rank": 1,
+  "rankNote": "Policy without an accountable owner evaporates, as December 2025's silent NHS lapse showed; the EC/ZenDiS instrument is proven but nobody is mandated to run it here."
  },
  {
   "number": 15,
@@ -613,7 +641,9 @@
    "weBring": "Technical reviewers to run security and maintainability assessments at no cost to government, evidence from LocalGov Drupal's documented savings, and councils willing to be first users of assured products.",
    "theyGain": "The consultation becomes a delivered service without new budget: pooled reviews replace hundreds of duplicated local checks, and every adoption banks savings (up to £90,000 per council website) worth reporting upward.",
    "firstStep": "A 120-day pilot: evaluate three open source products against the seven draft criteria with volunteer reviewers, publish the results openly, and gather council feedback before deciding anything about a permanent service."
-  }
+  },
+  "rank": 2,
+  "rankNote": "A live GDS Local consultation on evaluation criteria could become a funded kite-mark unlocking 30-50% council savings, but it stays early-stage, unfunded, and duplicated department by department."
  },
  {
   "number": 16,
@@ -640,7 +670,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Ofcom PAF review, government acquisition, or National Data Library register; AddressBase licensing blocks outside builds.",
   "tagline": "Royal Mail owns the country's address list. Everyone else rents their own geography back.",
-  "summary": "The national address file went private with Royal Mail, so every delivery firm, emergency service and council pays layered licence fees to look up the country's own geography. Denmark, France and the Netherlands opened theirs and counted the economic gains. Britain could buy the file back or build an open register from councils' source data."
+  "summary": "The national address file went private with Royal Mail, so every delivery firm, emergency service and council pays layered licence fees to look up the country's own geography. Denmark, France and the Netherlands opened theirs and counted the economic gains. Britain could buy the file back or build an open register from councils' source data.",
+  "rank": 3,
+  "rankNote": "National drag on every delivery firm and emergency service is high, but Royal Mail's 2025 court win and licensing lock make acquisition or mandated opening a slow, contested lift."
  },
  {
   "number": 17,
@@ -667,7 +699,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Cabinet Office functional standard or statutory duty within the National Data Library.",
   "tagline": "A quarter of links on the government's own data site lead nowhere.",
-  "summary": "Nobody in government is required to keep the country's reference data (lists of schools, councils, countries) up to date, and the official data portal admits over a quarter of its links are broken. Every service built on rotting data inherits its errors. Named owners, update deadlines and public quality dashboards would fix the incentive."
+  "summary": "Nobody in government is required to keep the country's reference data (lists of schools, councils, countries) up to date, and the official data portal admits over a quarter of its links are broken. Every service built on rotting data inherits its errors. Named owners, update deadlines and public quality dashboards would fix the incentive.",
+  "rank": 2,
+  "rankNote": "The £100m National Data Library is being reset now, creating a moment to attach maintenance duties, but keeping canonical datasets current is currently nobody's statutory job."
  },
  {
   "number": 18,
@@ -702,7 +736,9 @@
     "title": "No public funder for PETs deployment or privacy infrastructure maintenance",
     "domain": "privacy"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Both the EU cascade-grant spigot and UK philanthropy have just closed, leaving small public-interest tooling with no domestic funder; the NLnet model is proven and cheap to host."
  },
  {
   "number": 19,
@@ -729,7 +765,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: permanent UKRI Digital Research Infrastructure budget line converting the RSMF pilot.",
   "tagline": "British science runs on software funded to be born, never to be kept alive.",
-  "summary": "The UK's first fund for maintaining research software proved the demand, then hit its expiry date: it is a pilot, not a budget line. Thousands of scientific packages decay on volunteer time while grants reward only novelty. A permanent maintenance stream costing about one per cent of production spend would protect the rest."
+  "summary": "The UK's first fund for maintaining research software proved the demand, then hit its expiry date: it is a pilot, not a budget line. Thousands of scientific packages decay on volunteer time while grants reward only novelty. A permanent maintenance stream costing about one per cent of production spend would protect the rest.",
+  "rank": 2,
+  "rankNote": "A working pilot has proven demand, so making the stream recurring is a budget decision to progress opportunistically against a future spending period rather than an acute emergency."
  },
  {
   "number": 20,
@@ -756,7 +794,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: trust-seeded nonprofit running the open-sourced Notify/Forms codebases for charities (Open Digital Cooperative model).",
   "tagline": "Government built the tools, published the code, then locked charities out anyway.",
-  "summary": "GOV.UK Notify sends messages for over 1,500 public services, but charities, hospices and housing associations are barred from it, so they re-buy the same infrastructure at retail prices with donated money. The code is open and already running. Extending access, or chartering a nonprofit to run it for civil society, is among the cheapest transfers available."
+  "summary": "GOV.UK Notify sends messages for over 1,500 public services, but charities, hospices and housing associations are barred from it, so they re-buy the same infrastructure at retail prices with donated money. The code is open and already running. Extending access, or chartering a nonprofit to run it for civil society, is among the cheapest transfers available.",
+  "rank": 2,
+  "rankNote": "The software is already written, open-sourced and running, but stakes are sector-bounded and no dated trigger forces the institutional exclusion to be resolved this year."
  },
  {
   "number": 21,
@@ -790,7 +830,9 @@
    "weBring": "Draft procurement clauses modelled on the deleted policy and its German and French equivalents, security review capacity to answer the AI-risk concerns directly, and clinical-technical expertise from the open letter's 74 signatories.",
    "theyGain": "Negotiating power with record-system vendors, code reused across 200-plus trusts instead of bought repeatedly, and a defensible security position tested in practice rather than a blanket closed-by-default stance.",
    "firstStep": "One trust or care board applies open-code conditions to a single non-critical procurement over six months, with the security case documented and reviewed jointly before anyone talks about national policy."
-  }
+  },
+  "rank": 4,
+  "rankNote": "EPR lock-in completes this year while NHS England just went default-closed and deleted its policy, so the window to keep clinically critical code open is closing now."
  },
  {
   "number": 22,
@@ -838,7 +880,9 @@
     "title": "No one checks whether the state could ever leave its biggest software suppliers",
     "domain": "corruption-integrity"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Cheap, deliverable within a year on existing tooling, and entirely unowned, this evidence base is the analytic precondition for targeting any maintenance fund or NCSC prioritisation."
  },
  {
   "number": 23,
@@ -865,7 +909,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Procurement Policy Note under the Procurement Act 2023 (Cabinet Office).",
   "tagline": "'Consider open source' has been the rule since 2012. Nobody ever checked the homework.",
-  "summary": "Procurement rules have told officials to consider open source for over a decade, but nothing requires them to record the comparison or score openness, so proprietary contracts roll over by default. That habit shapes over £20bn of public technology spending. An auditable procurement note plus training for buyers would finally give the policy teeth."
+  "summary": "Procurement rules have told officials to consider open source for over a decade, but nothing requires them to record the comparison or score openness, so proprietary contracts roll over by default. That habit shapes over £20bn of public technology spending. An auditable procurement note plus training for buyers would finally give the policy teeth.",
+  "rank": 4,
+  "rankNote": "An off-the-shelf Procurement Policy Note could make openness auditable across £20bn+ of spend as the Procurement Act beds in, yet fourteen years of guidance has shifted almost nothing."
  },
  {
   "number": 24,
@@ -892,7 +938,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: plain-English CRA guidance plus philanthropic tooling grants; statutory UK steward concept is the later end-state.",
   "tagline": "New EU cyber rules bind UK open source maintainers. Nobody here helps them comply.",
-  "summary": "Europe's Cyber Resilience Act imposes security obligations on anyone whose software reaches the EU market; Brexit does not exempt British maintainers, and the UK hosts Europe's largest contributor base. Left alone, projects may wall off Europe or quit maintaining altogether. Plain-English guidance and small compliance grants would keep British code on the continent."
+  "summary": "Europe's Cyber Resilience Act imposes security obligations on anyone whose software reaches the EU market; Brexit does not exempt British maintainers, and the UK hosts Europe's largest contributor base. Left alone, projects may wall off Europe or quit maintaining altogether. Plain-English guidance and small compliance grants would keep British code on the continent.",
+  "rank": 3,
+  "rankNote": "CRA obligations phase in through 2026-27 with no UK-facing help, so leaving compliance to individual maintainers risks EU geofencing or relocation during a live legislative window."
  },
  {
   "number": 25,
@@ -927,7 +975,9 @@
     "title": "Youth voice has no statutory footing in English policymaking",
     "domain": "youth-mobilisation"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "A 76-year-old institution vanished overnight and no independent successor holds its federating and international functions, leaving youth voice at government's contract-cycle discretion just as 16-year-olds gain the vote."
  },
  {
   "number": 26,
@@ -970,7 +1020,9 @@
     "title": "No nonpartisan youth voter mobilisation infrastructure sized for the first votes-at-16 election",
     "domain": "youth-mobilisation"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "Enfranchisement is legislating now but a fifth of schools teach no citizenship and the strengthened curriculum lands only in 2027, risking a botched habit-forming first cycle."
  },
  {
   "number": 27,
@@ -997,7 +1049,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory schools duty and automatic attainer registration via amendment or secondary legislation.",
   "tagline": "Welsh pilots added 16,000 voters. England has no registration plan of its own.",
-  "summary": "Around eight million eligible voters are missing from the register, with young people and renters worst affected. Teenagers already give the state their details when National Insurance numbers arrive; nobody uses that to put them on the roll. A schools registration duty plus automatic enrolment of teenagers would be the cheapest turnout lever available."
+  "summary": "Around eight million eligible voters are missing from the register, with young people and renters worst affected. Teenagers already give the state their details when National Insurance numbers arrive; nobody uses that to put them on the roll. A schools registration duty plus automatic enrolment of teenagers would be the cheapest turnout lever available.",
+  "rank": 5,
+  "rankNote": "The current Bill can legislate the cheapest turnout lever with Welsh and NI precedents ready, but commits to no mechanism and nobody is funded to build attainer auto-registration this year."
  },
  {
   "number": 28,
@@ -1040,7 +1094,9 @@
     "fill": "Amendment of s.507B: a defined sufficiency standard (per-capita access, qualified youth-work workforce), a published local youth offer with independent oversight, and sustained revenue (not just capital) funding, mirroring the statutory framework Wales is building. Bill vehicle: children/education legislation in the 2026-27 session."
    }
   ],
-  "curationNote": "the same amended s.507B duty with sufficiency standards and ring-fenced revenue funding; the folded entry carries the Wales comparison and bill vehicle."
+  "curationNote": "the same amended s.507B duty with sufficiency standards and ring-fenced revenue funding; the folded entry carries the Wales comparison and bill vehicle.",
+  "rank": 3,
+  "rankNote": "Spending fell three-quarters since 2010 because the duty is discretionary, and the strategy's capital-heavy funds only 'review' the statutory floor, risking refurbished centres councils cannot staff."
  },
  {
   "number": 29,
@@ -1073,7 +1129,9 @@
    "weBring": "The National Youth Agency's qualification framework and register design, employer commitments from youth charities to host trainees, philanthropic match-funding for a first bursary cohort, and recruitment evidence from teaching and social work schemes.",
    "theyGain": "The strategy's 2035 targets become deliverable: without new staff, the Richer Lives Fund and Young Futures Hubs simply bid up wages in a shrinking pool and the flagship trusted-adult commitment fails.",
    "firstStep": "A twelve-month co-funded pilot: fifty bursaried trainees placed with existing youth work employers in two regions with waiting lists, retention and cost per qualification evaluated jointly against teaching bursary benchmarks."
-  }
+  },
+  "rank": 1,
+  "rankNote": "Every strategy target bottlenecks on scarce qualified staff, yet unlike teaching or social work there is no funded fast-track or register, though the pressure is drift not a dated trigger."
  },
  {
   "number": 30,
@@ -1108,7 +1166,9 @@
     "title": "No participation pipeline: volunteering infrastructure and a successor to NCS",
     "domain": "civic-society"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "A billion-pound universal mixing experience closed with only place-based replacements, but a new civic-service year needs design, piloting and a spending-review bid rather than an off-the-shelf switch."
  },
  {
   "number": 31,
@@ -1135,7 +1195,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: pooled multi-funder programme with commissioned What Works evidence strand at Youth Futures Foundation.",
   "tagline": "Young men are drifting out of civic life. No funder owns the problem.",
-  "summary": "Young men not in education or work are up sharply since the pandemic, their politics is drifting towards online influencers, and suicide is the leading cause of death for older teenage boys. Yet no UK funder runs a dedicated programme for young men's civic participation. Mentoring, male youth workers and offline third spaces all wait for a backer."
+  "summary": "Young men not in education or work are up sharply since the pandemic, their politics is drifting towards online influencers, and suicide is the leading cause of death for older teenage boys. Yet no UK funder runs a dedicated programme for young men's civic participation. Mentoring, male youth workers and offline third spaces all wait for a backer.",
+  "rank": 3,
+  "rankNote": "The fastest-growing disengagement cohort drifts toward online radicalisation with no funder owning the problem, so a pooled programme is high-value and ready even without a dated trigger."
  },
  {
   "number": 32,
@@ -1170,7 +1232,9 @@
     "title": "No independent national youth council since the British Youth Council's collapse",
     "domain": "youth-mobilisation"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "English councils face no participation duty and the Power of Youth Charter is voluntary, but this procedural gap has moderate stakes and no fixed date forcing action."
  },
  {
   "number": 33,
@@ -1204,7 +1268,9 @@
    "weBring": "A shadow dataset already assembled from council returns and freedom of information requests, question sets tested in charity-funded polls, data engineers to build the publication pipeline, and sector bodies committed to supplying returns.",
    "theyGain": "An official baseline for the strategy's 2035 targets, an end to funding rounds re-litigating contested numbers, and a cheap commission: most of the collection groundwork arrives already done.",
    "firstStep": "A 90-day joint exercise merging our shadow dataset with departmental returns for one region, published in an open format, with coverage assessed together before any decision on a national series."
-  }
+  },
+  "rank": 3,
+  "rankNote": "No official baseline exists for the strategy's 2035 targets and the sector relies on charity polls, making an ONS commission cheap, high-leverage and unowned though not acutely time-pressured."
  },
  {
   "number": 34,
@@ -1240,7 +1306,9 @@
     "title": "No at-scale 'first vote' programme for 1.6 million newly enfranchised 16-17-year-olds",
     "domain": "youth-mobilisation"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Two entire cohorts face a one-shot habit-forming first election with only small grant-dependent providers, while partisan influencer ecosystems fill the turnout vacuum fastest and must be countered now."
  },
  {
   "number": 35,
@@ -1276,7 +1344,9 @@
     "title": "Entry-level pipeline collapse: no instrument keeps firms training juniors",
     "domain": "ai-crisis"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "A million NEET young people are least likely to vote, yet the guarantee is £45m across eight city-regions the government partly owns, high stakes but only inching wider."
  },
  {
   "number": 36,
@@ -1303,7 +1373,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: shared cross-movement recruitment/vetting platform; employer time via voluntary compacts before any statutory entitlement.",
   "tagline": "100,000 children are queuing to join the Scouts. The shortage is adults.",
-  "summary": "The Scouts' waiting list passed 100,000 and Girlguiding faces the same squeeze: proven demand, queued and waiting. The binding constraint is adult volunteers, not young people's appetite, and no national mechanism recruits or trains them. Employer time-off entitlements and shared vetting across movements would clear lists faster than building anything new."
+  "summary": "The Scouts' waiting list passed 100,000 and Girlguiding faces the same squeeze: proven demand, queued and waiting. The binding constraint is adult volunteers, not young people's appetite, and no national mechanism recruits or trains them. Employer time-off entitlements and shared vetting across movements would clear lists faster than building anything new.",
+  "rank": 1,
+  "rankNote": "Over 100,000 young people are literally queued to participate and the fix is cheap per head, but the binding adult-volunteer constraint has no owner and no dated trigger."
  },
  {
   "number": 37,
@@ -1331,7 +1403,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statute making EdTech Assurance Body permanent, with DfE procurement conditionality and audited public register.",
   "tagline": "Schools are buying AI tools for children on the vendors' word alone.",
-  "summary": "Government safety rules for classroom AI are voluntary self-assessment: no register, no audit, no enforcement. Rigorous trials take years while products ship in months. A permanent certification body, pairing a safety kitemark with rapid efficacy ratings and public money conditional on passing, would give schools a signal they can trust."
+  "summary": "Government safety rules for classroom AI are voluntary self-assessment: no register, no audit, no enforcement. Rigorous trials take years while products ship in months. A permanent certification body, pairing a safety kitemark with rapid efficacy ratings and public money conditional on passing, would give schools a signal they can trust.",
+  "rank": 4,
+  "rankNote": "Schools buy AI tools for children at market speed while the only evidence pilot's DfE funding lapsed in April 2026, leaving safety expectations unenforced and unregistered."
  },
  {
   "number": 38,
@@ -1366,7 +1440,9 @@
    "weBring": "Evidence dossiers on coursework compromise in exposed subjects, assessment researchers to design pilots, volunteer schools ready to trial redesigned models, and exam-board co-funding commitments for the redesign work.",
    "theyGain": "Sandbox evidence on what actually holds up, gathered under your conditions and monitoring, instead of regulating blind in 2030, plus early warning of integrity failures before they become a results-day scandal.",
    "firstStep": "A one-year shadow pilot in one exposed subject: twenty volunteer schools run a redesigned assessment alongside the real one, no grades affected, with integrity and workload evidence reviewed jointly."
-  }
+  },
+  "rank": 3,
+  "rankNote": "Coursework integrity across NEA-heavy GCSEs is already unverifiable, yet Ofqual caps pilots and no fund pays for redesign before the 2028 curriculum and 2030 delivery."
  },
  {
   "number": 39,
@@ -1400,7 +1476,9 @@
    "weBring": "A founding group of volunteer universities contributing redesigned assessments to a shared bank, technical staff to build the pooling platform, and philanthropic funding to bridge until public money arrives.",
    "theyGain": "Your guidance becomes funded delivery rather than advice: members get shared tools none can afford alone, and you hold the evidence when public funders decide who runs the scaled programme.",
    "firstStep": "A one-semester pilot: five member universities pool redesigned assessments in two high-risk disciplines through the existing pilot's infrastructure, with uptake and integrity results shared across the membership."
-  }
+  },
+  "rank": 3,
+  "rankNote": "94% of students now use generative AI in assessed work while 140-plus financially distressed providers each improvise alone, with no OfS funding stream or shared standard."
  },
  {
   "number": 40,
@@ -1427,7 +1505,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: DfE-funded national CPD entitlement with cover costs, written into ITT core content framework.",
   "tagline": "The AI curriculum lands in 2028. Teacher training for it has no budget.",
-  "summary": "England's revised curriculum will teach AI awareness from primary school, but the 460,000 teachers expected to deliver it get optional online modules and no funded training time. Untrained teachers sank the computing reforms of 2014. A national training entitlement with cover costs paid would stop history repeating."
+  "summary": "England's revised curriculum will teach AI awareness from primary school, but the 460,000 teachers expected to deliver it get optional online modules and no funded training time. Untrained teachers sank the computing reforms of 2014. A national training entitlement with cover costs paid would stop history repeating.",
+  "rank": 4,
+  "rankNote": "A 460,000-strong workforce must teach 2028 AI content with only optional modules today; the consultation is live this summer and three interim years shape pupils unequally."
  },
  {
   "number": 41,
@@ -1461,7 +1541,9 @@
    "weBring": "Engineers to build the shared sign-on and licensing layer, procurement analysis of what trusts currently pay vendors separately, Wales's working platform as a reference model, and philanthropic funding for the pilot build.",
    "theyGain": "Immediate savings from aggregated buying power, one safeguarding assurance process instead of dozens, and lighter procurement load: small trusts get enterprise terms only the largest can currently negotiate.",
    "firstStep": "A two-term pilot: five trusts jointly negotiate one AI tool licence and trial shared sign-on across ten schools, comparing cost and safeguarding overhead with buying alone."
-  }
+  },
+  "rank": 2,
+  "rankNote": "England's 22,000 schools procure individually with no central licensing or safeguarding layer, but the mid-horizon build has no dated trigger despite Wales and Scotland proving the model."
  },
  {
   "number": 42,
@@ -1488,7 +1570,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: pupil-premium-linked statutory tutoring entitlement with national commissioning and recurrent DfE funding.",
   "tagline": "AI tutoring for 450,000 poorer pupils is promised. The lesson money isn't.",
-  "summary": "Tutoring is the best-evidenced remedy for the attainment gap, worth about five months' extra progress. But the national subsidy ended in 2024, and the government's new AI tutoring push funds tool-building, not lessons. A tutoring entitlement tied to pupil premium would put blended human-and-AI tutoring in front of the pupils who need it."
+  "summary": "Tutoring is the best-evidenced remedy for the attainment gap, worth about five months' extra progress. But the national subsidy ended in 2024, and the government's new AI tutoring push funds tool-building, not lessons. A tutoring entitlement tied to pupil premium would put blended human-and-AI tutoring in front of the pupils who need it.",
+  "rank": 3,
+  "rankNote": "The attainment gap widened post-pandemic and tutoring is best-evidenced, yet the NTP subsidy ended in 2024 and tool development carries no recurrent delivery funding for disadvantaged pupils."
  },
  {
   "number": 44,
@@ -1530,7 +1614,9 @@
     "title": "No transition instrument for AI-displaced workers: the UK has no TAA equivalent",
     "domain": "ai-crisis"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Up to eight million jobs are exposed and displaced clerical workers, disproportionately women and older, are offered only loans, but no grant instrument has been designed or adopted."
  },
  {
   "number": 45,
@@ -1557,7 +1643,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation creating HE special administration regime plus Treasury-funded Transformation Fund.",
   "tagline": "Universities can go bust. There is no law for what happens to their students.",
-  "summary": "Nearly half of England's universities are in deficit. Unlike further education colleges, they have no insolvency regime protecting students if one collapses; a failure would strand thousands and force a panic bailout. A legal wind-down process plus a transformation fund would make restructuring orderly instead of catastrophic."
+  "summary": "Nearly half of England's universities are in deficit. Unlike further education colleges, they have no insolvency regime protecting students if one collapses; a failure would strand thousands and force a panic bailout. A legal wind-down process plus a transformation fund would make restructuring orderly instead of catastrophic.",
+  "rank": 5,
+  "rankNote": "Around 45% of providers are in deficit with a dozen at risk of ceasing within twelve months, yet HE has no insolvency regime or transition finance and the white paper is live."
  },
  {
   "number": 46,
@@ -1592,7 +1680,9 @@
    "weBring": "Independent researchers and trial design, philanthropic seed funding, data-protection expertise for the pupil-records linkage application, and no vendor money anywhere in the study.",
    "theyGain": "Free, independent evidence on tools you would otherwise adopt on vendor claims; early sight of results; safeguarding assurance to show governors and parents; minimal staff workload by design.",
    "firstStep": "A two-term trial in ten to twenty volunteer schools of one government-endorsed tutoring tool, findings published whatever they show, any school free to withdraw at any point."
-  }
+  },
+  "rank": 2,
+  "rankNote": "The state is deploying AI tutors to 450,000 children ahead of evidence, yet no UK body funds longitudinal research, leaving the knowledge base to self-evaluating vendors."
  },
  {
   "number": 47,
@@ -1619,7 +1709,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: DfE/Ofqual funded, dated commission to awarding bodies for 2028 first teaching.",
   "tagline": "Ministers will 'explore' an AI qualification for sixth-formers. Four million can't wait.",
-  "summary": "The government commits only to 'explore' a data science and AI qualification for sixth-formers, and nothing accredited exists at the levels where displacement bites hardest. Exploration without a commissioned awarding body and a date is how qualifications quietly die. A funded commission aimed at first teaching in 2028 would fix that."
+  "summary": "The government commits only to 'explore' a data science and AI qualification for sixth-formers, and nothing accredited exists at the levels where displacement bites hardest. Exploration without a commissioned awarding body and a date is how qualifications quietly die. A funded commission aimed at first teaching in 2028 would fix that.",
+  "rank": 3,
+  "rankNote": "Four million young people reach the most AI-disrupted entry market by 2030 with no recognised qualification, while government only commits to explore and commissions no awarding body."
  },
  {
   "number": 48,
@@ -1646,7 +1738,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: maintained open unit-cost database from published/FOI-able outturns, extending Britain Remade; statutory NISTA mandate is end-state.",
   "tagline": "High-speed rail costs Britain eight times what France pays. The state keeps no score.",
-  "summary": "The best data on Britain's infrastructure cost disease is one-off campaign research, not an official series. Standardised, public unit costs would expose overruns to comparison on a pipeline worth £718bn. A campaign group proved the idea works once; making it permanent inside government is cheap."
+  "summary": "The best data on Britain's infrastructure cost disease is one-off campaign research, not an official series. Standardised, public unit costs would expose overruns to comparison on a pipeline worth £718bn. A campaign group proved the idea works once; making it permanent inside government is cheap.",
+  "rank": 2,
+  "rankNote": "Britain's £718bn pipeline keeps overpaying because outturn unit costs stay unpublished; a proven, cheap benchmarking instrument exists but sits unfunded, with no dated trigger forcing action now."
  },
  {
   "number": 49,
@@ -1680,7 +1774,9 @@
    "weBring": "A costed fee-setting model with legal analysis, recruitment and apprenticeship pipeline design, coordination between districts, and bursary co-funding routes from philanthropic sources.",
    "theyGain": "Vacancies filled without touching reserves: fee income carries the cost. Faster, better-defended decisions mean fewer appeals, fewer missed statutory deadlines, and less risk of government intervention in your service.",
    "firstStep": "A six-month trial: three neighbouring districts share one ecologist and one heritage officer, costs recovered through planning fees, workload and decision times reviewed together after two quarters."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Planning Act reforms are landing now on departments 2,200 planners short, and long training lead times make starting immediately valuable, but government's response stays an order of magnitude too small."
  },
  {
   "number": 50,
@@ -1707,7 +1803,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: commencement regulations under Levelling-up and Regeneration Act 2023 plus Planning Inspectorate procedures.",
   "tagline": "Street votes could add 30,000 homes a year. The law exists. Nobody switched it on.",
-  "summary": "Residents of a street voting themselves permission to build (and pocket the uplift) became law in 2023, but the regulations to activate it were never laid. No new legislation is needed, just statutory instruments and pilot funding. Eighteen months of work could unlock new homes exactly where demand is highest."
+  "summary": "Residents of a street voting themselves permission to build (and pocket the uplift) became law in 2023, but the regulations to activate it were never laid. No new legislation is needed, just statutory instruments and pilot funding. Eighteen months of work could unlock new homes exactly where demand is highest.",
+  "rank": 2,
+  "rankNote": "Already law and self-aligning owners' incentives, it needs only commencement regulations and pilot funding; moderate supply impact and no dated trigger keep pressure below acute."
  },
  {
   "number": 51,
@@ -1733,7 +1831,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statute scheduling RO/FiT levy transfer to Exchequer or gas over fixed timetable.",
   "tagline": "Electricity carries the levies. Gas doesn't. And Britain needs to electrify.",
-  "summary": "British industry pays some of the highest electricity prices in the developed world, partly because old renewables subsidies still sit on power bills. A new scheme rescues about 7,000 manufacturers and leaves everyone else (small firms, data centres, households) paying the penalty. No law schedules moving those costs off electricity for good."
+  "summary": "British industry pays some of the highest electricity prices in the developed world, partly because old renewables subsidies still sit on power bills. A new scheme rescues about 7,000 manufacturers and leaves everyone else (small firms, data centres, households) paying the penalty. No law schedules moving those costs off electricity for good.",
+  "rank": 3,
+  "rankNote": "Sky-high industrial power drives offshoring, yet BICS only shields large manufacturers from April 2027, leaving SMEs, data centres and households on legacy levies with no legislated rebalancing timetable."
  },
  {
   "number": 52,
@@ -1759,7 +1859,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Ofgem TNUoS charging decision plus government demand-siting package (fast-track planning, connection priority).",
   "tagline": "Data centres want cheap power. Nothing points them at Scotland's wasted wind.",
-  "summary": "Ministers rejected regional electricity pricing, promising locational efficiency through network-charge reform and a spatial energy plan, both unfinished. Meanwhile nothing steers big flexible users like AI data centres towards areas where generation outruns the grid, and payments to switch wind farms off keep rising. Cheaper connections and fast-track planning for well-sited demand would do the job administratively."
+  "summary": "Ministers rejected regional electricity pricing, promising locational efficiency through network-charge reform and a spatial energy plan, both unfinished. Meanwhile nothing steers big flexible users like AI data centres towards areas where generation outruns the grid, and payments to switch wind farms off keep rising. Cheaper connections and fast-track planning for well-sited demand would do the job administratively.",
+  "rank": 1,
+  "rankNote": "Constraint payments and lost AI investment mount, but the fix depends on incomplete TNUoS and spatial-plan reforms government already owns, so a new actor's marginal value stays moderate and undated."
  },
  {
   "number": 53,
@@ -1786,7 +1888,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Spending Review funding for successor platform plus statutory service standards; HMRC data access is government-gated.",
   "tagline": "Britain is dismantling the research data it needs to diagnose its own stagnation.",
-  "summary": "The flagship platform for linking government microdata was red-rated, closed to researchers, then defunded. Its ageing predecessor limps on, and economists still cannot connect firm-level tax, trade and ownership records, the raw material of productivity diagnosis. A funded successor with statutory service standards would put evidence back underneath the growth debate."
+  "summary": "The flagship platform for linking government microdata was red-rated, closed to researchers, then defunded. Its ageing predecessor limps on, and economists still cannot connect firm-level tax, trade and ownership records, the raw material of productivity diagnosis. A funded successor with statutory service standards would put evidence back underneath the growth debate.",
+  "rank": 4,
+  "rankNote": "The linked-microdata platform for diagnosing productivity lost its £53m budget in March 2026 and stopped taking applications, so dismantling is happening now, making preservation urgent this year."
  },
  {
   "number": 54,
@@ -1820,7 +1924,9 @@
    "weBring": "A benchmarking dossier on why British trams cost two to eight times French levels, draft standard specifications, and technical drafting capacity to turn the evidence into procurement documents.",
    "theyGain": "Cheaper, faster schemes from your existing transport settlement; scarce engineers shared rather than poached between cities; and a far stronger joint case to the Treasury at the next spending review.",
    "firstStep": "A six-month joint feasibility study between two authorities, funded from existing programme budgets, testing whether their next tram schemes could share a specification and procurement framework, with no commitment beyond the study."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Second-city agglomeration is the largest quantified regional lever (~£23bn/year) and a standardised delivery unit would cut costs, but no institution owns it and no date forces action."
  },
  {
   "number": 56,
@@ -1861,7 +1967,9 @@
     "fill": "Cabinet Office publishing per-department turnover and median-tenure targets in outcome delivery plans, with permanent secretaries accountable for them; pay flexibility so deep specialists can progress without moving; and publication of the delayed strategic workforce plan with these mechanisms in it. Committee interest: PACAC."
    }
   ],
-  "curationNote": "the same pay-and-workforce machinery counteracting promotion-by-moving churn."
+  "curationNote": "the same pay-and-workforce machinery counteracting promotion-by-moving churn.",
+  "rank": 2,
+  "rankNote": "Fifth-of-staff annual Treasury churn drains delivery memory and nobody addresses the pay-incentive structure, yet stakes are diffuse, the HR fix unproven, and no dated trigger applies."
  },
  {
   "number": 57,
@@ -1887,7 +1995,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: legislation mandating 2-3% SBIR-style set-aside of departmental extramural R&D budgets.",
   "tagline": "America makes agencies buy from startups. It seeded Qualcomm. Britain's copy is starved.",
-  "summary": "The American scheme obliges federal agencies to spend a fixed slice of research budgets with small firms; it seeded Qualcomm and iRobot. Britain's version has no mandate and a budget withered to about 1% of its former level. A legislated set-aside would hand deep-tech startups their first customer at no net new cost."
+  "summary": "The American scheme obliges federal agencies to spend a fixed slice of research budgets with small firms; it seeded Qualcomm and iRobot. Britain's version has no mandate and a budget withered to about 1% of its former level. A legislated set-aside would hand deep-tech startups their first customer at no net new cost.",
+  "rank": 0,
+  "rankNote": "A statutory SBIR-style set-aside is well-evidenced and near-costless, but SBRI already exists in weak form, stakes are moderate, and nothing dates the reform."
  },
  {
   "number": 58,
@@ -1914,7 +2024,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Treasury long-dated lending facility or National Wealth Fund mandate capitalising statutory development corporations.",
   "tagline": "Post-war new towns ran on 60-year loans. Today's get annual grants instead.",
-  "summary": "Seven sites are shortlisted and the development-corporation powers exist, but no funding matches the model's timescale: new towns repay over decades through rising land values. Annualised grants cannot carry that. A long-dated Treasury lending facility and a land-assembly war chest would let the corporations actually build, as Milton Keynes once did."
+  "summary": "Seven sites are shortlisted and the development-corporation powers exist, but no funding matches the model's timescale: new towns repay over decades through rising land values. Annualised grants cannot carry that. A long-dated Treasury lending facility and a land-assembly war chest would let the corporations actually build, as Milton Keynes once did.",
+  "rank": 4,
+  "rankNote": "Seven new-town sites reach decisions this summer 2026, yet no multi-decade Treasury lending facility exists, so without patient capital now they stall at masterplan or dilute into ordinary schemes."
  },
  {
   "number": 59,
@@ -1941,7 +2053,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: science-and-tech LTAF / BGP-successor fund with DC-friendly fees, launchable by a commercial manager today.",
   "tagline": "Pension savers' billions are pledged to British growth. The vehicles barely exist.",
-  "summary": "Seventeen providers promised a slice of workplace pensions to private markets, with law holding a backstop power to compel them. But the first flagship UK growth fund closed at just £200m, and little else exists at institutional scale, so the money may simply flow abroad. Building investable UK vehicles is the missing half of the bargain."
+  "summary": "Seventeen providers promised a slice of workplace pensions to private markets, with law holding a backstop power to compel them. But the first flagship UK growth fund closed at just £200m, and little else exists at institutional scale, so the money may simply flow abroad. Building investable UK vehicles is the missing half of the bargain.",
+  "rank": 2,
+  "rankNote": "Tens of billions of DC flows are pledged to UK growth by 2030, but investable £1bn+ vehicles barely exist, risking the money exiting overseas absent a built pipeline."
  },
  {
   "number": 60,
@@ -1967,7 +2081,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: commencement of SDRP regulations under Financial Guidance and Claims Act 2018, or successor statute.",
   "tagline": "A debt repayment lifeline became law in 2018. Eight years on, it is still switched off.",
-  "summary": "Breathing Space gives people in problem debt a 60-day pause, then protections vanish and enforcement resumes. Its legislated companion, a statutory plan letting people repay affordably with interest frozen and bailiffs held off, has never been commenced, and no start date exists. Millions who could repay if protected sit in the gap between a pause and bankruptcy."
+  "summary": "Breathing Space gives people in problem debt a 60-day pause, then protections vanish and enforcement resumes. Its legislated companion, a statutory plan letting people repay affordably with interest frozen and bailiffs held off, has never been commenced, and no start date exists. Millions who could repay if protected sit in the gap between a pause and bankruptcy.",
+  "rank": 4,
+  "rankNote": "The plan is already law with interest and enforcement frozen; four million negative-budget households wait for commencement while a live personal-insolvency review keeps it parked."
  },
  {
   "number": 61,
@@ -1994,7 +2110,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statute extending debt-advice levy to energy, water, telecoms and government creditors.",
   "tagline": "Banks fund debt advice. Today's debts are owed to the council and the energy firm.",
-  "summary": "The levy paying for debt advice falls on regulated lenders, yet the arrears crushing households now come from utilities, council tax and government itself: creditors who pay nothing towards it. Funded capacity covers barely a quarter of need. Extending the levy to the sectors actually generating the debt is a straightforward polluter-pays statute."
+  "summary": "The levy paying for debt advice falls on regulated lenders, yet the arrears crushing households now come from utilities, council tax and government itself: creditors who pay nothing towards it. Funded capacity covers barely a quarter of need. Extending the levy to the sectors actually generating the debt is a straightforward polluter-pays statute.",
+  "rank": 2,
+  "rankNote": "Advice demand hits record highs but funded capacity covers barely a quarter, because the levy still falls on lenders, not the utilities and government now generating the arrears."
  },
  {
   "number": 62,
@@ -2022,7 +2140,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: amended 1992 council tax regulations plus statutory Enforcement Conduct Board licensing and binding cross-government standards.",
   "tagline": "Miss one council tax instalment and the whole year falls due. That rule is from 1992.",
-  "summary": "The state is routinely Britain's harshest creditor, with practices that would be illegal for a regulated lender. Councils passed 1.69 million debts to bailiffs in a single year, and debt advisers report clients going without food to pay. Binding collection standards, affordability checks and statutory bailiff regulation would fix what voluntary charters have not."
+  "summary": "The state is routinely Britain's harshest creditor, with practices that would be illegal for a regulated lender. Councils passed 1.69 million debts to bailiffs in a single year, and debt advisers report clients going without food to pay. Binding collection standards, affordability checks and statutory bailiff regulation would fix what voluntary charters have not.",
+  "rank": 3,
+  "rankNote": "The state collects more harshly than a regulated lender could, 1.69 million debts went to bailiffs, clients skip food to pay, and a council-tax consultation response is pending now."
  },
  {
   "number": 63,
@@ -2050,7 +2170,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: published sovereign stress scenario with response playbook, run by institute consortium; foundation-fundable at £1-3m/year.",
   "tagline": "Every big bank is stress-tested. The public finances never are.",
-  "summary": "The 2022 pensions near-meltdown showed what improvising in a gilt crisis costs. Nobody publicly war-games a failed auction or a buyers' strike: the fiscal watchdog is barred from recommending policy, and official contingency planning stays secret. A standing independent stress-test programme is foundation-fundable at a few million pounds a year."
+  "summary": "The 2022 pensions near-meltdown showed what improvising in a gilt crisis costs. Nobody publicly war-games a failed auction or a buyers' strike: the fiscal watchdog is barred from recommending policy, and official contingency planning stays secret. A standing independent stress-test programme is foundation-fundable at a few million pounds a year.",
+  "rank": 3,
+  "rankNote": "No one publicly war-games a gilt crisis after 2022 nearly broke pensions; the watchdog is barred from advising and a buildable programme is cheap but wholly unfunded."
  },
  {
   "number": 64,
@@ -2077,7 +2199,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: low-friction ISA-eligible retail gilt brokerage (founder-shaped today); DMO/NS&I platform is the state end-state.",
   "tagline": "Americans can buy their government's debt directly. Britons must go through a broker.",
-  "summary": "As pension funds retreat from long-dated gilts, borrowing costs have climbed and hedge funds have become the marginal buyer. Households (a stickier, cheaper source of demand) have no direct route to the safe asset their own taxes stand behind. A state-run retail gilt platform, like America's or Italy's, is a buildable public product."
+  "summary": "As pension funds retreat from long-dated gilts, borrowing costs have climbed and hedge funds have become the marginal buyer. Households (a stickier, cheaper source of demand) have no direct route to the safe asset their own taxes stand behind. A state-run retail gilt platform, like America's or Italy's, is a buildable public product.",
+  "rank": 1,
+  "rankNote": "Diversifying the investor base only trims term premia at the margin, the product is buildable but unbuilt, and no dated trigger forces action this year."
  },
  {
   "number": 65,
@@ -2104,7 +2228,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Bank of England CNRF extension, FPC-mandated repo haircuts, Bank/FCA leverage dashboard from supervisory data.",
   "tagline": "Hedge funds do a third of gilt trading. The crisis backstop doesn't cover them.",
-  "summary": "The 2022 crisis dynamic (leveraged investors forced to dump gilts) has migrated from pension funds to hedge funds, which sit outside the Bank of England's emergency lending facility. No one even publishes regular data on their gilt borrowing. Extending the backstop with strings attached, plus minimum haircuts and a public dashboard, would close the gap before it is tested."
+  "summary": "The 2022 crisis dynamic (leveraged investors forced to dump gilts) has migrated from pension funds to hedge funds, which sit outside the Bank of England's emergency lending facility. No one even publishes regular data on their gilt borrowing. Extending the backstop with strings attached, plus minimum haircuts and a public dashboard, would close the gap before it is tested.",
+  "rank": 2,
+  "rankNote": "The 2022 forced-seller dynamic has migrated to excluded hedge funds, but the Bank already owns the backstop and is actively consulting, so the marginal external gap is narrower."
  },
  {
   "number": 66,
@@ -2163,7 +2289,9 @@
     "title": "No statutory failure regime or standing resolution institution for distressed councils",
     "domain": "local-state-capacity"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "Fourteen councils have failed unseen, the monitoring watchdog was abolished, 41% of accounts are unsigned, and an open quarterly dataset could be prototyped now from existing returns."
  },
  {
   "number": 68,
@@ -2191,7 +2319,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statute expanding dormant assets and mandating matched bank contributions (CRA-style) for permanent NILS/CDFI facility.",
   "tagline": "13,000 loans went to people the banks turned away. Then the money ran out.",
-  "summary": "When regulated high-cost lenders quit the market, demand migrated to loan sharks; research links the vacuum to three million people using illegal lenders. The pilot alternative repaid well but stopped lending, and everything left rests on finite dormant-assets money. A permanent funding base for no-interest loans, credit unions and community lenders is the fix."
+  "summary": "When regulated high-cost lenders quit the market, demand migrated to loan sharks; research links the vacuum to three million people using illegal lenders. The pilot alternative repaid well but stopped lending, and everything left rests on finite dormant-assets money. A permanent funding base for no-interest loans, credit unions and community lenders is the fix.",
+  "rank": 3,
+  "rankNote": "When high-cost lenders exited, three million turned to loan sharks; the no-interest pilot repaid well but stopped, and its 2026 evaluation lands with no successor funding secured."
  },
  {
   "number": 69,
@@ -2218,7 +2348,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Treasury decision raising IMLT levy plus statutory victim-routing duty; bank data-sharing pilot possible but capacity needs levy.",
   "tagline": "Three million people used loan sharks. Enforcement prosecutes about 20 cases a year.",
-  "summary": "One small team hosted by a city council polices illegal lending for all of England, while the trade has moved onto social media and payment apps. The levy that funds it costs regulated firms a rounding error. Scaling it up, with bank data-sharing to spot lender-pattern accounts, would confront a market measured in millions of victims."
+  "summary": "One small team hosted by a city council polices illegal lending for all of England, while the trade has moved onto social media and payment apps. The levy that funds it costs regulated firms a rounding error. Scaling it up, with bank data-sharing to spot lender-pattern accounts, would confront a market measured in millions of victims.",
+  "rank": 2,
+  "rankNote": "One city-council team prosecutes about twenty cases a year against a three-million-victim market, and the levy that would scale it costs regulated firms a rounding error."
  },
  {
   "number": 70,
@@ -2246,7 +2378,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Treasury balance-sheet mandate extending UKGI CLCC plus statutory nine-month WGA deadline.",
   "tagline": "Who manages the state's £1.4tn in pension promises? Strictly speaking, no one.",
-  "summary": "The only consolidated picture of what the state owes (unfunded pensions, nuclear clean-up, the student loan book) arrives more than a year late and with a qualified audit. The models valuing those liabilities cannot be independently checked. A clear Treasury mandate, a faster publication deadline and open valuation models would make hundred-billion-pound decisions contestable."
+  "summary": "The only consolidated picture of what the state owes (unfunded pensions, nuclear clean-up, the student loan book) arrives more than a year late and with a qualified audit. The models valuing those liabilities cannot be independently checked. A clear Treasury mandate, a faster publication deadline and open valuation models would make hundred-billion-pound decisions contestable.",
+  "rank": 3,
+  "rankNote": "Hundred-billion-pound decisions on pensions, decommissioning and student loans rest on accounts published fifteen months late and qualified, with no institution owning the liability side."
  },
  {
   "number": 71,
@@ -2273,7 +2407,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Charter for Budget Responsibility amendment; a policy unit can draft the package, only government can enact due process.",
   "tagline": "Nine rewrites of the fiscal rules, all by announcement. Markets have noticed.",
-  "summary": "Markets partly price UK debt on the risk that the rules will move whenever they bind, and history justifies the suspicion. Thin headroom against the current rule now drives rolling tax-speculation cycles that damage investment. Requiring consultation before rule changes, plus a codified minimum buffer, is a package a policy unit could draft this year."
+  "summary": "Markets partly price UK debt on the risk that the rules will move whenever they bind, and history justifies the suspicion. Thin headroom against the current rule now drives rolling tax-speculation cycles that damage investment. Requiring consultation before rule changes, plus a codified minimum buffer, is a package a policy unit could draft this year.",
+  "rank": 4,
+  "rankNote": "Markets partly price debt on the risk rules move when they bind; a ready-to-draft package could mandate consultation and a codified buffer, but no dated trigger forces it."
  },
  {
   "number": 72,
@@ -2316,7 +2452,9 @@
     "fill": "A Biometrics and Public-Space Surveillance Act converting the December 2025 Home Office consultation into legislation: statutory authorisation rules for watchlists and deployments, mandatory accuracy/bias standards, independent pre-authorisation, and a consolidated oversight body on a durable statutory footing with reporting duties. Responsible department: Home Office; select committee interest: Home Affairs Committee, JCHR."
    }
   ],
-  "curationNote": "the same Biometrics Act converting the Home Office consultation into statutory authorisation, a deployment register and a single regulator."
+  "curationNote": "the same Biometrics Act converting the Home Office consultation into statutory authorisation, a deployment register and a single regulator.",
+  "rank": 4,
+  "rankNote": "The Feb 2026 Home Office consultation closed with no bill while thirteen forces, forty new vans and live Croydon cameras race ahead under a framework courts already found deficient."
  },
  {
   "number": 73,
@@ -2346,7 +2484,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: IPA amendment mandating aggregate notice statistics, ISC notification and IPCO reporting duties; only Parliament can compel this.",
   "tagline": "The order telling Apple to break iCloud encryption stayed secret until someone leaked it.",
-  "summary": "Government can order companies to weaken encryption for millions of users, and the orders are secret; even Parliament's intelligence committee is not told. The Apple case surfaced only through leaks. Other countries publish annual statistics on comparable orders, and Britain could do the same with notification duties attached."
+  "summary": "Government can order companies to weaken encryption for millions of users, and the orders are secret; even Parliament's intelligence committee is not told. The Apple case surfaced only through leaks. Other countries publish annual statistics on comparable orders, and Britain could do the same with notification duties attached.",
+  "rank": 3,
+  "rankNote": "Orders removing encryption from millions are made entirely in secret with no published statistics or ISC notification; only under-resourced litigation scrutinises them, but no legislative vehicle is yet moving."
  },
  {
   "number": 74,
@@ -2381,7 +2521,9 @@
    "weBring": "Philanthropic funding routes for the five-to-ten-million-pound pilot, a test methodology drawing on America's long-running vendor-testing programme, and a dossier of documented deployments and unanswered accuracy questions.",
    "theyGain": "A funded national capability and first claim on becoming the designated facility when the expected biometrics bill arrives, plus the standing that comes with owning the benchmark.",
    "firstStep": "A six-month scoping study: agree a test protocol modelled on the American programme, evaluate one vendor's algorithm on a voluntary basis, and publish the method and results jointly."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Deployment decisions rest on vendor claims and a single police-commissioned study; an independent testing facility is buildable but supporting in nature, with no dated trigger forcing action now."
  },
  {
   "number": 76,
@@ -2416,7 +2558,9 @@
     "title": "No domestic funding base for UK digital rights civil society",
     "domain": "surveillance"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Litigation is the only mechanism that has ever constrained UK surveillance, yet it depends on tiny crowdfunded groups carrying adverse-costs risk; a pooled fund is directly buildable but undated."
  },
  {
   "number": 77,
@@ -2474,7 +2618,9 @@
     "title": "No UK equivalent of noyb: a resourced strategic data rights enforcement organisation",
     "domain": "privacy"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "The sector's sub-£15m budget, carrying all surveillance oversight, hangs on three or four foreign foundations; a pooled domestic fund is directly buildable, though no dated trigger forces it."
  },
  {
   "number": 78,
@@ -2501,7 +2647,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: machine-readable deployment database from FOI pipelines and Contracts Finder data; ATRS extension is the policy tail.",
   "tagline": "Nobody keeps a list of what surveillance kit is watching Britain. Not even the state.",
-  "summary": "No one tracks which cameras, algorithms and face-scanning tools police forces and councils have bought; the picture exists only in scattered freedom of information requests that quickly go stale. A maintained open database, like the one American civil liberties groups run, would cost a few hundred thousand pounds a year."
+  "summary": "No one tracks which cameras, algorithms and face-scanning tools police forces and councils have bought; the picture exists only in scattered freedom of information requests that quickly go stale. A maintained open database, like the one American civil liberties groups run, would cost a few hundred thousand pounds a year.",
+  "rank": 2,
+  "rankNote": "Every oversight actor rebuilds the same picture from decaying FOI journalism; an open machine-readable deployment register is cheaply buildable and wholly unresourced, but faces no time-critical deadline."
  },
  {
   "number": 79,
@@ -2528,7 +2676,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: legislative clause extending PoFA 2012 automatic deletion to custody images, plus funded PND system remediation.",
   "tagline": "A court found indefinite mugshot retention unlawful in 2012. Police hold 19 million.",
-  "summary": "The police face-search corpus is built on custody images a court ruled unlawful to keep, fourteen years ago. Hundreds of thousands of people never charged remain searchable by face indefinitely. DNA and fingerprints already get deleted automatically, and the same rule could simply be extended to photographs."
+  "summary": "The police face-search corpus is built on custody images a court ruled unlawful to keep, fourteen years ago. Hundreds of thousands of people never charged remain searchable by face indefinitely. DNA and fingerprints already get deleted automatically, and the same rule could simply be extended to photographs.",
+  "rank": 3,
+  "rankNote": "Courts declared indefinite retention unlawful fourteen years ago, yet millions of innocent people's images remain the search corpus for expanding facial recognition; the deletion clause awaits an unintroduced bill."
  },
  {
   "number": 80,
@@ -2563,7 +2713,9 @@
    "weBring": "Engineers versed in the proven UK trusted-research architecture, independent technical assessors, philanthropic co-funding, and the documented rollout evidence gathered through freedom-of-information work.",
    "theyGain": "Negotiating power: a credible exit option cuts the renewal price even if you stay. It also answers the Commons committee's recommendation and gives non-participating trusts a supported path.",
    "firstStep": "A 90-day exit-feasibility assessment, independently published, alongside one willing trust scoping an open-standards pilot for a single operational workflow; neither commits anyone to leaving."
-  }
+  },
+  "rank": 4,
+  "rankNote": "The February 2027 break clause forces a now-or-lock-in choice on NHS data sovereignty, but no funded UK alternative exists to make exit from the single US vendor credible."
  },
  {
   "number": 81,
@@ -2608,7 +2760,9 @@
     "fill": "Amendments to the Bill: statutory unlinkability/selective-disclosure requirements, prohibition on issuer observation and central usage logs, an independent statutory digital identity commissioner, and interoperability letting certified private wallets hold government credentials."
    }
   ],
-  "curationNote": "the same statutory-safeguards amendments to the digital ID legislation; the folded entry carries the unlinkability, no-central-logs and wallet-interoperability clauses."
+  "curationNote": "the same statutory-safeguards amendments to the digital ID legislation; the folded entry carries the unlinkability, no-central-logs and wallet-interoperability clauses.",
+  "rank": 4,
+  "rankNote": "A de facto national identity layer with documented security failures and no independent recourse is being built by its own operator, while the shaping 2026 consultation and legislation run live."
  },
  {
   "number": 82,
@@ -2636,7 +2790,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: FOI-based EVN observatory publishing volumes and error rates, plus adviser data-rights toolkit hosted by an existing advice body.",
   "tagline": "Ten million bank accounts face benefit-fraud scans. Nobody has to publish the error rate.",
-  "summary": "New powers let the benefits department make banks scan claimants' accounts for signs of ineligibility, rolling out from 2026. Nobody independent will publish false-positive rates, and welfare advisers lack the data-rights expertise to challenge wrongful flags. An observatory plus a toolkit for advisers would make any harms visible."
+  "summary": "New powers let the benefits department make banks scan claimants' accounts for signs of ineligibility, rolling out from 2026. Nobody independent will publish false-positive rates, and welfare advisers lack the data-rights expertise to challenge wrongful flags. An observatory plus a toolkit for advisers would make any harms visible.",
+  "rank": 5,
+  "rankNote": "Ten million vulnerable claimants' accounts fall under algorithmic screening from 2026, yet nobody is resourced to measure error rates or challenge wrongful flags; a monitor buildable now."
  },
  {
   "number": 84,
@@ -2663,7 +2819,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: red-flag analytics unit on public Central Digital Platform data producing shadow debarment dossiers; statutory regime is the end-state.",
   "tagline": "Britain built a blacklist for dodgy government contractors. It has zero entries.",
-  "summary": "More than a year after launch, the register for barring misbehaving suppliers from public contracts is still empty, and only ministers can put a name on it. Covid procurement fraud and error cost an estimated £10.9bn. An investigator with its own referral route, open to journalists and whistleblowers, would give the list teeth."
+  "summary": "More than a year after launch, the register for barring misbehaving suppliers from public contracts is still empty, and only ministers can put a name on it. Covid procurement fraud and error cost an estimated £10.9bn. An investigator with its own referral route, open to journalists and whistleblowers, would give the list teeth.",
+  "rank": 3,
+  "rankNote": "The debarment power that never debars leaves emergency procurement undeterred after £10.9bn Covid fraud; the regime exists but no independent trigger or red-flag analytics is resourced."
  },
  {
   "number": 85,
@@ -2699,7 +2857,9 @@
     "title": "Think-tank ecosystem: no funding disclosure requirement and no regional policy capacity",
     "domain": "corruption-integrity"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "In-house lobbyists, most of the industry, stay off the register; a ready private-member bill exists but government omitted lobbying entirely from its strategy, so pressure is low."
  },
  {
   "number": 86,
@@ -2727,7 +2887,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory business-appointments regime with enforceable contract terms, injunctions and clawback.",
   "tagline": "For most officials, breaking the revolving-door rules risks nothing but embarrassment.",
-  "summary": "Rules on officials taking jobs with the industries they regulated have carried no legal penalty for fifty years, and last October's reorganisation merely shuffled the toothless function between bodies. Enforceable contract terms with clawback for breaches, plus a single public register, would finally change the incentive."
+  "summary": "Rules on officials taking jobs with the industries they regulated have carried no legal penalty for fifty years, and last October's reorganisation merely shuffled the toothless function between bodies. Enforceable contract terms with clawback for breaches, plus a single public register, would finally change the incentive.",
+  "rank": 0,
+  "rankNote": "Post-ACOBA the revolving-door function was split across bodies but stayed unenforceable in law; the fix needs primary legislation with no dated trigger, so stakes are real but pressure diffuse."
  },
  {
   "number": 87,
@@ -2755,7 +2917,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation giving the EIC statutory footing, protected budget and own-initiative investigation powers.",
   "tagline": "The new ethics watchdog answers to the Prime Minister it is meant to watch.",
-  "summary": "The commission created to restore standards after Partygate can only advise, cannot investigate individuals, and could be dissolved by any future Prime Minister at a stroke: it exists by executive decision, not law. Statute could give it a protected budget and the power to open its own investigations."
+  "summary": "The commission created to restore standards after Partygate can only advise, cannot investigate individuals, and could be dissolved by any future Prime Minister at a stroke: it exists by executive decision, not law. Statute could give it a protected budget and the power to open its own investigations.",
+  "rank": 2,
+  "rankNote": "Standards architecture that failed during Partygate now rests on a PM-appointed advisory body a future PM can dissolve; the statutory fix is known but needs legislation and political will."
  },
  {
   "number": 88,
@@ -2783,7 +2947,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: party-finance amendments or successor bill (donation caps, source-of-funds tests, electoral-crime investigation capability).",
   "tagline": "A single donor can still give a British political party an unlimited sum. Legally.",
-  "summary": "The new elections bill raises fines and adds donor checks, yet caps nothing: a donor may still give any amount. Company donations are tested on revenue rather than UK profit, so shell firms can still pass foreign money through. Amendments could close both loopholes."
+  "summary": "The new elections bill raises fines and adds donor checks, yet caps nothing: a donor may still give any amount. Company donations are tested on revenue rather than UK profit, so shell firms can still pass foreign money through. Amendments could close both loopholes.",
+  "rank": 4,
+  "rankNote": "A live party-finance bill leaves donation size uncapped and foreign money routable through profitless UK shells; amendments are ready and the passage window is open now."
  },
  {
   "number": 89,
@@ -2810,7 +2976,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory ringfenced Economic Crime Fighting Fund recycling recovered assets on multi-year settlements.",
   "tagline": "Fraud enforcement pays for itself three times over. Britain still starves it.",
-  "summary": "The Serious Fraud Office more than pays for itself, yet its salaries fall ever further behind the private firms it faces in court. The national financial intelligence unit still has fewer staff than international assessors recommended in 2018. A ringfenced fund recycling recovered criminal assets into enforcement would end the false economy."
+  "summary": "The Serious Fraud Office more than pays for itself, yet its salaries fall ever further behind the private firms it faces in court. The national financial intelligence unit still has fewer staff than international assessors recommended in 2018. A ringfenced fund recycling recovered criminal assets into enforcement would end the false economy.",
+  "rank": 2,
+  "rankNote": "Enforcement is the credibility test of every other reform, yet the SFO and FIU lack multi-year funding certainty; a ringfenced recycling fund needs a hard Treasury settlement."
  },
  {
   "number": 90,
@@ -2854,7 +3022,9 @@
     "fill": "Consolidation of AML/KYC supervision into a single (or few) statutory supervisor(s) with direct powers over ACSPs; published register-cleanup and prosecution metrics; and a ring-fenced multi-year enforcement budget from incorporation fees. Responsible: HM Treasury and DBT; committee interest: Treasury Committee, Business and Trade Committee."
    }
   ],
-  "curationNote": "AML-supervision consolidation is the same instrument as the accelerated single-supervisor timetable and ACSP audit regime."
+  "curationNote": "AML-supervision consolidation is the same instrument as the accelerated single-supervisor timetable and ACSP audit regime.",
+  "rank": 3,
+  "rankNote": "The register is only as trustworthy as its gatekeepers, but agent supervision stays fragmented and partnership reforms bite slowly on a several-year timetable government already part-owns."
  },
  {
   "number": 91,
@@ -2882,7 +3052,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory deadline with Order-in-Council backstop, or legislated minimum access standards for the registers.",
   "tagline": "Half the shell companies in major leaks fly the British flag. Their owners stay hidden.",
-  "summary": "Britain's overseas territories promised public registers of company owners and delivered gated ones: Cayman charges for each search and its Premier refuses an open register outright. So reform at Companies House simply pushes dirty money offshore under the same flag. London holds backstop powers to force the issue and has declined to use them."
+  "summary": "Britain's overseas territories promised public registers of company owners and delivered gated ones: Cayman charges for each search and its Premier refuses an open register outright. So reform at Companies House simply pushes dirty money offshore under the same flag. London holds backstop powers to force the issue and has declined to use them.",
+  "rank": 4,
+  "rankNote": "Half of leak-exposed shells route through territories whose registers stay closed; Order-in-Council powers exist, the UK's own 2026 summit is imminent, yet nobody forces disclosure."
  },
  {
   "number": 92,
@@ -2909,7 +3081,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: direct parliamentary funding for FOI regulation plus statutory extension to outsourced public services.",
   "tagline": "Freedom of information requests hit a record high. The watchdog's budget fell 41%.",
-  "summary": "Freedom of information exposed the VIP-lane contracts and the Cabinet Office unit vetting requests. Yet the regulator's budget for enforcing it has been cut 41% in real terms, and ministers are now exploring making requests easier to refuse. Funding it directly from Parliament, and extending it to outsourced public services, would rescue the public's main audit tool."
+  "summary": "Freedom of information exposed the VIP-lane contracts and the Cabinet Office unit vetting requests. Yet the regulator's budget for enforcing it has been cut 41% in real terms, and ministers are now exploring making requests easier to refuse. Funding it directly from Parliament, and extending it to outsourced public services, would rescue the public's main audit tool.",
+  "rank": 4,
+  "rankNote": "Ministers are actively moving to narrow the Act this year while its regulator's budget is cut 41%; the public's primary corruption-detection tool erodes with only NGOs defending it."
  },
  {
   "number": 93,
@@ -2937,7 +3111,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: legal-defence fund for small newsrooms and freelancers; comprehensive Anti-SLAPP Act is the end-state.",
   "tagline": "Courts can now throw out bullying libel suits, but only ones about economic crime.",
-  "summary": "The High Court has used new strike-out powers for the first time, throwing out an £8m libel claim it found oppressive. But the shield covers only speech about economic crime; reporting on sexual misconduct or environmental harm gets nothing. A model law extending protection to all public-interest speech is already drafted."
+  "summary": "The High Court has used new strike-out powers for the first time, throwing out an £8m libel claim it found oppressive. But the shield covers only speech about economic crime; reporting on sexual misconduct or environmental harm gets nothing. A model law extending protection to all public-interest speech is already drafted.",
+  "rank": 3,
+  "rankNote": "A proven statutory strike-out now protects only economic-crime reporting; a drafted model law would cover all public-interest speech, making the remaining exposure a legislative choice not a technical one."
  },
  {
   "number": 94,
@@ -2964,7 +3140,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statute creating an Office of the Whistleblower with standard-setting, investigation and redress powers.",
   "tagline": "Whistleblowers catch more fraud than auditors. UK law protects them after the sacking.",
-  "summary": "Insiders raised alarms in the Post Office and pandemic-procurement scandals and were ignored or punished; the law gives them a tribunal claim after the damage, not protection before it. Nobody is even obliged to investigate what they disclose. A bill creating an Office of the Whistleblower is already in Parliament."
+  "summary": "Insiders raised alarms in the Post Office and pandemic-procurement scandals and were ignored or punished; the law gives them a tribunal claim after the damage, not protection before it. Nobody is even obliged to investigate what they disclose. A bill creating an Office of the Whistleblower is already in Parliament.",
+  "rank": 3,
+  "rankNote": "Insiders detect more fraud than auditors and regulators combined, yet protection stays post-detriment and tribunal-only; a live private-member bill and drafted office design await government backing."
  },
  {
   "number": 95,
@@ -2999,7 +3177,9 @@
     "title": "No at-scale, independent financing instrument for local public-interest news",
     "domain": "civic-society"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "Investigative journalism is the discovery layer every register and FOI request depends on, yet it lacks charitable status and endowment; the fix is slow, philanthropic, and undated."
  },
  {
   "number": 96,
@@ -3034,7 +3214,9 @@
     "title": "Co-operative law modernisation at risk of the Law Commission implementation graveyard",
     "domain": "parallel-institutions"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "The enabling Act is already law, so laying the outstanding statutory instrument is a switch-on task, but Treasury owns it and no dated deadline forces movement."
  },
  {
   "number": 97,
@@ -3069,7 +3251,9 @@
     "title": "Co-operative law modernisation at risk of the Law Commission implementation graveyard",
     "domain": "parallel-institutions"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "Millions of self-employed lack sick pay, but a workable small-society regime still needs inventing; the closed Law Commission consultation modernises legacy bodies without opening any entry route."
  },
  {
   "number": 98,
@@ -3096,7 +3280,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: limited-liability nonprofit association statute; DSIT/MoJ/HM Treasury must commission the recommended reviews.",
   "tagline": "Thousands can now govern a shared treasury online. UK law calls that unlimited liability.",
-  "summary": "Software lets thousands of strangers govern a shared treasury, but UK law treats such groups as partnerships with unlimited personal liability, so serious projects incorporate abroad. The same defect left about 4,000 pandemic mutual-aid groups legally invisible. A simple limited-liability association status would serve street groups and online communities alike."
+  "summary": "Software lets thousands of strangers govern a shared treasury, but UK law treats such groups as partnerships with unlimited personal liability, so serious projects incorporate abroad. The same defect left about 4,000 pandemic mutual-aid groups legally invisible. A simple limited-liability association status would serve street groups and online communities alike.",
+  "rank": 3,
+  "rankNote": "This is the sharpest gap between what software enables and what law permits; overseas models exist and nobody owns the follow-up, but no dated trigger forces action."
  },
  {
   "number": 99,
@@ -3131,7 +3317,9 @@
    "weBring": "A dossier on the Welsh and Scottish agencies' models and results, free model governing documents, experienced co-op development practitioners as delivery partners, and philanthropic co-funding routes including dormant-assets applications.",
    "theyGain": "A visible economic-development win at low cost, businesses rooted locally that cannot relocate, and first-mover position if the Treasury funds the pledged national mutuals programme with your delivery model already proven.",
    "firstStep": "A six-month desk inside your existing business-support service: one co-operative development adviser, funded by us, jointly evaluated on enquiries handled and co-ops formed, creating no new institution and ending cleanly if it fails."
-  }
+  },
+  "rank": 3,
+  "rankNote": "Devolved nations prove the delivery model works, England's 85% of population has none, and the government's own pledge to double the sector opens a policy window with no delivery arm."
  },
  {
   "number": 100,
@@ -3182,7 +3370,9 @@
     "title": "Co-operative law modernisation at risk of the Law Commission implementation graveyard",
     "domain": "parallel-institutions"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "Registry modernisation is real infrastructure with a proven Companies House template, but the FCA half-owns it, stakes are sectoral, and no closing date makes now decisive."
  },
  {
   "number": 101,
@@ -3234,7 +3424,9 @@
     "fill": "FCA perimeter guidance plus a proportionate sandbox tier for mutual credit and community currencies, and seed funding for shared national clearing infrastructure that local trade clubs and timebanks can plug into."
    }
   ],
-  "curationNote": "the same proportionate FCA route plus shared public clearing infrastructure for mutual credit, both citing Sardex."
+  "curationNote": "the same proportionate FCA route plus shared public clearing infrastructure for mutual credit, both citing Sardex.",
+  "rank": 1,
+  "rankNote": "Multilateral netting could free SME cash flow, but the model is nascent, sits in regulatory grey space, and lacks any anchor institution or dated trigger to force progress."
  },
  {
   "number": 102,
@@ -3260,7 +3452,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: openly licensed, versioned template library covering every UK formation route; named consortium partners are helpful, not gatekeepers.",
   "tagline": "Every new community pub pays lawyers for documents the last one already paid for.",
-  "summary": "The templates for founding a co-op, community share offer or wrapped digital collective are scattered, paywalled or locked inside model rules you must buy. An openly licensed library of governing documents, maintained like open-source software, may be the cheapest intervention on this map: low seven figures to build."
+  "summary": "The templates for founding a co-op, community share offer or wrapped digital collective are scattered, paywalled or locked inside model rules you must buy. An openly licensed library of governing documents, maintained like open-source software, may be the cheapest intervention on this map: low seven figures to build.",
+  "rank": 2,
+  "rankNote": "An openly licensed template library is the cheapest, widest-reach fix, buildable now and entirely unresourced, but modest per-case value and no deadline keep it opportunistic rather than acute."
  },
  {
   "number": 104,
@@ -3295,7 +3489,9 @@
    "weBring": "Demand data from the volunteer-run access maps, a charitable body to handle bookings and invigilation logistics, trained volunteer invigilators, and philanthropic funding to underwrite centres' costs.",
    "theyGain": "Entry fees from thousands of candidates currently deterred, centre costs covered rather than absorbed, and a ready answer when the new home-education registers draw criticism for regulating families without serving them.",
    "firstStep": "One exam season in a single county: three centres offer a fixed block of private-candidate places at audited cost, the charity handles bookings, and results and costs are published jointly."
-  }
+  },
+  "rank": 4,
+  "rankNote": "The 2026 Act is regulating home education without servicing it; the exam choke-point hits poorer families hardest and the service half must be legislated alongside the incoming registers."
  },
  {
   "number": 105,
@@ -3322,7 +3518,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory experimental-zone framework with local democratic consent, independent evaluation and automatic sunset.",
   "tagline": "Britain has 22 special economic zones. Not one can try governing differently.",
-  "summary": "Freeports and investment zones hand out tax breaks but no power to test new rules, so ambitious governance experiments either move abroad or never happen. The Netherlands and Germany allow time-limited, evaluated regulatory trials in designated places. A framework with local consent and automatic expiry would let Britain experiment onshore."
+  "summary": "Freeports and investment zones hand out tax breaks but no power to test new rules, so ambitious governance experiments either move abroad or never happen. The Netherlands and Germany allow time-limited, evaluated regulatory trials in designated places. A framework with local consent and automatic expiry would let Britain experiment onshore.",
+  "rank": 1,
+  "rankNote": "A lawful onshore experimentation vehicle is genuinely missing, but the long horizon, heavy legislative lift and absence of any dated trigger make this a slow-burn rather than pressing."
  },
  {
   "number": 106,
@@ -3349,7 +3547,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: social-investor liquidity/underwriting facility for member exits; Law Commission share reforms are the end-state.",
   "tagline": "Community shares run on trust, not law. One big collapse could poison the whole market.",
-  "summary": "Withdrawable shares finance community pubs, shops and energy projects, yet sit outside investor-protection law: the only safeguard is a voluntary mark, and cashing out depends on the society's till that day. The Law Commission's reform proposals are due this year. Enacting them, plus a facility letting members exit safely, would put the market on solid ground."
+  "summary": "Withdrawable shares finance community pubs, shops and energy projects, yet sit outside investor-protection law: the only safeguard is a voluntary mark, and cashing out depends on the society's till that day. The Law Commission's reform proposals are due this year. Enacting them, plus a facility letting members exit safely, would put the market on solid ground.",
+  "rank": 1,
+  "rankNote": "The main retail funding instrument for community ownership rests on a voluntary mark; the 2026 Law Commission report offers a live hook, though liquidity reform remains downstream of legislation."
  },
  {
   "number": 108,
@@ -3385,7 +3585,9 @@
     "title": "No jurisdictional resilience provision for UK infrastructure operators",
     "domain": "portable-sovereignty"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Illegal-content duties are already forcing volunteer forums to close, a co-operative fix is well understood, nobody provides it, and a July 2026 categorisation deadline pressures action now."
  },
  {
   "number": 109,
@@ -3421,7 +3623,9 @@
     "title": "No statutory shield for end-to-end encryption",
     "domain": "privacy"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Encryption underpins the whole stack, scanning-mandate and secret-notice regimes are being finalised and litigated this year, but durable protection needs statute and only general-budget campaigners push back."
  },
  {
   "number": 110,
@@ -3455,7 +3659,9 @@
    "weBring": "Mature open-source software proven in allied governments, a costed deployment plan drawn from France's Tchap, engineers able to stand up and run a trial server, and introductions to the protocol's foundation.",
    "theyGain": "A credible answer to the Covid inquiry's criticism of government by WhatsApp, messages that meet public-records rules by design, freedom from US legal process, and custom for a British company currently earning almost entirely abroad.",
    "firstStep": "A 90-day trial server for one non-sensitive team of fifty, run alongside existing tools, evaluated against cost, usability and records compliance, and switched off without ceremony if it fails."
-  }
+  },
+  "rank": 2,
+  "rankNote": "The instrument is off-the-shelf and allies already deploy it, but no UK procurement route or civil-society offer exists and no dated trigger makes it acute."
  },
  {
   "number": 111,
@@ -3497,7 +3703,9 @@
     "fill": "Legislation or an ICO code authorising certified personal data intermediaries to exercise access/portability rights on behalf of individuals, plus launch of the first non-finance smart data scheme (energy or telecoms) with intermediary access built in."
    }
   ],
-  "curationNote": "one legislative package: smart-data scheme designation plus certification and rights-agency authorisation for intermediaries."
+  "curationNote": "one legislative package: smart-data scheme designation plus certification and rights-agency authorisation for intermediaries.",
+  "rank": 0,
+  "rankNote": "The legal power now exists but scheme designation stays politically stuck after fifteen years of pilots, DSIT and researchers are partly active, and nothing forces movement soon."
  },
  {
   "number": 112,
@@ -3531,7 +3739,9 @@
    "weBring": "Documented use cases with pilot organisations already willing, technical volunteers for fine-tuning and deployment, charitable co-funding for the support layer, and an independent evaluation of what small local models actually deliver.",
    "theyGain": "Evidence that sovereign AI serves the public, not only labs and investors (the criticism the programme will otherwise face), plus deployment data from advice and casework settings no startup will generate.",
    "firstStep": "One pilot cohort: ten accredited organisations, a fixed slice of existing compute for six months, one shared support contractor, and a jointly published report on costs and outcomes."
-  }
+  },
+  "rank": 1,
+  "rankNote": "Sensitive community data drifts offshore without a public inference tier and a grant instrument is straightforward, but the stakes are nascent and no deadline forces action."
  },
  {
   "number": 115,
@@ -3559,7 +3769,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: alliance charter with shared security baseline, SLA and member directory across existing co-op hosts; philanthropically seeded.",
   "tagline": "British charities run on discounted Google. The co-ops that could host them stay tiny.",
-  "summary": "France built Framasoft, a public-interest host offering the everyday tools charities need. Britain has the same software and willing co-op operators, but no funder has aggregated them into a service with real support and charity pricing. It may be the easiest gap on this map to close: every piece already runs somewhere."
+  "summary": "France built Framasoft, a public-interest host offering the everyday tools charities need. Britain has the same software and willing co-op operators, but no funder has aggregated them into a service with real support and charity pricing. It may be the easiest gap on this map to close: every piece already runs somewhere.",
+  "rank": 2,
+  "rankNote": "Software, UK operators and charity demand all exist and the fix is cheap aggregation nobody funds, yet no dated trigger makes acting this year decisive over next."
  },
  {
   "number": 116,
@@ -3593,7 +3805,9 @@
    "weBring": "Starter kits at tens of pounds a node, volunteer operators to install and train, draft governance and interoperability guidance, and a bridge to the existing national hobbyist network.",
    "theyGain": "A working communications fallback your emergency plan currently lacks, tested cheaply before the next storm forces the question, and something concrete to show residents and the resilience forum.",
    "firstStep": "A 90-day trial in one parish: twenty nodes across halls, shops and volunteers' homes, one exercise simulating a mast outage, and a one-page joint evaluation for the resilience forum."
-  }
+  },
+  "rank": 1,
+  "rankNote": "Cheap hardware and hobbyist networks already exist but resilience doctrine assigns them no role; stakes hinge on rare outages and no deadline pushes procurement."
  },
  {
   "number": 117,
@@ -3620,7 +3834,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: open-source selective-disclosure spec and reference implementation; DIATF certification and Ofcom mandate are the state-led end-state.",
   "tagline": "Proving you're over 18 shouldn't mean handing over your passport.",
-  "summary": "Identity checks are spreading across British life (age, work, services), and each one currently means uploading real documents to a private company. The cryptography to prove a single fact without revealing anything else already exists. Nobody has built the open, certified standard that would let every UK service use it."
+  "summary": "Identity checks are spreading across British life (age, work, services), and each one currently means uploading real documents to a private company. The cryptography to prove a single fact without revealing anything else already exists. Nobody has built the open, certified standard that would let every UK service use it.",
+  "rank": 4,
+  "rankNote": "Ubiquitous identity checks are hardening into surveillance rails, nobody builds the open alternative, and the state wallet's architecture is being decided right now before unlinkability can be baked in."
  },
  {
   "number": 118,
@@ -3656,7 +3872,9 @@
     "title": "No civic governance laboratories: verifiable voting and decision-records untested in low-stakes democracy",
     "domain": "parallel-institutions"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Vendor claims dominate and no What Works-style body independently trials these tools with real communities, a proven methodology exists to apply, but no deadline forces it."
  },
  {
   "number": 119,
@@ -3707,7 +3925,9 @@
     "title": "No opt-out collective redress regime outside competition law",
     "domain": "justice-access"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Sub-litigable per-person harms from mass unlawful processing go unremedied while the ICO declines enforcement; an opt-out redress model exists to copy, but requires legislation Parliament just declined to revisit."
  },
  {
   "number": 120,
@@ -3741,7 +3961,9 @@
     "title": "No domestic funding base for UK digital rights civil society",
     "domain": "surveillance"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "A ready, off-the-shelf model exists, nobody is staffed to run strategic data-rights litigation, and the DUAA complaints regime live from June 2026 creates an exploitable trail."
  },
  {
   "number": 121,
@@ -3776,7 +3998,9 @@
     "title": "Two-tier data protection enforcement: the public sector is effectively exempt from fines",
     "domain": "privacy"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Regulator inaction is unappealable on the merits, letting documented population-scale adtech unlawfulness go unremedied; the FOI decision-notice model is copyable, but the fix needs legislation with no dated trigger."
  },
  {
   "number": 122,
@@ -3821,7 +4045,9 @@
     "fill": "Mandatory certification for age assurance providers serving UK users: data-minimisation and deletion standards, preference for on-device/zero-knowledge age proofs, identity-document breach notification duties, and a joint Ofcom-ICO audit power, all deliverable through Ofcom guidance plus targeted amendment, informed by Ofcom's June 2026 effectiveness report."
    }
   ],
-  "curationNote": "the same binding privacy regime for age-assurance providers; certification was one clause of the same instrument."
+  "curationNote": "the same binding privacy regime for age-assurance providers; certification was one clause of the same instrument.",
+  "rank": 4,
+  "rankNote": "Age checks are now permanent across the UK internet, spawning ID honeypots and breaches this year, yet no binding privacy-preserving standard exists despite a ready EU zero-knowledge blueprint."
  },
  {
   "number": 124,
@@ -3856,7 +4082,9 @@
     "title": "No statutory protection or transparency mechanism for end-to-end encryption",
     "domain": "portable-sovereignty"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Every UK user has a unique cloud-security downgrade threatening adequacy, but a statutory encryption shield is politically fraught against the security establishment, checked so far only by litigation and foreign pressure."
  },
  {
   "number": 125,
@@ -3898,7 +4126,9 @@
     "title": "Secure Data Environment network lacks a funding settlement and HDRS lacks statutory footing",
     "domain": "health-social-care"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "A third national health-data-trust collapse looms as FDP and the Single Patient Record centralise now, the opt-out fails to cover them, and patients still cannot audit access."
  },
  {
   "number": 126,
@@ -3925,7 +4155,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory prohibition on genetic discrimination plus law-enforcement access rules.",
   "tagline": "Your genome is protected by a gentleman's agreement with the insurance industry.",
-  "summary": "The state is sequencing 100,000 newborns while the only thing stopping insurers using genetic results against you is a voluntary code that an industry board could rescind. America and Canada legislated years ago. Nobody in Britain even owns the campaign for a law."
+  "summary": "The state is sequencing 100,000 newborns while the only thing stopping insurers using genetic results against you is a voluntary code that an industry board could rescind. America and Canada legislated years ago. Nobody in Britain even owns the campaign for a law.",
+  "rank": 2,
+  "rankNote": "No statute bars genetic discrimination, only a rescindable industry code, and nobody owns the campaign; foreign models exist but stakes are contained for now with no dated trigger."
  },
  {
   "number": 127,
@@ -3974,7 +4206,9 @@
     "title": "No UK small-grants vehicle for public-interest internet technology (NGI analogue)",
     "domain": "open-source-public-goods"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "PETs could dissolve the growth-versus-privacy dilemma but translation money is one-off with no standing programme; a fund is straightforward yet moderate-stakes and lacks any time pressure."
  },
  {
   "number": 129,
@@ -4000,7 +4234,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: independent UK data-broker observatory (fill's named interim); statutory register is the state-led end-state.",
   "tagline": "Companies you've never heard of trade your data. Not even the government has a list.",
-  "summary": "Nobody, including the government, can name the firms holding and selling profiles of UK residents, data that feeds scams, discriminatory pricing and hostile-state targeting. Rights are useless against companies you cannot identify. California keeps a public register and a one-stop deletion law; Britain could copy both."
+  "summary": "Nobody, including the government, can name the firms holding and selling profiles of UK residents, data that feeds scams, discriminatory pricing and hostile-state targeting. Rights are useless against companies you cannot identify. California keeps a public register and a one-stop deletion law; Britain could copy both.",
+  "rank": 3,
+  "rankNote": "Nobody can even enumerate UK data brokers feeding scams and hostile-state targeting; California's registry-and-deletion model is copyable and the market is unowned, with DSIT interest but no closing date."
  },
  {
   "number": 131,
@@ -4071,6 +4307,8 @@
     "domain": "ai-crisis"
    }
   ],
+  "rank": 3,
+  "rankNote": "Every retraining, income and place-based response depends on quarterly displacement data no one produces; the linkage is buildable now within existing secure-research access as graduate hiring visibly cracks.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "Graduate and entry-level hiring is already visibly cracking; the observatory measures a live process."
  },
@@ -4121,6 +4359,8 @@
     "domain": "education-ai"
    }
   ],
+  "rank": 3,
+  "rankNote": "A third of the workforce sits in the displacement-risk zone with no income-bridging instrument, the fill is entirely unowned, but no dated trigger forces action this year.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Displacement support becomes acute as agentic systems reach mid-skill service work."
  },
@@ -4150,6 +4390,8 @@
   "permissionNote": "Instrument: a Frontier AI Act putting AISI on statutory footing.",
   "tagline": "Britain tests the most powerful AI models only when their makers say yes.",
   "summary": "The AI Security Institute has tested more than 30 frontier models, but its access rests entirely on voluntary agreements that mostly US labs can withdraw at will. The promised law putting it on a statutory footing has slipped since 2024, and no AI bill is before Parliament. The window to set enforceable terms is closing.",
+  "rank": 3,
+  "rankNote": "Frontier-model testing rests on revocable voluntary access that decays as commercial stakes rise; detailed statutory proposals exist yet no bill is before Parliament and the window is closing.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Voluntary model access decays as commercial stakes rise; statutory footing must precede the crunch."
  },
@@ -4177,6 +4419,8 @@
   "permissionNote": "Instrument: statutory reporting duty and DSIT/AISI-run database; investigation branch later.",
   "tagline": "Plane crashes get investigated. Drug reactions get logged. AI failures just vanish.",
   "summary": "Aviation, medicines and workplace safety all run mandatory incident reporting. AI (now embedded in benefits, policing and hospitals) has nothing, so no one can spot patterns or catch early warnings of bigger failures. A central incident database may be the cheapest single piece of AI preparedness available, and it remains unbuilt.",
+  "rank": 2,
+  "rankNote": "Aviation and medicines run mandatory incident regimes while AI has none; the database is the cheapest preparedness measure, wholly unowned since 2024, though no fixed date forces it.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Incident volume scales with deployment; the reporting function must exist before the first major cascade."
  },
@@ -4206,6 +4450,8 @@
   "permissionNote": "Instrument: statutory step-in/priority-access rights, escrow mandates and revived SMS designations.",
   "tagline": "The data centres are in Britain. The off switch is in Washington.",
   "summary": "Britain's AI build-out runs on roughly £31bn of American capital, and the computers stay under US corporate and export-control jurisdiction wherever they physically sit. No contract or statute guarantees UK access if Washington ever rations it. Step-in rights and a public compute reserve would anchor the strategy in law rather than goodwill.",
+  "rank": 4,
+  "rankNote": "£31bn of US-controlled compute is being contracted onto UK soil right now with no legal access guarantee; step-in rights cannot be retrofitted once the deals close.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "The £31bn build-out contracts are being signed now; step-in rights cannot be retrofitted."
  },
@@ -4235,6 +4481,8 @@
   "permissionNote": "Instrument: government programme decision within the £500m Sovereign AI Unit and AIRR.",
   "tagline": "If American AI access ever ends, Britain has no plan B. Open models could be one.",
   "summary": "Open-weight AI models now trail the frontier by only months, making them a credible fallback if US access were restricted or repriced, but a fallback only if someone maintains and adapts them in advance. Europe is building its own open frontier model. Britain's sole effort is a small university project.",
+  "rank": 1,
+  "rankNote": "A cheap fallback exists only if someone maintains open weights in advance; the vehicle and compute already exist, but stakes are contingent and no date forces the decision.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "The open–closed capability gap is 4–8 months today; the hedge is cheap while it stays that narrow."
  },
@@ -4264,6 +4512,8 @@
   "permissionNote": "Instrument: Elections (Digital Content) amendment with regulator designation and statutory funding.",
   "tagline": "Political deepfakes are legal, unlabelled and already reaching three in ten adults.",
   "summary": "Three in ten adults saw a candidate deepfake in the month before this year's local elections, yet election law binds only registered campaigners and no regulator owns the problem. The next general election will be the first fought amid cheap, fluent synthetic media at scale. The fix is known; it just has to pass before the campaign starts.",
+  "rank": 3,
+  "rankNote": "Anonymous AI election content carries no imprint duty and no regulator owns it; the fix is known but must pass with lead time before the next general election campaign.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "The first votes-at-16 general election is inside the current parliament; election law is deepfake-blind today."
  },
@@ -4292,6 +4542,8 @@
   "permissionNote": "Instrument: statutory ATRS publication duty plus NAO-linked audit function and ring-fenced funding.",
   "tagline": "Government is Britain's biggest AI adopter and its least audited.",
   "summary": "AI now helps read 2.4 million NHS chest X-rays a year and drafts ministers' briefings. A supposedly mandatory transparency standard has produced barely 33 published records, and no independent body audits whether any of it works. One conspicuous failure (in benefits, policing or health) could set adoption back years.",
+  "rank": 3,
+  "rankNote": "Government is the biggest AI adopter yet its mandatory transparency standard is barely used and nothing audits whether tools work; one visible failure could set adoption back years.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "Public-sector deployment is already outrunning assurance capacity."
  },
@@ -4320,6 +4572,8 @@
   "permissionNote": "Instrument: OBR mandate change plus a standing HMT/HMRC analysis unit.",
   "tagline": "No one in government models what AI displacement does to the tax take.",
   "summary": "Nearly half of government revenue comes from taxing wages, and most British workers sit in AI-exposed jobs, yet no institution models what happens to receipts if white-collar incomes compress. Fiscal stress will arrive before unemployment statistics do. Mandating the budget watchdog to publish AI downside scenarios would buy the Treasury time to prepare.",
+  "rank": 1,
+  "rankNote": "Half of receipts come from taxing wages most exposed to AI, yet nobody models the downside; the fix is cheap but the erosion compounds slowly with no dated trigger.",
   "capabilityTime": "2–4 model generations",
   "capabilityTimeNote": "Tax-base erosion compounds slowly; the early-warning capability is cheap insurance ahead of it."
  },
@@ -4356,6 +4610,8 @@
    "theyGain": "Early sight of a labour-market shock that would otherwise land unannounced on the mayor's watch, a free evidence base for the Local Growth Plan, and a first-in-country announcement.",
    "firstStep": "A 90-day exposure-mapping exercise for the authority's area, using public data, presented to officers before anything is published, proceeding to a compact only if the map shows a case."
   },
+  "rank": 2,
+  "rankNote": "Displacement will land as local shocks in the very towns hosting data-centre booms, yet no exposure map feeds any growth plan and the mapping is doable today.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Contact-centre and back-office automation lands within one procurement cycle in exposed towns."
  },
@@ -4385,6 +4641,8 @@
   "permissionNote": "Instrument: commissioned Law Commission project leading to an AI Liability Act.",
   "tagline": "An AI agent can cause harm that no person is legally liable for. That's the law now.",
   "summary": "The Law Commission has identified scenarios where an autonomous system causes harm and no one is legally liable, yet no reform project exists to fix them. Unclear liability chills honest deployment and leaves victims uncompensated, and insurers cannot price the risk. Waiting for the first big uncompensated harm means legislating in a panic.",
+  "rank": 2,
+  "rankNote": "Autonomous systems can already cause harm no one is liable for, but the fix needs a multi-year Law Commission project not yet commissioned, and no date forces it.",
   "capabilityTime": "2–4 model generations",
   "capabilityTimeNote": "Autonomous-harm liability becomes urgent as agentic systems act with money and infrastructure."
  },
@@ -4422,6 +4680,8 @@
     "domain": "youth-mobilisation"
    }
   ],
+  "rank": 3,
+  "rankNote": "Graduate hiring is contracting now and every lost cohort is unrecoverable, scarring the 2030s skills base; conditioning the existing skills levy on junior intake could act immediately.",
   "capabilityTime": "biting now",
   "capabilityTimeNote": "Entry-level postings are already contracting; every cohort missed is unrecoverable."
  },
@@ -4451,7 +4711,9 @@
   "permissionNote": "First artefact: expanded JRRT-template pooled fund with charitable and non-charitable arms; foundation anchors are fundraising targets, not permission gates.",
   "tagline": "One small pooled fund signed up 746,000 voters. Imagine it at ten times the size.",
   "summary": "Britain's democracy work (voter registration, election integrity, civic information) leans on a handful of family trusts, and one funder's retreat can collapse a whole field. The UK's pooled democracy fund proved the model, credited with helping register some 746,000 voters. The same fund at £20m a year, locked in for the long term, is the obvious build.",
-  "facet": "funding-gaps"
+  "facet": "funding-gaps",
+  "rank": 4,
+  "rankNote": "UK democracy work depends on a few family trusts vulnerable to single strategy reviews; the pooled-fund vehicle is proven and unowned, and integrity pressures are rising now."
  },
  {
   "number": 146,
@@ -4493,7 +4755,9 @@
     "title": "Grantmaking data is voluntary and patchy: no UK Form 990",
     "domain": "civic-society"
    }
-  ]
+  ],
+  "rank": 0,
+  "rankNote": "Tens of billions sit in endowments with no payout visibility, but the reform is contested, evidence-poor and politically resisted, with no dated trigger, so it stays a slow opportunistic fight."
  },
  {
   "number": 148,
@@ -4521,7 +4785,9 @@
   "permissionNote": "Instrument: statutory share of future dormant-assets tranches; the philanthropic match campaign only supplements state-controlled capital.",
   "tagline": "A ten-year campaign won a fund for left-behind places. It arrived a tenth of the size.",
   "summary": "Campaigners spent a decade winning a Community Wealth Fund for neighbourhoods with the least social infrastructure. It launches at £175m, enough to reach only a fraction of the places that qualify. A fixed slice of future dormant assets, plus matched philanthropy, could build the permanent billion-pound endowment the campaign originally imagined.",
-  "facet": "funding-gaps"
+  "facet": "funding-gaps",
+  "rank": 2,
+  "rankNote": "Patient capital is the only thing shown to work in the worst-off neighbourhoods, but the fund exists and is funded, merely underscale, making this a scaling fight not a vacuum."
  },
  {
   "number": 150,
@@ -4580,7 +4846,9 @@
     "title": "No evidence institution for social connection, loneliness and civic health",
     "domain": "civic-society"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Cross-cutting evidence bodies government itself cites are dying one by one because no department owns them, and the fix is a pooled facility that is ready but not yet anyone's job."
  },
  {
   "number": 152,
@@ -4608,7 +4876,9 @@
   "permissionNote": "First artefact: open cost-effectiveness rankings of UK domestic charities from public accounts and evaluations, plus a pooled effective-giving fund.",
   "tagline": "London hosts world-class charity evaluators. They point donors abroad, almost never here.",
   "summary": "No organisation publishes rigorous, public rankings of which UK charities and civic projects deliver the most per pound. Wealthy donors name doubt about impact as a reason they hold back. A domestic evaluator would cost £2-3m a year to run, trivial next to the giving it could redirect.",
-  "facet": "funding-gaps"
+  "facet": "funding-gaps",
+  "rank": 0,
+  "rankNote": "A trusted domestic evaluator would raise giving and steer it to unfunded fields cheaply, but no dated trigger creates urgency, so it can be built opportunistically."
  },
  {
   "number": 153,
@@ -4635,7 +4905,9 @@
   "permissionNote": "First artefact: crypto-competent fiscal-sponsor charity plus a UK-civic Gitcoin/EF matching round; Charity Commission guidance helps but does not gate v1.",
   "tagline": "Crypto funders give millions to public goods. British charities lack a way to accept it.",
   "summary": "One programme alone has granted over $148m to open-source and civic projects worldwide, yet no UK vehicle exists to receive crypto public-goods money, and charity trustees stay wary. British civic tech, short of funders at home, forfeits grants its American and European peers collect. A crypto-competent fiscal sponsor and clear Charity Commission guidance would open the tap.",
-  "facet": "funding-gaps"
+  "facet": "funding-gaps",
+  "rank": 1,
+  "rankNote": "One of the few growing no-strings funding pools is aligned, but custody and charity-law friction make the fiscal-sponsor vehicle hard to build and no dated trigger forces action."
  },
  {
   "number": 154,
@@ -4670,7 +4942,9 @@
     "title": "No payout floor or distribution transparency for endowed foundations",
     "domain": "civic-society"
    }
-  ]
+  ],
+  "rank": 0,
+  "rankNote": "Comprehensive structured grants data would expose misallocation underpinning every other gap, and the 360Giving standard is off-the-shelf needing only a mandate, though nothing dates the decision."
  },
  {
   "number": 157,
@@ -4718,7 +4992,9 @@
     "title": "Mutual society registration lacks Companies House-grade digital infrastructure",
     "domain": "parallel-institutions"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "Century-old society law raises the mutual model's cost versus the plc; the 2026 report and fast-track procedure for uncontroversial bills make now decisive before the implementation backlog swallows it."
  },
  {
   "number": 159,
@@ -4755,7 +5031,9 @@
     "title": "No merits accountability when the ICO declines to enforce",
     "domain": "privacy"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "State data breaches, including Post Office Horizon victims, draw only reprimands while firms pay millions, removing deterrence where citizens cannot exit; the Information Commission transition offers a legislative opening."
  },
  {
   "number": 161,
@@ -4784,7 +5062,9 @@
   "permissionNote": "Instrument: Statutory Instruments Act plus standing post-legislative scrutiny committee; Parliament and government must change their own procedures.",
   "tagline": "Parliament passes laws by the shelf-load. It almost never checks whether they worked.",
   "summary": "The system for reviewing laws after they pass has quietly collapsed (researchers found no reviews at all published in 2023), while skeleton bills push real policy into statutory instruments Parliament cannot amend. Failed laws persist and good ones never scale. A standing scrutiny committee and a reformed procedure for instruments are designed and waiting.",
-  "facet": "policy-gaps"
+  "facet": "policy-gaps",
+  "rank": 3,
+  "rankNote": "Nobody owns the feedback loop: post-legislative reviews go unpublished and skeleton bills push policy into barely-scrutinised instruments, but the fix needs deep parliamentary reform with no deadline."
  },
  {
   "number": 166,
@@ -4827,7 +5107,9 @@
     "title": "No way to see when someone helps write the rules they are later paid under",
     "domain": "corruption-integrity"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "Bodies shaping ministerial decisions face weaker disclosure than regulated lobbyists while new regional governments lack independent policy capacity; both fixes are moderate, unadopted, and undated."
  },
  {
   "number": 167,
@@ -4854,7 +5136,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: DHSC/MHCLG delivery unit established administratively plus 2027 Spending Review bridging fund; a government decision outsiders cannot ship.",
   "tagline": "Social care reform arrives in two instalments. Nobody owns the gap between them.",
-  "summary": "Social care reform comes in stages (what's affordable now, fundamental change in 2028), and nobody is tasked with delivering the early recommendations in between. Past commission reports decayed on exactly this shelf. A delivery unit and bridging fund could be set up within months, no new law required."
+  "summary": "Social care reform comes in stages (what's affordable now, fundamental change in 2028), and nobody is tasked with delivering the early recommendations in between. Past commission reports decayed on exactly this shelf. A delivery unit and bridging fund could be set up within months, no new law required.",
+  "rank": 5,
+  "rankNote": "The Casey phase 1 report lands in 2026 with no body or bridging fund to own its recommendations, and the 2011 Dilnot precedent shows unimplemented reform decays fast."
  },
  {
   "number": 168,
@@ -4882,7 +5166,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory registration scheme legislated alongside FPA secondary legislation, extending Social Work England or creating a new registrar.",
   "tagline": "Scotland and Wales register their care workers. England can't even name its 1.6 million.",
-  "summary": "England's care workforce (around 1.6 million people) has no register, no enforceable standards and no statutory training body, unlike Scotland and Wales. A fair-pay deal is coming for workers the state cannot individually identify. Registration legislated alongside the pay reforms would give carers portable credentials and a career ladder at last."
+  "summary": "England's care workforce (around 1.6 million people) has no register, no enforceable standards and no statutory training body, unlike Scotland and Wales. A fair-pay deal is coming for workers the state cannot individually identify. Registration legislated alongside the pay reforms would give carers portable credentials and a career ladder at last.",
+  "rank": 3,
+  "rankNote": "England's 1.6 million care workers stay unidentified as Fair Pay Agreement machinery advances; only a charity holds the data and fixing it needs primary legislation, not a switch."
  },
  {
   "number": 169,
@@ -4908,7 +5194,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: ring-fenced grant or statutory fee-rate floor agreed at the 2027 Spending Review; HM Treasury capital.",
   "tagline": "A national pay rise for care workers is coming. No one has said who pays for it.",
-  "summary": "England's Fair Pay Agreement for care workers takes effect from 2028, but no mechanism moves money into the council fee rates most providers depend on. Left unfunded, it risks provider collapse and handed-back contracts, the opposite of a stable workforce. A ring-fenced grant or legal fee-rate floor, settled at the next spending review, is the missing plumbing."
+  "summary": "England's Fair Pay Agreement for care workers takes effect from 2028, but no mechanism moves money into the council fee rates most providers depend on. Left unfunded, it risks provider collapse and handed-back contracts, the opposite of a stable workforce. A ring-fenced grant or legal fee-rate floor, settled at the next spending review, is the missing plumbing.",
+  "rank": 5,
+  "rankNote": "Negotiating machinery arrives October 2026 with no instrument channelling uplifts into local-authority fee rates, risking provider exits and an unfunded mandate absent a 2027 Spending Review decision."
  },
  {
   "number": 170,
@@ -4949,7 +5237,9 @@
     "title": "Secure Data Environment network lacks a funding settlement and HDRS lacks statutory footing",
     "domain": "health-social-care"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Primary-care data is the UK's most valuable research asset, but the settlement stays paused five years on with only partial workarounds and no dated trigger forcing action now."
  },
  {
   "number": 171,
@@ -4990,7 +5280,9 @@
     "title": "No lawful national vehicle for GP data for research, five years after GPDPR collapsed",
     "domain": "health-social-care"
    }
-  ]
+  ],
+  "rank": 4,
+  "rankNote": "Secure-data-environment funding has lapsed and NHS England's data functions sit mid-transfer, so regional teams disperse and industry withholds commitment while HDRS still lacks statutory footing."
  },
  {
   "number": 172,
@@ -5017,7 +5309,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: independent prevention-spend definition and measurement (REAL Centre-style) from published/FOI-able ICB data; the Treasury DEL is state-led.",
   "tagline": "Twenty years of NHS strategies promise a prevention shift. The money never moves.",
-  "summary": "Every NHS strategy since 2006 has promised to shift money into prevention, yet there is no agreed definition of prevention spending, no baseline and no rule forcing the shift, so acute pressures always claw the money back. A measurable investment standard, or a dedicated Treasury spending category, would turn a slogan into a number someone must hit."
+  "summary": "Every NHS strategy since 2006 has promised to shift money into prevention, yet there is no agreed definition of prevention spending, no baseline and no rule forcing the shift, so acute pressures always claw the money back. A measurable investment standard, or a dedicated Treasury spending category, would turn a slogan into a number someone must hit.",
+  "rank": 1,
+  "rankNote": "The prevention shift has been promised since 2006 but stays rhetorical without an agreed definition or Treasury category, and no live date this year forces adoption."
  },
  {
   "number": 173,
@@ -5044,7 +5338,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: legislated successor to the 2006 UDA contract with dated milestones; a DHSC-owned reform programme.",
   "tagline": "NHS dentistry runs on a contract that drives dentists out. The new reforms just patch it.",
-  "summary": "The dental contract blamed for access deserts and dentists quitting NHS work dates from 2006, and this year's reforms modify it rather than replace it. Select committees have condemned the model since 2008. What's missing is a dated programme for a successor: piloted, legislated and paired with a workforce plan."
+  "summary": "The dental contract blamed for access deserts and dentists quitting NHS work dates from 2006, and this year's reforms modify it rather than replace it. Select committees have condemned the model since 2008. What's missing is a dated programme for a successor: piloted, legislated and paired with a workforce plan.",
+  "rank": 0,
+  "rankNote": "The discredited fee model drives dentists from the NHS, yet government is layering incremental patches with no dated wholesale-reform milestone, and replacement remains hard and repeatedly deferred."
  },
  {
   "number": 174,
@@ -5071,7 +5367,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: independent CYP waiting-times tracker from published/FOI-able NHS data; mandating the four-week standard is NHSE/DHSC's.",
   "tagline": "A million children a year get referred for mental health care. No maximum wait exists.",
-  "summary": "Children's mental health services handle over a million referrals a year with no enforceable waiting-time standard. Waits vary up to seventeen-fold from place to place, and deterioration during the queue shunts children into crisis care. NHS clinicians drew up a four-week standard years ago; mandating it and publishing the data needs no new law."
+  "summary": "Children's mental health services handle over a million referrals a year with no enforceable waiting-time standard. Waits vary up to seventeen-fold from place to place, and deterioration during the queue shunts children into crisis care. NHS clinicians drew up a four-week standard years ago; mandating it and publishing the data needs no new law.",
+  "rank": 4,
+  "rankNote": "Over a million referrals and 60,000 children waiting beyond two years, yet an already-developed four-week standard could be mandated administratively via planning guidance without primary legislation."
  },
  {
   "number": 175,
@@ -5098,7 +5396,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: philanthropically funded independent MHA implementation monitor (Centre for Mental Health/RCPsych-style); the DHSC unit is the official end-state.",
   "tagline": "MPs rewrote the Mental Health Act. Making it real could take a decade.",
-  "summary": "The new Mental Health Act promises less coercive care, but implementation stretches up to ten years with no dedicated unit, no costed timetable and no duty to report progress. A neighbouring reform was legislated in 2019 and has never been switched on. An implementation unit and an annual report to Parliament would stop history repeating."
+  "summary": "The new Mental Health Act promises less coercive care, but implementation stretches up to ten years with no dedicated unit, no costed timetable and no duty to report progress. A neighbouring reform was legislated in 2019 and has never been switched on. An implementation unit and an annual report to Parliament would stop history repeating.",
+  "rank": 3,
+  "rankNote": "Freshly enacted reform risks the Liberty Protection Safeguards fate of never being switched on, with no costed roadmap or implementation unit, though the ten-year tail eases immediate pressure."
  },
  {
   "number": 176,
@@ -5126,7 +5426,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: LPS commencement or replacement legislation on the new Supreme Court test, plus funded backlog clearance.",
   "tagline": "New liberty safeguards became law in 2019. Nobody ever switched them on.",
-  "summary": "Around 124,000 people wait in a backlog for legal authorisation of their confinement. The replacement system Parliament approved in 2019 has never been switched on, and a Supreme Court ruling has just redefined the underlying legal test. That opens a rare window to redesign the framework properly, and to fund clearing the queue."
+  "summary": "Around 124,000 people wait in a backlog for legal authorisation of their confinement. The replacement system Parliament approved in 2019 has never been switched on, and a Supreme Court ruling has just redefined the underlying legal test. That opens a rare window to redesign the framework properly, and to fund clearing the queue.",
+  "rank": 4,
+  "rankNote": "A June 2026 Supreme Court ruling and 2026 consultation reopen the framework amid a 124,000-person backlog and continuing Article 5 exposure, a rare window before case law re-hardens."
  },
  {
   "number": 177,
@@ -5151,7 +5453,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: DHSC-commissioned ONS official statistics series. Official status is the gap; unofficial charity estimates already exist and fall short.",
   "tagline": "How many people need care and don't get it? Britain has decided not to count.",
-  "summary": "No official statistic measures how many people need social care and do not receive it; the government declined to produce one, citing methodology. Every funding negotiation therefore starts blind, and charity estimates fill the void. A national statistics series, built from a survey linked to council data, is a well-defined project someone could simply commission."
+  "summary": "No official statistic measures how many people need social care and do not receive it; the government declined to produce one, citing methodology. Every funding negotiation therefore starts blind, and charity estimates fill the void. A national statistics series, built from a survey linked to council data, is a well-defined project someone could simply commission.",
+  "rank": 2,
+  "rankNote": "Casey phase 2 and any funding settlement will be negotiated blind without an official unmet-need measure, and the methodology ONS and the REAL Centre could build stays uncommissioned."
  },
  {
   "number": 178,
@@ -5179,7 +5483,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Courts and Tribunals Bill amendment or PCSC 2022 secondary legislation plus spending-review fund; civil-society tracker is pressure, not the fill.",
   "tagline": "The court rescue plan had two halves. Only the one curtailing jury trial reached the law.",
-  "summary": "Sir Brian Leveson designed a package: structural court reform plus diversion to cut demand. Ministers legislated the structural half, including removing the right to choose jury trial, while the diversion half has no bill and no ring-fenced money. A backlog of roughly 80,000 cases is unlikely to fall as modelled."
+  "summary": "Sir Brian Leveson designed a package: structural court reform plus diversion to cut demand. Ministers legislated the structural half, including removing the right to choose jury trial, while the diversion half has no bill and no ring-fenced money. A backlog of roughly 80,000 cases is unlikely to fall as modelled.",
+  "rank": 5,
+  "rankNote": "the Courts and Tribunals Bill is in Parliament now legislating the contentious structural half while the demand-cutting diversion package it depends on stays unfunded and without a vehicle."
  },
  {
   "number": 179,
@@ -5206,7 +5512,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: short Litigation Funding (Enforceability and Regulation) Bill; only primary legislation reverses PACCAR. The outcomes monitor is an adjunct.",
   "tagline": "A court ruling broke the funding behind group lawsuits. The fix keeps slipping.",
-  "summary": "Most big group claims, like the sub-postmasters', run on third-party funding that a 2023 Supreme Court ruling left largely unenforceable. Ministers accepted the fix, then left it out of the King's Speech. A short bill, drafted once already, would settle the rules before more cases and capital move abroad."
+  "summary": "Most big group claims, like the sub-postmasters', run on third-party funding that a 2023 Supreme Court ruling left largely unenforceable. Ministers accepted the fix, then left it out of the King's Speech. A short bill, drafted once already, would settle the rules before more cases and capital move abroad.",
+  "rank": 2,
+  "rankNote": "only primary legislation can reverse the ruling and ministers accepted the fix, yet it was dropped from the 2026 King's Speech, leaving group-claim funding in limbo."
  },
  {
   "number": 180,
@@ -5241,7 +5549,9 @@
     "title": "No opt-out collective redress route for data protection breaches",
     "domain": "privacy"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "mass low-value harms go unremedied outside competition law, and the Law Commission's consumer-only project is years from legislation, so the near-term lever is shaping its late-2026 consultation."
  },
  {
   "number": 181,
@@ -5269,7 +5579,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: LASPO amendment creating statutory access duty plus LAA coverage-based commissioning and fee reform.",
   "tagline": "Legal aid exists on paper. Most people have no local education or benefits lawyer.",
-  "summary": "Nine in ten people in England and Wales have no local legal aid provider for education law, and benefits and care law fare little better. No one has a duty to act when the last provider leaves an area. A statutory coverage duty would make the entitlement real."
+  "summary": "Nine in ten people in England and Wales have no local legal aid provider for education law, and benefits and care law fare little better. No one has a duty to act when the last provider leaves an area. A statutory coverage duty would make the entitlement real.",
+  "rank": 3,
+  "rankNote": "millions live in areas with no local provider, the December uplift skipped education, welfare and care, and no statutory duty triggers action when the last provider exits."
  },
  {
   "number": 182,
@@ -5297,7 +5609,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation creating HM Chief Inspector of Criminal Justice and restoring court-administration inspection.",
   "tagline": "Four inspectors watch the pieces of criminal justice. Nobody inspects the courts at all.",
-  "summary": "Police, prosecution, prisons and probation each have their own inspectorate, but nobody follows a case from arrest to release or holds the system itself to account. Court administration has gone entirely uninspected since 2010. A chief inspector of criminal justice, with courts back in scope, would close the blind spot."
+  "summary": "Police, prosecution, prisons and probation each have their own inspectorate, but nobody follows a case from arrest to release or holds the system itself to account. Court administration has gone entirely uninspected since 2010. A chief inspector of criminal justice, with courts back in scope, would close the blind spot.",
+  "rank": 2,
+  "rankNote": "an accountability vacuum leaves no inspector tracking cases end-to-end and court administration wholly uninspected since 2010, but no dated trigger forces action right now."
  },
  {
   "number": 183,
@@ -5324,7 +5638,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Sentencing Act amendment making ISC powers permanent, plus a named MoJ/HMCTS unit and multi-year funding.",
   "tagline": "Two decades after Britain's first drug courts, intensive supervision is still a pilot.",
-  "summary": "Intensive supervision courts (judges keeping offenders with addictions on track through community sentences) have piloted since 2023 with no permanent legal basis, no delivery unit and no recurring budget. Sentencing reform is about to send thousands more people to community sentences. Without a rollout vehicle, the expertise dissipates, as earlier drug courts showed."
+  "summary": "Intensive supervision courts (judges keeping offenders with addictions on track through community sentences) have piloted since 2023 with no permanent legal basis, no delivery unit and no recurring budget. Sentencing reform is about to send thousands more people to community sentences. Without a rollout vehicle, the expertise dissipates, as earlier drug courts showed.",
+  "rank": 2,
+  "rankNote": "the Sentencing Act's shift to community sentences raises demand for supervised courts just as a second pilot wave opens, yet no permanent framework, unit or funding secures them."
  },
  {
   "number": 184,
@@ -5351,7 +5667,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: s.133 CJA 1988 amendment and independent compensation body; Law Commission end-2026 report supplies the blueprint.",
   "tagline": "Conviction quashed? You still must prove innocence beyond reasonable doubt to be paid.",
-  "summary": "People whose convictions are quashed must prove innocence beyond reasonable doubt to be compensated: a test almost every exoneree fails, judged inside the ministry whose system failed them. Andrew Malkinson left prison to benefit-sanction letters, not payment. The Law Commission's reform blueprint lands at the end of this year."
+  "summary": "People whose convictions are quashed must prove innocence beyond reasonable doubt to be compensated: a test almost every exoneree fails, judged inside the ministry whose system failed them. Andrew Malkinson left prison to benefit-sanction letters, not payment. The Law Commission's reform blueprint lands at the end of this year.",
+  "rank": 2,
+  "rankNote": "exonerees must prove innocence to a department-run assessor and leave prison unsupported, with the Law Commission's blueprint due end-2026 but no commitment to implement it."
  },
  {
   "number": 185,
@@ -5379,7 +5697,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Criminal Appeals Act implementing the Law Commission package (reformed referral test, independent inspectorate, statutory safeguards).",
   "tagline": "The last resort for the wrongly convicted is itself in collapse, and answers to no one.",
-  "summary": "The Criminal Cases Review Commission is the only route back to court once appeals fail, and it declined to test the DNA that later cleared Andrew Malkinson. Its chair has resigned and MPs demand root-and-branch reform, yet its referral test and lack of outside oversight persist. A criminal appeals act could fix both."
+  "summary": "The Criminal Cases Review Commission is the only route back to court once appeals fail, and it declined to test the DNA that later cleared Andrew Malkinson. Its chair has resigned and MPs demand root-and-branch reform, yet its referral test and lack of outside oversight persist. A criminal appeals act could fix both.",
+  "rank": 3,
+  "rankNote": "the sole post-appeal gateway is in documented collapse with an unchanged referral test and no external oversight, though its immediate crisis is already under interim review."
  },
  {
   "number": 186,
@@ -5407,7 +5727,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Coroners (Reform) Act; nearest step is enacting the stalled Public Office (Accountability) Bill legal-aid parity provisions.",
   "tagline": "How well a death is investigated depends on which council pays the coroner.",
-  "summary": "Inquests are how the state learns from deaths, yet coroners are appointed and funded by 85 separate local jurisdictions with no consistent standards. Bereaved families often face the state's lawyers alone. Two decades of reviews have recommended a national service. Ministers keep declining."
+  "summary": "Inquests are how the state learns from deaths, yet coroners are appointed and funded by 85 separate local jurisdictions with no consistent standards. Bereaved families often face the state's lawyers alone. Two decades of reviews have recommended a national service. Ministers keep declining.",
+  "rank": 3,
+  "rankNote": "fragmented locally funded jurisdictions deny bereaved families consistent standards, and the live Public Office Accountability Bill's inquest legal-aid parity is stalled over a carve-out needing enactment now."
  },
  {
   "number": 187,
@@ -5435,7 +5757,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: resentencing legislation; Woodley bill given government time or amendments to the next criminal justice bill.",
   "tagline": "Parliament abolished the sentence in 2012. More than 2,400 people are still serving it.",
-  "summary": "Imprisonment for Public Protection was scrapped fourteen years ago, but not for those already serving it. More than a thousand have never been released, many held years or decades past short tariffs. Ministers keep refusing the one real remedy, a resentencing exercise, even as a United Nations expert urges reconsideration."
+  "summary": "Imprisonment for Public Protection was scrapped fourteen years ago, but not for those already serving it. More than a thousand have never been released, many held years or decades past short tariffs. Ministers keep refusing the one real remedy, a resentencing exercise, even as a United Nations expert urges reconsideration.",
+  "rank": 5,
+  "rankNote": "thousands remain imprisoned indefinitely on a sentence abolished fourteen years ago, dying in custody, while only legislation can resentence and a live private member's bill lacks government backing."
  },
  {
   "number": 188,
@@ -5463,7 +5787,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: next criminal justice bill creating OBR-style capacity body, mandatory impact assessments and codified contingency protocol.",
   "tagline": "Nobody forecasts prison places until they run out. Then comes the emergency release.",
-  "summary": "Prisons are dangerously past their certified capacity, and official warnings say space could run out within months. Yet nobody independently forecasts demand or scores sentencing laws for capacity impact before they pass. Each crunch ends in improvised emergency release; a standing capacity mechanism would break the cycle."
+  "summary": "Prisons are dangerously past their certified capacity, and official warnings say space could run out within months. Yet nobody independently forecasts demand or scores sentencing laws for capacity impact before they pass. Each crunch ends in improvised emergency release; a standing capacity mechanism would break the cycle.",
+  "rank": 5,
+  "rankNote": "the estate sits far over capacity with places projected to run out within months, yet no standing body forecasts demand or scores sentencing laws before they pass."
  },
  {
   "number": 189,
@@ -5490,7 +5816,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory data-standards duty in next criminal justice bill; Data First expansion needs MoJ funding and governance.",
   "tagline": "Police, courts and prisons can't follow the same case. The backlog hides in the gaps.",
-  "summary": "Every criminal justice agency runs its own case system, with no shared identifier following a person from arrest to release. No one can see in real time where the 80,000-case backlog actually sits, and victims cannot be told what is happening to their case. A common data layer is the unglamorous fix most other reforms depend on."
+  "summary": "Every criminal justice agency runs its own case system, with no shared identifier following a person from arrest to release. No one can see in real time where the 80,000-case backlog actually sits, and victims cannot be told what is happening to their case. A common data layer is the unglamorous fix most other reforms depend on.",
+  "rank": 2,
+  "rankNote": "no shared identifier lets any agency track a case end-to-end in real time, hiding where the backlog sits and blocking nearly every other reform, but nothing dates the fix."
  },
  {
   "number": 190,
@@ -5518,7 +5846,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: LAO secondary legislation plus MHCLG central funding; only the assurance-status register could be shadowed from public opinions.",
   "tagline": "Years of council accounts will simply never be audited. Nobody plans to go back.",
-  "summary": "To clear the audit backlog, England let auditors give up: nearly half of local bodies had their accounts disclaimed at the latest deadline, and no one plans to re-audit those years. Fraud or misstatement from that period may simply never surface. A funded recovery programme would re-verify the riskiest balance sheets."
+  "summary": "To clear the audit backlog, England let auditors give up: nearly half of local bodies had their accounts disclaimed at the latest deadline, and no one plans to re-audit those years. Fraud or misstatement from that period may simply never surface. A funded recovery programme would re-verify the riskiest balance sheets.",
+  "rank": 4,
+  "rankNote": "Hundreds of billions in disclaimed accounts will never gain assurance, no body is resourced to re-baseline them, and the LAO's founding secondary legislation is being drafted now."
  },
  {
   "number": 191,
@@ -5553,7 +5883,9 @@
     "title": "No early-warning system or open data on council finances since Oflog's abolition",
     "domain": "debt"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "A £100bn+ sector has no independent forward-sustainability analysis, so cliffs like the 2028 SEND override arrive as surprises, though an interim IFS/IfG shadow unit is buildable now."
  },
  {
   "number": 192,
@@ -5610,7 +5942,9 @@
   "facets": [
    "policy-gaps"
   ],
-  "curationNote": "one instrument: the promised fiscal-devolution framework giving mayoral authorities real revenue tools."
+  "curationNote": "one instrument: the promised fiscal-devolution framework giving mayoral authorities real revenue tools.",
+  "rank": 3,
+  "rankNote": "England's extreme fiscal centralisation caps local growth capture, but Treasury already owns the fix through a live visitor-levy bill and its autumn-2026 devolution roadmap."
  },
  {
   "number": 193,
@@ -5660,7 +5994,9 @@
     "title": "No early-warning system or open data on council finances since Oflog's abolition",
     "domain": "debt"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Councils are failing and rescued expensively case-by-case with no debt-resolution tool or trained commissioner cadre, yet the statutory regime needed is a slow primary-legislation build."
  },
  {
   "number": 195,
@@ -5694,7 +6030,9 @@
    "weBring": "Philanthropic seed funding for bursaries, graduate recruitment modelled on proven schemes, programme design capacity, and an independent evaluation the case to ministers can rest on.",
    "theyGain": "A live demonstration of the funded qualification route your own workforce plan calls for, new trainee members, and host councils filling vacant posts with subsidised staff.",
    "firstStep": "One cohort: ten graduates, five volunteer host councils, seed-funded for two years to part-qualification, with a joint review after year one before anyone commits to a second."
-  }
+  },
+  "rank": 4,
+  "rankNote": "Vacant finance posts sit upstream of the entire audit crisis, the LGA/CIPFA action plan is ready to run, and only central funding is missing to make 2030 assurance achievable."
  },
  {
   "number": 196,
@@ -5728,7 +6066,9 @@
    "weBring": "Grant funding to cover pilot fees so councils pay nothing, seconded commercial practitioners, and a dossier mapping audit-office findings on failed council deals to specific skill gaps.",
    "theyGain": "A funded test of the expansion Local Partnerships already wants, hard demand evidence for the grant case to ministers, and no risk to the existing fee-funded model.",
    "firstStep": "One region, six months: a grant-funded deal team supports three councils through reorganisation contract reviews at no charge, with take-up and results reported jointly."
-  }
+  },
+  "rank": 3,
+  "rankNote": "Tens of billions flow through council contracts where skills gaps caused real collapses and Local Partnerships could be scaled, but no dated trigger forces action this year."
  },
  {
   "number": 197,
@@ -5755,7 +6095,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: philanthropy-underwritten open-source unitarisation components and standards (LocalGov-Drupal-style); successor fund and standing service are the state end-state.",
   "tagline": "Dozens of councils must merge their IT at once. No fund, no platform, no standards body.",
-  "summary": "Reorganisation forces dozens of abolished districts to merge finance systems and data into new unitary councils, among the largest forced IT consolidations ever attempted in the UK public sector, with no dedicated fund and no shared standards. Birmingham's Oracle failure shows how badly one such project can go. Shared open-source components would stop every council solving it alone."
+  "summary": "Reorganisation forces dozens of abolished districts to merge finance systems and data into new unitary councils, among the largest forced IT consolidations ever attempted in the UK public sector, with no dedicated fund and no shared standards. Birmingham's Oracle failure shows how badly one such project can go. Shared open-source components would stop every council solving it alone.",
+  "rank": 4,
+  "rankNote": "Reorganisation is forcing dozens of simultaneous system mergers now with the Local Digital Fund killed and no shared platform, risking Birmingham's ERP failure replicated at scale."
  },
  {
   "number": 198,
@@ -5789,7 +6131,9 @@
    "weBring": "A costed committee design, philanthropic funding for an independent chair and small secretariat, help recruiting members with audit experience, and a joint evaluation partner.",
    "theyGain": "Independent scrutiny that catches problems before auditors or the press do, a stronger case to the Treasury for the next settlement, and first say in a model Whitehall will eventually mandate.",
    "firstStep": "A six-month shadow committee tracing one programme's money across council, mayoral and NHS budgets, with an independently chaired public session and a single published report, at our cost, evaluated jointly."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Multi-billion integrated settlements are scrutinised only by part-time councillors reviewing their own mayor; the model is designed and the 2026 Act opens a secondary-legislation window."
  },
  {
   "number": 199,
@@ -5816,7 +6160,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: primary legislation for a rolling revaluation cycle on the Welsh 2024 Act model, with VOA automated-valuation infrastructure.",
   "tagline": "Your council tax bill is based on what your home was worth in 1991.",
-  "summary": "England has not revalued homes for council tax in 35 years, so identical bills land on wildly different properties and every funding formula built on top inherits the distortion. Wales has already legislated for regular revaluations. A rolling revaluation cycle is entirely buildable; the government has simply ruled it out."
+  "summary": "England has not revalued homes for council tax in 35 years, so identical bills land on wildly different properties and every funding formula built on top inherits the distortion. Wales has already legislated for regular revaluations. A rolling revaluation cycle is entirely buildable; the government has simply ruled it out.",
+  "rank": 3,
+  "rankNote": "The principal local tax is grossly regressive on 35-year-old valuations, but government explicitly ruled out reform in 2025 and the political build is long and contested."
  },
  {
   "number": 200,
@@ -5843,7 +6189,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: National Resilience Act creating an OBR/CCC-model statutory scrutineer with information powers; government rejected it January 2025.",
   "tagline": "The Covid inquiry asked for an independent preparedness watchdog. Ministers said no.",
-  "summary": "Every review since 2020 blamed groupthink and absent outside challenge for Britain's pandemic failures, yet ministers rejected the Covid inquiry's call for an independent statutory preparedness body. Between crises, the state still marks its own homework. A watchdog on the climate-committee model would supply the missing challenge."
+  "summary": "Every review since 2020 blamed groupthink and absent outside challenge for Britain's pandemic failures, yet ministers rejected the Covid inquiry's call for an independent statutory preparedness body. Between crises, the state still marks its own homework. A watchdog on the climate-committee model would supply the missing challenge.",
+  "rank": 3,
+  "rankNote": "A well-understood OBR-style model would give whole-hazard preparedness its only independent auditor, yet government rejected it in January 2025, leaving it unowned with no dated trigger forcing action."
  },
  {
   "number": 201,
@@ -5869,7 +6217,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: philanthropically funded standing shadow network (Independent-SAGE precedent) publishing horizon scans, scenario models and red-team exercises.",
   "tagline": "Emergency science advice gets assembled after the emergency starts.",
-  "summary": "The scientific advisory group that steers ministers through a crisis is assembled only once the crisis has begun; in 2020 the UK stood up its advice from a cold start. Nothing maintains expertise, models scenarios or challenges assumptions in peacetime. A permanently funded standing network would cut the fatal lag."
+  "summary": "The scientific advisory group that steers ministers through a crisis is assembled only once the crisis has begun; in 2020 the UK stood up its advice from a cold start. Nothing maintains expertise, models scenarios or challenges assumptions in peacetime. A permanently funded standing network would cut the fatal lag.",
+  "rank": 3,
+  "rankNote": "Pandemic-readiness advice still starts from cold, but government is refreshing the expert register in 2026 and exploring open recruitment now, a live window to lock in permanent standing infrastructure."
  },
  {
   "number": 202,
@@ -5902,7 +6252,9 @@
    "weBring": "A nucleus of trained volunteers, philanthropic funding for training, kit and insurance, a drafted deployment agreement covering vetting and liability, and organisers who turn up to exercises.",
    "theyGain": "Surge capacity written into emergency plans at no cost to your budget, and vetted volunteers you can actually task, instead of the unmanaged spontaneous helpers who complicated 2020.",
    "firstStep": "Invite the pilot corps into one planned exercise this season under a simple agreement covering vetting and insurance; review together afterwards before deciding on any standing role."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Surge manpower for cascading crises is genuinely missing and only a tiny charity attempts it, but the THW model needs building from scratch with no dated trigger forcing 2026 action."
  },
  {
   "number": 203,
@@ -5935,7 +6287,9 @@
    "weBring": "A draft protocol built on Covid Inquiry evidence, a pooled philanthropic surge fund with grant rails ready to pay out in days, and the sector networks to test it.",
    "theyGain": "A Covid Inquiry recommendation closed without new departmental spending, and a next crisis where ministers can point to funded, rehearsed arrangements rather than improvisation.",
    "firstStep": "A 90-day trial in one resilience forum area: the draft protocol tested in a single exercise, the fund making one simulated rapid payment, findings published jointly."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Reaching vulnerable groups fast matters and DCMS work is only a consultation, but the fix is moderate-stakes coordination with no funded rails or deadline compelling immediate movement."
  },
  {
   "number": 204,
@@ -5961,7 +6315,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: government stockpile strategy plus DHSC-funded BARDA-style warm-base manufacturing; spending-review decisions outsiders cannot ship.",
   "tagline": "You cannot improvise a vaccine factory. Britain still has no warm-standby manufacturing.",
-  "summary": "The £1bn pandemic strategy replenishes protective equipment and buys some vaccine capacity, but Britain has no standing surge-manufacturing base and no published stockpile strategy with rotated reserves. Stockpiles degrade, and factories cannot be conjured mid-crisis. A warm manufacturing base is what makes a fast response possible."
+  "summary": "The £1bn pandemic strategy replenishes protective equipment and buys some vaccine capacity, but Britain has no standing surge-manufacturing base and no published stockpile strategy with rotated reserves. Stockpiles degrade, and factories cannot be conjured mid-crisis. A warm manufacturing base is what makes a fast response possible.",
+  "rank": 1,
+  "rankNote": "Warm-base surge manufacturing decides 100-day versus 12-month countermeasures, but the £1bn strategy already funds adjacent stockpiles and no dated trigger forces the reshoring piece now."
  },
  {
   "number": 205,
@@ -5987,7 +6343,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: statutory lessons-implementation mechanism with named senior owner and funded delivery; outsiders can only track recommendations publicly.",
   "tagline": "A 2016 exercise predicted the pandemic's failures. Its findings sat on a shelf.",
-  "summary": "Exercise Cygnus foresaw in 2016 the precise weaknesses that crippled the Covid response, and its recommendations were shelved. The far bigger Exercise Pegasus now risks the same fate, with no named owner, no deadlines and no funded follow-through. A statutory mechanism tracking every accepted lesson would break the pattern."
+  "summary": "Exercise Cygnus foresaw in 2016 the precise weaknesses that crippled the Covid response, and its recommendations were shelved. The far bigger Exercise Pegasus now risks the same fate, with no named owner, no deadlines and no funded follow-through. A statutory mechanism tracking every accepted lesson would break the pattern.",
+  "rank": 5,
+  "rankNote": "Cygnus lessons were shelved before 2020; with Pegasus's recovery phase and report both landing in 2026 and no named implementation owner, establishing accountability now is decisively time-critical."
  },
  {
   "number": 206,
@@ -6014,7 +6372,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: Treasury/Defra blended adaptation-finance mechanism with mandatory reporting plus statutory Flood Re successor design.",
   "tagline": "Climate-proofing Britain needs around £11bn a year. Nothing exists to raise or track it.",
-  "summary": "The climate committee puts Britain's adaptation bill at roughly £11bn a year, split between public and private money, and finds no mechanism to coordinate, guarantee or track it. The flood insurance backstop expires in 2039 with no successor designed. A national adaptation-finance vehicle would keep high-risk homes insurable."
+  "summary": "The climate committee puts Britain's adaptation bill at roughly £11bn a year, split between public and private money, and finds no mechanism to coordinate, guarantee or track it. The flood insurance backstop expires in 2039 with no successor designed. A national adaptation-finance vehicle would keep high-risk homes insurable.",
+  "rank": 3,
+  "rankNote": "Underinvestment is cheaper to fix now than pay later, and Flood Re expires 2039 with no successor, but the finance vehicle is complex and lacks a this-year trigger."
  },
  {
   "number": 207,
@@ -6040,7 +6400,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: machinery-of-government designation of a lead department, Part O regulatory extension and funded retrofit programme.",
   "tagline": "Most heat deaths happen indoors. No one in government owns keeping homes cool.",
-  "summary": "Overheating rules cover only new homes and are weakly enforced, while three departments each hold a piece of the problem and none owns the outcome. Last year was the UK's hottest on record, and heat mortality is projected to rise sharply. Naming a lead department is the cheap, obvious first step."
+  "summary": "Overheating rules cover only new homes and are weakly enforced, while three departments each hold a piece of the problem and none owns the outcome. Last year was the UK's hottest on record, and heat mortality is projected to rise sharply. Naming a lead department is the cheap, obvious first step.",
+  "rank": 2,
+  "rankNote": "Nobody owns residential overheating despite 2025 being the hottest year and mortality rising toward 2050, and naming a lead department is easy, yet no dated policy trigger forces it."
  },
  {
   "number": 208,
@@ -6067,7 +6429,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: commencement order for FWMA 2010 Schedule 3 plus Environment Agency empowerment; purely a government decision.",
   "tagline": "A 2010 law would tame surface flooding. England has never brought it into force.",
-  "summary": "Surface water is the fastest-growing flood risk, threatening around three million properties, yet responsibility is split with no clear owner. The legal fix (mandatory sustainable drainage and ending developers' automatic right to connect to old sewers) has sat uncommenced since 2010, though Wales enforces it. Commencement needs no new law."
+  "summary": "Surface water is the fastest-growing flood risk, threatening around three million properties, yet responsibility is split with no clear owner. The legal fix (mandatory sustainable drainage and ending developers' automatic right to connect to old sewers) has sat uncommenced since 2010, though Wales enforces it. Commencement needs no new law.",
+  "rank": 5,
+  "rankNote": "Schedule 3 is already law and live in Wales, three million properties face the fastest-rising flood source, and the Planning and Infrastructure Bill is an open vehicle to commence it."
  },
  {
   "number": 209,
@@ -6093,7 +6457,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: ring-fenced multi-year DHSC/UKHSA funding and NHS-wide metagenomics rollout with published milestones.",
   "tagline": "Britain's pathogen radar is switched on in some hospitals and switched off in most.",
-  "summary": "The promised national biosurveillance network (spotting novel pathogens in real time) runs in only around 30 NHS trusts, with wastewater and air monitoring barely begun. Whether the headline funding is genuinely new money is contested, and there are no measurable milestones. Finishing the build decides how early Britain catches the next outbreak."
+  "summary": "The promised national biosurveillance network (spotting novel pathogens in real time) runs in only around 30 NHS trusts, with wastewater and air monitoring barely begun. Whether the headline funding is genuinely new money is contested, and there are no measurable milestones. Finishing the build decides how early Britain catches the next outbreak.",
+  "rank": 3,
+  "rankNote": "Metagenomic surveillance is the pandemic early-warning trigger and scaling the existing 30-trust programme is straightforward, but government is already building it and funding decisions carry no this-year deadline."
  },
  {
   "number": 210,
@@ -6120,7 +6486,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: legislation creating an executive CNI agency with cross-sector standard-setting and enforcement powers.",
   "tagline": "A single failure can cascade from power to payments to transport. Nobody owns the whole.",
-  "summary": "The UK secures each of its 13 critical infrastructure sectors separately, and no executive body manages how they depend on one another. A flood, cyber-attack or solar storm in one sector can ripple unchecked through energy, water and finance. An agency with power to set cross-sector standards is the missing piece."
+  "summary": "The UK secures each of its 13 critical infrastructure sectors separately, and no executive body manages how they depend on one another. A flood, cyber-attack or solar storm in one sector can ripple unchecked through energy, water and finance. An agency with power to set cross-sector standards is the missing piece.",
+  "rank": 2,
+  "rankNote": "Cascading cross-sector failures have no executive coordinator across thirteen CNI sectors, a high-stakes institutional gap, but building the agency is hard and outcome standards aren't due until 2030."
  },
  {
   "number": 211,
@@ -6147,7 +6515,9 @@
   "dataReady": false,
   "permissionNote": "Instrument: National Resilience Act giving LRFs legal standing, multi-year ring-fenced settlement and a national Chief Resilience Officer.",
   "tagline": "Local emergency planners have no legal existence and no budget beyond next year.",
-  "summary": "Local Resilience Forums carry the front line of every emergency, yet they have no legal personality and survive on fragmented short-term funding. There is no national chief resilience officer either, despite repeated parliamentary calls. A resilience act with a multi-year settlement would put the front line on a footing to match its job."
+  "summary": "Local Resilience Forums carry the front line of every emergency, yet they have no legal personality and survive on fragmented short-term funding. There is no national chief resilience officer either, despite repeated parliamentary calls. A resilience act with a multi-year settlement would put the front line on a footing to match its job.",
+  "rank": 3,
+  "rankNote": "Front-line local responders lack legal standing and durable money and get cut first, with a funding review underway and the 2004 Act's duties reviewed in 2027 opening a real window."
  },
  {
   "number": 212,
@@ -6174,7 +6544,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: tamper-evident hash archive of one published inquiry evidence corpus; the council-records variant would need a partner.",
   "tagline": "Corrupted records convicted hundreds. Destroyed records stripped citizens of status.",
-  "summary": "The Post Office and Windrush scandals were both, at root, failures of record-keeping that nobody could independently verify. No UK institution stores inquiry evidence, judgments or contracts in tamper-evident, publicly checkable form, though the technology exists. A pilot could start with a single inquiry's evidence corpus."
+  "summary": "The Post Office and Windrush scandals were both, at root, failures of record-keeping that nobody could independently verify. No UK institution stores inquiry evidence, judgments or contracts in tamper-evident, publicly checkable form, though the technology exists. A pilot could start with a single inquiry's evidence corpus.",
+  "rank": 1,
+  "rankNote": "No UK body keeps evidence-grade records tamper-evident despite Horizon and Windrush; the technology exists but the application is novel, unresourced, and carries no dated trigger."
  },
  {
   "number": 213,
@@ -6208,7 +6580,9 @@
    "weBring": "A working publishing pipeline, engineers to connect it to your finance system at our cost, data-cleaning help, and funding for an independent evaluation of cost, workload and errors found.",
    "theyGain": "An assurance story for auditors and residents while the national audit system is rebuilt, earlier detection of duplicate and irregular payments, and the spending-over-£500 duty met automatically rather than by hand.",
    "firstStep": "A 90-day pilot publishing one service's spend in the open format alongside your existing files, jointly evaluated; if it adds work without value, switch it off."
-  }
+  },
+  "rank": 2,
+  "rankNote": "Over £100bn of annual spending lacks timely assurance while tamper-evident treasury rails are technically routine yet unfunded, with no council or funder having piloted them."
  },
  {
   "number": 214,
@@ -6250,7 +6624,9 @@
     "title": "No independent field evaluation of the decentralised stack for real UK communities",
     "domain": "portable-sovereignty"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "Millions of co-op and union members are governed by unverifiable processes, but running structured trials is unproven, statutorily constrained, and faces no deadline forcing the evidence base to fill."
  },
  {
   "number": 215,
@@ -6277,7 +6653,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: open service-continuity playbook (legal templates, TUPE, insurance) published by a Locality/Plunkett-class body.",
   "tagline": "When a broke council drops the library, the community improvises, or watches it die.",
-  "summary": "Councils in financial distress are cutting libraries, parks and youth services to the legal minimum, and there is no prepared route for communities to take a service on. Every handover reinvents the same legal, insurance and staffing tangle. A tested playbook and a rapid advice service could turn austerity's vacuums into accountable local institutions."
+  "summary": "Councils in financial distress are cutting libraries, parks and youth services to the legal minimum, and there is no prepared route for communities to take a service on. Every handover reinvents the same legal, insurance and staffing tangle. A tested playbook and a rapid advice service could turn austerity's vacuums into accountable local institutions.",
+  "rank": 4,
+  "rankNote": "Fiscal arithmetic guarantees more councils will strip services this year, yet no productised, legally-templated pathway lets communities assume them, so each live handover fails or teaches nobody."
  },
  {
   "number": 216,
@@ -6304,7 +6682,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: rapid casework service plus published exclusion-volumes tracker; credit-union partnerships are voluntary, not gatekeeping.",
   "tagline": "Lose your bank account and no institution in Britain is tasked with getting you back.",
-  "summary": "Debanking, de-platforming and digital ID errors can cut a person off from work, rent and trade overnight, with appeals that take months and no due process. No service exists whose whole job is restoration. One is buildable: emergency payment routes, identity re-establishment and casework against the institution that pulled the plug."
+  "summary": "Debanking, de-platforming and digital ID errors can cut a person off from work, rent and trade overnight, with appeals that take months and no due process. No service exists whose whole job is restoration. One is buildable: emergency payment routes, identity re-establishment and casework against the institution that pulled the plug.",
+  "rank": 3,
+  "rankNote": "Debanking and digital-ID exclusion strip livelihoods with no restoration institution; the composite service is buildable and wholly unowned, and One Login will scale exclusion errors without a single forcing date."
  },
  {
   "number": 217,
@@ -6345,7 +6725,9 @@
     "title": "No census of the critical open source dependencies underpinning UK government and CNI",
     "domain": "open-source-public-goods"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "A small team could ship this index within a year and nobody measures lock-in today, but the value is diagnostic and no dated trigger forces it now."
  },
  {
   "number": 218,
@@ -6372,7 +6754,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: open civic-technology curriculum plus train-the-trainer pack; libraries, unions, community groups deliver voluntarily, no gatekeeper.",
   "tagline": "We teach adults to spot scams, not to understand the systems that govern them.",
-  "summary": "Digital-skills courses teach adults to use apps and dodge scams, not to understand the systems that govern them: what encryption guarantees, what digital ID architectures reveal. Public debates proceed on claims citizens cannot evaluate. An open curriculum delivered through libraries, unions and community groups could build comprehension with citizens-advice reach."
+  "summary": "Digital-skills courses teach adults to use apps and dodge scams, not to understand the systems that govern them: what encryption guarantees, what digital ID architectures reveal. Public debates proceed on claims citizens cannot evaluate. An open curriculum delivered through libraries, unions and community groups could build comprehension with citizens-advice reach.",
+  "rank": 2,
+  "rankNote": "Digital-ID, Online Safety Act and CBDC debates proceed with citizens unable to evaluate claims, yet nobody owns adult civic comprehension and no delivery instrument yet exists."
  },
  {
   "number": 219,
@@ -6407,6 +6791,8 @@
    "theyGain": "A channel that lets press and platforms check a result is genuine the moment it is declared: protection against spoofed declaration pages, and practical learning before the first votes-at-16 general election.",
    "firstStep": "At one council area's next scheduled elections, co-sign declared results in parallel with normal publication; the legal declaration is untouched, and we jointly review who used the verification and how."
   },
+  "rank": 2,
+  "rankNote": "When anything can be faked, critical facts still rest on spoofable single sources; a multi-witness attestation pilot is buildable and unowned, needing proof before the next general election.",
   "capabilityTime": "1–2 model generations",
   "capabilityTimeNote": "Synthetic media at scale erodes shared facts within one or two generations of video models."
  },
@@ -6435,7 +6821,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: 1,000-member community benefit society with transparent treasury, formed voluntarily within existing law.",
   "tagline": "Millions of self-employed workers fall through the safety net. A mutual could catch them.",
-  "summary": "No British community has demonstrated the modern mutual: sick pay, bargaining power and legal defence for members, run on a transparent treasury. Existing law already allows a version of it. A pilot with a thousand members would give reformers a live client, funders a template, and the self-employed a way back in."
+  "summary": "No British community has demonstrated the modern mutual: sick pay, bargaining power and legal defence for members, run on a transparent treasury. Existing law already allows a version of it. A pilot with a thousand members would give reformers a live client, funders a template, and the self-employed a way back in.",
+  "rank": 1,
+  "rankNote": "A working existence-proof would give reformers a live client and self-employed workers an alternative, and it is buildable within existing law, but it is unresourced, operationally heavy and undated."
  },
  {
   "number": 221,
@@ -6462,7 +6850,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: signed compact with pooled rapid-response defence fund, convened by an NCVO/Bond-class network.",
   "tagline": "A single lawsuit or a closed bank account can end a charity. Each faces the attack alone.",
-  "summary": "Civic organisations face lawsuits, debanking, cyber intrusion and smear campaigns on tiny budgets, and each attack is survived (or not) alone. Isolation is the attacker's force multiplier. A mutual-defence compact with a shared security baseline, pooled incident response and a rapid solidarity fund would mean nobody stands alone under unjust attack."
+  "summary": "Civic organisations face lawsuits, debanking, cyber intrusion and smear campaigns on tiny budgets, and each attack is survived (or not) alone. Isolation is the attacker's force multiplier. A mutual-defence compact with a shared security baseline, pooled incident response and a rapid solidarity fund would mean nobody stands alone under unjust attack.",
+  "rank": 2,
+  "rankNote": "Isolated civic organisations face rising legal, financial and cyber attacks with no standing mutual-defence arrangement, but a compact is a novel collective-action build with no single dated trigger."
  },
  {
   "number": 222,
@@ -6496,7 +6886,9 @@
    "weBring": "A drafted records standard, tooling that proves a decision was authorised without exposing the private file, engineering integration at our cost, and an independent evaluation partner.",
    "theyGain": "Earlier detection of deputy misconduct than annual self-reports allow, a cheaper inspection trail per case, and a credible answer ready when the next abuse case reaches the press.",
    "firstStep": "A six-month pilot in one region: new deputyship decisions logged in the tamper-evident format alongside existing records, access limited to your staff and consenting families, jointly evaluated before any wider use."
-  }
+  },
+  "rank": 0,
+  "rankNote": "life-controlling decisions for a vast, least-able-to-contest population rest on unauditable records inviting abuse, but the fix is a novel build with no dated trigger forcing it."
  },
  {
   "number": 223,
@@ -6531,7 +6923,9 @@
     "title": "No compliance mutual for small community-run online services under the Online Safety Act",
     "domain": "portable-sovereignty"
    }
-  ]
+  ],
+  "rank": 2,
+  "rankNote": "Every stack gap assumes someone runs infrastructure, operators face live OSA and secret-notice pressure with no defence fund or guidance, and the fix is buildable now."
  },
  {
   "number": 224,
@@ -6567,7 +6961,9 @@
     "title": "No one checks whether the state could ever leave its biggest software suppliers",
     "domain": "corruption-integrity"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "The firms running the most sensitive NHS and defence data are US-owned and reachable under the CLOUD Act, yet no approval process requires a published exposure assessment before contracts signed."
  },
  {
   "number": 225,
@@ -6595,7 +6991,9 @@
   "dataReady": true,
   "permissionNote": "First artefact: an open register scraping Find a Tender for exemption-based awards; all source data is public.",
   "tagline": "Government's no-competition contracts are all public. Nobody adds them up.",
-  "summary": "Direct awards under defence and 'technical' exemptions are each published, then forgotten, so a habit of handing the same suppliers uncompeted work stays invisible. A £240m Ministry of Defence deal went to Palantir without a tender. An open register built from public data would make the pattern legible."
+  "summary": "Direct awards under defence and 'technical' exemptions are each published, then forgotten, so a habit of handing the same suppliers uncompeted work stays invisible. A £240m Ministry of Defence deal went to Palantir without a tender. An open register built from public data would make the pattern legible.",
+  "rank": 2,
+  "rankNote": "Uncompeted awards are published individually but never aggregated, so repeat single-source patterns stay invisible; the register is buildable today from public data yet nobody is resourced to run it."
  },
  {
   "number": 226,
@@ -6631,7 +7029,9 @@
     "title": "Think-tank ecosystem: no funding disclosure requirement and no regional policy capacity",
     "domain": "corruption-integrity"
    }
-  ]
+  ],
+  "rank": 1,
+  "rankNote": "Policy submissions and the public money later drawn under those rules live in separate records nobody joins; the cross-referencing tool is buildable now but the stakes stay narrow."
  },
  {
   "number": 227,
@@ -6679,7 +7079,9 @@
     "title": "No census of the critical open source dependencies underpinning UK government and CNI",
     "domain": "open-source-public-goods"
    }
-  ]
+  ],
+  "rank": 3,
+  "rankNote": "Government deepens dependence on data-fusion vendors with no exit-readiness test; nobody checks switchability, and the NHS platform's 2027 break clause looms as a decision no one is equipped to take."
  },
  {
   "number": 228,
@@ -6707,6 +7109,8 @@
   "dataReady": false,
   "permissionNote": "Instrument: a Department for Education change to apprenticeship funding rules attaching data-governance conditions.",
   "tagline": "The public pays for the training. A private company keeps the data.",
-  "summary": "Publicly funded apprenticeships generate detailed learner records held on private platforms under 'legitimate business interest', not consent, with no rules on who ends up owning them. Public money builds private data assets with no strings. A data-governance clause in the funding rules would fix it."
+  "summary": "Publicly funded apprenticeships generate detailed learner records held on private platforms under 'legitimate business interest', not consent, with no rules on who ends up owning them. Public money builds private data assets with no strings. A data-governance clause in the funding rules would fix it.",
+  "rank": 3,
+  "rankNote": "Publicly funded apprenticeship data becomes private assets ungoverned; a Department for Education funding-rule change is easy and nobody owns it, but stakes are narrow with no urgent trigger."
  }
 ]
