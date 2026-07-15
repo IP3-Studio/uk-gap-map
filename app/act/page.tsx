@@ -14,7 +14,7 @@ const dataReadyNow = gaps.filter((g) => g.permission === "build-now" && g.dataRe
 
 export default function ActPage() {
   return (
-    <div className="prose">
+    <div className="prose page-pad">
       <h1>The map is a to-do list</h1>
       <p className="lede">
         Every entry on this map names something buildable, fundable or decidable. Nothing here requires

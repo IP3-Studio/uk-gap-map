@@ -2,7 +2,7 @@ export const metadata = { title: "About · UK Gap Map" };
 
 export default function AboutPage() {
   return (
-    <div className="prose">
+    <div className="prose page-pad">
       <h1>About the UK Gap Map</h1>
       <p>
         This is a map of <strong>concrete, fillable gaps</strong> in the UK’s civic, economic and technological

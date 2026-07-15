@@ -18,7 +18,7 @@ const periods = [...new Set(items.map((w) => periodOf(w.sort)))];
 
 export default function WatchlistPage() {
   return (
-    <>
+    <div className="page-pad">
       <h1>Watchlist</h1>
       <p className="lede">
         The dated events the gap inventory hangs on: bills, consultation deadlines, break clauses, commencement
@@ -53,6 +53,6 @@ export default function WatchlistPage() {
           </ol>
         </section>
       ))}
-    </>
+    </div>
   );
 }

@@ -23,7 +23,7 @@ export default async function DomainPage({ params }: { params: Promise<{ slug: s
   const verticalCount = domains.filter((x) => !x.lens).length;
 
   return (
-    <article>
+    <article className="page-pad">
       <div className="detail-meta">
         <span className="chip" style={{ "--hue": d.hue } as React.CSSProperties}>
           {d.lens ? "Cross-cutting lens" : `Domain ${d.num} of ${verticalCount}`}

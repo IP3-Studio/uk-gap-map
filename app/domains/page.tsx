@@ -7,7 +7,7 @@ export default function DomainsPage() {
   const vertical = domains.filter((d) => !d.lens);
   const lenses = domains.filter((d) => d.lens);
   return (
-    <>
+    <div className="page-pad">
       <h1>Domains</h1>
       <p className="lede">
         {vertical.length} domains researched July 2026. Each domain page carries the current UK landscape, the
@@ -40,6 +40,6 @@ export default function DomainsPage() {
           </div>
         </>
       )}
-    </>
+    </div>
   );
 }

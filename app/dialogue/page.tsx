@@ -12,7 +12,7 @@ const groups = Object.keys(COUNTERPARTIES)
 
 export default function DialoguePage() {
   return (
-    <div>
+    <div className="page-pad">
       <h1>An open dialogue with public institutions</h1>
       <p className="lede">
         {briefs.length} of the gaps on this map need no new law, just a willing institution at the table. This

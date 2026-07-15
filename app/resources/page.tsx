@@ -56,7 +56,7 @@ const categories = (resourcesJson as { categories: Category[] }).categories;
 
 export default function ResourcesPage() {
   return (
-    <div>
+    <div className="page-pad">
       <h1>Stacks you can build on today</h1>
       <p className="lede">
         Open-source infrastructure for founders and communities who would rather not run their lives through US

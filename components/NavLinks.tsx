@@ -1,30 +1,17 @@
-"use client";
-
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 
-const LINKS = [
-  { href: "/", label: "Gaps" },
-  { href: "/domains/", label: "Domains" },
-  { href: "/watchlist/", label: "Watchlist" },
-  { href: "/act/", label: "Act" },
-  { href: "/dialogue/", label: "Dialogue" },
-  { href: "/resources/", label: "Resources" },
-  { href: "/about/", label: "About" },
-];
-
+// Minimal nav per the Builder Terminal design: forum is dimmed until the
+// Remark42 threads launch; the rest of the site stays reachable from the footer.
 export default function NavLinks() {
-  const pathname = usePathname();
-  const isCurrent = (href: string) =>
-    href === "/" ? pathname === "/" || pathname.startsWith("/gaps/") : pathname.startsWith(href);
-
   return (
-    <nav className="site-nav">
-      {LINKS.map((l) => (
-        <Link key={l.href} href={l.href} aria-current={isCurrent(l.href) ? "page" : undefined}>
-          {l.label}
-        </Link>
-      ))}
+    <nav className="site-nav" aria-label="Primary">
+      <Link href="/">map</Link>
+      <Link href="/#gaps">gaps</Link>
+      <Link href="/domains/">domains</Link>
+      <span className="off" title="threads launch soon" aria-disabled="true">
+        forum
+      </span>
+      <Link href="/about/">about</Link>
     </nav>
   );
 }
