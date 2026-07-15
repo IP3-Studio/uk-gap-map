@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import { Space_Grotesk, IBM_Plex_Mono } from "next/font/google";
 import AttemptsProvider from "@/components/AttemptsProvider";
@@ -10,6 +10,10 @@ import "./globals.css";
 
 const sans = Space_Grotesk({ subsets: ["latin"], weight: ["500", "600", "700"], variable: "--font-sans", display: "swap" });
 const mono = IBM_Plex_Mono({ subsets: ["latin"], weight: ["400", "500"], variable: "--font-mono", display: "swap" });
+
+export const viewport: Viewport = {
+  themeColor: "#0e1310",
+};
 
 export const metadata: Metadata = {
   title: "UK Gap Map",
