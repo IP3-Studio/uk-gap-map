@@ -1797,7 +1797,7 @@
    "https://bills.parliament.uk/bills/3942",
    "https://contact-centres.com/forrester-predicts-that-ai-will-reduce-contact-centre-jobs-by-50/"
   ],
-  "gapCount": 13,
+  "gapCount": 11,
   "intro": "The government's own analysis says about 70% of British workers are in jobs exposed to AI, a higher share than America's. Its policy answer is to accelerate: more compute, more adoption, no new law. Graduate job postings have already fallen sharply, and no AI bill is before Parliament. Britain is preparing thoroughly for AI's upside and barely at all for its downside.\n\nThe gaps below are the missing shock absorbers: nobody watching displacement as it happens, no income bridge for workers whose jobs contract, no incident register, no election rules for deepfakes. Most are cheap by Whitehall standards. All get harder to build once the crisis is visible."
  },
  {
@@ -2648,5 +2648,31 @@
   ],
   "gapCount": 12,
   "intro": "The Covid inquiry's verdict on Britain's preparedness was damning, and the government accepted almost every recommendation, except the biggest. There will be no independent body checking the country is ready for the next emergency. Preparedness remains something the state audits itself on, the exact habit the inquiry blamed for 2020.\n\nThe gaps below follow that pattern. Strategies exist for pandemics, floods and heatwaves. What is missing is ownership and money that lasts: a named lead for overheating homes, legal footing for local responders, a mechanism that turns exercise lessons into action. Much has been announced. Less has been built."
+ },
+ {
+  "num": 19,
+  "gapCount": 2,
+  "slug": "local-ai",
+  "name": "Local AI",
+  "shortName": "Local AI",
+  "hue": 130,
+  "landscape": "Running capable AI on hardware you control is newly practical: open-weight models, cheap inference stacks and consumer GPUs put private, offline AI within reach of councils, firms, schools and households. The UK conversation still defaults to renting US frontier APIs, so the questions that matter here go unasked: what should run locally, who maintains the reference deployments, and what national capability exists if the rented option is withdrawn or repriced. This domain collects the gaps in that local capability. It starts small, seeded from the AI-crisis dossier, and grows as entries are suggested and verified.",
+  "actors": [],
+  "funders": [],
+  "policyNotes": "No UK policy instrument currently distinguishes locally run AI from API-consumed AI; procurement guidance, data-protection guidance and the compute roadmap all treat AI as something bought as a service.",
+  "sources": []
+ },
+ {
+  "num": 20,
+  "gapCount": 0,
+  "slug": "other",
+  "name": "Other",
+  "shortName": "Other",
+  "hue": 210,
+  "landscape": "The honest shelf: entries that do not sit cleanly in any existing domain land here rather than being forced into a bad fit. When enough related entries accumulate, they graduate into a domain of their own. It is empty at the moment. If you have spotted a gap that fits nowhere else, suggest it on GitHub and this is where the curators will file it first.",
+  "actors": [],
+  "funders": [],
+  "policyNotes": "None yet: this shelf holds entries pending a proper home.",
+  "sources": []
  }
 ]

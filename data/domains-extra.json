@@ -1,0 +1,24 @@
+[
+ {
+  "slug": "local-ai",
+  "name": "Local AI",
+  "shortName": "Local AI",
+  "hue": 130,
+  "landscape": "Running capable AI on hardware you control is newly practical: open-weight models, cheap inference stacks and consumer GPUs put private, offline AI within reach of councils, firms, schools and households. The UK conversation still defaults to renting US frontier APIs, so the questions that matter here go unasked: what should run locally, who maintains the reference deployments, and what national capability exists if the rented option is withdrawn or repriced. This domain collects the gaps in that local capability. It starts small, seeded from the AI-crisis dossier, and grows as entries are suggested and verified.",
+  "actors": [],
+  "funders": [],
+  "policyNotes": "No UK policy instrument currently distinguishes locally run AI from API-consumed AI; procurement guidance, data-protection guidance and the compute roadmap all treat AI as something bought as a service.",
+  "sources": []
+ },
+ {
+  "slug": "other",
+  "name": "Other",
+  "shortName": "Other",
+  "hue": 210,
+  "landscape": "The honest shelf: entries that do not sit cleanly in any existing domain land here rather than being forced into a bad fit. When enough related entries accumulate, they graduate into a domain of their own. It is empty at the moment. If you have spotted a gap that fits nowhere else, suggest it on GitHub and this is where the curators will file it first.",
+  "actors": [],
+  "funders": [],
+  "policyNotes": "None yet: this shelf holds entries pending a proper home.",
+  "sources": []
+ }
+]

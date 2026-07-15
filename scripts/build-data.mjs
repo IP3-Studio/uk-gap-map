@@ -112,6 +112,18 @@ sourceDomains.forEach((d, i) => {
   d.gaps.forEach((g) => pushGap(g, meta.slug));
 });
 
+// Curated domains added after the research pass (e.g. Local AI, Other). They
+// start with zero research gaps; entries arrive via rehomes or additions.
+try {
+  const extraDomains = JSON.parse(readFileSync(path.join(here, "../data/domains-extra.json"), "utf8"));
+  for (const d of extraDomains) {
+    if (domains.some((x) => x.slug === d.slug)) throw new Error(`domains-extra: duplicate slug "${d.slug}"`);
+    domains.push({ num: domains.length + 1, gapCount: 0, ...d });
+  }
+} catch (e) {
+  if (e.code !== "ENOENT") throw e;
+}
+
 for (const a of additions) {
   const domain = domains.find((d) => d.slug === a.domain);
   if (!domain) throw new Error(`additions.json: unknown domain slug "${a.domain}"`);

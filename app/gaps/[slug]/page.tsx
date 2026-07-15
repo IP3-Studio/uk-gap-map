@@ -56,6 +56,8 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
           {gap.permission === "build-together" && <span className="tag-chip amber">build-together</span>}
           {gap.permission === "state-led" && <span className="tag-chip">state-led</span>}
           {typeof gap.rank === "number" && <span className="tag-chip green">urgency {gap.rank}/5</span>}
+          {gap.lens === "decentralisation" && <span className="tag-chip">decentralisation lens</span>}
+          {gap.lens === "synthetic-state" && <span className="tag-chip">synthetic-state lens</span>}
           {gap.capabilityTime && (
             <span className="tag-chip amber" title={gap.capabilityTimeNote ?? "Frontier-model generations before this gap starts to bite"}>
               ⏱ {gap.capabilityTime}

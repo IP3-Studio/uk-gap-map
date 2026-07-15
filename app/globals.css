@@ -66,7 +66,8 @@ main { display: block; }
   border-radius: 4px;
   cursor: pointer;
 }
-.btn-green:hover { background: var(--green-hover); }
+/* keep the dark text on hover (the global a:hover colour must not win) and firm it up */
+.btn-green:hover { background: var(--green-hover); color: var(--on-green); font-weight: 700; }
 .btn-green.sm { font-size: 12px; padding: 5px 12px; }
 .btn-outline {
   font: 500 13px var(--font-sans), sans-serif;
@@ -173,6 +174,7 @@ main { display: block; }
 }
 .chip-btn:hover { color: var(--ink); }
 .chip-btn.on { font-weight: 600; background: var(--green); color: var(--on-green); border-color: var(--green); }
+.chip-btn.on:hover { color: var(--on-green); }
 
 .search-row { padding: 10px var(--pad) 0; }
 .search-input {

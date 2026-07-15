@@ -56,6 +56,16 @@
    "number": 166,
    "to": "corruption-integrity",
    "note": "think-tank funder disclosure sits with the influence-transparency entries"
+  },
+  {
+   "number": 135,
+   "to": "local-ai",
+   "note": "sovereign compute access is a local-AI capability question, not only crisis preparedness"
+  },
+  {
+   "number": 136,
+   "to": "local-ai",
+   "note": "a national open-weight capability is the core local-AI hedge"
   }
  ],
  "merges": [
