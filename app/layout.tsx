@@ -34,8 +34,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               uk-gap-map<span className="cursor">_</span>
             </Link>
             <NavLinks />
-            <Link href="/?filter=urgent#gaps" className="btn-green" style={{ whiteSpace: "nowrap" }}>
-              take a gap
+            <Link href="/gaps/?filter=urgent#gaps" className="btn-green" style={{ whiteSpace: "nowrap" }}>
+              take action
             </Link>
           </header>
           <main id="main">{children}</main>
@@ -51,7 +51,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </span>
             </div>
             <div className="more">
-              <Link href="/resources/">resources</Link>
               <Link href="/dialogue/">dialogue</Link>
               <Link href="/act/">act</Link>
               <Link href="/watchlist/">watchlist</Link>

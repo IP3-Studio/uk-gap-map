@@ -1,7 +1,8 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import Link from "next/link";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import Fuse from "fuse.js";
 import { useAttempts } from "@/components/AttemptsProvider";
 import { refOf, viewAttempt } from "@/lib/attempts";
@@ -26,6 +27,7 @@ const fuse = new Fuse(gaps, {
 
 export default function GapGrid() {
   const router = useRouter();
+  const pathname = usePathname();
   const params = useSearchParams();
   const { statusOf, byGap, openTake, now } = useAttempts();
   const [q, setQ] = useState("");
@@ -33,9 +35,7 @@ export default function GapGrid() {
   const raw = params.get("filter");
   const filter: FilterKey = FILTERS.some((f) => f.key === raw) ? (raw as FilterKey) : "all";
 
-  const setFilter = (key: FilterKey) => {
-    router.replace(key === "all" ? "/#gaps" : `/?filter=${key}#gaps`, { scroll: false });
-  };
+  const filterHref = (key: FilterKey) => (key === "all" ? `${pathname}#gaps` : `${pathname}?filter=${key}#gaps`);
 
   const list = useMemo(() => {
     let base: Gap[] = q.trim()
@@ -54,9 +54,15 @@ export default function GapGrid() {
         <span className="count">{list.length} shown · dossier + sources behind each</span>
         <div className="filters">
           {FILTERS.map((f) => (
-            <button key={f.key} className={filter === f.key ? "chip-btn on" : "chip-btn"} onClick={() => setFilter(f.key)}>
+            <Link
+              key={f.key}
+              replace
+              scroll={false}
+              href={filterHref(f.key)}
+              className={filter === f.key ? "chip-btn on" : "chip-btn"}
+            >
               {f.label}
-            </button>
+            </Link>
           ))}
         </div>
       </div>
