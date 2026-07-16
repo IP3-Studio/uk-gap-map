@@ -86,11 +86,11 @@ export default function ManifestoPage() {
         </li>
         <li>
           <strong>Participation.</strong> The binding constraint on better governance is not technology but
-          participation. Institutions are not weather; they are made of the people who show up. Every entry on
-          this map is an invitation to show up.
+          participation. Institutions are made of the people who show up. Every entry on this map is an
+          invitation to show up.
         </li>
         <li>
-          <strong>Privacy.</strong> Privacy is consent: the right to decide who sees what, rather than a favour
+          <strong>Privacy.</strong> Privacy is the liberty to decide who sees what, rather than a favour
           revocable by whoever runs the server. A society under permanent observation cannot speak, organise or
           dissent freely, and so cannot correct itself.
         </li>
@@ -134,13 +134,12 @@ export default function ManifestoPage() {
       <h2 className="sect-label">Speech</h2>
       <p>
         Free expression is not a nicety; it is error-correction infrastructure. A country that cannot say what
-        is broken cannot fix it. We stand with the movement for freedom of expression and speech: the right to
-        publish, to question, to organise and to be wrong in public without permission. Several entries on this
-        map exist precisely because that right is being narrowed quietly, by infrastructure rather than by
-        argument.
+        is broken cannot fix it. We defend the liberty to publish, to question, to organise and to be wrong in
+        public without permission. Several entries on this map exist precisely because these liberties are
+        being narrowed quietly, by infrastructure rather than by argument.
       </p>
 
-      <h2 className="sect-label">The future, not foreclosed</h2>
+      <h2 className="sect-label">The future</h2>
       <p>
         We refuse to hand the next generation a country they cannot repair: debt they did not choose,
         infrastructure they cannot inspect, institutions they cannot enter, and records about them they cannot
@@ -169,26 +168,27 @@ export default function ManifestoPage() {
       <h2 className="sect-label">Public goods</h2>
       <p>
         What this initiative produces is a public good: free to use, free to copy, free to improve, maintained
-        in the open. The map, its data and every tool built from it belong to whoever needs them. We ask the
-        same of the gaps we champion: fills that lock the public out are not fills.
+        in the open. The map, its data and every tool built from it belong to whoever needs them.
       </p>
 
       <h2 className="sect-label">The lineage</h2>
       <p>
-        This project draws its politics from <em>Farewell to Westphalia</em> by Jarrad Hope and Peter Ludlow,
+        This project draws its inspiration from <em>Farewell to Westphalia</em> by Jarrad Hope and Peter Ludlow,
         who put the question directly: why should our technologies for political organisation be set in stone?
         Governance legitimated by consent and exit rather than inheritance; institutions that earn trust with
         guarantees instead of promises; and the observation that simply by participating, one can put a hand on
         the tiller. We import the book&apos;s scepticism along with its ambition: nothing is trustless,
         decentralisation comes in degrees, and every proposed fill on this map names its residual trust
-        assumptions. Twelve entries, badged <em>decentralisation lens</em>, apply the book&apos;s argument to
-        the UK directly. The long version of the story above is our essay,{" "}
-        <em>The Majestic Portal, the Mortgaged Future and the Parallel</em>.
+        assumptions. Twelve entries, badged{" "}
+        <Link href="/gaps/?filter=lens#gaps">
+          <em>decentralisation lens</em>
+        </Link>
+        , apply the book&apos;s argument to the UK directly.
       </p>
 
-      <h2 className="sect-label">About the Logos Circle London</h2>
+      <h2 className="sect-label">About the Logos London Circle</h2>
       <p>
-        The Logos Circle London is developing educational formats and public engagement approaches that link
+        The Logos London Circle is developing educational formats and public engagement approaches that link
         fiscal policy, government debt, and digital governance into accessible narratives. The emphasis is on
         helping communities understand the long-term consequences of policy decisions, strengthening civic
         literacy around both economic and digital systems, and contributing to more informed public discourse

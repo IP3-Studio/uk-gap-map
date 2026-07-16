@@ -16,6 +16,7 @@ const FILTERS = [
   { key: "build-now", label: "build now" },
   { key: "urgent", label: "urgent + unclaimed" },
   { key: "in-build", label: "in build" },
+  { key: "lens", label: "decentralisation" },
 ] as const;
 type FilterKey = (typeof FILTERS)[number]["key"];
 
@@ -44,6 +45,7 @@ export default function GapGrid() {
     if (filter === "build-now") base = base.filter((g) => g.permission === "build-now");
     if (filter === "urgent") base = base.filter((g) => g.permission === "build-now" && (g.rank ?? 0) >= 4 && statusOf(g.number) === "open");
     if (filter === "in-build") base = base.filter((g) => statusOf(g.number) !== "open");
+    if (filter === "lens") base = base.filter((g) => g.lens === "decentralisation");
     return base;
   }, [q, filter, statusOf]);
 

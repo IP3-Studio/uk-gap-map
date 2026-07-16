@@ -106,8 +106,11 @@ export default function AboutPage() {
       <h2>Who is behind this</h2>
       <p>
         The map is a <strong>Logos London Circle</strong> initiative; the <a href="/manifesto/">manifesto</a>{" "}
-        explains why it exists. The website is built and maintained by <strong>IP3 Studio</strong>, and
-        modelled on Convergent Research’s{" "}
+        explains why it exists. The website is built and maintained by{" "}
+        <a href="https://ip3.studio" rel="noopener noreferrer" target="_blank">
+          <strong>IP3 Studio</strong>
+        </a>
+        , and modelled on Convergent Research’s{" "}
         <a href="https://www.gap-map.org" rel="noopener noreferrer" target="_blank">
           gap-map.org
         </a>

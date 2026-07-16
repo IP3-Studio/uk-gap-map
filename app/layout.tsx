@@ -42,8 +42,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <footer className="site-footer">
             <div className="row">
               <span>
-                a <Link href="/manifesto/">logos london circle</Link> initiative · built by ip3-studio ·
-                modelled on gap-map.org
+                a <Link href="/manifesto/">logos london circle</Link> initiative · built by{" "}
+                <a href="https://ip3.studio" rel="noopener noreferrer" target="_blank">
+                  ip3-studio
+                </a>{" "}
+                · modelled on gap-map.org
               </span>
               <span className="right">
                 <a href={REPO} rel="noopener noreferrer" target="_blank">
