@@ -1,0 +1,36 @@
+# Remark42 for forum.gapmap.uk — the per-gap discussion threads.
+# Runs on the smallest Docker-capable Debian VPS (1GB RAM is enough).
+# Secrets live in .env (copy .env.example, never commit the real one).
+services:
+  remark42:
+    image: umputun/remark42:latest
+    container_name: remark42
+    restart: always
+    ports:
+      - "80:8080"
+      - "443:8443"
+    environment:
+      - REMARK_URL=https://forum.gapmap.uk
+      - SITE=gapmap
+      - SECRET=${SECRET}
+      # zero-signup threads: anonymous posting with a chosen public handle
+      - AUTH_ANON=true
+      # auto Let's Encrypt: needs the forum A record live + ports 80/443 open
+      - SSL_TYPE=auto
+      - SSL_ACME_EMAIL=${ACME_EMAIL}
+      - SSL_ACME_FQDN=forum.gapmap.uk
+      # moderation
+      - ADMIN_SHARED_ID=${ADMIN_ID}
+      - ADMIN_PASSWD=${ADMIN_PASSWD}
+      - NOTIFY_ADMINS=email
+      - NOTIFY_EMAIL_ADMIN=${ADMIN_EMAIL}
+      # keep it civil without pre-moderation
+      - MAX_COMMENT_SIZE=4096
+      - LOW_SCORE=-5
+      - CRITICAL_SCORE=-10
+      # daily JSON backups (the non-ephemeral requirement; see README for the
+      # commit-to-repo step)
+      - BACKUP_FREQ=1
+      - MAX_BACKUP_FILES=14
+    volumes:
+      - ./var:/srv/var
