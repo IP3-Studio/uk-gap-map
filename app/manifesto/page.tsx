@@ -9,54 +9,59 @@ export default function ManifestoPage() {
   return (
     <div className="prose page-pad manifesto">
       <div className="sect-label">Manifesto</div>
-      <h1>Build what is missing.</h1>
+      <h1>Build the parallel.</h1>
       <p className="standfirst">
         The UK Gap Map is a Logos London Circle initiative: a public inventory of what Britain is missing,
-        built so that anyone can stop waiting for permission and start closing the gaps. Real change starts at
-        the local level. The map is a to-do list, and it is open.
+        based on available data. Real change starts at the local level. The map is a to-do list, and it is
+        open to anyone to explore, build, or engage in dialogue.
       </p>
 
-      <h2 className="sect-label">The default nobody chose</h2>
+      <h2 className="sect-label">The quiet work</h2>
       <p>
-        The nation state is not a fact of nature. It is a technology, invented in 1648 to contain the
-        seventeenth century&apos;s religious wars. Out of that catastrophe came not a new community but a new
-        unit: the territorial sovereign, a lord of its own world, answering to no one above and, in time, to
-        no one below. Every default you live inside (who issues your money, who holds your records, who
-        decides what you may build) descends from that one design decision. Designs can be revised. This one
-        is three hundred and seventy years overdue.
+        Somewhere in Britain this week, a parents&apos; group chat is organising the school run that a cut bus
+        route ended. A village is running its shop as a co-operative because the last owner gave up. A repair
+        café is fixing what would otherwise be thrown away, a community share offer is trying to save the
+        local pub, and a neighbourhood thread is quietly doing the work a housing officer used to do. Nobody
+        involved would call any of this politics. It is simply what people do when a system they pay for stops
+        arriving: they route around it, with whoever is nearby. A growing share of what still works in this
+        country works this way, and it is so ordinary that almost nobody has noticed it happening.
       </p>
 
-      <h2 className="sect-label">The receipts</h2>
+      <h2 className="sect-label">A name for it</h2>
       <p>
-        In 1870 the state took about a tenth of what its citizens produced. Today it takes over a third, and
-        across much of Europe close to half. Each crisis grew it; no crisis ever shrank it back. In 1964,
-        three in four Americans trusted their government to do the right thing; by late 2025 it was 17
-        per cent, and just 2 per cent said &quot;just about always&quot;. The pattern is not one country&apos;s
-        misfortune; it is the operating system. We were born into a debt we never authorised, issued by a
-        monopoly that taxes the present, borrows against the future, and bills the unborn. The state promised
-        to look after you; increasingly it can barely afford to look after its lenders.
+        That quiet work has a name and a serious history. In the late 1970s the Czech dissident Václav Benda
+        called it the parallel polis: an independent sphere of culture, education and economy built alongside
+        institutions that could not be reformed and were not worth confronting head-on. Those structures
+        outlasted the regime that ignored them. The largest working example today is probably in your pocket:
+        the phone you carry runs on software maintained by thousands of contributors across hundreds of
+        competing employers, compelled by nobody, shipped reliably every nine weeks, and given away to
+        everyone, including the people every failing institution left behind. The nation state itself began
+        the same way, as a piece of governance technology invented in 1648 to contain the religious wars of
+        that century. Institutions are technologies, and technologies can be built alongside. Sovereignty can
+        be unbundled from the ground it was welded to.
       </p>
 
-      <h2 className="sect-label">The exits that failed</h2>
+      <h2 className="sect-label">What the numbers say</h2>
       <p>
-        Two remedies have been tried. Reform from within: voice has been raised against the machine for fifty
-        years, and the machine has won every round, under every party. And building upward: a world authority
-        above the states, run as a live experiment for eight decades, undelivered, because you cannot cure a
-        monopoly by building a bigger monopoly above it. The diagnosis is simpler than either remedy: a
-        sovereign you cannot leave is a sovereign that need never improve. The entire game is to lower the
-        cost of exit.
+        The system being routed around is not resting. In 1870 the state took about a tenth of what its
+        citizens produced; today it takes over a third, and across much of Europe close to half. Each crisis
+        grew it, and no crisis has ever shrunk it back. In 1964, three in four Americans trusted their
+        government to do the right thing; by late 2025 it was 17 per cent. We were born into a debt we never
+        authorised, issued by a monopoly that taxes the present, borrows against the future, and bills the
+        unborn. The state promised to look after you; increasingly it can barely afford to look after its
+        lenders.
       </p>
-
-      <h2 className="sect-label">The existence proof</h2>
       <p>
-        Voluntary, borderless, leaderless coordination at planetary scale is supposed to be impossible. It
-        ships every nine weeks, on a mailing list. Linux is maintained by thousands of contributors across
-        hundreds of fiercely competing employers, compelled by nobody, and the identical free kernel runs the
-        world&apos;s fastest supercomputers and the cheapest handset in a Lagos market. That is what an open
-        commons does that a gated exit never will: the builders leave the failing system first, and then hand
-        the product to everyone, especially the people that system left behind. Builders never needed borders
-        to improve a billion lives. The proof may be sitting in your pocket. The difference between secession
-        and a commons is the only thing worth fighting about.
+        The expected response is to blame whichever party is in office, and we decline it: trust falls and
+        debt grows under every government, which tells you the problem sits below the level of the people
+        elected to manage it. The other familiar remedies have been tried in full. Reform from within has been
+        raised against the machine for fifty years and has lost every round. Building a bigger authority above
+        the state has run as a live experiment for eight decades without delivering, because you cannot cure a
+        monopoly by building a bigger monopoly above it. It is also true, and worth saying plainly, that the
+        parallel cannot yet do everything a state does, and for a long time it will run alongside the legacy
+        system rather than instead of it. What remains is the diagnosis the whole story points to: a sovereign
+        you cannot leave is a sovereign that need never improve, and the entire game is to lower the cost of
+        exit.
       </p>
 
       <h2 className="sect-label">The theory of change</h2>
@@ -146,10 +151,10 @@ export default function ManifestoPage() {
 
       <h2 className="sect-label">Clarity comes from building</h2>
       <p>
-        Position papers accumulate; working demonstrations compound. We build with purpose: pick a gap, say
-        what will exist in ninety days, and show it. A small pilot that runs teaches more than a manifesto,
-        including this one. Where a gap needs the state, the fastest pressure is still a working prototype next
-        to a patient argument.
+        A working demonstration teaches more than a position paper, because it settles arguments that prose
+        can only extend. We build with purpose: pick a gap, say what will exist in ninety days, and show it. A
+        small pilot that runs teaches more than a manifesto, including this one. Where a gap needs the state,
+        the fastest pressure is still a working prototype next to a patient argument.
       </p>
 
       <h2 className="sect-label">No central party</h2>
@@ -216,10 +221,13 @@ export default function ManifestoPage() {
 
       <h2 className="sect-label">BYOF</h2>
       <p>
-        <strong>Build Your Own Future.</strong> The gaps are documented, the sources are cited, the tools are
-        open and the thread is waiting. Nobody else is coming, and that is the good news: it means nobody can
-        stop you either. The portal is open again. The only question is whether we walk through it, or keep
-        paying interest on a world that has stopped working.
+        <strong>Build Your Own Future.</strong> The quiet work described at the top of this page is already
+        happening, in group chats and village halls and repositories, done by people who never asked anyone
+        for permission. This map exists to give that work an address: the gaps are documented, the sources are
+        cited, the tools are open, and the thread on every entry is waiting for whoever arrives next. Nobody
+        is coming to do this on our behalf, and nothing prevents us from starting. The only question left is
+        whether we keep paying interest on a world that has stopped working, or walk through the portal and
+        build the parallel.
       </p>
     </div>
   );
