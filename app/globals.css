@@ -114,6 +114,7 @@ main { display: block; }
   .legend { justify-content: flex-start; }
 }
 .stat-line { font: 400 12px var(--font-mono), monospace; color: var(--green); }
+.hero-sub { font: 500 12px var(--font-mono), monospace; margin: -4px 0 10px; }
 .hero-copy { font-size: 14.5px; color: var(--muted); max-width: 58ch; line-height: 1.6; text-wrap: pretty; }
 .hero-right { display: flex; flex-direction: column; gap: 10px; }
 

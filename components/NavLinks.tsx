@@ -1,7 +1,6 @@
 import Link from "next/link";
 
-// Minimal terminal nav. There is no separate forum destination: every gap page
-// carries its own thread, so discussion lives on the gaps themselves.
+// Terminal nav. No forum destination: every gap page carries its own thread.
 export default function NavLinks() {
   return (
     <nav className="site-nav" aria-label="Primary">
@@ -9,6 +8,7 @@ export default function NavLinks() {
       <Link href="/gaps/">gaps</Link>
       <Link href="/domains/">domains</Link>
       <Link href="/resources/">resources</Link>
+      <Link href="/manifesto/">manifesto</Link>
       <Link href="/about/">about</Link>
     </nav>
   );

@@ -11,6 +11,6 @@ export default function StatLine() {
   const line =
     counts.build + counts.shipped > 0
       ? `${gaps.length} gaps · ${counts.build} in build · ${counts.shipped} shipped`
-      : `${gaps.length} gaps · ${domainCount} domains · every one open`;
+      : `${gaps.length} gaps · ${domainCount} domains and growing · open to action`;
   return <div className="stat-line">{line}</div>;
 }

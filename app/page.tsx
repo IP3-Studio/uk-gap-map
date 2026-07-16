@@ -14,11 +14,13 @@ export default function Home() {
       <div className="hero">
         <div>
           <StatLine />
-          <h1>The map is a to-do list.</h1>
+          <h1>The UK Gap Map</h1>
+          <div className="hero-sub">
+            <Link href="/manifesto/">A Logos London Circle initiative →</Link>
+          </div>
           <div className="hero-copy">
-            Every dot is a documented gap with sources. Down and left is urgent and permissionless. Green dots
-            have a team on them; hollow dots are waiting for yours. No account needed: a claim is a public
-            post.
+            Explore gaps that are currently available across a growing list of domains. Real change starts at
+            the local level. <Link href="/gaps/?filter=urgent#gaps">Take action. Build now.</Link>
           </div>
         </div>
         <div className="hero-right">
