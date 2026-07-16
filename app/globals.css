@@ -156,6 +156,8 @@ main { display: block; }
 
 .payoff { display: flex; align-items: center; gap: 10px; margin: 12px var(--pad) 0; padding: 12px 16px; border: 1px solid var(--line-green); border-radius: 6px; background: var(--tint-green); flex-wrap: wrap; }
 .payoff .prompt { font: 400 12px var(--font-mono), monospace; color: var(--green); }
+.payoff.amber { border-color: var(--line-amber); background: var(--tint-amber); }
+.payoff.amber .prompt { color: var(--amber); }
 .payoff .line { font-size: 13.5px; color: var(--body-ink); flex: 1; min-width: 240px; }
 .payoff b { color: var(--ink); }
 

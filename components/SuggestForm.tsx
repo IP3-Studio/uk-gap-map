@@ -16,6 +16,7 @@ export default function SuggestForm() {
   const [missing, setMissing] = useState("");
   const [why, setWhy] = useState("");
   const [sources, setSources] = useState("");
+  const [place, setPlace] = useState("");
   const [domain, setDomain] = useState("not-sure");
   const [err, setErr] = useState("");
 
@@ -31,6 +32,7 @@ export default function SuggestForm() {
     const body = [
       `**Suggested gap:** ${title.trim()}`,
       `**Domain guess:** ${domain}`,
+      place.trim() ? `**Constituency / place:** ${place.trim()}` : null,
       "",
       "**What is missing:**",
       missing.trim(),
@@ -53,6 +55,7 @@ export default function SuggestForm() {
       <textarea value={missing} onChange={(e) => { setMissing(e.target.value); setErr(""); }} rows={4} placeholder="what is missing? be concrete: the instrument, dataset, fund or institution that does not exist" />
       <textarea value={why} onChange={(e) => setWhy(e.target.value)} rows={3} placeholder="why it matters (optional)" />
       <textarea value={sources} onChange={(e) => setSources(e.target.value)} rows={2} placeholder="sources: links that back it up (optional, but they speed up verification)" />
+      <input value={place} onChange={(e) => setPlace(e.target.value)} placeholder="constituency or place, if the gap is local (optional): e.g. Hackney North" />
       <select value={domain} onChange={(e) => setDomain(e.target.value)} aria-label="Domain guess">
         <option value="not-sure">domain: not sure / other</option>
         {vertical.map((d) => (

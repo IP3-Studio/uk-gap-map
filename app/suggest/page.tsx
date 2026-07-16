@@ -9,8 +9,9 @@ export default function SuggestPage() {
       <p className="lede">
         Spotted something missing that this map should carry? Name it. The bar: concrete and fillable (a fund,
         register, institution, dataset or legal instrument that does not exist), not a complaint about one that
-        merely works badly. Curators verify every suggestion against primary sources before it appears; if it
-        fits no existing domain it starts on the Other shelf.
+        merely works badly. Local gaps are especially wanted: everything on the map so far is national, and
+        the constituency-level layer starts with suggestions like yours. Curators verify every suggestion
+        against primary sources before it appears; if it fits no existing domain it starts on the Other shelf.
       </p>
       <SuggestForm />
     </div>
