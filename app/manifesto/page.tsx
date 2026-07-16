@@ -16,6 +16,61 @@ export default function ManifestoPage() {
         the local level. The map is a to-do list, and it is open.
       </p>
 
+      <h2 className="sect-label">The default nobody chose</h2>
+      <p>
+        The nation state is not a fact of nature. It is a technology, invented in 1648 to contain the
+        seventeenth century&apos;s religious wars. Out of that catastrophe came not a new community but a new
+        unit: the territorial sovereign, a lord of its own world, answering to no one above and, in time, to
+        no one below. Every default you live inside (who issues your money, who holds your records, who
+        decides what you may build) descends from that one design decision. Designs can be revised. This one
+        is three hundred and seventy years overdue.
+      </p>
+
+      <h2 className="sect-label">The receipts</h2>
+      <p>
+        In 1870 the state took about a tenth of what its citizens produced. Today it takes over a third, and
+        across much of Europe close to half. Each crisis grew it; no crisis ever shrank it back. In 1964,
+        three in four Americans trusted their government to do the right thing; by late 2025 it was 17
+        per cent, and just 2 per cent said &quot;just about always&quot;. The pattern is not one country&apos;s
+        misfortune; it is the operating system. We were born into a debt we never authorised, issued by a
+        monopoly that taxes the present, borrows against the future, and bills the unborn. The state promised
+        to look after you; increasingly it can barely afford to look after its lenders.
+      </p>
+
+      <h2 className="sect-label">The exits that failed</h2>
+      <p>
+        Two remedies have been tried. Reform from within: voice has been raised against the machine for fifty
+        years, and the machine has won every round, under every party. And building upward: a world authority
+        above the states, run as a live experiment for eight decades, undelivered, because you cannot cure a
+        monopoly by building a bigger monopoly above it. The diagnosis is simpler than either remedy: a
+        sovereign you cannot leave is a sovereign that need never improve. The entire game is to lower the
+        cost of exit.
+      </p>
+
+      <h2 className="sect-label">The existence proof</h2>
+      <p>
+        Voluntary, borderless, leaderless coordination at planetary scale is supposed to be impossible. It
+        ships every nine weeks, on a mailing list. Linux is maintained by thousands of contributors across
+        hundreds of fiercely competing employers, compelled by nobody, and the identical free kernel runs the
+        world&apos;s fastest supercomputers and the cheapest handset in a Lagos market. That is what an open
+        commons does that a gated exit never will: the builders leave the failing system first, and then hand
+        the product to everyone, especially the people that system left behind. Builders never needed borders
+        to improve a billion lives. The proof may be sitting in your pocket. The difference between secession
+        and a commons is the only thing worth fighting about.
+      </p>
+
+      <h2 className="sect-label">The theory of change</h2>
+      <p>
+        Governance efficiency is the largest wealth generator we have. The answer to failing institutions is
+        not reform from inside and not revolution. It is a competitive marketplace of parallel institutions
+        filling the gaps that existing governance leaves open. Build the alternative, make exit cheap, and let
+        people opt in.
+      </p>
+      <p>
+        Sovereignty can be unbundled from the ground it was welded to. The map has a whole domain for this:{" "}
+        <Link href="/domains/parallel-institutions/">parallel institutions</Link>.
+      </p>
+
       <h2 className="sect-label">What we hold</h2>
       <ul>
         <li>
@@ -40,17 +95,6 @@ export default function ManifestoPage() {
           gets to make about your future.
         </li>
       </ul>
-
-      <h2 className="sect-label">The theory of change</h2>
-      <p>
-        Governance efficiency is the largest wealth generator we have. The answer to failing institutions is
-        not reform from inside and not revolution. It is a competitive marketplace of parallel institutions
-        filling the gaps that existing governance leaves open. Build the alternative, make exit cheap, and let
-        people opt in.
-      </p>
-      <p>
-        The map has a whole domain for this: <Link href="/domains/parallel-institutions/">parallel institutions</Link>.
-      </p>
 
       <h2 className="sect-label">At the grassroots</h2>
       <p>Things we aim to solve at the grassroots level:</p>
@@ -113,7 +157,8 @@ export default function ManifestoPage() {
         We lead through open source initiatives that can be picked up by anyone and depend on no central party
         for their deliverables, success or completion, including us. If this circle dissolved tomorrow, nothing
         here dies: the dataset is downloadable, the code is public, the method is written down, and every claim
-        cites its sources. Forkability is our succession plan.
+        cites its sources. The freedom to fork is the cheapest, most credible exit there is; it is what keeps
+        maintainers honest, and it applies to us first.
       </p>
 
       <h2 className="sect-label">Public goods</h2>
@@ -125,13 +170,15 @@ export default function ManifestoPage() {
 
       <h2 className="sect-label">The lineage</h2>
       <p>
-        This project draws its politics from <em>Farewell to Westphalia</em> by Jarrad Hope and Peter Ludlow:
-        governance legitimated by consent and exit rather than inheritance; institutions that earn trust with
+        This project draws its politics from <em>Farewell to Westphalia</em> by Jarrad Hope and Peter Ludlow,
+        who put the question directly: why should our technologies for political organisation be set in stone?
+        Governance legitimated by consent and exit rather than inheritance; institutions that earn trust with
         guarantees instead of promises; and the observation that simply by participating, one can put a hand on
         the tiller. We import the book&apos;s scepticism along with its ambition: nothing is trustless,
         decentralisation comes in degrees, and every proposed fill on this map names its residual trust
         assumptions. Twelve entries, badged <em>decentralisation lens</em>, apply the book&apos;s argument to
-        the UK directly.
+        the UK directly. The long version of the story above is our essay,{" "}
+        <em>The Majestic Portal, the Mortgaged Future and the Parallel</em>.
       </p>
 
       <h2 className="sect-label">About the Logos Circle London</h2>
@@ -171,7 +218,8 @@ export default function ManifestoPage() {
       <p>
         <strong>Build Your Own Future.</strong> The gaps are documented, the sources are cited, the tools are
         open and the thread is waiting. Nobody else is coming, and that is the good news: it means nobody can
-        stop you either.
+        stop you either. The portal is open again. The only question is whether we walk through it, or keep
+        paying interest on a world that has stopped working.
       </p>
     </div>
   );
