@@ -104,7 +104,7 @@ export default function ManifestoPage() {
       <ul>
         <li>
           Awareness of <Link href="/domains/debt/">UK debt</Link>, to produce an informed dialogue; see the{" "}
-          <a href={LOGOS} rel="noopener noreferrer" target="_blank">
+          <a href="https://logos.co/ukdebt" rel="noopener noreferrer" target="_blank">
             Logos UK debt campaign
           </a>
           .
