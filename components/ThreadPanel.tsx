@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useAttempts } from "@/components/AttemptsProvider";
-import { postsFor, refOf, REPO, slugifyTeam } from "@/lib/attempts";
+import { gapStatus, postsFor, refOf, REPO, slugifyTeam } from "@/lib/attempts";
 import { gapBySlug } from "@/lib/data";
 
 // Per-gap thread. Until the Remark42 instance is live, posts are the claim and
@@ -15,7 +15,11 @@ export default function ThreadPanel({ slug }: { slug: string }) {
   const [text, setText] = useState("");
   if (!gap) return null;
 
-  const posts = postsFor(byGap.get(gap.number) ?? [], now);
+  const list = byGap.get(gap.number) ?? [];
+  const posts = postsFor(list, now);
+  // shipped gaps were closed by the curators: there is no GitHub claim trail
+  // to open, so the link stays in the template but not on these threads
+  const shipped = gapStatus(list, now) === "shipped";
 
   const reply = () => {
     const body = text.trim();
@@ -36,11 +40,13 @@ export default function ThreadPanel({ slug }: { slug: string }) {
       <div className="bar">
         <span className="l">THREAD · {posts.length} POSTS</span>
         <span className="m">remark42 threads launch soon · replies via github until then</span>
-        <span className="r">
-          <a href={`${REPO}/issues?q=${encodeURIComponent(refOf(gap.number))}`} rel="noopener noreferrer" target="_blank">
-            open on github ↗
-          </a>
-        </span>
+        {!shipped && (
+          <span className="r">
+            <a href={`${REPO}/issues?q=${encodeURIComponent(refOf(gap.number))}`} rel="noopener noreferrer" target="_blank">
+              open on github ↗
+            </a>
+          </span>
+        )}
       </div>
       {posts.length === 0 && <div className="quiet">// quiet so far. the dossier is the first post: reply below or take the gap.</div>}
       {posts.map((p, i) => (

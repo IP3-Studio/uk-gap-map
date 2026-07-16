@@ -56,7 +56,9 @@ export default function AttemptsProvider({ children }: { children: React.ReactNo
     fetch(RAW_ATTEMPTS_URL, { cache: "no-store" })
       .then((r) => (r.ok ? r.json() : null))
       .then((remote: AttemptsFile | null) => {
-        if (remote && Array.isArray(remote.attempts) && remote.generatedAt >= committedAttempts.generatedAt) {
+        // strictly newer only: a cached remote copy with the same stamp must
+        // never overwrite the fresher committed data this build shipped with
+        if (remote && Array.isArray(remote.attempts) && remote.generatedAt > committedAttempts.generatedAt) {
           setFile(remote);
         }
       })
