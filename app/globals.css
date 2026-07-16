@@ -343,6 +343,20 @@ a.tag-chip:hover { color: var(--ink); border-color: var(--faint); }
 .m-foot { display: flex; align-items: center; gap: 12px; padding: 14px 22px 20px; flex-wrap: wrap; }
 .m-foot .note { font: 400 11px var(--font-mono), monospace; color: var(--faint); }
 
+/* ————— Suggest form ————— */
+.suggest-form { display: flex; flex-direction: column; gap: 10px; max-width: 640px; margin-top: 20px; }
+.suggest-form input, .suggest-form textarea, .suggest-form select {
+  font: 400 13px var(--font-mono), monospace;
+  color: var(--body-ink); background: var(--bg);
+  border: 1px solid var(--line-inner); border-radius: 5px;
+  padding: 10px 12px; resize: vertical;
+}
+.suggest-form select { appearance: none; -webkit-appearance: none; cursor: pointer; }
+.suggest-form input::placeholder, .suggest-form textarea::placeholder { color: var(--faint); }
+@media (max-width: 760px) {
+  .suggest-form input, .suggest-form textarea, .suggest-form select { font-size: 16px; }
+}
+
 /* ————— Toast ————— */
 .toast { position: fixed; left: 50%; bottom: calc(26px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); z-index: 60; display: flex; align-items: center; gap: 10px; border: 1px solid var(--line-green); border-radius: 6px; background: var(--tint-green); padding: 12px 18px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5); max-width: 92vw; }
 .toast .tick { font: 400 12px var(--font-mono), monospace; color: var(--green); }

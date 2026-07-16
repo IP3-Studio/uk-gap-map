@@ -51,6 +51,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </span>
             </div>
             <div className="more">
+              <Link href="/suggest/">suggest a gap</Link>
               <Link href="/dialogue/">dialogue</Link>
               <Link href="/act/">act</Link>
               <Link href="/watchlist/">watchlist</Link>

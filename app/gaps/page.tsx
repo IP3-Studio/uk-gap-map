@@ -11,7 +11,8 @@ export default function GapsPage() {
           <h1>Every entry is a brief.</h1>
           <div className="hero-copy">
             Sorted by urgency; filter down to what you could start this week. Behind each card: the dossier,
-            the sources, who is attempting it, and the thread.
+            the sources, who is attempting it, and the thread. Missing something?{" "}
+            <a href="/suggest/">suggest a gap →</a>
           </div>
         </div>
       </div>
