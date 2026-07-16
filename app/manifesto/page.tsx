@@ -41,6 +41,17 @@ export default function ManifestoPage() {
         </li>
       </ul>
 
+      <h2 className="sect-label">The theory of change</h2>
+      <p>
+        Governance efficiency is the largest wealth generator we have. The answer to failing institutions is
+        not reform from inside and not revolution. It is a competitive marketplace of parallel institutions
+        filling the gaps that existing governance leaves open. Build the alternative, make exit cheap, and let
+        people opt in.
+      </p>
+      <p>
+        The map has a whole domain for this: <Link href="/domains/parallel-institutions/">parallel institutions</Link>.
+      </p>
+
       <h2 className="sect-label">Speech</h2>
       <p>
         Free expression is not a nicety; it is error-correction infrastructure. A country that cannot say what
