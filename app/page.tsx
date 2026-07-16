@@ -52,8 +52,8 @@ export default function Home() {
       </div>
 
       <div className="list-head">
-        <span className="title">three ways in</span>
-        <span className="count">permission is mostly optional</span>
+        <span className="title">Build your own future</span>
+        <span className="count">BYOF · three ways in · permission is mostly optional</span>
       </div>
       <div className="act-trio">
         <Link href="/gaps/?filter=build-now#gaps" className="act-card">

@@ -125,6 +125,13 @@ export default function ManifestoPage() {
           · claims, suggestions and corrections all land here, in public.
         </li>
       </ul>
+
+      <h2 className="sect-label">BYOF</h2>
+      <p>
+        <strong>Build Your Own Future.</strong> The gaps are documented, the sources are cited, the tools are
+        open and the thread is waiting. Nobody else is coming, and that is the good news: it means nobody can
+        stop you either.
+      </p>
     </div>
   );
 }
