@@ -52,6 +52,36 @@ export default function ManifestoPage() {
         The map has a whole domain for this: <Link href="/domains/parallel-institutions/">parallel institutions</Link>.
       </p>
 
+      <h2 className="sect-label">At the grassroots</h2>
+      <p>Things we aim to solve at the grassroots level:</p>
+      <ul>
+        <li>
+          Awareness of <Link href="/domains/debt/">UK debt</Link>, to produce an informed dialogue; see the{" "}
+          <a href={LOGOS} rel="noopener noreferrer" target="_blank">
+            Logos UK debt campaign
+          </a>
+          .
+        </li>
+        <li>
+          Awareness of <Link href="/domains/corruption-integrity/">corruption and the misuse of public resources</Link>.
+        </li>
+        <li>
+          Dialogue on <Link href="/domains/growth-stagnation/">stagnation</Link> and practical revitalisation
+          strategies.
+        </li>
+        <li>
+          Campaigns and knowledge sharing on the dangers of <Link href="/domains/surveillance/">surveillance</Link> to
+          civil liberties.
+        </li>
+        <li>
+          Opportunities to <Link href="/gaps/?filter=build-now#gaps">build tools</Link> that deliver local solutions
+          to local problems.
+        </li>
+        <li>
+          Opportunities to <Link href="/act/">fund the next wave of innovation</Link> at the grassroots level.
+        </li>
+      </ul>
+
       <h2 className="sect-label">Speech</h2>
       <p>
         Free expression is not a nicety; it is error-correction infrastructure. A country that cannot say what
