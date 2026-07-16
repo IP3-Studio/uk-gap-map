@@ -45,11 +45,9 @@ export default function ManifestoPage() {
       <p>
         The system being routed around is not resting. In 1870 the state took about a tenth of what its
         citizens produced; today it takes over a third, and across much of Europe close to half. Each crisis
-        grew it, and no crisis has ever shrunk it back. In 1964, three in four Americans trusted their
-        government to do the right thing; by late 2025 it was 17 per cent. We were born into a debt we never
-        authorised, issued by a monopoly that taxes the present, borrows against the future, and bills the
-        unborn. The state promised to look after you; increasingly it can barely afford to look after its
-        lenders.
+        grew it, and no crisis has ever shrunk it back. We were born into a debt we never authorised, issued
+        by a monopoly that taxes the present, borrows against the future, and bills the unborn. The state
+        promised to look after you; increasingly it can barely afford to look after its lenders.
       </p>
       <p>
         The expected response is to blame whichever party is in office, and we decline it: trust falls and

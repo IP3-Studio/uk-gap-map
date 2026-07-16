@@ -37,6 +37,10 @@ export default function DomainsPage() {
                 <p>landscape chapter · {d.actors.length} key actors</p>
               </Link>
             ))}
+            <Link href="/gaps/?filter=lens#gaps" className="domain-card">
+              <h2>Decentralisation (lens)</h2>
+              <p>12 entries applying Farewell to Westphalia to the UK</p>
+            </Link>
           </div>
         </>
       )}

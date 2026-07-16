@@ -1,4 +1,8 @@
+import { gaps, candidateCount, domains } from "@/lib/data";
+
 export const metadata = { title: "About · UK Gap Map" };
+
+const verticalDomains = domains.filter((d) => !d.lens).length;
 
 export default function AboutPage() {
   return (
@@ -54,16 +58,30 @@ export default function AboutPage() {
         </li>
       </ul>
 
-      <h2>Status: v2 (curated, not yet validated)</h2>
+      <h2>Status: v3 (a build platform, curated, not yet validated)</h2>
       <p>
-        The July 2026 research pass produced 228 candidate entries across 18 dossiers. The curation pass
-        (also July 2026) folded duplicates that surfaced in more than one domain into single canonical
-        entries (each canonical gap lists what was merged into it and links the domains it appears in), and
-        converted the two cross-cutting dossiers (funding, policy) into lenses whose entries live in the
-        vertical domains. What remains has <strong>not</strong> yet been through validation interviews with
-        practitioners; Convergent shipped their v1.0 as “a crude map of an emerging space, not a
-        prioritization”, and that caveat still applies here. Expect uneven granularity and entries that events
-        have already overtaken.
+        The July 2026 research pass produced {candidateCount} candidate entries across 18 dossiers. The
+        curation pass (also July 2026) folded duplicates that surfaced in more than one domain into single
+        canonical entries (each canonical gap lists what was merged into it and links the domains it appears
+        in), and converted the two cross-cutting dossiers (funding, policy) into lenses whose entries live in
+        the vertical domains. The map now carries <strong>{gaps.length} canonical gaps</strong> across{" "}
+        {verticalDomains} domains, including two curated additions: <a href="/domains/local-ai/">Local AI</a>{" "}
+        and <a href="/domains/other/">Other</a>, the shelf for suggestions that fit nowhere else. What remains
+        has <strong>not</strong> yet been through validation interviews with practitioners; Convergent shipped
+        their v1.0 as “a crude map of an emerging space, not a prioritization”, and that caveat still applies
+        here. Expect uneven granularity and entries that events have already overtaken.
+      </p>
+
+      <h2>The map is a build platform</h2>
+      <p>
+        Every gap carries a status: <strong>open</strong>, <strong>in build</strong>, or{" "}
+        <strong>shipped</strong>. Anyone can take a gap through the 90-second wizard, with no account: the
+        claim posts publicly via GitHub, curators merge it into the claims record, and the gap flips to in
+        build across the whole site. Attempts are non-exclusive, each shows a freshness pulse, and 60 days of
+        silence frees the gap again. Every gap page carries its own discussion thread (anonymous commenting
+        via Remark42 is on the roadmap; replies route through GitHub until it lands), and anyone can{" "}
+        <a href="/suggest/">suggest a new gap</a>, which is verified against primary sources before it
+        appears.
       </p>
 
       <h2>Ranking: editorial urgency, 0–5</h2>
@@ -121,9 +139,9 @@ export default function AboutPage() {
         .
       </p>
       <p>
-        Twelve entries, badged <em>decentralisation lens</em>, examine the same failures through a structural
-        argument: centralisation concentrates failure, and the remedy is participation, with communities
-        building transparent, exit-respecting institutions at every scale.
+        Twelve entries, badged <a href="/gaps/?filter=lens#gaps"><em>decentralisation lens</em></a>, examine
+        the same failures through a structural argument: centralisation concentrates failure, and the remedy
+        is participation, with communities building transparent, exit-respecting institutions at every scale.
       </p>
       <p>
         <strong>How we handle interest:</strong> entries are written mechanism-agnostically (a gap is never

@@ -445,12 +445,14 @@ a.chip:hover { color: var(--ink); border-color: var(--faint); }
 .badge.m-usable { border-color: var(--line-inner); color: var(--muted); }
 .badge.m-early { border-color: var(--line-amber); color: var(--amber); }
 
-/* domains index */
-.domain-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; margin: 14px 0; }
-@media (max-width: 1100px) { .domain-grid { grid-template-columns: 1fr 1fr; } }
-@media (max-width: 760px) { .domain-grid { grid-template-columns: 1fr; } }
-.domain-card { border: 1px solid var(--line); border-radius: 6px; padding: 16px 18px; background: var(--panel); color: var(--ink); display: flex; flex-direction: column; gap: 8px; transition: border-color 0.12s; }
+/* domains index: compact boxes, three columns wherever they fit */
+.domain-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 14px 0; }
+@media (max-width: 640px) { .domain-grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 420px) { .domain-grid { grid-template-columns: 1fr; } }
+.domain-card { border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; background: var(--panel); color: var(--ink); display: flex; flex-direction: column; gap: 4px; transition: border-color 0.12s; }
 .domain-card:hover { border-color: var(--green); color: var(--ink); }
+.domain-card h2, .domain-card h3 { font-size: 14px; line-height: 1.3; margin: 0; }
+.domain-card p { font: 400 11px var(--font-mono), monospace; color: var(--faint); margin: 0; }
 
 /* act page */
 .audience-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 14px 0; max-width: 980px; }
