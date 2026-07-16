@@ -7185,5 +7185,34 @@
   },
   "rank": 3,
   "rankNote": "A live policy window: the Responsible Business Conduct review and section 54 amendments are in progress, and the standard is draftable now with a concrete lever."
+ },
+ {
+  "number": 231,
+  "slug": "no-accessible-knowledge-hub-on-uk-government-debt-and-the-cost-of-serv",
+  "title": "No accessible knowledge hub on UK government debt and the cost of servicing it",
+  "domain": "debt",
+  "type": "knowledge",
+  "horizon": "short",
+  "description": "The raw numbers have always been public: the ONS publishes the public sector finances monthly, the OBR forecasts debt and the interest bill twice a year, and the Commons Library briefs MPs on both. What did not exist was a public-facing, evergreen resource that translated them for a general reader: where the debt stands, what servicing it costs (close to one hundred billion pounds a year, more than the entire defence budget), and what that bill crowds out. The data was open; the understanding was not. Disclosure: the fill recorded on this entry came from the Logos UK debt campaign, run by the same circle that maintains this map, and the entry is held to the same bar as every other.",
+  "why": "Informed dialogue about any fiscal choice is impossible while the scale of the debt and its servicing cost stay invisible to the people paying it. Every budget line the public argues about is smaller than the interest bill nobody can see, and a generation is inheriting commitments it never authorised without a plain account of what they amount to.",
+  "fill": "A maintained, plain-English knowledge hub on UK debt and debt interest: the current level, the servicing cost, where it sits by historical and international standards, and what the figures mean, updated as they move, free to read and reuse, and citing the official series it draws from.",
+  "sources": [
+   "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance",
+   "https://obr.uk/",
+   "https://commonslibrary.parliament.uk/research-briefings/sn05745/"
+  ],
+  "status": "candidate",
+  "provenance": {
+   "added": "2026-07-16",
+   "lastVerified": "2026-07-16",
+   "reviewBy": "2026-10-07"
+  },
+  "permission": "build-now",
+  "dataReady": true,
+  "permissionNote": "Instrument: a public explainer built from ONS and OBR series; no permission was required, and the fill proves it.",
+  "tagline": "The debt is public data. Public understanding is another matter.",
+  "summary": "Official debt and interest figures were always published, but scattered across statistical releases written for specialists. An evergreen, plain-English hub on where the UK stands and what servicing the debt costs did not exist until the Logos UK debt campaign built one in June 2026.",
+  "rank": 3,
+  "rankNote": "Filled in June 2026 by the campaign; what remains ranked is the evergreen obligation, keeping the hub current as every release moves the figures."
  }
 ]

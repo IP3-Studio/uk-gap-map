@@ -1,4 +1,19 @@
 {
- "generatedAt": "2026-07-14",
- "attempts": []
+ "generatedAt": "2026-07-16",
+ "attempts": [
+  {
+   "gap": 231,
+   "team": "logos-london-circle",
+   "link": "https://logos.co",
+   "plan": "An evergreen, plain-English knowledge hub on where the UK stands on debt and what servicing it costs, built from ONS and OBR figures and kept current.",
+   "milestone": "campaign live in June 2026",
+   "claimed": "2026-06-01",
+   "state": "active",
+   "shipped": {
+    "date": "2026-06-30",
+    "verifiedBy": "curators",
+    "url": "https://logos.co"
+   }
+  }
+ ]
 }

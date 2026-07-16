@@ -1378,5 +1378,11 @@
   "permission": "build-together",
   "data_ready": true,
   "note": "The standard and monitoring can be built now by researchers and civil society; individual authorities can adopt it voluntarily within the Act's flexibilities. Making it a requirement needs the Cabinet Office."
+ },
+ {
+  "number": 231,
+  "permission": "build-now",
+  "data_ready": true,
+  "note": "Instrument: a public explainer built from ONS and OBR series; no permission was required, and the fill proves it."
  }
 ]
