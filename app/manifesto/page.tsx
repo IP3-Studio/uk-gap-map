@@ -146,7 +146,7 @@ export default function ManifestoPage() {
 
       <h2 className="sect-label">Speech</h2>
       <p>
-        Free expression is not a nicety; it is error-correction infrastructure. A country that cannot say what
+        Free expression is error-correction infrastructure. A country that cannot say what
         is broken cannot fix it. We defend the liberty to publish, to question, to organise and to be wrong in
         public without permission. Several entries on this map exist precisely because these liberties are
         being narrowed quietly, by infrastructure rather than by argument.
