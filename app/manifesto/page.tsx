@@ -29,16 +29,26 @@ export default function ManifestoPage() {
 
       <h2 className="sect-label">A name for it</h2>
       <p>
-        That quiet work has a name and a serious history. In the late 1970s the Czech dissident Václav Benda
-        called it the parallel polis: an independent sphere of culture, education and economy built alongside
-        institutions that could not be reformed and were not worth confronting head-on. Those structures
-        outlasted the regime that ignored them. The largest working example today is probably in your pocket:
-        the phone you carry runs on software maintained by thousands of contributors across hundreds of
-        competing employers, compelled by nobody, shipped reliably every nine weeks, and given away to
-        everyone, including the people every failing institution left behind. The nation state itself began
-        the same way, as a piece of governance technology invented in 1648 to contain the religious wars of
-        that century. Institutions are technologies, and technologies can be built alongside. Sovereignty can
-        be unbundled from the ground it was welded to.
+        That quiet work has a name, and in this country it has a long memory. The first recorded worker
+        co-operative was formed by weavers in Fenwick, Ayrshire, in 1761. The Rochdale Pioneers opened their
+        store on Toad Lane in 1844 and wrote down the principles that co-operatives across the world still run
+        on. Friendly societies insured millions of working families against sickness and funeral costs a
+        century before the welfare state existed, and the earliest building societies were formed by
+        neighbours to build one another&apos;s houses, then wind themselves up when everyone was housed.
+        Britain did not merely take part in co-operative organising; Britain invented much of it. The group
+        chat covering for the cut bus route is not a departure from this country&apos;s traditions. It is one
+        of its oldest traditions, running on new equipment.
+      </p>
+      <p>
+        The same instinct resurfaces wherever institutions fail. In the late 1970s the Czech dissident Václav
+        Benda called it the parallel polis: an independent sphere of culture, education and economy built
+        alongside a regime that could not be reformed and was not worth confronting head-on, and those
+        structures outlasted the regime that ignored them. The largest working example today is probably in
+        your pocket: the phone you carry runs on software maintained by thousands of contributors across
+        hundreds of competing employers, compelled by nobody, shipped reliably every nine weeks, and given
+        away to everyone, including the people every failing institution left behind. The nation state itself
+        began the same way, as a piece of governance technology invented in 1648 to contain the religious wars
+        of that century. Institutions are technologies, and technologies can be built alongside.
       </p>
 
       <h2 className="sect-label">What the numbers say</h2>
@@ -58,8 +68,8 @@ export default function ManifestoPage() {
         monopoly by building a bigger monopoly above it. It is also true, and worth saying plainly, that the
         parallel cannot yet do everything a state does, and for a long time it will run alongside the legacy
         system rather than instead of it. What remains is the diagnosis the whole story points to: a sovereign
-        you cannot leave is a sovereign that need never improve, and the entire game is to lower the cost of
-        exit.
+        you cannot leave is a sovereign that need never improve. The answer is not emigration; it is
+        alternatives close to home, so that staying no longer means settling.
       </p>
 
       <h2 className="sect-label">The theory of change</h2>
@@ -70,7 +80,12 @@ export default function ManifestoPage() {
         people opt in.
       </p>
       <p>
-        Sovereignty can be unbundled from the ground it was welded to. The map has a whole domain for this:{" "}
+        This is not a call to exit society. It is a call to revive a right this country exercised long before
+        anyone thought to licence it: the right to build, the right to repair, and the right to maintain the
+        infrastructure of common life, close to the people who depend on it. Most of the early co-operative
+        story was written in the industrial towns of the north that are now promised renewal, and a country
+        serious about rebuilding those places could start by reviving the institutional form they gave the
+        world. The map has a whole domain for this:{" "}
         <Link href="/domains/parallel-institutions/">parallel institutions</Link>.
       </p>
 
