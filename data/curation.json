@@ -226,6 +226,13 @@
     160
    ],
    "note": "AML-supervision consolidation is the same instrument as the accelerated single-supervisor timetable and ACSP audit regime."
+  },
+  {
+   "canonical": 85,
+   "members": [
+    7
+   ],
+   "note": "two halves of the same statute: the register that misses in-house lobbying and the non-party campaigning rules that constrain charity advocacy; the Covenant strand is retired as not separately fillable."
   }
  ],
  "crossRefs": [
@@ -513,17 +520,6 @@
     "t": 2,
     "n": 3,
     "w": 3
-   }
-  },
-  {
-   "number": 7,
-   "rank": 0,
-   "note": "Reform means primary legislation the government has already rejected, so despite chilling advocacy law the flagship covenant stays exhortatory; the fight is hard with no dated trigger forcing action.",
-   "sub": {
-    "i": 2,
-    "t": 1,
-    "n": 2,
-    "w": 1
    }
   },
   {

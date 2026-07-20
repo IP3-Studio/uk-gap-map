@@ -247,37 +247,6 @@
   "rankNote": "Some 379 boards already spend up to £20m each while the institution that trained resident leaders winds down this year, leaving a £5bn programme's likeliest failure point unsupported."
  },
  {
-  "number": 7,
-  "slug": "a-covenant-without-teeth-alongside-unreformed-advocacy-law",
-  "title": "A Covenant without teeth, alongside unreformed advocacy law",
-  "domain": "civic-society",
-  "type": "policy",
-  "horizon": "mid",
-  "description": "The Civil Society Covenant (July 2025) is non-statutory, with no adjudication or redress when public bodies breach its principles; its Local Covenant Partnerships Fund (£11.59m) covers just 15 of 300+ English local authority areas. Meanwhile the legal environment contradicts the partnership rhetoric: the Lobbying Act 2014's Part 2 rules still chill charity campaigning (government has rejected amendment calls), CIVICUS has rated UK civic space 'obstructed' since 2023, and Human Rights Watch (January 2026) documents escalating protest restrictions. NCVO, ACEVO and Bond monitor and advocate, but no independent mechanism exists to enforce the government–civil society relationship or audit civic-space health.",
-  "why": "The Covenant is the government's flagship civil-society policy; if it remains exhortatory while advocacy and protest law tightens, trust between state and sector, already damaged, will erode further, and charities will keep self-censoring on policy issues where their front-line evidence matters most.",
-  "fill": "A statutory duty on public bodies to have regard to Covenant principles, with an independent review/ombudsman function reporting to Parliament; reform of Lobbying Act Part 2 (raising thresholds, clarifying issue-based campaigning); and a funded rollout of local covenant partnerships beyond the 15 pilot areas.",
-  "sources": [
-   "https://www.gov.uk/government/publications/civil-society-covenant/civil-society-covenant",
-   "https://www.gov.uk/guidance/civil-society-covenant-programme",
-   "https://monitor.civicus.org/country-rating-changes/uk/",
-   "https://www.hrw.org/news/2026/01/08/uk-protest-crackdowns-undermine-democracy",
-   "https://www.bond.org.uk/news/2026/02/what-is-happening-to-uk-civic-space-trends-and-analysis-from-2025-2026/"
-  ],
-  "status": "candidate",
-  "provenance": {
-   "added": "2026-07-07",
-   "lastVerified": "2026-07-07",
-   "reviewBy": "2027-01-07"
-  },
-  "permission": "state-led",
-  "dataReady": false,
-  "permissionNote": "Instrument: statutory have-regard duty plus Lobbying Act Part 2 reform; primary legislation.",
-  "tagline": "Government signed a covenant with charities. Break it, and nothing happens.",
-  "summary": "The Civil Society Covenant promises partnership between the state and charities, but no one adjudicates when a public body breaks it, and lobbying rules still chill charity campaigning. Watchdogs rate UK civic space as obstructed. A statutory duty, an independent referee and reformed campaigning law would give the promise force.",
-  "rank": 0,
-  "rankNote": "Reform means primary legislation the government has already rejected, so despite chilling advocacy law the flagship covenant stays exhortatory; the fight is hard with no dated trigger forcing action."
- },
- {
   "number": 8,
   "slug": "no-maintenance-funding-for-democratic-digital-infrastructure-no-civic",
   "title": "No maintenance funding for democratic digital infrastructure (no civic Sovereign Tech Fund)",
@@ -2837,7 +2806,12 @@
    "https://publications.parliament.uk/pa/cm5804/cmselect/cmpubadm/203/report.html",
    "https://www.transparency.org.uk/sites/default/files/2025-11/Post-legislative%20review%20of%20Part%201%20of%20the%20Lobbying%20Act%202014%20%20FINAL.pdf",
    "https://researchbriefings.files.parliament.uk/documents/LLN-2026-0034/LLN-2026-0034.pdf",
-   "https://www.ukanticorruptioncoalition.org/work/from-aspiration-to-action-experts-call-for-rapid-implementation-plans-for-new-anti-corruption-strategy"
+   "https://www.ukanticorruptioncoalition.org/work/from-aspiration-to-action-experts-call-for-rapid-implementation-plans-for-new-anti-corruption-strategy",
+   "https://www.gov.uk/government/publications/civil-society-covenant/civil-society-covenant",
+   "https://www.gov.uk/guidance/civil-society-covenant-programme",
+   "https://monitor.civicus.org/country-rating-changes/uk/",
+   "https://www.hrw.org/news/2026/01/08/uk-protest-crackdowns-undermine-democracy",
+   "https://www.bond.org.uk/news/2026/02/what-is-happening-to-uk-civic-space-trends-and-analysis-from-2025-2026/"
   ],
   "status": "candidate",
   "provenance": {
@@ -2850,6 +2824,19 @@
   "permissionNote": "Instrument: government-backed amendment adopting the Hayter Bill; in-house lobbying data cannot exist without the statutory duty.",
   "tagline": "Most lobbyists never appear on the lobbying register. The law only counts consultants.",
   "summary": "The register covers hired consultant lobbyists only; in-house corporate lobbyists, the bulk of the industry, are exempt, which is exactly how Greensill's influence went unrecorded. A ready-made bill in the Lords would close the loophole. Meeting disclosures could turn monthly and machine-readable too.",
+  "alsoDomains": [
+   "civic-society"
+  ],
+  "mergedFrom": [
+   {
+    "number": 7,
+    "title": "A Covenant without teeth, alongside unreformed advocacy law",
+    "domain": "civic-society",
+    "description": "The Civil Society Covenant (July 2025) is non-statutory, with no adjudication or redress when public bodies breach its principles; its Local Covenant Partnerships Fund (£11.59m) covers just 15 of 300+ English local authority areas. Meanwhile the legal environment contradicts the partnership rhetoric: the Lobbying Act 2014's Part 2 rules still chill charity campaigning (government has rejected amendment calls), CIVICUS has rated UK civic space 'obstructed' since 2023, and Human Rights Watch (January 2026) documents escalating protest restrictions. NCVO, ACEVO and Bond monitor and advocate, but no independent mechanism exists to enforce the government–civil society relationship or audit civic-space health.",
+    "fill": "A statutory duty on public bodies to have regard to Covenant principles, with an independent review/ombudsman function reporting to Parliament; reform of Lobbying Act Part 2 (raising thresholds, clarifying issue-based campaigning); and a funded rollout of local covenant partnerships beyond the 15 pilot areas."
+   }
+  ],
+  "curationNote": "two halves of the same statute: the register that misses in-house lobbying and the non-party campaigning rules that constrain charity advocacy; the Covenant strand is retired as not separately fillable.",
   "seeAlso": [
    {
     "number": 166,
