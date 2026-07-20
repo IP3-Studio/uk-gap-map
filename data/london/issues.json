@@ -1,0 +1,384 @@
+{
+ "note": "London issue register. Only issues that have passed the verification pass (claims checked against primary statistical releases, framing screened for neutrality) are published here. Verified 20 July 2026.",
+ "pendingNote": "Five housing issues publish as their verification completes.",
+ "issues": [
+  {
+   "id": "neet-16-17",
+   "theme": "youth",
+   "title": "Young people dropping off the radar at 16 and 17",
+   "headline": "Up to 6.5% of 16 and 17 year olds in the worst boroughs are NEET or of unknown activity.",
+   "evidence": [
+    "Lewisham (6.5%) and Croydon (5.8%) had London's highest rates of 16-17 year olds NEET or of unknown activity at the start of 2025, with Haringey third at 4.9% (DfE participation statistics, 2024/25).",
+    "England's 18-24 NEET rate stood at 16.0% at the end of 2025, about 783,000 young people (DfE annual brief).",
+    "London's 15% NEET rate for 16-24s is among the worst of any UK region (PwC Youth Employment Index 2025)."
+   ],
+   "community": "Local mentors, youth clubs, faith groups, sports clubs and peer networks are often the only actors who can find and re-engage young people recorded as unknown; the statutory duty to track non-participation ends at 18.",
+   "play": "A referral-and-matching platform through which trusted community adults can flag a disengaged young person, with consent, and match them to nearby re-engagement provision, apprenticeships and mentors, closing the loop the council caseload system cannot.",
+   "actors": [
+    "London Youth",
+    "GLA HeadStart Action",
+    "Youth Futures Foundation",
+    "local authority NCCIS teams"
+   ],
+   "hotspots": [
+    "Lewisham",
+    "Croydon",
+    "Haringey"
+   ],
+   "indicator": "neet_nk_pct",
+   "permission": "build-together",
+   "sources": [
+    "https://explore-education-statistics.service.gov.uk/find-statistics/participation-in-education-training-and-neet-age-16-to-17-by-local-authority/2024-25",
+    "https://explore-education-statistics.service.gov.uk/find-statistics/neet-statistics-annual-brief/2025",
+    "https://www.pwc.co.uk/services/economics/insights/youth-employment-index.html"
+   ]
+  },
+  {
+   "id": "youth-18-24",
+   "theme": "youth",
+   "title": "After eighteen, nobody is counting",
+   "headline": "Statutory tracking of who is NEET ends at 18, and London's young-adult employment has weakened faster than most of the country.",
+   "evidence": [
+    "Payrolled employment among 16-24 year olds in London fell four percentage points in the three years to December 2025 (IFS analysis of administrative data).",
+    "The statutory duty to identify and track young people not in education or training covers 16 and 17 year olds only; after 18 there is no equivalent tracking (Education and Skills Act 2008).",
+    "Non-statutory Youth Guarantee trailblazers now cover twelve London boroughs for 18-21s, so provision exists in parts of the capital; discovery is the gap."
+   ],
+   "community": "Community organisations can act as referrers immediately: the barrier for most young adults is finding openly advertised entry routes, not eligibility.",
+   "play": "An aggregator of entry-level roles, apprenticeships, work experience and volunteering, organised by travel distance rather than sector, that community organisations can refer through; check overlap with the GLA New Deal for Young People and the trailblazer navigation first.",
+   "actors": [
+    "GLA",
+    "Youth Futures Foundation",
+    "Jobcentre Plus youth hubs",
+    "community employment charities"
+   ],
+   "hotspots": [],
+   "indicator": "neet_nk_pct",
+   "permission": "build-now",
+   "sources": [
+    "https://ifs.org.uk/publications/why-has-neet-rate-risen-understanding-trends-and-drivers-using-administrative-data",
+    "https://www.gov.uk/government/publications/participation-of-young-people-education-employment-and-training"
+   ]
+  },
+  {
+   "id": "absence",
+   "theme": "youth",
+   "title": "More than one in five pupils persistently absent in the worst boroughs",
+   "headline": "Camden, Islington, Westminster and Kensington and Chelsea all recorded persistent absence above 20% in 2024/25.",
+   "evidence": [
+    "Persistent absence in 2024/25: Camden 23.2%, Islington 22.4%, Westminster 22.1%, against a London average of 17.5% and an England average of 18.1% (DfE full-year release).",
+    "Linked justice and education data shows 81% of children cautioned or sentenced had at some point been persistently absent, almost all before their first offence; a descriptive association, not a causal claim (MoJ and DfE)."
+   ],
+   "community": "Attendance is a household problem before it is a school problem: breakfast clubs, uniform banks, travel support and trusted adults move the number where letters home do not.",
+   "play": "Map the support that removes attendance barriers (breakfast clubs, uniform banks, travel funds) borough by borough as open data, and offer schools a referral route from attendance concern to that support with the right safeguarding agreements.",
+   "actors": [
+    "schools and trusts",
+    "School-Home Support",
+    "borough attendance teams",
+    "local mutual aid groups"
+   ],
+   "hotspots": [
+    "Camden",
+    "Islington",
+    "Westminster"
+   ],
+   "indicator": "pa_pct",
+   "permission": "build-together",
+   "sources": [
+    "https://explore-education-statistics.service.gov.uk/find-statistics/pupil-absence-in-schools-in-england/2024-25",
+    "https://www.gov.uk/government/publications/education-childrens-social-care-and-offending"
+   ]
+  },
+  {
+   "id": "youth-work-deserts",
+   "theme": "youth",
+   "title": "Youth service spending: sharp divergence, not uniform decline",
+   "headline": "Since 2015/16 Barnet and Sutton cut cash spending on services for young people by more than 80% and Westminster by 70%, while other boroughs increased theirs.",
+   "evidence": [
+    "Nominal change in net spending on services for young people, 2015/16 to 2024/25: Barnet down 84%, Sutton down 84%, Westminster down 70%; over the same period Newham rose 655% and Barking and Dagenham 355% (DfE section 251 outturn).",
+    "London-wide spending moved from £87.9m to £84.1m, about 4% lower in cash terms and roughly 28% lower in real terms.",
+    "Wandsworth's 2024/25 return is suppressed in the published data and is excluded from these figures."
+   ],
+   "community": "Where funded provision has thinned, the assets that remain are venues, volunteers and kit spread across many small organisations that rarely share them.",
+   "play": "A borough youth-work commons: pooled venue booking, a shared DBS-checked volunteer bank, and kit libraries, coordinated through umbrella bodies so small organisations can run more sessions without new money.",
+   "actors": [
+    "London Youth",
+    "UK Youth",
+    "faith and sports venues",
+    "borough youth partnerships"
+   ],
+   "hotspots": [
+    "Barnet",
+    "Sutton",
+    "Westminster"
+   ],
+   "indicator": "youth_spend_change_pct",
+   "permission": "build-together",
+   "sources": [
+    "https://explore-education-statistics.service.gov.uk/find-statistics/la-and-school-expenditure/2024-25"
+   ]
+  },
+  {
+   "id": "youth-safety",
+   "theme": "youth",
+   "title": "First-time entrants to youth justice, borough by borough",
+   "headline": "First-time entrant rates in the worst boroughs run at three to four times those in the lowest.",
+   "evidence": [
+    "First-time entrants to the youth justice system per 100,000 10-17 year olds, year ending December 2024: Waltham Forest 272, Hackney 255, Lambeth 241, Camden 241, against a London average of 157 and 138 for England and Wales (Youth Justice Board).",
+    "The lowest London rates are Richmond at 71 and Harrow at 83, so the spread across the capital is roughly fourfold."
+   ],
+   "community": "Evaluations support community-led prevention approaches such as credible messengers, sports-based outreach and safe spaces; the MyEnds programme is the established London model.",
+   "play": "Young-people-led mapping of safe routes and verified safe spaces, with reporting that routes concerns to local provision and, where appropriate, to police; needs safeguarding governance and buy-in from established youth organisations.",
+   "actors": [
+    "London VRU",
+    "MyEnds partnerships",
+    "established youth organisations",
+    "MOPAC"
+   ],
+   "hotspots": [
+    "Waltham Forest",
+    "Hackney",
+    "Lambeth"
+   ],
+   "indicator": "fte_rate_100k",
+   "permission": "build-together",
+   "sources": [
+    "https://www.gov.uk/government/statistics/youth-justice-statistics-2024-to-2025"
+   ]
+  },
+  {
+   "id": "renter-rights",
+   "theme": "housing",
+   "title": "New renter rights, with no easy way to use them",
+   "headline": "From 1 May 2026 rent rises can be challenged at tribunal and section 21 notices are no longer valid; the rights only work when tenants can gather evidence and navigate the process.",
+   "evidence": [
+    "Section 21 notices ceased to be valid from 1 May 2026, with a transition period for notices served earlier, and rent rises can be challenged at the First-tier Tribunal, which can hold them to open-market level (MHCLG, Renters' Rights Act implementation).",
+    "A joint tenants' union tool for challenging rent rises, resistrentrises.org, launched in June 2026.",
+    "Enforcement rests on tenants collecting evidence and navigating tribunal process; no public service does this with them."
+   ],
+   "community": "Advice charities and tenants' unions both deliver rights education and casework, and tenants of a shared landlord can pool evidence as joint casework.",
+   "play": "A renter companion: guided evidence capture for disrepair and rent challenges (photos, timelines, letters), tribunal-ready packs, and shared casework for tenants of the same landlord.",
+   "actors": [
+    "Citizens Advice",
+    "Shelter",
+    "tenants' unions",
+    "First-tier Tribunal (Property Chamber)"
+   ],
+   "hotspots": [
+    "Brent",
+    "Newham",
+    "Enfield"
+   ],
+   "indicator": "waiting_per_1000",
+   "permission": "build-now",
+   "sources": [
+    "https://assets.publishing.service.gov.uk/media/69bc04b8f7b1c24d8e23ce60/The_Renters__Rights_Act_Information_Sheet_2026.pdf",
+    "https://assets.publishing.service.gov.uk/media/6915beb8bc34c86ce4e6e730/Implementing_Renters_Rights_Act_2025_-_roadmap.pdf"
+   ]
+  },
+  {
+   "id": "community-safety",
+   "theme": "living",
+   "title": "Neighbourhoods that do not feel safe",
+   "headline": "Recorded crime in the centre runs at up to six times the safest outer boroughs, though resident-population rates overstate central risk because daytime populations are far larger.",
+   "evidence": [
+    "In the twelve months to June 2026 Westminster recorded about 358 offences per 1,000 residents, against a resident base of about 214,000 and a daytime population above a million; Camden recorded about 180 (Metropolitan Police recorded crime, London Datastore).",
+    "The safest outer boroughs (Richmond, Merton, Sutton, Bexley) recorded roughly 55 to 65 offences per 1,000 residents over the same period.",
+    "By twelve-month volume, violence against the person was highest in Croydon, Westminster, Newham and Tower Hamlets."
+   ],
+   "community": "Neighbourhood Watch, ward panels, Safer Neighbourhood Boards, pubwatch and shopwatch schemes, and better-designed public space (lighting, activated dead spaces) measurably reduce fear of crime.",
+   "play": "A neighbourhood safety commons: resident-reported problem spots, coordinated volunteer presence at school-run and evening hours through the established schemes, and a direct channel to council public-realm teams for environmental fixes.",
+   "actors": [
+    "Neighbourhood Watch Network",
+    "MOPAC ward panels",
+    "Safer Neighbourhood Boards",
+    "local BIDs"
+   ],
+   "hotspots": [
+    "Westminster",
+    "Camden",
+    "Newham"
+   ],
+   "indicator": "crime_per_1000",
+   "permission": "build-together",
+   "sources": [
+    "https://data.london.gov.uk/dataset/recorded_crime_summary"
+   ]
+  },
+  {
+   "id": "fly-tipping",
+   "theme": "environment",
+   "title": "Fly-tipping and the repeat-dumping cycle",
+   "headline": "Camden records 167 fly-tips per 1,000 residents, eight times the England average, and prosecutions run at about one per thousand incidents.",
+   "evidence": [
+    "London is England's most fly-tipped region at 53 incidents per 1,000 people, against an England average of 21 (Defra, 2024/25).",
+    "Camden (167), Croydon (130), Hackney (116) and Lewisham (111) incidents per 1,000 residents top the borough table.",
+    "England recorded 1.26 million incidents and 1,377 prosecutions in 2024/25, roughly one prosecution per thousand incidents."
+   ],
+   "community": "Repeat dumping is hyperlocal: community reporting, volunteer clean-up crews, alley-gating and council-partnered camera schemes deter it street by street.",
+   "play": "Beyond report-and-wait: hotspot mapping and evidence capture that packages timestamped photos into enforcement-grade packs, coordinates volunteer clean-ups where councils are slow, and publishes ward-level data.",
+   "actors": [
+    "FixMyStreet (mySociety)",
+    "Keep Britain Tidy",
+    "council environmental crime teams",
+    "local Friends of Parks groups"
+   ],
+   "hotspots": [
+    "Camden",
+    "Croydon",
+    "Hackney"
+   ],
+   "indicator": "flytip_per_1000",
+   "permission": "build-now",
+   "sources": [
+    "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025"
+   ]
+  },
+  {
+   "id": "recycling-waste",
+   "theme": "environment",
+   "title": "The recycling floor: flats and estates left behind",
+   "headline": "Tower Hamlets recycles 17% of household waste, the lowest rate of any English authority against a 43.8% national average, and dense estates lack food-waste and doorstep provision.",
+   "evidence": [
+    "London's lowest 2024/25 household recycling rates: Tower Hamlets 17%, Kensington and Chelsea 23%, Westminster 24%, Hackney 25% (GLA London Datastore; Defra annual results).",
+    "Around 88% of Tower Hamlets housing stock is flats or maisonettes, and the borough records the lowest organic-waste capture share in England at 8.4%."
+   ],
+   "community": "Behaviour change is social: estate-level champions, food-waste co-ops, repair cafés and community composting lift participation where leaflets fail.",
+   "play": "An estate-level waste toolkit: block-by-block recycling comparisons, communal-bin contamination reporting, and coordination for repair cafés and library-of-things schemes that cut waste upstream.",
+   "actors": [
+    "council waste teams",
+    "Restart Project",
+    "Hubbub",
+    "estate residents' associations",
+    "community composting networks"
+   ],
+   "hotspots": [
+    "Tower Hamlets",
+    "Kensington and Chelsea",
+    "Westminster"
+   ],
+   "indicator": "recycling_pct",
+   "permission": "build-together",
+   "sources": [
+    "https://data.london.gov.uk/dataset/household-waste-recycling-rates-borough-vd67o/",
+    "https://www.gov.uk/government/statistics/local-authority-collected-waste-management-annual-results/local-authority-collected-waste-management-annual-results-202425"
+   ]
+  },
+  {
+   "id": "fuel-poverty",
+   "theme": "living",
+   "title": "Cold homes, rising bills",
+   "headline": "Barking and Dagenham has London's highest fuel poverty rate at 12.8% of households, and London was the only region not to improve between 2023 and 2024.",
+   "evidence": [
+    "Barking and Dagenham 12.8%, Newham 11.9%, Waltham Forest 11.5%, Haringey and Brent 11.4% of households in fuel poverty (DESNZ 2024 modelled estimates, published May 2026).",
+    "London's rate moved from 9.3% to 9.6% between 2023 and 2024, a marginal single-year change, while every other English region improved."
+   ],
+   "community": "The fixes are deliverable locally: energy advice at food banks and community centres, draught-proofing volunteer schemes, warm banks in winter, and collective switching.",
+   "play": "A warm-homes navigator: a triage tool for frontline workers to flag cold-home risk, route households to grant schemes, and track completion. The grant schemes exist; uptake is the gap.",
+   "actors": [
+    "National Energy Action",
+    "Groundwork Green Doctors",
+    "borough energy advice teams",
+    "Citizens Advice"
+   ],
+   "hotspots": [
+    "Barking and Dagenham",
+    "Newham",
+    "Waltham Forest"
+   ],
+   "indicator": "fuel_poor_pct",
+   "permission": "build-together",
+   "sources": [
+    "https://www.gov.uk/government/statistics/sub-regional-fuel-poverty-report-2026-2024-data/sub-regional-fuel-poverty-in-england-2026-report-2024-data-accessible-webpage"
+   ]
+  },
+  {
+   "id": "digital-exclusion",
+   "theme": "living",
+   "title": "The cost of being offline",
+   "headline": "Fewer than one in ten eligible households take up broadband social tariffs that typically save around £200 a year.",
+   "evidence": [
+    "8.6% of eligible households took a broadband social tariff at June 2025 (Ofcom, published February 2026).",
+    "An estimated 2.2 million UK adults are offline and around 8 million lack basic digital skills (Good Things Foundation, Digital Nation 2026).",
+    "Offline households pay up to 25% more for essential goods and services (Centre for Social Justice, 2023).",
+    "Outer east and north London boroughs show the highest exclusion-risk indicators; the dataset's composite score is directional, built on an archived 2022 index, and is labelled as such."
+   ],
+   "community": "Parliamentary inquiries agree digital support works best through trusted local organisations: libraries, community centres and local charities rather than centralised portals.",
+   "play": "A one-minute social-tariff eligibility checker plus a live map of device-bank and support drop-in points; the national support network has no unified local discovery layer.",
+   "actors": [
+    "Good Things Foundation",
+    "public libraries",
+    "Age UK",
+    "National Databank"
+   ],
+   "hotspots": [
+    "Barking and Dagenham",
+    "Brent",
+    "Enfield"
+   ],
+   "indicator": "digital_exclusion_risk",
+   "permission": "build-together",
+   "sources": [
+    "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/multi-sector/pricing/2025/pricing-and-consumer-engagement-report.pdf",
+    "https://www.goodthingsfoundation.org/policy-and-research/research-and-evidence/research-2024/digital-nation",
+    "https://www.centreforsocialjustice.org.uk/library/left-out"
+   ]
+  },
+  {
+   "id": "healthy-life-gap",
+   "theme": "health",
+   "title": "Eleven years of healthy life between boroughs",
+   "headline": "Male healthy life expectancy is 58.3 years in Lewisham and Haringey and 69.3 in Richmond upon Thames, a gap of about eleven years.",
+   "evidence": [
+    "Male healthy life expectancy 2022-24: Lewisham and Haringey both 58.3 years; Richmond upon Thames 69.3, Sutton 68.3, Bromley 67.5 (ONS health state life expectancies, published February 2026).",
+    "Haringey recorded the largest fall in male healthy life expectancy in the UK over the decade: 7.3 years.",
+    "Adult smoking prevalence: Haringey 19.0%, Barking and Dagenham 15.4%, Hackney 15.0%, against 13.0% for England (APS 2024 via OHID Fingertips)."
+   ],
+   "community": "Prevention is neighbourhood work: walking groups, community cookery, men's sheds, social prescribing link workers and peer health champions reach people clinics do not.",
+   "play": "A social prescribing layer that works: one directory of verified local prevention activities with live capacity, referral tracking from GP link workers, and outcome feedback, replacing the PDF directories that go stale in months.",
+   "actors": [
+    "NHS social prescribing link workers",
+    "local Healthwatch",
+    "parkrun and GoodGym",
+    "Men's Sheds",
+    "community health champions"
+   ],
+   "hotspots": [
+    "Lewisham",
+    "Haringey"
+   ],
+   "indicator": "hle_male",
+   "permission": "build-together",
+   "sources": [
+    "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/healthstatelifeexpectanciesuk/between2011to2013and2022to2024",
+    "https://fingertips.phe.org.uk/profile/tobacco-control"
+   ]
+  },
+  {
+   "id": "elderly-care-carers",
+   "theme": "health",
+   "title": "Unpaid carers under sustained strain",
+   "headline": "372,113 adults in England were waiting for care assessments, care or reviews at March 2025, and directors of adult social services rate carer burnout the leading factor in carer breakdown.",
+   "evidence": [
+    "372,113 adults were waiting for assessments, care or reviews at March 2025; 56,249 had waited over six months for assessment, down 28.5% in a year, though the 2026 survey shows the overall total rising again past 400,000 (ADASS spring surveys).",
+    "London has the highest care-worker vacancy rate of any English region, about one post in eight in 2023/24 (Skills for Care, via Institute for Government).",
+    "Around 32% of people drawing on council-funded care did not find information and advice easy to find (Adult Social Care Survey 2024-25), and around 2 million older people in England have some unmet care need (Age UK, 2024)."
+   ],
+   "community": "Befriending schemes, lunch clubs, dementia cafés, handyperson services and carer peer support are the classic mutual-aid domain, and they demonstrably delay statutory demand.",
+   "play": "A carer early-warning tool: self-assessment for unpaid carers routed to respite and peer support before breakdown, plus a borough navigation layer for the advice-discovery failure the survey documents.",
+   "actors": [
+    "Age UK local branches",
+    "Carers UK",
+    "Re-engage",
+    "borough adult social care teams"
+   ],
+   "hotspots": [],
+   "indicator": "waiting_per_1000",
+   "permission": "build-together",
+   "sources": [
+    "https://www.adass.org.uk/documents/adass-spring-survey-2025/",
+    "https://www.instituteforgovernment.org.uk/publication/performance-tracker-2025/local-services/adult-social-care",
+    "https://www.gov.uk/government/statistics/personal-social-services-adult-social-care-survey-report-england-2024-to-2025/personal-social-services-ascs-report-england-2024-to-2025-commentary"
+   ]
+  }
+ ]
+}

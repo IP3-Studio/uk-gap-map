@@ -1,0 +1,59 @@
+{
+ "note": "Headline statistics, verified against primary releases 20 July 2026. Estimates are labelled as estimates.",
+ "stats": [
+  {
+   "stat": "1 in 21",
+   "label": "children in London growing up in temporary accommodation, roughly one in every classroom",
+   "source": "LSE London / London Councils, Oct 2025",
+   "url": "https://www.londoncouncils.gov.uk/news-and-press-releases/2025/ps740m-black-hole-londons-temporary-accommodation-crisis-draining"
+  },
+  {
+   "stat": "£5.5m",
+   "label": "spent by London boroughs on homelessness every day in 2024/25, about £5m of it on temporary accommodation",
+   "source": "London Councils, Dec 2025",
+   "url": "https://www.londoncouncils.gov.uk/sites/default/files/2025-12/London%20Councils%20homelessness%20briefing%20December%202025.pdf"
+  },
+  {
+   "stat": "3,944",
+   "label": "people recorded sleeping rough in London, January to March 2026, down 11% on the year but rising in some boroughs",
+   "source": "CHAIN / GLA",
+   "url": "https://data.london.gov.uk/dataset/chain-reports"
+  },
+  {
+   "stat": "15%",
+   "label": "of young Londoners (16 to 24) are NEET, the highest rate of any English region",
+   "source": "PwC Youth Employment Index 2025, analysis of ONS data",
+   "url": "https://www.pwc.co.uk/press-room/press-releases/research-commentary/2025/p26bn-gdp-boost-if--worst-in-a-decade--neet-levels-reversed-amon.html"
+  },
+  {
+   "stat": "53 per 1,000",
+   "label": "fly-tipping incidents in London against 21 across England, the highest of any region",
+   "source": "Defra, 2024/25",
+   "url": "https://www.gov.uk/government/statistics/fly-tipping-statistics-for-england/fly-tipping-statistics-for-england-2024-to-2025"
+  },
+  {
+   "stat": "12.8%",
+   "label": "of Barking and Dagenham households in fuel poverty, London's highest; London was the only region not to improve in 2024",
+   "source": "DESNZ modelled estimates, May 2026",
+   "url": "https://www.gov.uk/government/statistics/sub-regional-fuel-poverty-report-2026-2024-data/sub-regional-fuel-poverty-in-england-2026-report-2024-data-accessible-webpage"
+  },
+  {
+   "stat": "11 years",
+   "label": "gap in male healthy life expectancy between Lewisham or Haringey (58.3) and Richmond upon Thames (69.3)",
+   "source": "ONS, 2022-24, published Feb 2026",
+   "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/healthstatelifeexpectanciesuk/between2011to2013and2022to2024"
+  },
+  {
+   "stat": "8.6%",
+   "label": "of eligible households take up broadband social tariffs that typically save around £200 a year",
+   "source": "Ofcom, June 2025 data",
+   "url": "https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/multi-sector/pricing/2025/pricing-and-consumer-engagement-report.pdf"
+  },
+  {
+   "stat": "-28%",
+   "label": "real-terms change in London boroughs' spending on services for young people since 2015/16 (£87.9m to £84.1m cash; one suppressed return excluded)",
+   "source": "DfE S251 outturn, recomputed Jul 2026",
+   "url": "https://explore-education-statistics.service.gov.uk/find-statistics/la-and-school-expenditure/2024-25"
+  }
+ ]
+}
