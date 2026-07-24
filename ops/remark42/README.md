@@ -1,6 +1,6 @@
 # Remark42 deployment — forum.gapmap.uk
 
-The comment/claims backend for the gap map's per-gap threads. One small
+The comments backend for the gap map's per-gap threads. One small
 Docker-capable Debian VPS (Webarchitects co-op, Sheffield). Anonymous
 posting with public handles, post-moderation, auto-SSL, daily JSON backups.
 
@@ -33,9 +33,15 @@ volume.
 ## What the site needs once this is live
 
 Set `NEXT_PUBLIC_REMARK_URL=https://forum.gapmap.uk` and the code pass in
-task #8 swaps ThreadPanel + the take-a-gap wizard from the GitHub interim to
-the Remark42 API (claims post as structured comments, CLAIM/UPDATE/SHIPPED
-prefixes drive the badges, pinned claims stay on top).
+task #8 embeds the Remark42 widget on every gap page for open discussion,
+keyed on the canonical page URL (https://www.gapmap.uk/gaps/<slug>/).
+
+Division of labour (decision, 24 Jul 2026): claims stay on GitHub
+permanently. The take-a-gap wizard keeps posting structured claim issues,
+curators keep merging them into data/attempts.json, and the thread panel
+keeps rendering CLAIM / UPDATE / SHIPPED posts from that curated record,
+pinned above the Remark42 comments. Remark42 carries conversation only;
+it never drives a gap's status.
 
 ## Moderation
 
