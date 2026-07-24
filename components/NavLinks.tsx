@@ -7,6 +7,7 @@ export default function NavLinks() {
       <Link href="/">map</Link>
       <Link href="/london/">london</Link>
       <Link href="/gaps/">gaps</Link>
+      <Link href="/outcomes/">outcomes</Link>
       <Link href="/domains/">domains</Link>
       <Link href="/resources/">resources</Link>
       <Link href="/manifesto/">manifesto</Link>

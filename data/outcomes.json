@@ -1,0 +1,124 @@
+{
+ "note": "Lightweight outcomes layer, v1 (July 2026). Each outcome names an end-state and the gaps that block it, defined by whole domains plus named cross-domain gaps. Method kin: Deep Science Ventures' Outcomes Graph and Discourse Graphs. v2 adds per-gap curation and dependency logic.",
+ "outcomes": [
+  {
+   "id": "own-your-town",
+   "short": "own your town",
+   "title": "Communities can own and run local assets and services",
+   "line": "The pub, the shop, the hall and the services around them can pass into community hands and stay there.",
+   "domains": [
+    "civic-society",
+    "parallel-institutions"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "every-young-person-counted",
+   "short": "every young person counted",
+   "title": "Every young person has a visible route in",
+   "line": "Nobody drops off the radar at 16, and work, skills and participation are findable from any postcode.",
+   "domains": [
+    "youth-mobilisation",
+    "education-ai"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "follow-the-pound",
+   "short": "follow the pound",
+   "title": "Public money is traceable and contestable",
+   "line": "Spending, contracts and influence can be followed by anyone, and misuse has consequences.",
+   "domains": [
+    "corruption-integrity"
+   ],
+   "gaps": [
+    66,
+    213
+   ]
+  },
+  {
+   "id": "your-data-yours",
+   "short": "your data, yours",
+   "title": "People control their own data and identity",
+   "line": "Records, identifiers and communications answer to the people they describe.",
+   "domains": [
+    "privacy",
+    "surveillance"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "sovereign-stack",
+   "short": "a sovereign stack",
+   "title": "Britain can run its critical digital infrastructure at home",
+   "line": "The software, compute and models the country depends on do not sit solely in someone else's jurisdiction.",
+   "domains": [
+    "open-source-public-goods",
+    "portable-sovereignty",
+    "local-ai"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "debt-understood",
+   "short": "the debt, understood",
+   "title": "The debt is understood, and the unborn are not billed silently",
+   "line": "What is owed, what servicing costs, and who pays are plain public knowledge shaping every fiscal choice.",
+   "domains": [
+    "debt"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "ready-for-shocks",
+   "short": "ready for shocks",
+   "title": "Neighbourhoods stay functional when systems fail",
+   "line": "When the mast, the grid or the supply chain breaks, the street has a practised fallback.",
+   "domains": [
+    "national-resilience"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "care-close-to-home",
+   "short": "care close to home",
+   "title": "Health, care and prevention work close to home",
+   "line": "The years of healthy life you get stop depending on the borough you were born in.",
+   "domains": [
+    "health-social-care"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "justice-reachable",
+   "short": "justice within reach",
+   "title": "Justice is reachable when rights are breached",
+   "line": "A right you cannot enforce is not narrowed quietly into a privilege.",
+   "domains": [
+    "justice-access"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "places-that-can-act",
+   "short": "places that can act",
+   "title": "Local economies grow and local government can act",
+   "line": "Councils and regions hold the tools, data and revenue to fix what is in front of them.",
+   "domains": [
+    "growth-stagnation",
+    "local-state-capacity"
+   ],
+   "gaps": []
+  },
+  {
+   "id": "ai-prepared",
+   "short": "AI, prepared",
+   "title": "The AI transition is prepared for, not suffered",
+   "line": "Displacement, assurance and capability questions get answered before they harden into crises.",
+   "domains": [
+    "ai-crisis"
+   ],
+   "gaps": []
+  }
+ ]
+}

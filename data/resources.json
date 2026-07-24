@@ -658,6 +658,17 @@
      "note": "Fourteen years old, run by a small worker co-op. Official Docker setup makes self-hosting practical, but expect to be your own support; hosted service exists."
     },
     {
+     "name": "Discourse Graphs",
+     "url": "https://discoursegraphs.com",
+     "what": "An open protocol and plugin ecosystem for decomposing research into questions, claims and evidence that teams can share, challenge and build on.",
+     "origin": "US",
+     "license": "Apache-2.0",
+     "maturity": "usable",
+     "selfhost": true,
+     "logosEcosystem": false,
+     "note": "Roam and Obsidian plugins run on your own local graphs; funded by Protocol Labs Research, CZI and Schmidt Futures among others. This map's per-claim evidence records follow the same claims and evidence shape."
+    },
+    {
      "name": "Open Collective",
      "url": "https://opencollective.com",
      "what": "Transparent money management for communities: raise funds and pay expenses in the open under a fiscal host.",

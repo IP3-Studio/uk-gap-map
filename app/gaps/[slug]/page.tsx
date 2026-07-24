@@ -6,6 +6,7 @@ import StatusPipeline from "@/components/StatusPipeline";
 import ThreadPanel from "@/components/ThreadPanel";
 import { refOf } from "@/lib/attempts";
 import { gaps, gapBySlug, domainBySlug, permissionLabel } from "@/lib/data";
+import { outcomesForGap } from "@/lib/outcomes";
 
 export function generateStaticParams() {
   return gaps.map((g) => ({ slug: g.slug }));
@@ -69,6 +70,16 @@ export default async function GapPage({ params }: { params: Promise<{ slug: stri
         </nav>
         <h1>{gap.title}</h1>
         <StatusPipeline gapNumber={gap.number} />
+        {outcomesForGap(gap.number).length > 0 && (
+          <div className="outcome-line">
+            <span className="lbl mono">outcome →</span>
+            {outcomesForGap(gap.number).map((o) => (
+              <Link key={o.id} href={`/outcomes/#${o.id}`} className="tag-chip" title={o.title}>
+                {o.short}
+              </Link>
+            ))}
+          </div>
+        )}
       </div>
 
       <div className="detail-grid">

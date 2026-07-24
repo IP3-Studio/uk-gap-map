@@ -81,7 +81,9 @@ export default function AboutPage() {
         silence frees the gap again. Every gap page carries its own discussion thread (anonymous commenting
         via Remark42 is on the roadmap; replies route through GitHub until it lands), and anyone can{" "}
         <a href="/suggest/">suggest a new gap</a>, which is verified against primary sources before it
-        appears.
+        appears. Above the gaps sits an <a href="/outcomes/">outcomes layer</a>: eleven end-states, each
+        showing the gaps that block it and live progress towards it, so you can work backwards from the
+        outcome you want to the gap you could take.
       </p>
 
       <h2>Ranking: editorial urgency, 0–5</h2>
@@ -113,6 +115,24 @@ export default function AboutPage() {
         committee reports, Law Commission papers, and the publications of the organisations named in each entry.
         Every entry carries its sources. The next phase is 30–50 practitioner interviews to kill, correct
         and re-rank entries before a public v1.0.
+      </p>
+      <p>
+        Two kin methodologies shape how the map reasons. Deep Science Ventures&rsquo;{" "}
+        <a
+          href="https://www.deepscienceventures.com/articles/outcomes-graph-a-protocol-for-applied-science-coordination"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Outcomes Graph
+        </a>{" "}
+        works backwards from a desired outcome to the constraints that block it, which is the shape of our{" "}
+        <a href="/outcomes/">outcomes layer</a>.{" "}
+        <a href="https://discoursegraphs.com" rel="noopener noreferrer" target="_blank">
+          Discourse Graphs
+        </a>{" "}
+        decomposes research into questions, claims and evidence that can be shared and challenged
+        independently; the map&rsquo;s per-claim evidence records follow the same shape, and the tool itself
+        appears in the <a href="/resources/">resources hub</a>.
       </p>
       <p>
         The map aims to be non-partisan: an evidence-backed inventory, not advocacy. Entries are written to be
