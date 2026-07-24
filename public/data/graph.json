@@ -1,0 +1,5148 @@
+{
+ "meta": {
+  "title": "UK Gap Map graph export",
+  "source": "https://www.gapmap.uk",
+  "repo": "https://github.com/IP3-Studio/uk-gap-map",
+  "generatedAt": "2026-07-24",
+  "note": "Gap statuses are frozen at generation time; the live record is data/attempts.json in the repo. Node types: outcome, domain, gap. Edge types: in-domain, also-in, see-also, blocks (gap blocks outcome). Method kin: Discourse Graphs (discoursegraphs.com) and DSV's Outcomes Graph.",
+  "counts": {
+   "nodes": 233,
+   "edges": 490
+  }
+ },
+ "nodes": [
+  {
+   "id": "outcome:own-your-town",
+   "type": "outcome",
+   "label": "Communities can own and run local assets and services",
+   "short": "own your town",
+   "line": "The pub, the shop, the hall and the services around them can pass into community hands and stay there.",
+   "url": "https://www.gapmap.uk/outcomes/#own-your-town"
+  },
+  {
+   "id": "outcome:every-young-person-counted",
+   "type": "outcome",
+   "label": "Every young person has a visible route in",
+   "short": "every young person counted",
+   "line": "Nobody drops off the radar at 16, and work, skills and participation are findable from any postcode.",
+   "url": "https://www.gapmap.uk/outcomes/#every-young-person-counted"
+  },
+  {
+   "id": "outcome:follow-the-pound",
+   "type": "outcome",
+   "label": "Public money is traceable and contestable",
+   "short": "follow the pound",
+   "line": "Spending, contracts and influence can be followed by anyone, and misuse has consequences.",
+   "url": "https://www.gapmap.uk/outcomes/#follow-the-pound"
+  },
+  {
+   "id": "outcome:your-data-yours",
+   "type": "outcome",
+   "label": "People control their own data and identity",
+   "short": "your data, yours",
+   "line": "Records, identifiers and communications answer to the people they describe.",
+   "url": "https://www.gapmap.uk/outcomes/#your-data-yours"
+  },
+  {
+   "id": "outcome:sovereign-stack",
+   "type": "outcome",
+   "label": "Britain can run its critical digital infrastructure at home",
+   "short": "a sovereign stack",
+   "line": "The software, compute and models the country depends on do not sit solely in someone else's jurisdiction.",
+   "url": "https://www.gapmap.uk/outcomes/#sovereign-stack"
+  },
+  {
+   "id": "outcome:debt-understood",
+   "type": "outcome",
+   "label": "The debt is understood, and the unborn are not billed silently",
+   "short": "the debt, understood",
+   "line": "What is owed, what servicing costs, and who pays are plain public knowledge shaping every fiscal choice.",
+   "url": "https://www.gapmap.uk/outcomes/#debt-understood"
+  },
+  {
+   "id": "outcome:ready-for-shocks",
+   "type": "outcome",
+   "label": "Neighbourhoods stay functional when systems fail",
+   "short": "ready for shocks",
+   "line": "When the mast, the grid or the supply chain breaks, the street has a practised fallback.",
+   "url": "https://www.gapmap.uk/outcomes/#ready-for-shocks"
+  },
+  {
+   "id": "outcome:care-close-to-home",
+   "type": "outcome",
+   "label": "Health, care and prevention work close to home",
+   "short": "care close to home",
+   "line": "The years of healthy life you get stop depending on the borough you were born in.",
+   "url": "https://www.gapmap.uk/outcomes/#care-close-to-home"
+  },
+  {
+   "id": "outcome:justice-reachable",
+   "type": "outcome",
+   "label": "Justice is reachable when rights are breached",
+   "short": "justice within reach",
+   "line": "A right you cannot enforce is not narrowed quietly into a privilege.",
+   "url": "https://www.gapmap.uk/outcomes/#justice-reachable"
+  },
+  {
+   "id": "outcome:places-that-can-act",
+   "type": "outcome",
+   "label": "Local economies grow and local government can act",
+   "short": "places that can act",
+   "line": "Councils and regions hold the tools, data and revenue to fix what is in front of them.",
+   "url": "https://www.gapmap.uk/outcomes/#places-that-can-act"
+  },
+  {
+   "id": "outcome:ai-prepared",
+   "type": "outcome",
+   "label": "The AI transition is prepared for, not suffered",
+   "short": "AI, prepared",
+   "line": "Displacement, assurance and capability questions get answered before they harden into crises.",
+   "url": "https://www.gapmap.uk/outcomes/#ai-prepared"
+  },
+  {
+   "id": "domain:civic-society",
+   "type": "domain",
+   "label": "Civic action and revitalisation of civil society",
+   "gapCount": 20,
+   "url": "https://www.gapmap.uk/domains/civic-society/"
+  },
+  {
+   "id": "domain:open-source-public-goods",
+   "type": "domain",
+   "label": "Open source tools and public goods",
+   "gapCount": 13,
+   "url": "https://www.gapmap.uk/domains/open-source-public-goods/"
+  },
+  {
+   "id": "domain:youth-mobilisation",
+   "type": "domain",
+   "label": "Youth mobilisation",
+   "gapCount": 12,
+   "url": "https://www.gapmap.uk/domains/youth-mobilisation/"
+  },
+  {
+   "id": "domain:education-ai",
+   "type": "domain",
+   "label": "Education in the age of AI",
+   "gapCount": 11,
+   "url": "https://www.gapmap.uk/domains/education-ai/"
+  },
+  {
+   "id": "domain:growth-stagnation",
+   "type": "domain",
+   "label": "Stagnation solutions: what drives UK growth",
+   "gapCount": 11,
+   "url": "https://www.gapmap.uk/domains/growth-stagnation/"
+  },
+  {
+   "id": "domain:debt",
+   "type": "domain",
+   "label": "The debt problem (UK public, municipal and household debt)",
+   "gapCount": 12,
+   "url": "https://www.gapmap.uk/domains/debt/"
+  },
+  {
+   "id": "domain:surveillance",
+   "type": "domain",
+   "label": "Surveillance",
+   "gapCount": 11,
+   "url": "https://www.gapmap.uk/domains/surveillance/"
+  },
+  {
+   "id": "domain:corruption-integrity",
+   "type": "domain",
+   "label": "Corruption and institutional integrity",
+   "gapCount": 19,
+   "url": "https://www.gapmap.uk/domains/corruption-integrity/"
+  },
+  {
+   "id": "domain:parallel-institutions",
+   "type": "domain",
+   "label": "Parallel institutions formation",
+   "gapCount": 13,
+   "url": "https://www.gapmap.uk/domains/parallel-institutions/"
+  },
+  {
+   "id": "domain:portable-sovereignty",
+   "type": "domain",
+   "label": "Portable sovereignty stack (personal and community digital autonomy: local AI, E2EE comms, personal data stores, co-op governance tooling, community economy, private collaboration)",
+   "gapCount": 11,
+   "url": "https://www.gapmap.uk/domains/portable-sovereignty/"
+  },
+  {
+   "id": "domain:privacy",
+   "type": "domain",
+   "label": "Privacy and sovereignty of the individual",
+   "gapCount": 12,
+   "url": "https://www.gapmap.uk/domains/privacy/"
+  },
+  {
+   "id": "domain:ai-crisis",
+   "type": "domain",
+   "label": "The coming AI crisis: UK preparedness and response",
+   "gapCount": 11,
+   "url": "https://www.gapmap.uk/domains/ai-crisis/"
+  },
+  {
+   "id": "domain:health-social-care",
+   "type": "domain",
+   "label": "Health and social care (including mental health)",
+   "gapCount": 11,
+   "url": "https://www.gapmap.uk/domains/health-social-care/"
+  },
+  {
+   "id": "domain:justice-access",
+   "type": "domain",
+   "label": "Justice, courts and access to justice",
+   "gapCount": 13,
+   "url": "https://www.gapmap.uk/domains/justice-access/"
+  },
+  {
+   "id": "domain:local-state-capacity",
+   "type": "domain",
+   "label": "Local-state capacity, devolution and public finance (England)",
+   "gapCount": 10,
+   "url": "https://www.gapmap.uk/domains/local-state-capacity/"
+  },
+  {
+   "id": "domain:national-resilience",
+   "type": "domain",
+   "label": "National resilience and civil preparedness (biosecurity, pandemics, climate adaptation, critical national infrastructure)",
+   "gapCount": 12,
+   "url": "https://www.gapmap.uk/domains/national-resilience/"
+  },
+  {
+   "id": "domain:local-ai",
+   "type": "domain",
+   "label": "Local AI",
+   "gapCount": 2,
+   "url": "https://www.gapmap.uk/domains/local-ai/"
+  },
+  {
+   "id": "domain:other",
+   "type": "domain",
+   "label": "Other",
+   "gapCount": 0,
+   "url": "https://www.gapmap.uk/domains/other/"
+  },
+  {
+   "id": "gap:1",
+   "type": "gap",
+   "label": "No acquisition capital behind the new Community Right to Buy",
+   "number": 1,
+   "rank": 5,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-acquisition-capital-behind-the-new-community-right-to-buy/"
+  },
+  {
+   "id": "gap:2",
+   "type": "gap",
+   "label": "Community rights stop at assets: no right to shape services or control investment",
+   "number": 2,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/community-rights-stop-at-assets-no-right-to-shape-services-or-control/"
+  },
+  {
+   "id": "gap:3",
+   "type": "gap",
+   "label": "No at-scale, independent financing instrument for local public-interest news",
+   "number": 3,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-at-scale-independent-financing-instrument-for-local-public-interest/"
+  },
+  {
+   "id": "gap:4",
+   "type": "gap",
+   "label": "No evidence institution for social connection, loneliness and civic health",
+   "number": 4,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-evidence-institution-for-social-connection-loneliness-and-civic-hea/"
+  },
+  {
+   "id": "gap:5",
+   "type": "gap",
+   "label": "No official statistics on social infrastructure and associational life",
+   "number": 5,
+   "rank": 0,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-official-statistics-on-social-infrastructure-and-associational-life/"
+  },
+  {
+   "id": "gap:6",
+   "type": "gap",
+   "label": "No national capacity institution for neighbourhood governance and resident leadership",
+   "number": 6,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-national-capacity-institution-for-neighbourhood-governance-and-resi/"
+  },
+  {
+   "id": "gap:8",
+   "type": "gap",
+   "label": "No maintenance funding for democratic digital infrastructure (no civic Sovereign Tech Fund)",
+   "number": 8,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-maintenance-funding-for-democratic-digital-infrastructure-no-civic/"
+  },
+  {
+   "id": "gap:9",
+   "type": "gap",
+   "label": "No participation pipeline: volunteering infrastructure and a successor to NCS",
+   "number": 9,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-participation-pipeline-volunteering-infrastructure-and-a-successor/"
+  },
+  {
+   "id": "gap:10",
+   "type": "gap",
+   "label": "No transition mechanism turning closing faith buildings into community assets",
+   "number": 10,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-transition-mechanism-turning-closing-faith-buildings-into-community/"
+  },
+  {
+   "id": "gap:11",
+   "type": "gap",
+   "label": "Place-based philanthropy outside London lacks endowed capital",
+   "number": 11,
+   "rank": 0,
+   "permission": "state-led",
+   "horizon": "long",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/place-based-philanthropy-outside-london-lacks-endowed-capital/"
+  },
+  {
+   "id": "gap:12",
+   "type": "gap",
+   "label": "Community organising has no long-term core-funding vehicle",
+   "number": 12,
+   "rank": 0,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/community-organising-has-no-long-term-core-funding-vehicle/"
+  },
+  {
+   "id": "gap:13",
+   "type": "gap",
+   "label": "No UK Sovereign Tech Fund for maintaining critical open source infrastructure",
+   "number": 13,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-uk-sovereign-tech-fund-for-maintaining-critical-open-source-infrast/"
+  },
+  {
+   "id": "gap:14",
+   "type": "gap",
+   "label": "No cross-government Open Source Programme Office to own the 'open by default' policy",
+   "number": 14,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-cross-government-open-source-programme-office-to-own-the-open-by-de/"
+  },
+  {
+   "id": "gap:15",
+   "type": "gap",
+   "label": "No national assurance service giving public bodies confidence in open source products",
+   "number": 15,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-national-assurance-service-giving-public-bodies-confidence-in-open/"
+  },
+  {
+   "id": "gap:16",
+   "type": "gap",
+   "label": "No open national address file: PAF remains a proprietary Royal Mail asset",
+   "number": 16,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-open-national-address-file-paf-remains-a-proprietary-royal-mail-ass/"
+  },
+  {
+   "id": "gap:17",
+   "type": "gap",
+   "label": "No statutory duty or function for maintaining canonical government reference data",
+   "number": 17,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-statutory-duty-or-function-for-maintaining-canonical-government-ref/"
+  },
+  {
+   "id": "gap:18",
+   "type": "gap",
+   "label": "No UK small-grants vehicle for public-interest internet technology (NGI analogue)",
+   "number": 18,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-uk-small-grants-vehicle-for-public-interest-internet-technology-ngi/"
+  },
+  {
+   "id": "gap:19",
+   "type": "gap",
+   "label": "Research software maintenance funding is a one-off pilot, not a recurring budget line",
+   "number": 19,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/research-software-maintenance-funding-is-a-one-off-pilot-not-a-recurri/"
+  },
+  {
+   "id": "gap:20",
+   "type": "gap",
+   "label": "Charities and civil society are locked out of government platform infrastructure",
+   "number": 20,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/charities-and-civil-society-are-locked-out-of-government-platform-infr/"
+  },
+  {
+   "id": "gap:21",
+   "type": "gap",
+   "label": "No institutional home for open code in the NHS, and an active retreat from it",
+   "number": 21,
+   "rank": 4,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-institutional-home-for-open-code-in-the-nhs-and-an-active-retreat-f/"
+  },
+  {
+   "id": "gap:22",
+   "type": "gap",
+   "label": "No census of the critical open source dependencies underpinning UK government and CNI",
+   "number": 22,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-census-of-the-critical-open-source-dependencies-underpinning-uk-gov/"
+  },
+  {
+   "id": "gap:23",
+   "type": "gap",
+   "label": "Open source procurement policy exists on paper but has no weighting, audit or skills behind it",
+   "number": 23,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/open-source-procurement-policy-exists-on-paper-but-has-no-weighting-au/"
+  },
+  {
+   "id": "gap:24",
+   "type": "gap",
+   "label": "No UK support scheme for open source maintainers facing EU Cyber Resilience Act obligations",
+   "number": 24,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-uk-support-scheme-for-open-source-maintainers-facing-eu-cyber-resil/"
+  },
+  {
+   "id": "gap:25",
+   "type": "gap",
+   "label": "No independent national youth council since the British Youth Council's collapse",
+   "number": 25,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-national-youth-council-since-the-british-youth-councils/"
+  },
+  {
+   "id": "gap:26",
+   "type": "gap",
+   "label": "No at-scale 'first vote' programme for 1.6 million newly enfranchised 16-17-year-olds",
+   "number": 26,
+   "rank": 4,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-at-scale-first-vote-programme-for-1-6-million-newly-enfranchised-16/"
+  },
+  {
+   "id": "gap:27",
+   "type": "gap",
+   "label": "No schools-based or automatic registration pipeline for attainers",
+   "number": 27,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-schools-based-or-automatic-registration-pipeline-for-attainers/"
+  },
+  {
+   "id": "gap:28",
+   "type": "gap",
+   "label": "No statutory floor or ring-fenced revenue funding for youth services",
+   "number": 28,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-statutory-floor-or-ring-fenced-revenue-funding-for-youth-services/"
+  },
+  {
+   "id": "gap:29",
+   "type": "gap",
+   "label": "No workforce pipeline to replace 4,500 lost qualified youth workers",
+   "number": 29,
+   "rank": 1,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-workforce-pipeline-to-replace-4-500-lost-qualified-youth-workers/"
+  },
+  {
+   "id": "gap:30",
+   "type": "gap",
+   "label": "Nothing replaced NCS's universal civic rite of passage",
+   "number": 30,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/nothing-replaced-ncss-universal-civic-rite-of-passage/"
+  },
+  {
+   "id": "gap:31",
+   "type": "gap",
+   "label": "No dedicated fund or institution for young men's civic engagement",
+   "number": 31,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-dedicated-fund-or-institution-for-young-mens-civic-engagement/"
+  },
+  {
+   "id": "gap:32",
+   "type": "gap",
+   "label": "Youth voice has no statutory footing in English policymaking",
+   "number": 32,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/youth-voice-has-no-statutory-footing-in-english-policymaking/"
+  },
+  {
+   "id": "gap:33",
+   "type": "gap",
+   "label": "No official statistical series or open dataset on youth participation and provision",
+   "number": 33,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-official-statistical-series-or-open-dataset-on-youth-participation/"
+  },
+  {
+   "id": "gap:34",
+   "type": "gap",
+   "label": "No nonpartisan youth voter mobilisation infrastructure sized for the first votes-at-16 election",
+   "number": 34,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-nonpartisan-youth-voter-mobilisation-infrastructure-sized-for-the-f/"
+  },
+  {
+   "id": "gap:35",
+   "type": "gap",
+   "label": "The Youth Guarantee is eight pilots, not a guarantee",
+   "number": 35,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/the-youth-guarantee-is-eight-pilots-not-a-guarantee/"
+  },
+  {
+   "id": "gap:36",
+   "type": "gap",
+   "label": "Uniformed youth demand outstrips supply with no adult-volunteer pipeline",
+   "number": 36,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/uniformed-youth-demand-outstrips-supply-with-no-adult-volunteer-pipeli/"
+  },
+  {
+   "id": "gap:37",
+   "type": "gap",
+   "label": "No permanent assurance body certifying AI education products for safety and efficacy",
+   "number": 37,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-permanent-assurance-body-certifying-ai-education-products-for-safet/"
+  },
+  {
+   "id": "gap:38",
+   "type": "gap",
+   "label": "No assessment-innovation sandbox or redesign fund for post-AI school qualifications",
+   "number": 38,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-assessment-innovation-sandbox-or-redesign-fund-for-post-ai-school-q/"
+  },
+  {
+   "id": "gap:39",
+   "type": "gap",
+   "label": "No funded national programme for AI-era assessment redesign in higher education",
+   "number": 39,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-funded-national-programme-for-ai-era-assessment-redesign-in-higher/"
+  },
+  {
+   "id": "gap:40",
+   "type": "gap",
+   "label": "No AI-literacy CPD entitlement for the existing teacher workforce before the 2028 curriculum",
+   "number": 40,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-ai-literacy-cpd-entitlement-for-the-existing-teacher-workforce-befo/"
+  },
+  {
+   "id": "gap:41",
+   "type": "gap",
+   "label": "England has no national school digital platform for safe central provision of AI tools (no Hwb equivalent)",
+   "number": 41,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/england-has-no-national-school-digital-platform-for-safe-central-provi/"
+  },
+  {
+   "id": "gap:42",
+   "type": "gap",
+   "label": "No funded successor to the National Tutoring Programme to deliver AI-blended tutoring to disadvantaged pupils",
+   "number": 42,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-funded-successor-to-the-national-tutoring-programme-to-deliver-ai-b/"
+  },
+  {
+   "id": "gap:44",
+   "type": "gap",
+   "label": "No grant-based retraining instrument for mid-career workers displaced by AI",
+   "number": 44,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-grant-based-retraining-instrument-for-mid-career-workers-displaced/"
+  },
+  {
+   "id": "gap:45",
+   "type": "gap",
+   "label": "No statutory failure regime or transition finance for universities restructuring under AI-era demand",
+   "number": 45,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-statutory-failure-regime-or-transition-finance-for-universities-res/"
+  },
+  {
+   "id": "gap:46",
+   "type": "gap",
+   "label": "No dedicated national R&D programme on AI pedagogy and child-AI interaction",
+   "number": 46,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-dedicated-national-r-d-programme-on-ai-pedagogy-and-child-ai-intera/"
+  },
+  {
+   "id": "gap:47",
+   "type": "gap",
+   "label": "AI-economy qualifications for 16-19 and vocational learners remain exploratory, with no delivery commitment",
+   "number": 47,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/ai-economy-qualifications-for-16-19-and-vocational-learners-remain-exp/"
+  },
+  {
+   "id": "gap:48",
+   "type": "gap",
+   "label": "No open unit-cost benchmarking observatory for UK infrastructure",
+   "number": 48,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-open-unit-cost-benchmarking-observatory-for-uk-infrastructure/"
+  },
+  {
+   "id": "gap:49",
+   "type": "gap",
+   "label": "Planning reform without planners: no workforce pipeline at the scale required",
+   "number": 49,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/planning-reform-without-planners-no-workforce-pipeline-at-the-scale-re/"
+  },
+  {
+   "id": "gap:50",
+   "type": "gap",
+   "label": "Street votes: an enacted densification tool with no commencement regulations",
+   "number": 50,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/street-votes-an-enacted-densification-tool-with-no-commencement-regula/"
+  },
+  {
+   "id": "gap:51",
+   "type": "gap",
+   "label": "No legislated pathway to move legacy policy levies off electricity bills for everyone outside BICS",
+   "number": 51,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-legislated-pathway-to-move-legacy-policy-levies-off-electricity-bil/"
+  },
+  {
+   "id": "gap:52",
+   "type": "gap",
+   "label": "After zonal pricing's rejection, no working locational signal for siting demand or generation",
+   "number": 52,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/after-zonal-pricings-rejection-no-working-locational-signal-for-siting/"
+  },
+  {
+   "id": "gap:53",
+   "type": "gap",
+   "label": "Secure research-data infrastructure for diagnosing the growth problem is going backwards",
+   "number": 53,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/secure-research-data-infrastructure-for-diagnosing-the-growth-problem/"
+  },
+  {
+   "id": "gap:54",
+   "type": "gap",
+   "label": "No standing mass-transit delivery unit or rolling tram programme for second cities",
+   "number": 54,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-standing-mass-transit-delivery-unit-or-rolling-tram-programme-for-s/"
+  },
+  {
+   "id": "gap:56",
+   "type": "gap",
+   "label": "Nothing rewards civil servants for staying in post: churn as an anti-capability machine",
+   "number": 56,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/nothing-rewards-civil-servants-for-staying-in-post-churn-as-an-anti-ca/"
+  },
+  {
+   "id": "gap:57",
+   "type": "gap",
+   "label": "Innovation procurement has no statutory teeth: SBRI is a shadow of SBIR",
+   "number": 57,
+   "rank": 0,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/innovation-procurement-has-no-statutory-teeth-sbri-is-a-shadow-of-sbir/"
+  },
+  {
+   "id": "gap:58",
+   "type": "gap",
+   "label": "New towns without patient capital: development corporations not yet capitalised",
+   "number": 58,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "long",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/new-towns-without-patient-capital-development-corporations-not-yet-cap/"
+  },
+  {
+   "id": "gap:59",
+   "type": "gap",
+   "label": "Pension capital has been promised to UK growth assets that barely exist at scale",
+   "number": 59,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/pension-capital-has-been-promised-to-uk-growth-assets-that-barely-exis/"
+  },
+  {
+   "id": "gap:60",
+   "type": "gap",
+   "label": "The Statutory Debt Repayment Plan: legislated in 2018, still switched off",
+   "number": 60,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/the-statutory-debt-repayment-plan-legislated-in-2018-still-switched-of/"
+  },
+  {
+   "id": "gap:61",
+   "type": "gap",
+   "label": "Debt advice is funded by a levy on lenders who no longer cause the debt",
+   "number": 61,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/debt-advice-is-funded-by-a-levy-on-lenders-who-no-longer-cause-the-deb/"
+  },
+  {
+   "id": "gap:62",
+   "type": "gap",
+   "label": "No binding standards for government's own debt collection",
+   "number": 62,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-binding-standards-for-governments-own-debt-collection/"
+  },
+  {
+   "id": "gap:63",
+   "type": "gap",
+   "label": "No independent sovereign stress-testing or fiscal-crisis contingency capability",
+   "number": 63,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-sovereign-stress-testing-or-fiscal-crisis-contingency-c/"
+  },
+  {
+   "id": "gap:64",
+   "type": "gap",
+   "label": "No retail gilt platform to diversify the sovereign's investor base",
+   "number": 64,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-retail-gilt-platform-to-diversify-the-sovereigns-investor-base/"
+  },
+  {
+   "id": "gap:65",
+   "type": "gap",
+   "label": "Gilt-repo fragility: the crisis backstop excludes the market's marginal player",
+   "number": 65,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/gilt-repo-fragility-the-crisis-backstop-excludes-the-markets-marginal/"
+  },
+  {
+   "id": "gap:66",
+   "type": "gap",
+   "label": "No early-warning system or open data on council finances since Oflog's abolition",
+   "number": 66,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-early-warning-system-or-open-data-on-council-finances-since-oflogs/"
+  },
+  {
+   "id": "gap:68",
+   "type": "gap",
+   "label": "Affordable credit for negative-budget households has no permanent funding stream",
+   "number": 68,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/affordable-credit-for-negative-budget-households-has-no-permanent-fund/"
+  },
+  {
+   "id": "gap:69",
+   "type": "gap",
+   "label": "Illegal-lending enforcement is microscopic relative to a 3-million-victim market",
+   "number": 69,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/illegal-lending-enforcement-is-microscopic-relative-to-a-3-million-vic/"
+  },
+  {
+   "id": "gap:70",
+   "type": "gap",
+   "label": "Nobody owns the state's long-tail liabilities, and balance-sheet data arrives late and qualified",
+   "number": 70,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/nobody-owns-the-states-long-tail-liabilities-and-balance-sheet-data-ar/"
+  },
+  {
+   "id": "gap:71",
+   "type": "gap",
+   "label": "Fiscal rules change by fiat: no due process, no buffer norms",
+   "number": 71,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/fiscal-rules-change-by-fiat-no-due-process-no-buffer-norms/"
+  },
+  {
+   "id": "gap:72",
+   "type": "gap",
+   "label": "No dedicated statute or single regulator for facial recognition and biometric surveillance",
+   "number": 72,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-dedicated-statute-or-single-regulator-for-facial-recognition-and-bi/"
+  },
+  {
+   "id": "gap:73",
+   "type": "gap",
+   "label": "Secret encryption-breaking orders with no transparency reporting or parliamentary notification",
+   "number": 73,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/secret-encryption-breaking-orders-with-no-transparency-reporting-or-pa/"
+  },
+  {
+   "id": "gap:74",
+   "type": "gap",
+   "label": "No independent pre-deployment testing infrastructure for police surveillance algorithms",
+   "number": 74,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-pre-deployment-testing-infrastructure-for-police-survei/"
+  },
+  {
+   "id": "gap:76",
+   "type": "gap",
+   "label": "No dedicated fund or costs protection for strategic surveillance litigation",
+   "number": 76,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-dedicated-fund-or-costs-protection-for-strategic-surveillance-litig/"
+  },
+  {
+   "id": "gap:77",
+   "type": "gap",
+   "label": "No domestic funding base for UK digital rights civil society",
+   "number": 77,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-domestic-funding-base-for-uk-digital-rights-civil-society/"
+  },
+  {
+   "id": "gap:78",
+   "type": "gap",
+   "label": "No public observatory or machine-readable register of UK surveillance technology deployments",
+   "number": 78,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-public-observatory-or-machine-readable-register-of-uk-surveillance/"
+  },
+  {
+   "id": "gap:79",
+   "type": "gap",
+   "label": "No lawful retention and deletion regime for the 19 million custody images feeding facial recognition",
+   "number": 79,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-lawful-retention-and-deletion-regime-for-the-19-million-custody-ima/"
+  },
+  {
+   "id": "gap:80",
+   "type": "gap",
+   "label": "No credible sovereign exit option for the NHS Federated Data Platform before the February 2027 break clause",
+   "number": 80,
+   "rank": 4,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-credible-sovereign-exit-option-for-the-nhs-federated-data-platform/"
+  },
+  {
+   "id": "gap:81",
+   "type": "gap",
+   "label": "No independent regulator, redress scheme or offline guarantee for the digital identity system",
+   "number": 81,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-regulator-redress-scheme-or-offline-guarantee-for-the-d/"
+  },
+  {
+   "id": "gap:82",
+   "type": "gap",
+   "label": "No independent monitor or claimant-side capacity for DWP bank-account surveillance",
+   "number": 82,
+   "rank": 5,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-monitor-or-claimant-side-capacity-for-dwp-bank-account/"
+  },
+  {
+   "id": "gap:84",
+   "type": "gap",
+   "label": "A debarment register with no entries and no independent trigger",
+   "number": 84,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/a-debarment-register-with-no-entries-and-no-independent-trigger/"
+  },
+  {
+   "id": "gap:85",
+   "type": "gap",
+   "label": "Statutory lobbying register still excludes in-house lobbyists",
+   "number": 85,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/statutory-lobbying-register-still-excludes-in-house-lobbyists/"
+  },
+  {
+   "id": "gap:86",
+   "type": "gap",
+   "label": "Revolving-door rules without legal sanctions after ACOBA's closure",
+   "number": 86,
+   "rank": 0,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/revolving-door-rules-without-legal-sanctions-after-acobas-closure/"
+  },
+  {
+   "id": "gap:87",
+   "type": "gap",
+   "label": "Ethics and Integrity Commission lacks statutory footing and investigative powers",
+   "number": 87,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/ethics-and-integrity-commission-lacks-statutory-footing-and-investigat/"
+  },
+  {
+   "id": "gap:88",
+   "type": "gap",
+   "label": "Donation caps and real source-of-funds checks missing from party-finance reform",
+   "number": 88,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/donation-caps-and-real-source-of-funds-checks-missing-from-party-finan/"
+  },
+  {
+   "id": "gap:89",
+   "type": "gap",
+   "label": "No sustainable funding model for economic-crime enforcement",
+   "number": 89,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-sustainable-funding-model-for-economic-crime-enforcement/"
+  },
+  {
+   "id": "gap:90",
+   "type": "gap",
+   "label": "Weakly supervised verification agents and unreformed limited partnerships at Companies House",
+   "number": 90,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/weakly-supervised-verification-agents-and-unreformed-limited-partnersh/"
+  },
+  {
+   "id": "gap:91",
+   "type": "gap",
+   "label": "Overseas territories' beneficial-ownership registers closed to public scrutiny",
+   "number": 91,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/overseas-territories-beneficial-ownership-registers-closed-to-public-s/"
+  },
+  {
+   "id": "gap:92",
+   "type": "gap",
+   "label": "FOI enforcement starved while ministers explore narrowing the Act",
+   "number": 92,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/foi-enforcement-starved-while-ministers-explore-narrowing-the-act/"
+  },
+  {
+   "id": "gap:93",
+   "type": "gap",
+   "label": "Anti-SLAPP protection stops at economic crime",
+   "number": 93,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/anti-slapp-protection-stops-at-economic-crime/"
+  },
+  {
+   "id": "gap:94",
+   "type": "gap",
+   "label": "No Office of the Whistleblower",
+   "number": 94,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-office-of-the-whistleblower/"
+  },
+  {
+   "id": "gap:95",
+   "type": "gap",
+   "label": "No charitable pathway or endowment for investigative journalism",
+   "number": 95,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-charitable-pathway-or-endowment-for-investigative-journalism/"
+  },
+  {
+   "id": "gap:96",
+   "type": "gap",
+   "label": "The 2023 mutuals asset-lock Act still has no commencement regulations",
+   "number": 96,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/the-2023-mutuals-asset-lock-act-still-has-no-commencement-regulations/"
+  },
+  {
+   "id": "gap:97",
+   "type": "gap",
+   "label": "No proportionate legal route to found a new friendly society",
+   "number": 97,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-proportionate-legal-route-to-found-a-new-friendly-society/"
+  },
+  {
+   "id": "gap:98",
+   "type": "gap",
+   "label": "No limited-liability form for informal associations, and no owner for the DAO law follow-up",
+   "number": 98,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-limited-liability-form-for-informal-associations-and-no-owner-for-t/"
+  },
+  {
+   "id": "gap:99",
+   "type": "gap",
+   "label": "England has no co-operative development agency",
+   "number": 99,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/england-has-no-co-operative-development-agency/"
+  },
+  {
+   "id": "gap:100",
+   "type": "gap",
+   "label": "Mutual society registration lacks Companies House-grade digital infrastructure",
+   "number": 100,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/mutual-society-registration-lacks-companies-house-grade-digital-infras/"
+  },
+  {
+   "id": "gap:101",
+   "type": "gap",
+   "label": "No regulatory pathway or public infrastructure for mutual credit and B2B obligation-clearing",
+   "number": 101,
+   "rank": 1,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-regulatory-pathway-or-public-infrastructure-for-mutual-credit-and-b/"
+  },
+  {
+   "id": "gap:102",
+   "type": "gap",
+   "label": "No open-source 'institution starter kit': formation templates are paywalled and fragmented",
+   "number": 102,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-open-source-institution-starter-kit-formation-templates-are-paywall/"
+  },
+  {
+   "id": "gap:104",
+   "type": "gap",
+   "label": "Home-educated candidates have no guaranteed route to public examinations",
+   "number": 104,
+   "rank": 4,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/home-educated-candidates-have-no-guaranteed-route-to-public-examinatio/"
+  },
+  {
+   "id": "gap:105",
+   "type": "gap",
+   "label": "Zones without governance: no lawful instrument for place-based regulatory experimentation",
+   "number": 105,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "long",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/zones-without-governance-no-lawful-instrument-for-place-based-regulato/"
+  },
+  {
+   "id": "gap:106",
+   "type": "gap",
+   "label": "Community shares lack statutory definition, liquidity and investor protection",
+   "number": 106,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/community-shares-lack-statutory-definition-liquidity-and-investor-prot/"
+  },
+  {
+   "id": "gap:108",
+   "type": "gap",
+   "label": "No compliance mutual for small community-run online services under the Online Safety Act",
+   "number": 108,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-compliance-mutual-for-small-community-run-online-services-under-the/"
+  },
+  {
+   "id": "gap:109",
+   "type": "gap",
+   "label": "No statutory protection or transparency mechanism for end-to-end encryption",
+   "number": 109,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-statutory-protection-or-transparency-mechanism-for-end-to-end-encry/"
+  },
+  {
+   "id": "gap:110",
+   "type": "gap",
+   "label": "No UK public-sector or civic deployment of sovereign messaging (a UK 'Tchap')",
+   "number": 110,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-uk-public-sector-or-civic-deployment-of-sovereign-messaging-a-uk-tc/"
+  },
+  {
+   "id": "gap:111",
+   "type": "gap",
+   "label": "Smart-data powers with no scheme: personal data stores stuck at pilot scale",
+   "number": 111,
+   "rank": 0,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/smart-data-powers-with-no-scheme-personal-data-stores-stuck-at-pilot-s/"
+  },
+  {
+   "id": "gap:112",
+   "type": "gap",
+   "label": "No community access tier for public compute and open-weight AI",
+   "number": 112,
+   "rank": 1,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-community-access-tier-for-public-compute-and-open-weight-ai/"
+  },
+  {
+   "id": "gap:115",
+   "type": "gap",
+   "label": "No UK public-interest hosting backbone (Framasoft equivalent)",
+   "number": 115,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-uk-public-interest-hosting-backbone-framasoft-equivalent/"
+  },
+  {
+   "id": "gap:116",
+   "type": "gap",
+   "label": "Community mesh communications absent from UK civil resilience doctrine",
+   "number": 116,
+   "rank": 1,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/community-mesh-communications-absent-from-uk-civil-resilience-doctrine/"
+  },
+  {
+   "id": "gap:117",
+   "type": "gap",
+   "label": "No open, privacy-preserving attribute-verification infrastructure independent of the state digital ID",
+   "number": 117,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-open-privacy-preserving-attribute-verification-infrastructure-indep/"
+  },
+  {
+   "id": "gap:118",
+   "type": "gap",
+   "label": "No independent field evaluation of the decentralised stack for real UK communities",
+   "number": 118,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-field-evaluation-of-the-decentralised-stack-for-real-uk/"
+  },
+  {
+   "id": "gap:119",
+   "type": "gap",
+   "label": "No opt-out collective redress route for data protection breaches",
+   "number": 119,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-opt-out-collective-redress-route-for-data-protection-breaches/"
+  },
+  {
+   "id": "gap:120",
+   "type": "gap",
+   "label": "No UK equivalent of noyb: a resourced strategic data rights enforcement organisation",
+   "number": 120,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-uk-equivalent-of-noyb-a-resourced-strategic-data-rights-enforcement/"
+  },
+  {
+   "id": "gap:121",
+   "type": "gap",
+   "label": "No merits accountability when the ICO declines to enforce",
+   "number": 121,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-merits-accountability-when-the-ico-declines-to-enforce/"
+  },
+  {
+   "id": "gap:122",
+   "type": "gap",
+   "label": "Age assurance without mandated privacy-preserving architecture",
+   "number": 122,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/age-assurance-without-mandated-privacy-preserving-architecture/"
+  },
+  {
+   "id": "gap:124",
+   "type": "gap",
+   "label": "No statutory shield for end-to-end encryption",
+   "number": 124,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-statutory-shield-for-end-to-end-encryption/"
+  },
+  {
+   "id": "gap:125",
+   "type": "gap",
+   "label": "A health data opt-out that doesn't opt you out, and no patient-facing access audit",
+   "number": 125,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/a-health-data-opt-out-that-doesnt-opt-you-out-and-no-patient-facing-ac/"
+  },
+  {
+   "id": "gap:126",
+   "type": "gap",
+   "label": "Genetic discrimination prevented only by a voluntary insurance code",
+   "number": 126,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/genetic-discrimination-prevented-only-by-a-voluntary-insurance-code/"
+  },
+  {
+   "id": "gap:127",
+   "type": "gap",
+   "label": "No public funder for PETs deployment or privacy infrastructure maintenance",
+   "number": 127,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-public-funder-for-pets-deployment-or-privacy-infrastructure-mainten/"
+  },
+  {
+   "id": "gap:129",
+   "type": "gap",
+   "label": "No UK data broker register or deletion mechanism",
+   "number": 129,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-uk-data-broker-register-or-deletion-mechanism/"
+  },
+  {
+   "id": "gap:131",
+   "type": "gap",
+   "label": "No real-time observatory of AI-driven labour displacement",
+   "number": 131,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-real-time-observatory-of-ai-driven-labour-displacement/"
+  },
+  {
+   "id": "gap:132",
+   "type": "gap",
+   "label": "No transition instrument for AI-displaced workers: the UK has no TAA equivalent",
+   "number": 132,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-transition-instrument-for-ai-displaced-workers-the-uk-has-no-taa-eq/"
+  },
+  {
+   "id": "gap:133",
+   "type": "gap",
+   "label": "AISI has no statutory powers while the Frontier AI Bill slips indefinitely",
+   "number": 133,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/aisi-has-no-statutory-powers-while-the-frontier-ai-bill-slips-indefini/"
+  },
+  {
+   "id": "gap:134",
+   "type": "gap",
+   "label": "No central AI incident reporting and investigation function",
+   "number": 134,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-central-ai-incident-reporting-and-investigation-function/"
+  },
+  {
+   "id": "gap:135",
+   "type": "gap",
+   "label": "Sovereign compute is rented: no legal guarantee of access to US-controlled infrastructure on UK soil",
+   "number": 135,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/sovereign-compute-is-rented-no-legal-guarantee-of-access-to-us-control/"
+  },
+  {
+   "id": "gap:136",
+   "type": "gap",
+   "label": "No national open-weight model capability as a strategic hedge",
+   "number": 136,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-national-open-weight-model-capability-as-a-strategic-hedge/"
+  },
+  {
+   "id": "gap:137",
+   "type": "gap",
+   "label": "Election law does not cover AI-generated content and no regulator owns political deepfakes",
+   "number": 137,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/election-law-does-not-cover-ai-generated-content-and-no-regulator-owns/"
+  },
+  {
+   "id": "gap:138",
+   "type": "gap",
+   "label": "Public-sector AI deployment is outrunning assurance, transparency and evaluation capacity",
+   "number": 138,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/public-sector-ai-deployment-is-outrunning-assurance-transparency-and-e/"
+  },
+  {
+   "id": "gap:139",
+   "type": "gap",
+   "label": "No fiscal early-warning capability for AI-driven tax-base erosion",
+   "number": 139,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-fiscal-early-warning-capability-for-ai-driven-tax-base-erosion/"
+  },
+  {
+   "id": "gap:140",
+   "type": "gap",
+   "label": "No place-based transition plans for AI-exposed local economies (contact-centre towns)",
+   "number": 140,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-place-based-transition-plans-for-ai-exposed-local-economies-contact/"
+  },
+  {
+   "id": "gap:141",
+   "type": "gap",
+   "label": "Liability for autonomous AI harms is unresolved and no reform vehicle exists",
+   "number": 141,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "long",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/liability-for-autonomous-ai-harms-is-unresolved-and-no-reform-vehicle/"
+  },
+  {
+   "id": "gap:142",
+   "type": "gap",
+   "label": "Entry-level pipeline collapse: no instrument keeps firms training juniors",
+   "number": 142,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/entry-level-pipeline-collapse-no-instrument-keeps-firms-training-junio/"
+  },
+  {
+   "id": "gap:144",
+   "type": "gap",
+   "label": "No at-scale pooled fund for democratic health",
+   "number": 144,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-at-scale-pooled-fund-for-democratic-health/"
+  },
+  {
+   "id": "gap:146",
+   "type": "gap",
+   "label": "No payout floor or distribution transparency for endowed foundations",
+   "number": 146,
+   "rank": 0,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-payout-floor-or-distribution-transparency-for-endowed-foundations/"
+  },
+  {
+   "id": "gap:148",
+   "type": "gap",
+   "label": "Community Wealth Fund capitalised far below its designed scale",
+   "number": 148,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/community-wealth-fund-capitalised-far-below-its-designed-scale/"
+  },
+  {
+   "id": "gap:150",
+   "type": "gap",
+   "label": "No core-funding backstop for evidence infrastructure (What Works Centres)",
+   "number": 150,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-core-funding-backstop-for-evidence-infrastructure-what-works-centre/"
+  },
+  {
+   "id": "gap:152",
+   "type": "gap",
+   "label": "No GiveWell-equivalent evaluator for UK domestic causes",
+   "number": 152,
+   "rank": 0,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-givewell-equivalent-evaluator-for-uk-domestic-causes/"
+  },
+  {
+   "id": "gap:153",
+   "type": "gap",
+   "label": "No bridge between crypto public-goods funding and UK civil society",
+   "number": 153,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-bridge-between-crypto-public-goods-funding-and-uk-civil-society/"
+  },
+  {
+   "id": "gap:154",
+   "type": "gap",
+   "label": "Grantmaking data is voluntary and patchy: no UK Form 990",
+   "number": 154,
+   "rank": 0,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/grantmaking-data-is-voluntary-and-patchy-no-uk-form-990/"
+  },
+  {
+   "id": "gap:157",
+   "type": "gap",
+   "label": "Co-operative law modernisation at risk of the Law Commission implementation graveyard",
+   "number": 157,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/co-operative-law-modernisation-at-risk-of-the-law-commission-implement/"
+  },
+  {
+   "id": "gap:159",
+   "type": "gap",
+   "label": "Two-tier data protection enforcement: the public sector is effectively exempt from fines",
+   "number": 159,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/two-tier-data-protection-enforcement-the-public-sector-is-effectively/"
+  },
+  {
+   "id": "gap:161",
+   "type": "gap",
+   "label": "Parliament passes law it never checks: no working post-legislative or SI scrutiny system",
+   "number": 161,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/parliament-passes-law-it-never-checks-no-working-post-legislative-or-s/"
+  },
+  {
+   "id": "gap:166",
+   "type": "gap",
+   "label": "Think-tank ecosystem: no funding disclosure requirement and no regional policy capacity",
+   "number": 166,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/think-tank-ecosystem-no-funding-disclosure-requirement-and-no-regional/"
+  },
+  {
+   "id": "gap:167",
+   "type": "gap",
+   "label": "No implementation vehicle bridging Casey phase 1 (2026) and the final report (2028)",
+   "number": 167,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-implementation-vehicle-bridging-casey-phase-1-2026-and-the-final-re/"
+  },
+  {
+   "id": "gap:168",
+   "type": "gap",
+   "label": "England has no register of care workers or statutory workforce body",
+   "number": 168,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/england-has-no-register-of-care-workers-or-statutory-workforce-body/"
+  },
+  {
+   "id": "gap:169",
+   "type": "gap",
+   "label": "No funding conduit to pay for the Fair Pay Agreement through ~18,000 independent providers",
+   "number": 169,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-funding-conduit-to-pay-for-the-fair-pay-agreement-through-18-000-in/"
+  },
+  {
+   "id": "gap:170",
+   "type": "gap",
+   "label": "No lawful national vehicle for GP data for research, five years after GPDPR collapsed",
+   "number": 170,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-lawful-national-vehicle-for-gp-data-for-research-five-years-after-g/"
+  },
+  {
+   "id": "gap:171",
+   "type": "gap",
+   "label": "Secure Data Environment network lacks a funding settlement and HDRS lacks statutory footing",
+   "number": 171,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/secure-data-environment-network-lacks-a-funding-settlement-and-hdrs-la/"
+  },
+  {
+   "id": "gap:172",
+   "type": "gap",
+   "label": "No adopted mechanism to enforce the NHS 'prevention shift' in spending",
+   "number": 172,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-adopted-mechanism-to-enforce-the-nhs-prevention-shift-in-spending/"
+  },
+  {
+   "id": "gap:173",
+   "type": "gap",
+   "label": "No successor to the 2006 UDA dental contract, only modifications",
+   "number": 173,
+   "rank": 0,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-successor-to-the-2006-uda-dental-contract-only-modifications/"
+  },
+  {
+   "id": "gap:174",
+   "type": "gap",
+   "label": "No enforceable waiting-time standard for children's mental health services",
+   "number": 174,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-enforceable-waiting-time-standard-for-childrens-mental-health-servi/"
+  },
+  {
+   "id": "gap:175",
+   "type": "gap",
+   "label": "No funded implementation programme for the Mental Health Act 2025",
+   "number": 175,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-funded-implementation-programme-for-the-mental-health-act-2025/"
+  },
+  {
+   "id": "gap:176",
+   "type": "gap",
+   "label": "Liberty Protection Safeguards uncommenced seven years on, amid a reopened legal test",
+   "number": 176,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/liberty-protection-safeguards-uncommenced-seven-years-on-amid-a-reopen/"
+  },
+  {
+   "id": "gap:177",
+   "type": "gap",
+   "label": "No official statistics on unmet need for adult social care",
+   "number": 177,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-official-statistics-on-unmet-need-for-adult-social-care/"
+  },
+  {
+   "id": "gap:178",
+   "type": "gap",
+   "label": "Leveson's diversion package: accepted in December 2025, absent from the Courts and Tribunals Bill",
+   "number": 178,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/levesons-diversion-package-accepted-in-december-2025-absent-from-the-c/"
+  },
+  {
+   "id": "gap:179",
+   "type": "gap",
+   "label": "The PACCAR fix: promised 'when parliamentary time allows', missing from the 2026 King's Speech",
+   "number": 179,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/the-paccar-fix-promised-when-parliamentary-time-allows-missing-from-th/"
+  },
+  {
+   "id": "gap:180",
+   "type": "gap",
+   "label": "No opt-out collective redress regime outside competition law",
+   "number": 180,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-opt-out-collective-redress-regime-outside-competition-law/"
+  },
+  {
+   "id": "gap:181",
+   "type": "gap",
+   "label": "Legal aid deserts: no duty or mechanism to secure provider coverage by area of law",
+   "number": 181,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/legal-aid-deserts-no-duty-or-mechanism-to-secure-provider-coverage-by/"
+  },
+  {
+   "id": "gap:182",
+   "type": "gap",
+   "label": "No inspectorate sees the whole criminal justice pathway, and none inspects the courts at all",
+   "number": 182,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-inspectorate-sees-the-whole-criminal-justice-pathway-and-none-inspe/"
+  },
+  {
+   "id": "gap:183",
+   "type": "gap",
+   "label": "Problem-solving courts stuck at pilot: no statutory footing, central unit or rollout funding",
+   "number": 183,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/problem-solving-courts-stuck-at-pilot-no-statutory-footing-central-uni/"
+  },
+  {
+   "id": "gap:184",
+   "type": "gap",
+   "label": "Miscarriage-of-justice compensation still requires proof of innocence, decided inside the MoJ",
+   "number": 184,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/miscarriage-of-justice-compensation-still-requires-proof-of-innocence/"
+  },
+  {
+   "id": "gap:185",
+   "type": "gap",
+   "label": "A discredited CCRC with an unreformed referral test and no external oversight",
+   "number": 185,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/a-discredited-ccrc-with-an-unreformed-referral-test-and-no-external-ov/"
+  },
+  {
+   "id": "gap:186",
+   "type": "gap",
+   "label": "No national coroner service: 85 locally funded jurisdictions with no consistent standards",
+   "number": 186,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-national-coroner-service-85-locally-funded-jurisdictions-with-no-co/"
+  },
+  {
+   "id": "gap:187",
+   "type": "gap",
+   "label": "IPP: no resentencing mechanism for the 2,400 people still imprisoned on an abolished sentence",
+   "number": 187,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/ipp-no-resentencing-mechanism-for-the-2-400-people-still-imprisoned-on/"
+  },
+  {
+   "id": "gap:188",
+   "type": "gap",
+   "label": "No standing prison-capacity mechanism: crisis managed by ad hoc emergency releases",
+   "number": 188,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-standing-prison-capacity-mechanism-crisis-managed-by-ad-hoc-emergen/"
+  },
+  {
+   "id": "gap:189",
+   "type": "gap",
+   "label": "No shared operational identifier or mandatory data standard across criminal justice agencies",
+   "number": 189,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-shared-operational-identifier-or-mandatory-data-standard-across-cri/"
+  },
+  {
+   "id": "gap:190",
+   "type": "gap",
+   "label": "No assurance-recovery mechanism for the disclaimed 'lost years' of council accounts",
+   "number": 190,
+   "rank": 4,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-assurance-recovery-mechanism-for-the-disclaimed-lost-years-of-counc/"
+  },
+  {
+   "id": "gap:191",
+   "type": "gap",
+   "label": "No independent fiscal watchdog for local government (an 'OBR for councils')",
+   "number": 191,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-fiscal-watchdog-for-local-government-an-obr-for-council/"
+  },
+  {
+   "id": "gap:192",
+   "type": "gap",
+   "label": "No local revenue-raising instruments beyond council tax and business rates",
+   "number": 192,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-local-revenue-raising-instruments-beyond-council-tax-and-business-r/"
+  },
+  {
+   "id": "gap:193",
+   "type": "gap",
+   "label": "No statutory failure regime or standing resolution institution for distressed councils",
+   "number": 193,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-statutory-failure-regime-or-standing-resolution-institution-for-dis/"
+  },
+  {
+   "id": "gap:195",
+   "type": "gap",
+   "label": "No funded national capability programme for council finance professionals",
+   "number": 195,
+   "rank": 4,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-funded-national-capability-programme-for-council-finance-profession/"
+  },
+  {
+   "id": "gap:196",
+   "type": "gap",
+   "label": "No at-scale commercial and procurement capability service for local government",
+   "number": 196,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-at-scale-commercial-and-procurement-capability-service-for-local-go/"
+  },
+  {
+   "id": "gap:197",
+   "type": "gap",
+   "label": "No successor to the Local Digital Fund and no shared digital infrastructure for reorganising councils",
+   "number": 197,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-successor-to-the-local-digital-fund-and-no-shared-digital-infrastru/"
+  },
+  {
+   "id": "gap:198",
+   "type": "gap",
+   "label": "Local Public Accounts Committees: promised exploration, still no place-based spending scrutiny",
+   "number": 198,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/local-public-accounts-committees-promised-exploration-still-no-place-b/"
+  },
+  {
+   "id": "gap:199",
+   "type": "gap",
+   "label": "No instrument for updating the local tax base: council tax still sits on 1991 valuations",
+   "number": 199,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "long",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-instrument-for-updating-the-local-tax-base-council-tax-still-sits-o/"
+  },
+  {
+   "id": "gap:200",
+   "type": "gap",
+   "label": "No independent statutory body for whole-system civil preparedness",
+   "number": 200,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-independent-statutory-body-for-whole-system-civil-preparedness/"
+  },
+  {
+   "id": "gap:201",
+   "type": "gap",
+   "label": "No standing scientific advisory infrastructure between emergencies",
+   "number": 201,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-standing-scientific-advisory-infrastructure-between-emergencies/"
+  },
+  {
+   "id": "gap:202",
+   "type": "gap",
+   "label": "No national civil-protection volunteer reserve",
+   "number": 202,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-national-civil-protection-volunteer-reserve/"
+  },
+  {
+   "id": "gap:203",
+   "type": "gap",
+   "label": "No funded, standing protocol to mobilise civil society in emergencies",
+   "number": 203,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "short",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-funded-standing-protocol-to-mobilise-civil-society-in-emergencies/"
+  },
+  {
+   "id": "gap:204",
+   "type": "gap",
+   "label": "No standing medical-countermeasures stockpile and surge-manufacturing strategy",
+   "number": 204,
+   "rank": 1,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-standing-medical-countermeasures-stockpile-and-surge-manufacturing/"
+  },
+  {
+   "id": "gap:205",
+   "type": "gap",
+   "label": "No accountable mechanism to implement national-exercise lessons",
+   "number": 205,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "coordination",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-accountable-mechanism-to-implement-national-exercise-lessons/"
+  },
+  {
+   "id": "gap:206",
+   "type": "gap",
+   "label": "No national climate-adaptation finance mechanism",
+   "number": 206,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "funding",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-national-climate-adaptation-finance-mechanism/"
+  },
+  {
+   "id": "gap:207",
+   "type": "gap",
+   "label": "No department owns heat resilience in homes",
+   "number": 207,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-department-owns-heat-resilience-in-homes/"
+  },
+  {
+   "id": "gap:208",
+   "type": "gap",
+   "label": "Surface-water flooding has no clear owner and SuDS Schedule 3 is unenacted",
+   "number": 208,
+   "rank": 5,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/surface-water-flooding-has-no-clear-owner-and-suds-schedule-3-is-unena/"
+  },
+  {
+   "id": "gap:209",
+   "type": "gap",
+   "label": "Real-time national pathogen-surveillance network underfunded and unfinished",
+   "number": 209,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/real-time-national-pathogen-surveillance-network-underfunded-and-unfin/"
+  },
+  {
+   "id": "gap:210",
+   "type": "gap",
+   "label": "No executive body coordinating cross-sector CNI resilience",
+   "number": 210,
+   "rank": 2,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-executive-body-coordinating-cross-sector-cni-resilience/"
+  },
+  {
+   "id": "gap:211",
+   "type": "gap",
+   "label": "No statutory footing or multi-year funding for local resilience",
+   "number": 211,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-statutory-footing-or-multi-year-funding-for-local-resilience/"
+  },
+  {
+   "id": "gap:212",
+   "type": "gap",
+   "label": "No tamper-evident public archive infrastructure for evidence-grade records",
+   "number": 212,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-tamper-evident-public-archive-infrastructure-for-evidence-grade-rec/"
+  },
+  {
+   "id": "gap:213",
+   "type": "gap",
+   "label": "No verifiable spending and procurement rails for local government",
+   "number": 213,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-verifiable-spending-and-procurement-rails-for-local-government/"
+  },
+  {
+   "id": "gap:214",
+   "type": "gap",
+   "label": "No civic governance laboratories: verifiable voting and decision-records untested in low-stakes democracy",
+   "number": 214,
+   "rank": 1,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-civic-governance-laboratories-verifiable-voting-and-decision-record/"
+  },
+  {
+   "id": "gap:215",
+   "type": "gap",
+   "label": "No prepared community pathway for service continuity when councils withdraw",
+   "number": 215,
+   "rank": 4,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "coordination",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-prepared-community-pathway-for-service-continuity-when-councils-wit/"
+  },
+  {
+   "id": "gap:216",
+   "type": "gap",
+   "label": "No landing-spot institution for the debanked, de-platformed and digitally excluded",
+   "number": 216,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-landing-spot-institution-for-the-debanked-de-platformed-and-digital/"
+  },
+  {
+   "id": "gap:217",
+   "type": "gap",
+   "label": "Nobody measures exit friction: no audit of UK lock-ins",
+   "number": 217,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/nobody-measures-exit-friction-no-audit-of-uk-lock-ins/"
+  },
+  {
+   "id": "gap:218",
+   "type": "gap",
+   "label": "No civic technological literacy infrastructure for adults",
+   "number": 218,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-civic-technological-literacy-infrastructure-for-adults/"
+  },
+  {
+   "id": "gap:219",
+   "type": "gap",
+   "label": "No decentralised attestation network for critical public facts",
+   "number": 219,
+   "rank": 2,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-decentralised-attestation-network-for-critical-public-facts/"
+  },
+  {
+   "id": "gap:220",
+   "type": "gap",
+   "label": "No flagship full-stack mutual demonstrating services-without-territory",
+   "number": 220,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "mid",
+   "gapType": "institutional",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-flagship-full-stack-mutual-demonstrating-services-without-territory/"
+  },
+  {
+   "id": "gap:221",
+   "type": "gap",
+   "label": "No mutual-defence compact for UK civil society under attack",
+   "number": 221,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "coordination",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-mutual-defence-compact-for-uk-civil-society-under-attack/"
+  },
+  {
+   "id": "gap:222",
+   "type": "gap",
+   "label": "No auditable records infrastructure for guardianship and deprivation-of-liberty decisions",
+   "number": 222,
+   "rank": 0,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "tooling",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-auditable-records-infrastructure-for-guardianship-and-deprivation-o/"
+  },
+  {
+   "id": "gap:223",
+   "type": "gap",
+   "label": "No jurisdictional resilience provision for UK infrastructure operators",
+   "number": 223,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "institutional",
+   "lens": "decentralisation",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-jurisdictional-resilience-provision-for-uk-infrastructure-operators/"
+  },
+  {
+   "id": "gap:224",
+   "type": "gap",
+   "label": "No published test of whether foreign law can reach UK data before critical contracts are signed",
+   "number": 224,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "policy",
+   "lens": "synthetic-state",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-published-test-of-whether-foreign-law-can-reach-uk-data-before-crit/"
+  },
+  {
+   "id": "gap:225",
+   "type": "gap",
+   "label": "No running register of the contracts government hands out without competition",
+   "number": 225,
+   "rank": 2,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "tooling",
+   "lens": "synthetic-state",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-running-register-of-the-contracts-government-hands-out-without-comp/"
+  },
+  {
+   "id": "gap:226",
+   "type": "gap",
+   "label": "No way to see when someone helps write the rules they are later paid under",
+   "number": 226,
+   "rank": 1,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "lens": "synthetic-state",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-way-to-see-when-someone-helps-write-the-rules-they-are-later-paid-u/"
+  },
+  {
+   "id": "gap:227",
+   "type": "gap",
+   "label": "No one checks whether the state could ever leave its biggest software suppliers",
+   "number": 227,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "lens": "synthetic-state",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-one-checks-whether-the-state-could-ever-leave-its-biggest-software/"
+  },
+  {
+   "id": "gap:228",
+   "type": "gap",
+   "label": "Publicly funded training data has no rules on who ends up owning it",
+   "number": 228,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "short",
+   "gapType": "policy",
+   "lens": "synthetic-state",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/publicly-funded-training-data-has-no-rules-on-who-ends-up-owning-it/"
+  },
+  {
+   "id": "gap:229",
+   "type": "gap",
+   "label": "No automatic plurality review for non-state press acquisitions",
+   "number": 229,
+   "rank": 3,
+   "permission": "state-led",
+   "horizon": "mid",
+   "gapType": "policy",
+   "lens": "synthetic-state",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-automatic-plurality-review-for-non-state-press-acquisitions/"
+  },
+  {
+   "id": "gap:230",
+   "type": "gap",
+   "label": "No human-rights due-diligence standard in public technology procurement",
+   "number": 230,
+   "rank": 3,
+   "permission": "build-together",
+   "horizon": "mid",
+   "gapType": "policy",
+   "lens": "synthetic-state",
+   "status": "open",
+   "url": "https://www.gapmap.uk/gaps/no-human-rights-due-diligence-standard-in-public-technology-procuremen/"
+  },
+  {
+   "id": "gap:231",
+   "type": "gap",
+   "label": "No accessible knowledge hub on UK government debt and the cost of servicing it",
+   "number": 231,
+   "rank": 3,
+   "permission": "build-now",
+   "horizon": "short",
+   "gapType": "knowledge",
+   "status": "shipped",
+   "url": "https://www.gapmap.uk/gaps/no-accessible-knowledge-hub-on-uk-government-debt-and-the-cost-of-serv/"
+  }
+ ],
+ "edges": [
+  {
+   "source": "gap:1",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:1",
+   "target": "domain:parallel-institutions",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:2",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:3",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:3",
+   "target": "gap:95",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:4",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:4",
+   "target": "gap:150",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:5",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:6",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:8",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:8",
+   "target": "gap:13",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:9",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:9",
+   "target": "gap:30",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:10",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:11",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:12",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:13",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:13",
+   "target": "domain:portable-sovereignty",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:13",
+   "target": "gap:8",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:13",
+   "target": "gap:127",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:14",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:15",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:16",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:17",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:18",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:18",
+   "target": "gap:127",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:19",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:20",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:21",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:22",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:22",
+   "target": "gap:217",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:22",
+   "target": "gap:227",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:23",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:24",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:25",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:25",
+   "target": "gap:32",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:26",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:26",
+   "target": "gap:34",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:27",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:28",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:29",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:30",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:30",
+   "target": "gap:9",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:31",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:32",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:32",
+   "target": "gap:25",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:33",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:34",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:34",
+   "target": "gap:26",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:35",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:35",
+   "target": "gap:142",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:36",
+   "target": "domain:youth-mobilisation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:37",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:38",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:39",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:40",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:41",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:42",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:44",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:44",
+   "target": "gap:132",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:45",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:46",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:47",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:48",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:49",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:50",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:51",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:52",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:53",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:54",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:56",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:57",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:58",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:59",
+   "target": "domain:growth-stagnation",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:60",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:61",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:62",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:63",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:64",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:65",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:66",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:66",
+   "target": "domain:local-state-capacity",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:66",
+   "target": "gap:191",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:66",
+   "target": "gap:193",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:68",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:69",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:70",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:71",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:72",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:73",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:74",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:76",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:76",
+   "target": "gap:77",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:77",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:77",
+   "target": "domain:privacy",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:77",
+   "target": "gap:76",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:77",
+   "target": "gap:120",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:78",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:79",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:80",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:81",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:81",
+   "target": "domain:privacy",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:82",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:84",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:85",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:85",
+   "target": "domain:civic-society",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:85",
+   "target": "gap:166",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:86",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:87",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:88",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:89",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:90",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:91",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:92",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:93",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:94",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:95",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:95",
+   "target": "gap:3",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:96",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:96",
+   "target": "gap:157",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:97",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:97",
+   "target": "gap:157",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:98",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:99",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:100",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:100",
+   "target": "domain:portable-sovereignty",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:100",
+   "target": "gap:157",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:101",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:101",
+   "target": "domain:portable-sovereignty",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:102",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:104",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:105",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:106",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:108",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:108",
+   "target": "gap:223",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:109",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:109",
+   "target": "gap:124",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:110",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:111",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:111",
+   "target": "domain:privacy",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:112",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:115",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:116",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:117",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:118",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:118",
+   "target": "gap:214",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:119",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:119",
+   "target": "domain:surveillance",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:119",
+   "target": "gap:180",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:120",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:120",
+   "target": "gap:77",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:121",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:121",
+   "target": "gap:159",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:122",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:122",
+   "target": "domain:surveillance",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:124",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:124",
+   "target": "gap:109",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:125",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:125",
+   "target": "gap:170",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:125",
+   "target": "gap:171",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:126",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:127",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:127",
+   "target": "gap:13",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:127",
+   "target": "gap:18",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:129",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:131",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:131",
+   "target": "domain:education-ai",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:131",
+   "target": "gap:132",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:132",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:132",
+   "target": "gap:131",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:132",
+   "target": "gap:44",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:133",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:134",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:135",
+   "target": "domain:local-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:136",
+   "target": "domain:local-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:137",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:138",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:139",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:140",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:141",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:142",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:142",
+   "target": "gap:35",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:144",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:146",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:146",
+   "target": "gap:154",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:148",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:150",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:150",
+   "target": "gap:4",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:152",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:153",
+   "target": "domain:open-source-public-goods",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:154",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:154",
+   "target": "gap:146",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:157",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:157",
+   "target": "gap:96",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:157",
+   "target": "gap:97",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:157",
+   "target": "gap:100",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:159",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:159",
+   "target": "gap:121",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:161",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:166",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:166",
+   "target": "gap:85",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:166",
+   "target": "gap:226",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:167",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:168",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:169",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:170",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:170",
+   "target": "gap:125",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:170",
+   "target": "gap:171",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:171",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:171",
+   "target": "gap:125",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:171",
+   "target": "gap:170",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:172",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:173",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:174",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:175",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:176",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:177",
+   "target": "domain:health-social-care",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:178",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:179",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:180",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:180",
+   "target": "gap:119",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:181",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:182",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:183",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:184",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:185",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:186",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:187",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:188",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:189",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:190",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:191",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:191",
+   "target": "gap:66",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:192",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:192",
+   "target": "domain:growth-stagnation",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:193",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:193",
+   "target": "domain:debt",
+   "type": "also-in"
+  },
+  {
+   "source": "gap:193",
+   "target": "gap:66",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:195",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:196",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:197",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:198",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:199",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:200",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:201",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:202",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:203",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:204",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:205",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:206",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:207",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:208",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:209",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:210",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:211",
+   "target": "domain:national-resilience",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:212",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:213",
+   "target": "domain:local-state-capacity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:214",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:214",
+   "target": "gap:118",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:215",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:216",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:217",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:217",
+   "target": "gap:227",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:217",
+   "target": "gap:22",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:218",
+   "target": "domain:education-ai",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:219",
+   "target": "domain:ai-crisis",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:220",
+   "target": "domain:parallel-institutions",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:221",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:222",
+   "target": "domain:justice-access",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:223",
+   "target": "domain:portable-sovereignty",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:223",
+   "target": "gap:108",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:224",
+   "target": "domain:surveillance",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:224",
+   "target": "gap:227",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:225",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:226",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:226",
+   "target": "gap:166",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:227",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:227",
+   "target": "gap:224",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:227",
+   "target": "gap:217",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:227",
+   "target": "gap:22",
+   "type": "see-also"
+  },
+  {
+   "source": "gap:228",
+   "target": "domain:privacy",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:229",
+   "target": "domain:civic-society",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:230",
+   "target": "domain:corruption-integrity",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:231",
+   "target": "domain:debt",
+   "type": "in-domain"
+  },
+  {
+   "source": "gap:1",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:2",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:3",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:4",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:5",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:6",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:8",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:9",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:10",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:11",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:12",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:96",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:97",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:98",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:99",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:100",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:101",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:102",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:104",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:105",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:106",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:144",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:146",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:148",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:150",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:152",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:154",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:157",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:214",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:215",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:220",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:221",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:229",
+   "target": "outcome:own-your-town",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:25",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:26",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:27",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:28",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:29",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:30",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:31",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:32",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:33",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:34",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:35",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:36",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:37",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:38",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:39",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:40",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:41",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:42",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:44",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:45",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:46",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:47",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:218",
+   "target": "outcome:every-young-person-counted",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:66",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:213",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:84",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:85",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:86",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:87",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:88",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:89",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:90",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:91",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:92",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:93",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:94",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:95",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:161",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:166",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:212",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:225",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:226",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:227",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:230",
+   "target": "outcome:follow-the-pound",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:72",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:73",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:74",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:76",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:77",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:78",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:79",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:80",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:81",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:82",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:119",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:120",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:121",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:122",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:124",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:125",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:126",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:127",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:129",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:159",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:216",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:224",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:228",
+   "target": "outcome:your-data-yours",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:13",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:14",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:15",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:16",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:17",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:18",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:19",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:20",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:21",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:22",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:23",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:24",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:108",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:109",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:110",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:111",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:112",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:115",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:116",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:117",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:118",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:135",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:136",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:153",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:217",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:223",
+   "target": "outcome:sovereign-stack",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:60",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:61",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:62",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:63",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:64",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:65",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:66",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:68",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:69",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:70",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:71",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:231",
+   "target": "outcome:debt-understood",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:200",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:201",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:202",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:203",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:204",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:205",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:206",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:207",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:208",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:209",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:210",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:211",
+   "target": "outcome:ready-for-shocks",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:167",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:168",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:169",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:170",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:171",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:172",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:173",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:174",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:175",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:176",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:177",
+   "target": "outcome:care-close-to-home",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:178",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:179",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:180",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:181",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:182",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:183",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:184",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:185",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:186",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:187",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:188",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:189",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:222",
+   "target": "outcome:justice-reachable",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:48",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:49",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:50",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:51",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:52",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:53",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:54",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:56",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:57",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:58",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:59",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:190",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:191",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:192",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:193",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:195",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:196",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:197",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:198",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:199",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:213",
+   "target": "outcome:places-that-can-act",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:131",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:132",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:133",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:134",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:137",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:138",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:139",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:140",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:141",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:142",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  },
+  {
+   "source": "gap:219",
+   "target": "outcome:ai-prepared",
+   "type": "blocks"
+  }
+ ]
+}

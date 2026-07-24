@@ -33,7 +33,8 @@ export default function OutcomesPage() {
         <a href="https://discoursegraphs.com" rel="noopener noreferrer" target="_blank">
           Discourse Graphs
         </a>
-        . Statuses are live from the claims record.
+        . Statuses are live from the claims record. The whole graph is downloadable as{" "}
+        <a href="/data/graph.json">graph.json</a>.
       </p>
     </div>
   );

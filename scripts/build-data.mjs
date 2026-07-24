@@ -302,6 +302,88 @@ mkdirSync(path.join(here, "../public/data"), { recursive: true });
 writeFileSync(path.join(here, "../public/data/gaps.json"), JSON.stringify(gaps, null, 1));
 writeFileSync(path.join(here, "../public/data/domains.json"), JSON.stringify(domains, null, 1));
 
+// graph export: the whole map as a typed node/edge graph, importable into
+// discourse-graph tooling (Roam/Obsidian) and generic graph tools. Statuses
+// are frozen at generation time; the live record is data/attempts.json.
+const outcomesFile = JSON.parse(readFileSync(path.join(here, "../data/outcomes.json"), "utf8"));
+const attemptsFile = JSON.parse(readFileSync(path.join(here, "../data/attempts.json"), "utf8"));
+const SITE = "https://www.gapmap.uk";
+const now = new Date();
+const lastActivity = (a) => {
+  let last = a.claimed;
+  for (const u of a.updates ?? []) if (u.date > last) last = u.date;
+  if (a.shipped && a.shipped.date > last) last = a.shipped.date;
+  return last;
+};
+const statusOf = (n) => {
+  const list = attemptsFile.attempts.filter((a) => a.gap === n);
+  if (list.some((a) => a.shipped)) return "shipped";
+  const live = list.some(
+    (a) => a.state !== "withdrawn" && (now - new Date(lastActivity(a))) / 86400000 < 60,
+  );
+  return live ? "in build" : "open";
+};
+const nodes = [
+  ...outcomesFile.outcomes.map((o) => ({
+    id: `outcome:${o.id}`,
+    type: "outcome",
+    label: o.title,
+    short: o.short,
+    line: o.line,
+    url: `${SITE}/outcomes/#${o.id}`,
+  })),
+  ...domains
+    .filter((d) => !d.lens)
+    .map((d) => ({
+      id: `domain:${d.slug}`,
+      type: "domain",
+      label: d.name,
+      gapCount: d.gapCount,
+      url: `${SITE}/domains/${d.slug}/`,
+    })),
+  ...gaps.map((g) => ({
+    id: `gap:${g.number}`,
+    type: "gap",
+    label: g.title,
+    number: g.number,
+    rank: g.rank,
+    permission: g.permission,
+    horizon: g.horizon,
+    gapType: g.type,
+    ...(g.lens ? { lens: g.lens } : {}),
+    status: statusOf(g.number),
+    url: `${SITE}/gaps/${g.slug}/`,
+  })),
+];
+const edges = [];
+for (const g of gaps) {
+  edges.push({ source: `gap:${g.number}`, target: `domain:${g.domain}`, type: "in-domain" });
+  for (const d of g.alsoDomains ?? [])
+    edges.push({ source: `gap:${g.number}`, target: `domain:${d}`, type: "also-in" });
+  for (const s of g.seeAlso ?? [])
+    edges.push({ source: `gap:${g.number}`, target: `gap:${s.number}`, type: "see-also" });
+}
+for (const o of outcomesFile.outcomes) {
+  const members = new Set(o.gaps);
+  for (const g of gaps) if (o.domains.includes(g.domain)) members.add(g.number);
+  for (const n of members)
+    edges.push({ source: `gap:${n}`, target: `outcome:${o.id}`, type: "blocks" });
+}
+const graph = {
+  meta: {
+    title: "UK Gap Map graph export",
+    source: SITE,
+    repo: "https://github.com/IP3-Studio/uk-gap-map",
+    generatedAt: now.toISOString().slice(0, 10),
+    note: "Gap statuses are frozen at generation time; the live record is data/attempts.json in the repo. Node types: outcome, domain, gap. Edge types: in-domain, also-in, see-also, blocks (gap blocks outcome). Method kin: Discourse Graphs (discoursegraphs.com) and DSV's Outcomes Graph.",
+    counts: { nodes: nodes.length, edges: edges.length },
+  },
+  nodes,
+  edges,
+};
+writeFileSync(path.join(here, "../public/data/graph.json"), JSON.stringify(graph, null, 1));
+console.log(`graph export: ${nodes.length} nodes, ${edges.length} edges`);
+
 const byType = {};
 const byHorizon = {};
 for (const g of gaps) {

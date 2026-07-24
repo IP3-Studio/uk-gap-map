@@ -174,8 +174,10 @@ export default function AboutPage() {
       <h2>Data</h2>
       <p>
         The whole dataset is downloadable: <a href="/data/gaps.json">gaps.json</a> ·{" "}
-        <a href="/data/domains.json">domains.json</a>. Licence and contribution process to be settled before
-        public launch.
+        <a href="/data/domains.json">domains.json</a> · <a href="/data/graph.json">graph.json</a> (the whole
+        map as a typed node and edge graph: outcomes, domains and gaps with in-domain, see-also and
+        blocks-outcome edges, importable into discourse-graph and generic graph tooling). Licence and
+        contribution process to be settled before public launch.
       </p>
     </div>
   );
